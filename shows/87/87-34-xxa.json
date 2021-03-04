@@ -1,0 +1,80 @@
+{
+    "year": "1987",
+    "month": "34",
+    "day": "xx",
+    "band": [
+        {
+            "Skid Row ??": [
+                {
+                    "name": "Kurt Cobain ",
+                    "duty": "vocals, guitar"
+                },
+                {
+                    "name": "Krist Novoselic ",
+                    "duty": "bass"
+                },
+                {
+                    "name": "Aaron Burckhard ",
+                    "duty": "drums"
+                }
+            ],
+            "type": "group"
+        }
+    ],
+    "crew": [],
+    "buyer": {
+        "names": []
+    },
+    "schedule": [
+        {
+            "event": "Load In",
+            "time": "…:…"
+        },
+        {
+            "event": "Soundcheck",
+            "time": "…:…"
+        },
+        {
+            "event": "Doors",
+            "time": "…:…"
+        },
+        {
+            "event": "Unknown Dale Crover Side Project",
+            "time": "…:…"
+        },
+        {
+            "event": "Skid Row ??",
+            "time": "…:…"
+        }
+    ],
+    "soundcheck": [],
+    "soundcheck_incomplete": false,
+    "set": [],
+    "set_incomplete": false,
+    "transmission": {},
+    "rehearsel_circulating_sources": [],
+    "circulating_sources": [],
+    "uncirculated_sources": [],
+    "notes": [
+        "The band played after a new Dale Crover side project band, according to Slim Moon.",
+        "This show happened two weeks before the first concert at 04/18/1987 CWT, according to Slim Moon.",
+        "It's possible this was the band's first show, according to Slim Moon.\n                                "
+    ],
+    "press": [],
+    "memorabilia": [
+        {
+            "url": "/concerts/images/noimage.jpg",
+            "caption": "No images found for this performance."
+        }
+    ],
+    "images": [],
+    "navigation": {
+        "previous": "87-04-18"
+    },
+    "graph": {
+        "bleach": "1",
+        "nevermind": "1",
+        "inutero": "1",
+        "non": "1"
+    }
+}

@@ -1,0 +1,607 @@
+{
+    "year": "1993",
+    "month": "11",
+    "day": "10",
+    "band": [
+        {
+            "NIRVANA": [
+                {
+                    "name": "Kurt Cobain ",
+                    "duty": "vocals, guitar"
+                },
+                {
+                    "name": "Krist Novoselic ",
+                    "duty": "bass"
+                },
+                {
+                    "name": "Dave Grohl ",
+                    "duty": "drums, backing vocals"
+                },
+                {
+                    "name": "Pat Smear ",
+                    "duty": "guitar"
+                },
+                {
+                    "name": "Lori Goldston ",
+                    "duty": "cello"
+                }
+            ],
+            "type": "group"
+        }
+    ],
+    "crew": [
+        {
+            "name": "Alex MacLeod",
+            "duty": "tour manager"
+        },
+        {
+            "name": "Jeff Mason",
+            "duty": "production manager"
+        },
+        {
+            "name": "Kelly Nase",
+            "duty": "tour accountant"
+        },
+        {
+            "name": "Susanne Sasic",
+            "duty": "lighting designer"
+        },
+        {
+            "name": "Craig Overbay",
+            "duty": "sound engineer"
+        },
+        {
+            "name": "Ian Beveridge",
+            "duty": "monitor engineer"
+        },
+        {
+            "name": "Jim Vincent",
+            "duty": "guitar technician"
+        },
+        {
+            "name": "John Duncan",
+            "duty": "guitar technician"
+        },
+        {
+            "name": "Mike Dalke",
+            "duty": "drum technician"
+        },
+        {
+            "name": "Ed Swink",
+            "duty": "stage manager"
+        },
+        {
+            "name": "Dave Stevens",
+            "duty": "Pro Show sound crew"
+        },
+        {
+            "name": "Allan Bagley",
+            "duty": "Pro Show sound crew"
+        },
+        {
+            "name": "Tom Pfaeffle",
+            "duty": "Pro Show sound crew"
+        },
+        {
+            "name": "Spike Brant",
+            "duty": "LSD lighting crew"
+        },
+        {
+            "name": "Mike Lamb",
+            "duty": "LSD lighting crew"
+        },
+        {
+            "name": "Pat Connolly",
+            "duty": "LSD lighting crew"
+        },
+        {
+            "name": "Gary Vaspol",
+            "duty": "LSD lighting crew"
+        }
+    ],
+    "buyer": {
+        "names": [
+            "Randy Garelick"
+        ],
+        "company": "Metropolitan Entertainment"
+    },
+    "schedule": [
+        {
+            "event": "Load In",
+            "time": "09:00"
+        },
+        {
+            "event": "Soundcheck",
+            "time": "15:30"
+        },
+        {
+            "event": "Doors",
+            "time": "18:00"
+        },
+        {
+            "event": "Half Japanese Showtime",
+            "time": "19:30"
+        },
+        {
+            "event": "Breeders Showtime",
+            "time": "20:15"
+        },
+        {
+            "event": "NIRVANA Showtime",
+            "time": "21:15"
+        }
+    ],
+    "soundcheck": [],
+    "soundcheck_incomplete": false,
+    "set": [
+        {
+            "type": "song",
+            "text": "Radio Friendly Unit Shifter",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "Drain You",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "Breed",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "Serve The Servants",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "About A Girl",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "Heart-Shaped Box",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "Sliver",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "Dumb",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "Come As You Are",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "In Bloom",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "Lithium",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "Pennyroyal Tea",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "School",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "Polly",
+            "notes": [
+                "acoustic"
+            ]
+        },
+        {
+            "type": "song",
+            "text": "Milk It",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "Rape Me",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "Territorial Pissings",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "Smells Like Teen Spirit",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "All Apologies",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "On A Plain",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "Scentless Apprentice",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "Blew",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "jam",
+            "notes": []
+        }
+    ],
+    "set_incomplete": false,
+    "transmission": {},
+    "rehearsel_circulating_sources": [],
+    "circulating_sources": [
+        {
+            "name": "AUD #1",
+            "complete": true,
+            "equipment": "Sonic Studios DSM-13 > Sony TCD-D3",
+            "generation": "DAT(2) > FLAC",
+            "video-generation": null,
+            "audio-generation": null,
+            "length-sound": "97 min / 8.5",
+            "notes": [
+                "No Infos."
+            ]
+        },
+        {
+            "name": "AUD #2",
+            "complete": false,
+            "equipment": "Sony PC-62 > Sony WM-D3",
+            "generation": "ANA(2) > FLAC",
+            "video-generation": null,
+            "audio-generation": null,
+            "length-sound": "92 min / 7.5",
+            "notes": [
+                "This upgrade was circulated in April 2007.",
+                "\"Pennyroyal Tea\" is cut within.",
+                "The end-of-show jam cuts out."
+            ]
+        },
+        {
+            "name": "SBD #1a",
+            "complete": false,
+            "equipment": "Sounboard > Unknown",
+            "generation": "Official CD [From The Muddy Banks Of The Wishkah]",
+            "video-generation": null,
+            "audio-generation": null,
+            "length-sound": "01:55 min / 10",
+            "notes": [
+                "Available on CD, but less complete than SBD #1b.",
+                "Includes only \"Sliver\"."
+            ]
+        },
+        {
+            "name": "SBD #1b",
+            "complete": false,
+            "equipment": "Sounboard > Unknown",
+            "generation": "Official LP [From The Muddy Banks Of The Wishkah]",
+            "video-generation": null,
+            "audio-generation": null,
+            "length-sound": "02:14 min / 10",
+            "notes": [
+                "Only available on vinyl, but more complete than SBD #1a.",
+                "Features \"Sliver\", the band playing/screwing up the introduction to \"Dumb\" and extra stage banter."
+            ]
+        }
+    ],
+    "uncirculated_sources": [
+        {
+            "name": "PRO #1",
+            "note": "One song, possibly \"Milk It\", has been broadcast on French TV."
+        }
+    ],
+    "notes": [
+        "The band stopped playing at the bridge of \"Dumb\" when Kurt played the wrong part, after which he claimed he was distracted by someone in the crowd. The band then picked up where they left off.",
+        "Kurt swapped the second verse and the solo in \"Milk It.\"",
+        "During the end-of-show jam, Kurt briefly played the main riff of \"You Know You're Right.\"",
+        "The show ended with Krist pouring Evian water on Kurt."
+    ],
+    "press": [],
+    "memorabilia": [
+        {
+            "url": "/concerts/images/1993/1993-11-10/1993-11-10_01.jpg",
+            "caption": "Ticket"
+        },
+        {
+            "url": "/concerts/images/1993/1993-11-10/1993-11-10_02.jpg",
+            "caption": "Advert"
+        },
+        {
+            "url": "/concerts/images/1993/1993-11-10/1993-11-10_03.jpg",
+            "caption": "Backstage pass"
+        },
+        {
+            "url": "/concerts/images/1993/1993-11-10/1993-11-10_04.jpg",
+            "caption": "Advert"
+        },
+        {
+            "url": "concerts/images/1993/1993-11-10/1993-11-10_05.jpg",
+            "caption": "Nirvana's tour itinerary"
+        }
+    ],
+    "images": [
+        {
+            "url": "/concerts/images/1993/1993-11-10/1993-11-10_001.jpg",
+            "caption": "Photo by Steve Gullick"
+        },
+        {
+            "url": "/concerts/images/1993/1993-11-10/1993-11-10_002.jpg",
+            "caption": "Photo by Steve Gullick"
+        },
+        {
+            "url": "/concerts/images/1993/1993-11-10/1993-11-10_003.jpg",
+            "caption": "Photo by Steve Gullick"
+        },
+        {
+            "url": "/concerts/images/1993/1993-11-10/1993-11-10_004.jpg",
+            "caption": "Photo by Steve Gullick"
+        },
+        {
+            "url": "/concerts/images/1993/1993-11-10/1993-11-10_005.jpg",
+            "caption": "Photo by Steve Gullick"
+        },
+        {
+            "url": "/concerts/images/1993/1993-11-10/1993-11-10_006.jpg",
+            "caption": "Photo by Steve Gullick"
+        },
+        {
+            "url": "/concerts/images/1993/1993-11-10/1993-11-10_007.jpg",
+            "caption": "Photo by Steve Gullick"
+        },
+        {
+            "url": "/concerts/images/1993/1993-11-10/1993-11-10_008.jpg",
+            "caption": "Photo by Steve Gullick"
+        },
+        {
+            "url": "/concerts/images/1993/1993-11-10/1993-11-10_009.jpg",
+            "caption": "Photo by Steve Gullick"
+        },
+        {
+            "url": "/concerts/images/1993/1993-11-10/1993-11-10_010.jpg",
+            "caption": "Photo by Steve Gullick"
+        },
+        {
+            "url": "/concerts/images/1993/1993-11-10/1993-11-10_011.jpg",
+            "caption": "Photo by John Atashian"
+        },
+        {
+            "url": "/concerts/images/1993/1993-11-10/1993-11-10_012.jpg",
+            "caption": "Photo by John Atashian"
+        },
+        {
+            "url": "/concerts/images/1993/1993-11-10/1993-11-10_013.jpg",
+            "caption": "Photo by John Atashian"
+        },
+        {
+            "url": "/concerts/images/1993/1993-11-10/1993-11-10_014.jpg",
+            "caption": "Photo by John Atashian"
+        },
+        {
+            "url": "/concerts/images/1993/1993-11-10/1993-11-10_015.jpg",
+            "caption": "Photo by John Atashian"
+        },
+        {
+            "url": "/concerts/images/1993/1993-11-10/1993-11-10_016.jpg",
+            "caption": "Photo by John Atashian"
+        },
+        {
+            "url": "/concerts/images/1993/1993-11-10/1993-11-10_017.jpg",
+            "caption": "Photo by John Atashian"
+        },
+        {
+            "url": "/concerts/images/1993/1993-11-10/1993-11-10_018.jpg",
+            "caption": "Photo by John Atashian"
+        },
+        {
+            "url": "/concerts/images/1993/1993-11-10/1993-11-10_019.jpg",
+            "caption": "Photo by John Atashian"
+        },
+        {
+            "url": "/concerts/images/1993/1993-11-10/1993-11-10_020.jpg",
+            "caption": "Unknown photographer"
+        },
+        {
+            "url": "/concerts/images/1993/1993-11-10/1993-11-10_021.jpg",
+            "caption": "Photo by John Atashian"
+        },
+        {
+            "url": "/concerts/images/1993/1993-11-10/1993-11-10_022.jpg",
+            "caption": "Photo by John Atashian"
+        },
+        {
+            "url": "/concerts/images/1993/1993-11-10/1993-11-10_023.jpg",
+            "caption": "Photo by John Atashian"
+        },
+        {
+            "url": "/concerts/images/1993/1993-11-10/1993-11-10_024.jpg",
+            "caption": "Photo by John Atashian"
+        },
+        {
+            "url": "/concerts/images/1993/1993-11-10/1993-11-10_025.jpg",
+            "caption": "Photo by John Atashian"
+        },
+        {
+            "url": "/concerts/images/1993/1993-11-10/1993-11-10_026.jpg",
+            "caption": "Photo by John Atashian"
+        },
+        {
+            "url": "/concerts/images/1993/1993-11-10/1993-11-10_027.jpg",
+            "caption": "Photo by John Atashian"
+        },
+        {
+            "url": "/concerts/images/1993/1993-11-10/1993-11-10_028.jpg",
+            "caption": "Photo by John Atashian"
+        },
+        {
+            "url": "/concerts/images/1993/1993-11-10/1993-11-10_029.jpg",
+            "caption": "Photo by John Atashian"
+        },
+        {
+            "url": "/concerts/images/1993/1993-11-10/1993-11-10_030.jpg",
+            "caption": "Photo by John Atashian"
+        },
+        {
+            "url": "/concerts/images/1993/1993-11-10/1993-11-10_031.jpg",
+            "caption": "Photo by John Atashian"
+        },
+        {
+            "url": "/concerts/images/1993/1993-11-10/1993-11-10_032.jpg",
+            "caption": "Photo by John Atashian"
+        },
+        {
+            "url": "/concerts/images/1993/1993-11-10/1993-11-10_033.jpg",
+            "caption": "Photo by John Atashian"
+        },
+        {
+            "url": "/concerts/images/1993/1993-11-10/1993-11-10_034.jpg",
+            "caption": "Photo by John Atashian"
+        },
+        {
+            "url": "/concerts/images/1993/1993-11-10/1993-11-10_035.jpg",
+            "caption": "Photo by John Atashian"
+        },
+        {
+            "url": "/concerts/images/1993/1993-11-10/1993-11-10_036.jpg",
+            "caption": "Photo by John Atashian"
+        },
+        {
+            "url": "/concerts/images/1993/1993-11-10/1993-11-10_037.jpg",
+            "caption": "Photo by Steve Gullick"
+        },
+        {
+            "url": "/concerts/images/1993/1993-11-10/1993-11-10_038.jpg",
+            "caption": "Photo by Steve Gullick"
+        },
+        {
+            "url": "/concerts/images/1993/1993-11-10/1993-11-10_039.jpg",
+            "caption": "Photo by Steve Gullick"
+        },
+        {
+            "url": "/concerts/images/1993/1993-11-10/1993-11-10_040.jpg",
+            "caption": "Photo by Steve Gullick"
+        },
+        {
+            "url": "/concerts/images/1993/1993-11-10/1993-11-10_041.jpg",
+            "caption": "Photo by Steve Gullick"
+        },
+        {
+            "url": "/concerts/images/1993/1993-11-10/1993-11-10_042.jpg",
+            "caption": "Photo by Steve Gullick"
+        },
+        {
+            "url": "/concerts/images/1993/1993-11-10/1993-11-10_043.jpg",
+            "caption": "Unknown photographer"
+        },
+        {
+            "url": "/concerts/images/1993/1993-11-10/1993-11-10_044.jpg",
+            "caption": "Photo by Paul Robicheau"
+        },
+        {
+            "url": "/concerts/images/1993/1993-11-10/1993-11-10_045.jpg",
+            "caption": "Photo by Steve Gullick"
+        },
+        {
+            "url": "/concerts/images/1993/1993-11-10/1993-11-10_046.jpg",
+            "caption": "Photo by Steve Gullick"
+        },
+        {
+            "url": "/concerts/images/1993/1993-11-10/1993-11-10_047.jpg",
+            "caption": "Photo by Steve Gullick"
+        },
+        {
+            "url": "/concerts/images/1993/1993-11-10/1993-11-10_048.jpg",
+            "caption": "Photo by Steve Gullick"
+        },
+        {
+            "url": "/concerts/images/1993/1993-11-10/1993-11-10_049.jpg",
+            "caption": "Photo by Steve Gullick"
+        },
+        {
+            "url": "/concerts/images/1993/1993-11-10/1993-11-10_050.jpg",
+            "caption": "Photo by Steve Gullick"
+        },
+        {
+            "url": "/concerts/images/1993/1993-11-10/1993-11-10_051.jpg",
+            "caption": "Photo by John Atashian"
+        },
+        {
+            "url": "/concerts/images/1993/1993-11-10/1993-11-10_052.jpg",
+            "caption": "Photo by John Atashian"
+        },
+        {
+            "url": "/concerts/images/1993/1993-11-10/1993-11-10_053.jpg",
+            "caption": "Photo by John Atashian"
+        },
+        {
+            "url": "/concerts/images/1993/1993-11-10/1993-11-10_054.jpg",
+            "caption": "Photo by John Atashian"
+        },
+        {
+            "url": "/concerts/images/1993/1993-11-10/1993-11-10_055.jpg",
+            "caption": "Photo by John Atashian"
+        },
+        {
+            "url": "/concerts/images/1993/1993-11-10/1993-11-10_056.jpg",
+            "caption": "Photo by John Atashian"
+        },
+        {
+            "url": "/concerts/images/1993/1993-11-10/1993-11-10_057.jpg",
+            "caption": "Photo by John Atashian"
+        },
+        {
+            "url": "/concerts/images/1993/1993-11-10/1993-11-10_058.jpg",
+            "caption": "Photo by John Atashian"
+        },
+        {
+            "url": "/concerts/images/1993/1993-11-10/1993-11-10_059.jpg",
+            "caption": "Photo by John Atashian"
+        },
+        {
+            "url": "/concerts/images/1993/1993-11-10/1993-11-10_060.jpg",
+            "caption": "Photo by Steve Gullick"
+        },
+        {
+            "url": "/concerts/images/1993/1993-11-10/1993-11-10_061.jpg",
+            "caption": "Photo by John Atashian"
+        },
+        {
+            "url": "/concerts/images/1993/1993-11-10/1993-11-10_062.jpg",
+            "caption": "Photo by Richard Carpenter"
+        }
+    ],
+    "navigation": {
+        "previous": "93-11-09",
+        "next": "93-11-12"
+    },
+    "graph": {
+        "bleach": "3",
+        "nevermind": "9",
+        "inutero": "9",
+        "non": "1"
+    }
+}

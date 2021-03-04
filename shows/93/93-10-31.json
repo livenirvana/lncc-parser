@@ -1,0 +1,534 @@
+{
+    "year": "1993",
+    "month": "10",
+    "day": "31",
+    "band": [
+        {
+            "NIRVANA": [
+                {
+                    "name": "Kurt Cobain ",
+                    "duty": "vocals, guitar"
+                },
+                {
+                    "name": "Krist Novoselic ",
+                    "duty": "bass"
+                },
+                {
+                    "name": "Dave Grohl ",
+                    "duty": "drums, backing vocals"
+                },
+                {
+                    "name": "Pat Smear ",
+                    "duty": "guitar"
+                },
+                {
+                    "name": "Lori Goldston ",
+                    "duty": "cello"
+                }
+            ],
+            "type": "group"
+        }
+    ],
+    "crew": [
+        {
+            "name": "Alex MacLeod",
+            "duty": "tour manager"
+        },
+        {
+            "name": "Jeff Mason",
+            "duty": "production manager"
+        },
+        {
+            "name": "Kelly Nase",
+            "duty": "tour accountant"
+        },
+        {
+            "name": "Susanne Sasic",
+            "duty": "lighting designer"
+        },
+        {
+            "name": "Craig Overbay",
+            "duty": "sound engineer"
+        },
+        {
+            "name": "Ian Beveridge",
+            "duty": "monitor engineer"
+        },
+        {
+            "name": "Jim Vincent",
+            "duty": "guitar technician"
+        },
+        {
+            "name": "John Duncan",
+            "duty": "guitar technician"
+        },
+        {
+            "name": "Mike Dalke",
+            "duty": "drum technician"
+        },
+        {
+            "name": "Ed Swink",
+            "duty": "stage manager"
+        },
+        {
+            "name": "Dave Stevens",
+            "duty": "Pro Show sound crew"
+        },
+        {
+            "name": "Allan Bagley",
+            "duty": "Pro Show sound crew"
+        },
+        {
+            "name": "Tom Pfaeffle",
+            "duty": "Pro Show sound crew"
+        },
+        {
+            "name": "Spike Brant",
+            "duty": "LSD lighting crew"
+        },
+        {
+            "name": "Mike Lamb",
+            "duty": "LSD lighting crew"
+        },
+        {
+            "name": "Pat Connolly",
+            "duty": "LSD lighting crew"
+        },
+        {
+            "name": "Gary Vaspol",
+            "duty": "LSD lighting crew"
+        }
+    ],
+    "buyer": {
+        "names": [
+            "Michael Belkin"
+        ],
+        "company": "Belkin Productions"
+    },
+    "schedule": [
+        {
+            "event": "Load In",
+            "time": "09:00"
+        },
+        {
+            "event": "Soundcheck",
+            "time": "15:30"
+        },
+        {
+            "event": "Doors",
+            "time": "18:30"
+        },
+        {
+            "event": "Boredoms Showtime",
+            "time": "19:30"
+        },
+        {
+            "event": "Meat Puppets Showtime",
+            "time": "20:15"
+        },
+        {
+            "event": "NIRVANA Showtime",
+            "time": "21:15"
+        }
+    ],
+    "soundcheck": [],
+    "soundcheck_incomplete": false,
+    "set": [
+        {
+            "type": "song",
+            "text": "Radio Friendly Unit Shifter",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "Drain You",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "Breed",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "About A Girl",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "Heart-Shaped Box",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "Sliver",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "Dumb",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "In Bloom",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "Come As You Are",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "Lithium",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "Pennyroyal Tea",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "School",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "Polly",
+            "notes": [
+                "acoustic"
+            ]
+        },
+        {
+            "type": "song",
+            "text": "Milk It",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "Rape Me",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "Territorial Pissings",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "All Apologies",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "Jesus Wants Me For A Sunbeam",
+            "notes": [
+                "acoustic"
+            ]
+        },
+        {
+            "type": "song",
+            "text": "Dive",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "On A Plain",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "Serve The Servants",
+            "notes": []
+        }
+    ],
+    "set_incomplete": false,
+    "transmission": {},
+    "rehearsel_circulating_sources": [],
+    "circulating_sources": [
+        {
+            "name": "AUD #1",
+            "complete": true,
+            "equipment": "Unknown > Unknown",
+            "generation": "ANA(M) > CDR(1) > FLAC",
+            "video-generation": null,
+            "audio-generation": null,
+            "length-sound": "93 min / 8.5",
+            "notes": [
+                "Surfaced in February 2001.",
+                "Unfortunately many copies of this source have burning errors such as clicks between the tracks and skips."
+            ]
+        },
+        {
+            "name": "AUD #2",
+            "complete": true,
+            "equipment": "Built In > Unknown",
+            "generation": "ANA(M) > FLAC",
+            "video-generation": null,
+            "audio-generation": null,
+            "length-sound": "99 min / 6.0",
+            "notes": [
+                "In February 2011 the master tape was circulated.",
+                "\"Come As You Are\" cuts in."
+            ]
+        }
+    ],
+    "uncirculated_sources": [],
+    "notes": [
+        "The show started with an improvisional intro with the band members in costume for Halloween. Kurt was Barney (with a bottle of Jack Daniel's in his hand, which he apparently chugged through the mask's mesh mouth and the tail tied between the leg), Pat was Slash, Dave was a mummy, and Krist was a white-faced \"reverse Ted Danson\" with \"P.C.\" on his forehead for \"Politically Correct.\" (The actor Ted Danson had recently been ridiculed for making a public appearance in black-face with his girlfriend Whoopi Goldberg.) At some point, Kurt changed his costume and came back to the stage with fairy wings and a big black moustache drawn on his face.",
+        "After \"About A Girl\", someone in the audience threw a shoe at Kurt. Kurt took the shoe, urinated in it, and then asked who the shoe belonged to. The shoe’s owner replied that it was thrown onstage by someone else. Kurt apologized and said he would have to buy the person a newpair of shoes."
+    ],
+    "press": [],
+    "memorabilia": [
+        {
+            "url": "/concerts/images/1993/1993-10-31/1993-10-31_01.jpg",
+            "caption": "Advert"
+        },
+        {
+            "url": "/concerts/images/1993/1993-10-31/1993-10-31_02.jpg",
+            "caption": "Ticket"
+        },
+        {
+            "url": "/concerts/images/1993/1993-10-31/1993-10-31_03.jpg",
+            "caption": "Backstage pass"
+        },
+        {
+            "url": "/concerts/images/1993/1993-10-31/1993-10-31_04.jpg",
+            "caption": "Advert"
+        },
+        {
+            "url": "/concerts/images/1993/1993-10-31/1993-10-31_05.jpg",
+            "caption": "Nirvana's tour itinerary"
+        }
+    ],
+    "images": [
+        {
+            "url": "/concerts/images/1993/1993-10-31/1993-10-31_001.jpg",
+            "caption": "Photo by Jay Brown"
+        },
+        {
+            "url": "/concerts/images/1993/1993-10-31/1993-10-31_002.jpg",
+            "caption": "Photo by Jay Brown"
+        },
+        {
+            "url": "/concerts/images/1993/1993-10-31/1993-10-31_003.jpg",
+            "caption": "Photo by Jay Brown"
+        },
+        {
+            "url": "/concerts/images/1993/1993-10-31/1993-10-31_004.jpg",
+            "caption": "Photo by Jay Brown"
+        },
+        {
+            "url": "/concerts/images/1993/1993-10-31/1993-10-31_005.jpg",
+            "caption": "Photo by Jay Brown"
+        },
+        {
+            "url": "/concerts/images/1993/1993-10-31/1993-10-31_006.jpg",
+            "caption": "Photo by Jay Brown"
+        },
+        {
+            "url": "/concerts/images/1993/1993-10-31/1993-10-31_007.jpg",
+            "caption": "Photo by Jay Brown"
+        },
+        {
+            "url": "/concerts/images/1993/1993-10-31/1993-10-31_008.jpg",
+            "caption": "Photo by Jay Brown"
+        },
+        {
+            "url": "/concerts/images/1993/1993-10-31/1993-10-31_009.jpg",
+            "caption": "Photo by Jay Brown"
+        },
+        {
+            "url": "/concerts/images/1993/1993-10-31/1993-10-31_010.jpg",
+            "caption": "Photo by Jay Brown"
+        },
+        {
+            "url": "/concerts/images/1993/1993-10-31/1993-10-31_011.jpg",
+            "caption": "Photo by Jay Brown"
+        },
+        {
+            "url": "/concerts/images/1993/1993-10-31/1993-10-31_012.jpg",
+            "caption": "Photo by Jay Brown"
+        },
+        {
+            "url": "/concerts/images/1993/1993-10-31/1993-10-31_013.jpg",
+            "caption": "Photo by Jay Brown"
+        },
+        {
+            "url": "/concerts/images/1993/1993-10-31/1993-10-31_014.jpg",
+            "caption": "Photo by Jay Brown"
+        },
+        {
+            "url": "/concerts/images/1993/1993-10-31/1993-10-31_015.jpg",
+            "caption": "Photo by Jay Brown"
+        },
+        {
+            "url": "/concerts/images/1993/1993-10-31/1993-10-31_016.jpg",
+            "caption": "Photo by Jay Brown"
+        },
+        {
+            "url": "/concerts/images/1993/1993-10-31/1993-10-31_017.jpg",
+            "caption": "Photo by Jay Brown"
+        },
+        {
+            "url": "/concerts/images/1993/1993-10-31/1993-10-31_018.jpg",
+            "caption": "Photo by Jay Brown"
+        },
+        {
+            "url": "/concerts/images/1993/1993-10-31/1993-10-31_019.jpg",
+            "caption": "Photo by Jay Brown"
+        },
+        {
+            "url": "/concerts/images/1993/1993-10-31/1993-10-31_020.jpg",
+            "caption": "Photo by Jay Brown"
+        },
+        {
+            "url": "/concerts/images/1993/1993-10-31/1993-10-31_021.jpg",
+            "caption": "Photo by Jay Brown"
+        },
+        {
+            "url": "/concerts/images/1993/1993-10-31/1993-10-31_022.jpg",
+            "caption": "Photo by Jay Brown"
+        },
+        {
+            "url": "/concerts/images/1993/1993-10-31/1993-10-31_023.jpg",
+            "caption": "Photo by Jay Brown"
+        },
+        {
+            "url": "/concerts/images/1993/1993-10-31/1993-10-31_024.jpg",
+            "caption": "Photo by Jay Brown"
+        },
+        {
+            "url": "/concerts/images/1993/1993-10-31/1993-10-31_025.jpg",
+            "caption": "Photo by Jay Brown"
+        },
+        {
+            "url": "/concerts/images/1993/1993-10-31/1993-10-31_026.jpg",
+            "caption": "Photo by Jay Brown"
+        },
+        {
+            "url": "/concerts/images/1993/1993-10-31/1993-10-31_027.jpg",
+            "caption": "Photo by Jay Brown"
+        },
+        {
+            "url": "/concerts/images/1993/1993-10-31/1993-10-31_028.jpg",
+            "caption": "Photo by Jay Brown"
+        },
+        {
+            "url": "/concerts/images/1993/1993-10-31/1993-10-31_029.jpg",
+            "caption": "Photo by Jay Brown"
+        },
+        {
+            "url": "/concerts/images/1993/1993-10-31/1993-10-31_030.jpg",
+            "caption": "Photo by Jay Brown"
+        },
+        {
+            "url": "/concerts/images/1993/1993-10-31/1993-10-31_031.jpg",
+            "caption": "Photo by Jay Brown"
+        },
+        {
+            "url": "/concerts/images/1993/1993-10-31/1993-10-31_032.jpg",
+            "caption": "Photo by Jay Brown"
+        },
+        {
+            "url": "/concerts/images/1993/1993-10-31/1993-10-31_033.jpg",
+            "caption": "Photo by Jay Brown"
+        },
+        {
+            "url": "/concerts/images/1993/1993-10-31/1993-10-31_034.jpg",
+            "caption": "Photo by Jay Brown"
+        },
+        {
+            "url": "/concerts/images/1993/1993-10-31/1993-10-31_035.jpg",
+            "caption": "Photo by Jay Brown"
+        },
+        {
+            "url": "/concerts/images/1993/1993-10-31/1993-10-31_036.jpg",
+            "caption": "Photo by Seiji Matsumoto"
+        },
+        {
+            "url": "/concerts/images/1993/1993-10-31/1993-10-31_037.jpg",
+            "caption": "Photo by Seiji Matsumoto"
+        },
+        {
+            "url": "/concerts/images/1993/1993-10-31/1993-10-31_038.jpg",
+            "caption": "Photo by Seiji Matsumoto"
+        },
+        {
+            "url": "/concerts/images/1993/1993-10-31/1993-10-31_039.jpg",
+            "caption": "Unknown photographer"
+        },
+        {
+            "url": "/concerts/images/1993/1993-10-31/1993-10-31_040.jpg",
+            "caption": "Unknown photographer"
+        },
+        {
+            "url": "/concerts/images/1993/1993-10-31/1993-10-31_041.jpg",
+            "caption": "Photo by Seiji Matsumoto"
+        },
+        {
+            "url": "/concerts/images/1993/1993-10-31/1993-10-31_042.jpg",
+            "caption": "Photo by Eric Strouble"
+        },
+        {
+            "url": "/concerts/images/1993/1993-10-31/1993-10-31_043.jpg",
+            "caption": "Unknown photographer"
+        },
+        {
+            "url": "/concerts/images/1993/1993-10-31/1993-10-31_044.jpg",
+            "caption": "Unknown photographer"
+        },
+        {
+            "url": "/concerts/images/1993/1993-10-31/1993-10-31_045.jpg",
+            "caption": "Photo by Jay Brown"
+        },
+        {
+            "url": "/concerts/images/1993/1993-10-31/1993-10-31_046.jpg",
+            "caption": "Photo by Jay Brown"
+        },
+        {
+            "url": "/concerts/images/1993/1993-10-31/1993-10-31_047.jpg",
+            "caption": "Unknown photographer"
+        },
+        {
+            "url": "/concerts/images/1993/1993-10-31/1993-10-31_048.jpg",
+            "caption": "Photo by Scott Shaw"
+        },
+        {
+            "url": "/concerts/images/1993/1993-10-31/1993-10-31_049.jpg",
+            "caption": "Unknown photographer"
+        },
+        {
+            "url": "/concerts/images/1993/1993-10-31/1993-10-31_050.jpg",
+            "caption": "Unknown photographer"
+        },
+        {
+            "url": "/concerts/images/1993/1993-10-31/1993-10-31_051.jpg",
+            "caption": "Photo by Jay Brown"
+        },
+        {
+            "url": "/concerts/images/1993/1993-10-31/1993-10-31_052.jpg",
+            "caption": "Unknown photographer"
+        },
+        {
+            "url": "/concerts/images/1993/1993-10-31/1993-10-31_053.jpg",
+            "caption": "Photo by Seiji Matsumoto"
+        },
+        {
+            "url": "/concerts/images/1993/1993-10-31/1993-10-31_054.jpg",
+            "caption": "Photo by Seiji Matsumoto"
+        }
+    ],
+    "navigation": {
+        "previous": "93-10-30",
+        "next": "93-11-02"
+    },
+    "graph": {
+        "bleach": "2",
+        "nevermind": "8",
+        "inutero": "8",
+        "non": "3"
+    }
+}

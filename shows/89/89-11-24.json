@@ -1,0 +1,127 @@
+{
+    "year": "1989",
+    "month": "11",
+    "day": "24",
+    "venue": "November 24",
+    "city": "1989 - Autonomes Jugendzentrum Konkret",
+    "state": "Hohenems",
+    "country": "AT",
+    "band": [
+        {
+            "NIRVANA": [
+                {
+                    "name": "Kurt Cobain ",
+                    "duty": "vocals, guitar"
+                },
+                {
+                    "name": "Krist Novoselic ",
+                    "duty": "bass"
+                },
+                {
+                    "name": "Chad Channing ",
+                    "duty": "drums"
+                }
+            ],
+            "type": "group"
+        }
+    ],
+    "crew": [
+        {
+            "name": "Edwin Heath",
+            "duty": "tour manager"
+        },
+        {
+            "name": "Craig Montgomery",
+            "duty": "sound engineer"
+        }
+    ],
+    "buyer": {
+        "names": [
+            "Bernhard Amann"
+        ]
+    },
+    "schedule": [
+        {
+            "event": "Load In",
+            "time": "16:00"
+        },
+        {
+            "event": "Soundcheck",
+            "time": "17:00"
+        },
+        {
+            "event": "Doors",
+            "time": "19:00"
+        },
+        {
+            "event": "Act 1 Showtime",
+            "time": "…:…"
+        },
+        {
+            "event": "Act 2 Showtime",
+            "time": "…:…"
+        }
+    ],
+    "soundcheck": [],
+    "soundcheck_incomplete": false,
+    "set": [],
+    "set_incomplete": false,
+    "transmission": {},
+    "rehearsel_circulating_sources": [],
+    "circulating_sources": [],
+    "uncirculated_sources": [],
+    "notes": [
+        "There were, at most, twelve people at the show, according to the show's promoter.",
+        "Krist remembers a bunch of \"inbred villagers\" at this show who shouted things like, \"Come on, bay-beee, play something hea-veee,\" and, \"Play some rock and roll, bay-beee!\""
+    ],
+    "press": [],
+    "memorabilia": [
+        {
+            "url": "/concerts/images/1989/1989-11-24/1989-11-24_01.jpg",
+            "caption": "Advert"
+        },
+        {
+            "url": "/concerts/images/1989/1989-11-24/1989-11-24_02.jpg",
+            "caption": "Advert"
+        },
+        {
+            "url": "/concerts/images/1989/1989-11-24/1989-11-24_03.jpg",
+            "caption": "Nirvana's tour itinerary"
+        },
+        {
+            "url": "/concerts/images/1989/1989-11-24/1989-11-24_04.jpg",
+            "caption": "Nirvana's tour itinerary"
+        },
+        {
+            "url": "/concerts/images/1989/1989-11-24/1989-11-24_05.jpg",
+            "caption": "Nirvana's tour itinerary"
+        },
+        {
+            "url": "/concerts/images/1989/1989-11-24/1989-11-24_06.jpg",
+            "caption": "Advert"
+        },
+        {
+            "url": "/concerts/images/1989/1989-11-24/1989-11-24_07.jpg",
+            "caption": "Advert"
+        },
+        {
+            "url": "/concerts/images/1989/1989-11-24/1989-11-24_08.jpg",
+            "caption": "Advert"
+        },
+        {
+            "url": "/concerts/images/1989/1989-11-24/1989-11-24_09.jpg",
+            "caption": "Advert"
+        }
+    ],
+    "images": [],
+    "navigation": {
+        "previous": "89-11-23",
+        "next": "89-11-25"
+    },
+    "graph": {
+        "bleach": "1",
+        "nevermind": "1",
+        "inutero": "1",
+        "non": "1"
+    }
+}

@@ -1,0 +1,476 @@
+{
+    "year": "1989",
+    "month": "11",
+    "day": "27",
+    "venue": "November 27",
+    "city": "1989 - Piper Club",
+    "state": "Rome",
+    "country": "IT",
+    "band": [
+        {
+            "NIRVANA": [
+                {
+                    "name": "Kurt Cobain ",
+                    "duty": "vocals, guitar"
+                },
+                {
+                    "name": "Krist Novoselic ",
+                    "duty": "bass"
+                },
+                {
+                    "name": "Chad Channing ",
+                    "duty": "drums"
+                }
+            ],
+            "type": "group"
+        }
+    ],
+    "crew": [
+        {
+            "name": "Edwin Heath",
+            "duty": "tour manager"
+        },
+        {
+            "name": "Craig Montgomery",
+            "duty": "sound engineer"
+        }
+    ],
+    "buyer": {
+        "names": [
+            "Stefano Zurlo (local promoter)",
+            "Daniela Giombini (road manager)"
+        ],
+        "company": "Subway Productions"
+    },
+    "schedule": [
+        {
+            "event": "Load In",
+            "time": "16:00"
+        },
+        {
+            "event": "Soundcheck",
+            "time": "17:00"
+        },
+        {
+            "event": "Doors",
+            "time": "21:00"
+        },
+        {
+            "event": "TAD Showtime",
+            "time": "22:00"
+        },
+        {
+            "event": "NIRVANA Showtime",
+            "time": "23:00"
+        }
+    ],
+    "soundcheck": [
+        {
+            "type": "jam",
+            "text": "jam bass jam",
+            "notes": [
+                "bass jam"
+            ]
+        },
+        {
+            "type": "banter",
+            "text": "Cheeeeeck, check, check, check, check, check, check, check",
+            "person": "Cobain"
+        },
+        {
+            "type": "banter",
+            "text": "shiiiiiiiiiiiiiiii",
+            "person": "Cobain"
+        },
+        {
+            "type": "banter",
+            "text": "Ok",
+            "person": "Novoselic"
+        },
+        {
+            "type": "banter",
+            "text": "shiiiiiiiiiiiiiiii",
+            "person": "Cobain"
+        },
+        {
+            "type": "banter",
+            "text": "?? ?? ??",
+            "person": "Novoselic"
+        },
+        {
+            "type": "jam",
+            "text": "Token Eastern Song bass line",
+            "notes": [
+                "bass line"
+            ]
+        },
+        {
+            "type": "song",
+            "text": "Sappy",
+            "notes": []
+        }
+    ],
+    "soundcheck_incomplete": true,
+    "set": [
+        {
+            "type": "jam",
+            "text": "jam bass jam",
+            "notes": [
+                "bass jam"
+            ]
+        },
+        {
+            "type": "banter",
+            "text": "Good evening, we're Caucasian official representatives of ??",
+            "person": "Cobain"
+        },
+        {
+            "type": "jam",
+            "text": "jam screaming intro",
+            "notes": [
+                "screaming intro"
+            ]
+        },
+        {
+            "type": "song",
+            "text": "School",
+            "notes": []
+        },
+        {
+            "type": "jam",
+            "text": "jam bass jam",
+            "notes": [
+                "bass jam"
+            ]
+        },
+        {
+            "type": "song",
+            "text": "Scoff",
+            "notes": []
+        },
+        {
+            "type": "banter",
+            "text": "Donkey show",
+            "person": "Cobain"
+        },
+        {
+            "type": "song",
+            "text": "Love Buzz",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "Floyd The Barber",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "Dive",
+            "notes": []
+        },
+        {
+            "type": "banter",
+            "text": "Too much high end, just put some tone in it",
+            "person": "Novoselic"
+        },
+        {
+            "type": "banter",
+            "text": "Get a move on",
+            "person": "Voice"
+        },
+        {
+            "type": "banter",
+            "text": "Porca Madonna!",
+            "person": "Novoselic"
+        },
+        {
+            "type": "banter",
+            "text": "Bravo!",
+            "person": "Voice"
+        },
+        {
+            "type": "song",
+            "text": "Polly",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "Big Cheese",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "jam",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "About A Girl",
+            "notes": []
+        },
+        {
+            "type": "banter",
+            "text": "Thank you",
+            "person": "Novoselic"
+        },
+        {
+            "type": "song",
+            "text": "Breed",
+            "notes": []
+        },
+        {
+            "type": "banter",
+            "text": "Grazie",
+            "person": "Novoselic"
+        },
+        {
+            "type": "song",
+            "text": "Spank Thru",
+            "notes": [
+                "part of"
+            ]
+        }
+    ],
+    "set_incomplete": false,
+    "transmission": {},
+    "rehearsel_circulating_sources": [],
+    "circulating_sources": [
+        {
+            "name": "AUD #1",
+            "complete": true,
+            "equipment": "Sony ECM-929LT > Sony TC-D5M",
+            "generation": "ANA(1) > FLAC",
+            "video-generation": null,
+            "audio-generation": null,
+            "length-sound": "39 min / 7.5",
+            "notes": [
+                "In April 2005 an ANA(1) upgrade was circulated.",
+                "In February 2007 it was discovered that the supposed Sony PC-62 > Sony WM-D6 source was in fact the same source as the Sony ECM-929LT > Sony TC-D5M recording.",
+                "Does not include the soundcheck."
+            ]
+        },
+        {
+            "name": "AUD #2",
+            "complete": true,
+            "equipment": "Unknown > Unknown",
+            "generation": "ANA(1) > CDR(1) > FLAC",
+            "video-generation": null,
+            "audio-generation": null,
+            "length-sound": "40 min / 7.0",
+            "notes": [
+                "Circulated in December 2014.",
+                "Includes \"Sappy\" from the soundcheck (cuts in, cut), \"Dive\" is cut and \"Breed\" cuts out."
+            ]
+        },
+        {
+            "name": "AUD #3",
+            "complete": true,
+            "equipment": "Unknown > Unknown",
+            "generation": "ANA(x) > FLAC",
+            "video-generation": null,
+            "audio-generation": null,
+            "length-sound": "37 min / ??",
+            "notes": [
+                "Surfaced in November 2018."
+            ]
+        },
+        {
+            "name": "AMT #1",
+            "complete": true,
+            "equipment": "Unknown > Unknown",
+            "generation": "VHS(1) > AUD > VHS(2) > DVDR(1)/FLAC",
+            "video-generation": null,
+            "audio-generation": null,
+            "length-sound": "38 min / 7.0",
+            "notes": [
+                "Surfaced in April 2004.",
+                "Amateur video recording of a projection of a video of this show.",
+                "This is an audience video recording of a projection of a 1st generation copy of the single camera private video of this show owned by the taper.",
+                "Whilst the taper is happy to screen his video in clubs, he has refused to trade it out."
+            ]
+        },
+        {
+            "name": "AMT CLIP #1",
+            "complete": false,
+            "equipment": "Unknown > Unknown",
+            "generation": "VHS(1) > FLV",
+            "video-generation": null,
+            "audio-generation": null,
+            "length-sound": "2 min / 8.0",
+            "notes": [
+                "Same source as AMT #1 but posted on YouTube in May 2009",
+                "Includes only the intro and part of \"School\"."
+            ]
+        }
+    ],
+    "uncirculated_sources": [
+        {
+            "name": "AUD #4",
+            "note": "It is rumored that the show was recorded."
+        }
+    ],
+    "notes": [
+        "After \"Big Cheese,\" Krist and Chad jammed while Kurt went backstage to replace a broken guitar string, according to an attendee.",
+        "During \"Spank Thru,\" Kurt Cobain smashed his Hagström beyond repair, climbed up onto a tall speaker stack, and threatened to jump to his death.",
+        "\n"
+    ],
+    "press": [],
+    "memorabilia": [
+        {
+            "url": "/concerts/images/1989/1989-11-27/1989-11-27_01.jpg",
+            "caption": "Handbill/Flyer, designed by unknown"
+        },
+        {
+            "url": "/concerts/images/1989/1989-11-27/1989-11-27_02.jpg",
+            "caption": "Backstage pass"
+        },
+        {
+            "url": "/concerts/images/1989/1989-11-27/1989-11-27_03.jpg",
+            "caption": "Nirvana's tour itinerary"
+        },
+        {
+            "url": "/concerts/images/1989/1989-11-27/1989-11-27_04.jpg",
+            "caption": "Nirvana's tour itinerary"
+        },
+        {
+            "url": "/concerts/images/1989/1989-11-27/1989-11-27_05.jpg",
+            "caption": "Nirvana's tour itinerary"
+        },
+        {
+            "url": "/concerts/images/1989/1989-11-27/1989-11-27_06.jpg",
+            "caption": "Nirvana's tour itinerary"
+        },
+        {
+            "url": "/concerts/images/1989/1989-11-27/1989-11-27_07.jpg",
+            "caption": "Nirvana's tour itinerary"
+        },
+        {
+            "url": "/concerts/images/1989/1989-11-27/1989-11-27_08.jpg",
+            "caption": "Nirvana's tour itinerary"
+        },
+        {
+            "url": "/concerts/images/1989/1989-11-27/1989-11-27_09.jpg",
+            "caption": "Advert"
+        }
+    ],
+    "images": [
+        {
+            "url": "/concerts/images/1989/1989-11-27/1989-11-27_001.jpg",
+            "caption": "Photo by Fausto Ristori"
+        },
+        {
+            "url": "/concerts/images/1989/1989-11-27/1989-11-27_002.jpg",
+            "caption": "Photo by Paolo B."
+        },
+        {
+            "url": "/concerts/images/1989/1989-11-27/1989-11-27_003.jpg",
+            "caption": "Photo by Fausto Ristori"
+        },
+        {
+            "url": "/concerts/images/1989/1989-11-27/1989-11-27_004.jpg",
+            "caption": "Photo by Fausto Ristori"
+        },
+        {
+            "url": "/concerts/images/1989/1989-11-27/1989-11-27_005.jpg",
+            "caption": "Unknown photographer"
+        },
+        {
+            "url": "/concerts/images/1989/1989-11-27/1989-11-27_006.jpg",
+            "caption": "Unknown photographer"
+        },
+        {
+            "url": "/concerts/images/1989/1989-11-27/1989-11-27_007.jpg",
+            "caption": "Unknown photographer"
+        },
+        {
+            "url": "/concerts/images/1989/1989-11-27/1989-11-27_008.jpg",
+            "caption": "Unknown photographer"
+        },
+        {
+            "url": "/concerts/images/1989/1989-11-27/1989-11-27_009.jpg",
+            "caption": "Unknown photographer"
+        },
+        {
+            "url": "/concerts/images/1989/1989-11-27/1989-11-27_010.jpg",
+            "caption": "Unknown photographer"
+        },
+        {
+            "url": "/concerts/images/1989/1989-11-27/1989-11-27_011.jpg",
+            "caption": "Unknown photographer"
+        },
+        {
+            "url": "/concerts/images/1989/1989-11-27/1989-11-27_012.jpg",
+            "caption": "Unknown photographer"
+        },
+        {
+            "url": "/concerts/images/1989/1989-11-27/1989-11-27_013.jpg",
+            "caption": "Unknown photographer"
+        },
+        {
+            "url": "/concerts/images/1989/1989-11-27/1989-11-27_014.jpg",
+            "caption": "Unknown photographer"
+        },
+        {
+            "url": "/concerts/images/1989/1989-11-27/1989-11-27_015.jpg",
+            "caption": "Photo by Bruce Pavitt"
+        },
+        {
+            "url": "/concerts/images/1989/1989-11-27/1989-11-27_016.jpg",
+            "caption": "Photo by Gia Mar"
+        },
+        {
+            "url": "/concerts/images/1989/1989-11-27/1989-11-27_017.jpg",
+            "caption": "Photo by Bruce Pavitt"
+        },
+        {
+            "url": "/concerts/images/1989/1989-11-27/1989-11-27_018.jpg",
+            "caption": "Photo by Bruce Pavitt"
+        },
+        {
+            "url": "/concerts/images/1989/1989-11-27/1989-11-27_019.jpg",
+            "caption": "Photo by Bruce Pavitt"
+        },
+        {
+            "url": "/concerts/images/1989/1989-11-27/1989-11-27_020.jpg",
+            "caption": "Photo by Bruce Pavitt"
+        },
+        {
+            "url": "/concerts/images/1989/1989-11-27/1989-11-27_021.jpg",
+            "caption": "Photo by Fausto Ristori"
+        },
+        {
+            "url": "/concerts/images/1989/1989-11-27/1989-11-27_022.jpg",
+            "caption": "Photo by Fausto Ristori"
+        },
+        {
+            "url": "/concerts/images/1989/1989-11-27/1989-11-27_023.jpg",
+            "caption": "Photo by Fausto Ristori"
+        },
+        {
+            "url": "/concerts/images/1989/1989-11-27/1989-11-27_024.jpg",
+            "caption": "Photo by Roberto Siviglia"
+        },
+        {
+            "url": "/concerts/images/1989/1989-11-27/1989-11-27_025.jpg",
+            "caption": "Photo by Paolo B.,"
+        },
+        {
+            "url": "/concerts/images/1989/1989-11-27/1989-11-27_026.jpg",
+            "caption": "Photo by Paolo B."
+        },
+        {
+            "url": "/concerts/images/1989/1989-11-27/1989-11-27_027.jpg",
+            "caption": "Unknown photographer"
+        }
+    ],
+    "navigation": {
+        "previous": "89-11-26b",
+        "next": "89-11-29"
+    },
+    "graph": {
+        "bleach": "6",
+        "nevermind": "2",
+        "inutero": "0",
+        "non": "3"
+    }
+}

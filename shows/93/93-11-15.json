@@ -1,0 +1,449 @@
+{
+    "year": "1993",
+    "month": "11",
+    "day": "15",
+    "band": [
+        {
+            "NIRVANA": [
+                {
+                    "name": "Kurt Cobain ",
+                    "duty": "vocals, guitar, drums"
+                },
+                {
+                    "name": "Krist Novoselic ",
+                    "duty": "bass, drums"
+                },
+                {
+                    "name": "Dave Grohl ",
+                    "duty": "drums, backing vocals, bass"
+                },
+                {
+                    "name": "Pat Smear ",
+                    "duty": "guitar"
+                },
+                {
+                    "name": "Lori Goldston ",
+                    "duty": "cello"
+                }
+            ],
+            "type": "group"
+        },
+        {
+            "name": "Everett True ",
+            "duty": "vocals",
+            "type": "person"
+        },
+        {
+            "name": "Jad Fair ",
+            "duty": "vocals",
+            "type": "person"
+        },
+        {
+            "name": "Mark Jickling ",
+            "duty": "guitar",
+            "type": "person"
+        },
+        {
+            "name": "Gilles-Vincent Rieder ",
+            "duty": "drums",
+            "type": "person"
+        }
+    ],
+    "crew": [
+        {
+            "name": "Alex MacLeod",
+            "duty": "tour manager"
+        },
+        {
+            "name": "Jeff Mason",
+            "duty": "production manager"
+        },
+        {
+            "name": "Kelly Nase",
+            "duty": "tour accountant"
+        },
+        {
+            "name": "Susanne Sasic",
+            "duty": "lighting designer"
+        },
+        {
+            "name": "Craig Overbay",
+            "duty": "sound engineer"
+        },
+        {
+            "name": "Ian Beveridge",
+            "duty": "monitor engineer"
+        },
+        {
+            "name": "Jim Vincent",
+            "duty": "guitar technician"
+        },
+        {
+            "name": "John Duncan",
+            "duty": "guitar technician"
+        },
+        {
+            "name": "Earnie Bailey",
+            "duty": "guitar technician"
+        },
+        {
+            "name": "Mike Dalke",
+            "duty": "drum technician"
+        },
+        {
+            "name": "Ed Swink",
+            "duty": "stage manager"
+        },
+        {
+            "name": "Dave Stevens",
+            "duty": "Pro Show sound crew"
+        },
+        {
+            "name": "Allan Bagley",
+            "duty": "Pro Show sound crew"
+        },
+        {
+            "name": "Tom Pfaeffle",
+            "duty": "Pro Show sound crew"
+        },
+        {
+            "name": "Spike Brant",
+            "duty": "LSD lighting crew"
+        },
+        {
+            "name": "Mike Lamb",
+            "duty": "LSD lighting crew"
+        },
+        {
+            "name": "Pat Connolly",
+            "duty": "LSD lighting crew"
+        },
+        {
+            "name": "Gary Vaspol",
+            "duty": "LSD lighting crew"
+        }
+    ],
+    "buyer": {
+        "names": [
+            "Randy Garelick"
+        ],
+        "company": "Metropolitan"
+    },
+    "schedule": [
+        {
+            "event": "Load In",
+            "time": "09:00"
+        },
+        {
+            "event": "Soundcheck",
+            "time": "15:30"
+        },
+        {
+            "event": "Doors",
+            "time": "18:30"
+        },
+        {
+            "event": "Half Japanese Showtime",
+            "time": "19:30"
+        },
+        {
+            "event": "Breeders Showtime",
+            "time": "20:15"
+        },
+        {
+            "event": "NIRVANA Showtime",
+            "time": "21:15"
+        }
+    ],
+    "soundcheck": [],
+    "soundcheck_incomplete": false,
+    "set": [
+        {
+            "type": "song",
+            "text": "Radio Friendly Unit Shifter",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "Drain You",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "Breed",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "Serve The Servants",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "About A Girl",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "Heart-Shaped Box",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "Sliver",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "Dumb",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "In Bloom",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "Come As You Are",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "Lithium",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "Pennyroyal Tea",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "School",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "Polly",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "Milk It",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "Rape Me",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "Territorial Pissings",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "Smells Like Teen Spirit",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "All Apologies",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "Jesus Wants Me For A Sunbeam",
+            "notes": [
+                "acoustic"
+            ]
+        },
+        {
+            "type": "song",
+            "text": "On A Plain",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "Living In Sin",
+            "notes": [
+                "jam"
+            ]
+        },
+        {
+            "type": "song",
+            "text": "Scentless Apprentice",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "Blew",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "I Wanna Be Your Dog",
+            "notes": [
+                "jam",
+                "Cobain on Drums, Novoselic and Rieder on drums, Grohl on Bass, Jickling on guitar, Fair and True on vocals"
+            ]
+        }
+    ],
+    "set_incomplete": false,
+    "transmission": {},
+    "rehearsel_circulating_sources": [],
+    "circulating_sources": [
+        {
+            "name": "AUD #1a",
+            "complete": true,
+            "equipment": "Core Sound Binaural > Sony TCD-D7",
+            "generation": "DAT(1) > FLAC",
+            "video-generation": null,
+            "audio-generation": null,
+            "length-sound": "96:22 min / 8.5",
+            "notes": [
+                "In June 2007 this upgrade was circuladed.",
+                "Higher quality and lower generation, but has more severe digital errors during \"Lithium\", \"Territorial Pissings\", and \"Smells Like Teen Spirit\" than on AUD #1b.",
+                "The intro to \"Radio Friendly Unit Shifter\" cuts in, \"I Wanna Be Your Dog\" cuts out and there is a drop out in \"About A Girl\"."
+            ]
+        },
+        {
+            "name": "AUD #1b",
+            "complete": true,
+            "equipment": "Core Sound Binaural > Sony TCD-D7",
+            "generation": "DAT(x) > ANA(2) > FLAC",
+            "video-generation": null,
+            "audio-generation": null,
+            "length-sound": "92:14 min / 7.5",
+            "notes": [
+                "Originally circulated in July 2004. An upgrade transfer was circulated November 2020.",
+                "Lower quality and higher generation, but has less severe digital errors during \"Lithium\", \"Territorial Pissings\", and \"Smells Like Teen Spirit\" than on AUD #1a.",
+                "The intro to \"Radio Friendly Unit Shifter\" cuts in, \"I Wanna Be Your Dog\" cuts out and there is a drop out in \"About A Girl\"."
+            ]
+        }
+    ],
+    "uncirculated_sources": [
+        {
+            "name": "AMT #1",
+            "note": "It is rumored that the show was recorded."
+        }
+    ],
+    "notes": [
+        "Dave jammed on the intro to the Gene Simmons song \"Living In Sin.\"",
+        "Half Japanese and Everett True joined the band onstage for a noisy jam on \"I Wanna Be Your Dog.\" Jad Fair did the vocals through a distorted megaphone, Gilles-Vincent Rieder and Krist pounded on a floor tom, Dave wandered around with a bass that may or may not have been plugged in, Mark Jickling played Pat's guitar, and Kurt played the drums.",
+        "At the end of the show, Pat handed a guitar to Jad Fair's stepson Simon and coaxed him into smashing it. Simon also played guitar during the noisy jam."
+    ],
+    "press": [],
+    "memorabilia": [
+        {
+            "url": "/concerts/images/1993/1993-11-15/1993-11-15_01.jpg",
+            "caption": "Ticket"
+        }
+    ],
+    "images": [
+        {
+            "url": "/concerts/images/1993/1993-11-15/1993-11-15_001.jpg",
+            "caption": "Photo by Ebet Roberts"
+        },
+        {
+            "url": "/concerts/images/1993/1993-11-15/1993-11-15_002.jpg",
+            "caption": "Unknown photographer"
+        },
+        {
+            "url": "/concerts/images/1993/1993-11-15/1993-11-15_003.jpg",
+            "caption": "Unknown photographer"
+        },
+        {
+            "url": "/concerts/images/1993/1993-11-15/1993-11-15_004.jpg",
+            "caption": "Photo by Ebet Roberts"
+        },
+        {
+            "url": "/concerts/images/1993/1993-11-15/1993-11-15_005.jpg",
+            "caption": "Photo by Ebet Roberts"
+        },
+        {
+            "url": "/concerts/images/1993/1993-11-15/1993-11-15_006.jpg",
+            "caption": "Photo by Ebet Roberts"
+        },
+        {
+            "url": "/concerts/images/1993/1993-11-15/1993-11-15_007.jpg",
+            "caption": "Photo by Ebet Roberts"
+        },
+        {
+            "url": "/concerts/images/1993/1993-11-15/1993-11-15_008.jpg",
+            "caption": "Unknown photographer"
+        },
+        {
+            "url": "/concerts/images/1993/1993-11-15/1993-11-15_009.jpg",
+            "caption": "Photo by Grant Davis"
+        },
+        {
+            "url": "/concerts/images/1993/1993-11-15/1993-11-15_010.jpg",
+            "caption": "Photo by Ebet Roberts"
+        },
+        {
+            "url": "/concerts/images/1993/1993-11-15/1993-11-15_011.jpg",
+            "caption": "Photo by Ebet Roberts"
+        },
+        {
+            "url": "/concerts/images/1993/1993-11-15/1993-11-15_012.jpg",
+            "caption": "Photo by Ebet Roberts"
+        },
+        {
+            "url": "/concerts/images/1993/1993-11-15/1993-11-15_013.jpg",
+            "caption": "Photo by Ebet Roberts"
+        },
+        {
+            "url": "/concerts/images/1993/1993-11-15/1993-11-15_014.jpg",
+            "caption": "Photo by Ebet Roberts"
+        },
+        {
+            "url": "/concerts/images/1993/1993-11-15/1993-11-15_015.jpg",
+            "caption": "Photo by Ebet Roberts"
+        },
+        {
+            "url": "/concerts/images/1993/1993-11-15/1993-11-15_016.jpg",
+            "caption": "Unknown photographer"
+        },
+        {
+            "url": "/concerts/images/1993/1993-11-15/1993-11-15_017.jpg",
+            "caption": "Unknown photographer"
+        },
+        {
+            "url": "/concerts/images/1993/1993-11-15/1993-11-15_018.jpg",
+            "caption": "Unknown photographer"
+        },
+        {
+            "url": "/concerts/images/1993/1993-11-15/1993-11-15_019.jpg",
+            "caption": "Unknown photographer"
+        },
+        {
+            "url": "/concerts/images/1993/1993-11-15/1993-11-15_020.jpg",
+            "caption": "Unknown photographer"
+        },
+        {
+            "url": "/concerts/images/1993/1993-11-15/1993-11-15_021.jpg",
+            "caption": "Unknown photographer"
+        },
+        {
+            "url": "/concerts/images/1993/1993-11-15/1993-11-15_022.jpg",
+            "caption": "Photo by Ebet Roberts"
+        },
+        {
+            "url": "/concerts/images/1993/1993-11-15/1993-11-15_023.jpg",
+            "caption": "Unknown photographer"
+        }
+    ],
+    "navigation": {
+        "previous": "93-11-14",
+        "next": "93-11-18"
+    },
+    "graph": {
+        "bleach": "3",
+        "nevermind": "9",
+        "inutero": "9",
+        "non": "2"
+    }
+}

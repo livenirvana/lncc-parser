@@ -1,0 +1,493 @@
+{
+    "year": "1994",
+    "month": "02",
+    "day": "19",
+    "venue": "February 19",
+    "city": "1994 - Patinoires du Littoral",
+    "state": "Neuchâtel",
+    "country": "CH",
+    "band": [
+        {
+            "NIRVANA": [
+                {
+                    "name": "Kurt Cobain ",
+                    "duty": "vocals, guitar"
+                },
+                {
+                    "name": "Krist Novoselic ",
+                    "duty": "bass"
+                },
+                {
+                    "name": "Dave Grohl ",
+                    "duty": "drums, backing vocals"
+                },
+                {
+                    "name": "Pat Smear ",
+                    "duty": "guitar"
+                },
+                {
+                    "name": "Melora Creager ",
+                    "duty": "cello"
+                }
+            ],
+            "type": "group"
+        }
+    ],
+    "crew": [
+        {
+            "name": "Alex MacLeod",
+            "duty": "tour manager"
+        },
+        {
+            "name": "Jeff Mason",
+            "duty": "production manager"
+        },
+        {
+            "name": "Kelly Nase",
+            "duty": "tour accountant"
+        },
+        {
+            "name": "Susanne Sasic",
+            "duty": "lighting designer"
+        },
+        {
+            "name": "Craig Overbay",
+            "duty": "sound engineer"
+        },
+        {
+            "name": "Ian Beveridge",
+            "duty": "monitor engineer"
+        },
+        {
+            "name": "Jim Vincent",
+            "duty": "guitar technician"
+        },
+        {
+            "name": "John Duncan",
+            "duty": "guitar technician"
+        },
+        {
+            "name": "Garry Mackenzie",
+            "duty": "drum technician"
+        },
+        {
+            "name": "Ed Swink",
+            "duty": "stage manager"
+        },
+        {
+            "name": "Pete Currier",
+            "duty": "rigger"
+        },
+        {
+            "name": "Appy Thörig",
+            "duty": "mojo barrier"
+        },
+        {
+            "name": "Allan Bagley",
+            "duty": "Pro Show sound crew"
+        },
+        {
+            "name": "Niko Vonk",
+            "duty": "Pro Show sound crew"
+        },
+        {
+            "name": "John Evans",
+            "duty": "SSE sound crew"
+        },
+        {
+            "name": "Mike Lamb",
+            "duty": "LSD lighting crew"
+        },
+        {
+            "name": "Pat Connolly",
+            "duty": "LSD lighting crew"
+        },
+        {
+            "name": "Gary Vaspol",
+            "duty": "LSD lighting crew"
+        }
+    ],
+    "buyer": {
+        "names": [
+            "Henry Sprenger"
+        ],
+        "company": "Free & Virgin"
+    },
+    "schedule": [
+        {
+            "event": "Load In",
+            "time": "09:00"
+        },
+        {
+            "event": "Soundcheck",
+            "time": "…:…"
+        },
+        {
+            "event": "Doors",
+            "time": "18:30"
+        },
+        {
+            "event": "Les Thugs Showtime",
+            "time": "…:…"
+        },
+        {
+            "event": "NIRVANA Showtime",
+            "time": "…:…"
+        }
+    ],
+    "soundcheck": [],
+    "soundcheck_incomplete": false,
+    "set": [
+        {
+            "type": "song",
+            "text": "Radio Friendly Unit Shifter",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "Drain You",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "Breed",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "Serve The Servants",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "Come As You Are",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "Smells Like Teen Spirit",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "Sliver",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "Dumb",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "In Bloom",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "About A Girl",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "Lithium",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "Pennyroyal Tea",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "School",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "Polly",
+            "notes": [
+                "acoustic"
+            ]
+        },
+        {
+            "type": "song",
+            "text": "Very Ape",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "Frances Farmer Will Have Her Revenge On Seattle",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "Rape Me",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "Jesus Wants Me For A Sunbeam",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "The Man Who Sold The World",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "All Apologies",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "Heart-Shaped Box",
+            "notes": []
+        }
+    ],
+    "set_incomplete": true,
+    "transmission": {},
+    "rehearsel_circulating_sources": [],
+    "circulating_sources": [],
+    "uncirculated_sources": [],
+    "notes": [
+        "There was little talking, except for Krist telling people to stop throwing shoes and Kurt telling the crowd not to clap during \"Polly\" because they weren't good musicians.",
+        "Kurt was also prompted by audience members throwing rolls of toilet paper on stage to make a comment about this being improper because he thought Neuchâtel was such a clean city."
+    ],
+    "press": [],
+    "memorabilia": [
+        {
+            "url": "/concerts/images/1994/1994-02-19/1994-02-19_01.jpg",
+            "caption": "Advert"
+        },
+        {
+            "url": "/concerts/images/1994/1994-02-19/1994-02-19_02.jpg",
+            "caption": "Backstage pass"
+        },
+        {
+            "url": "/concerts/images/1994/1994-02-19/1994-02-19_03.jpg",
+            "caption": "Backstage pass"
+        },
+        {
+            "url": "/concerts/images/1994/1994-02-19/1994-02-19_04.jpg",
+            "caption": "Backstage pass"
+        },
+        {
+            "url": "/concerts/images/1994/1994-02-19/1994-02-19_05.jpg",
+            "caption": "Nirvana's tour itinerary"
+        },
+        {
+            "url": "/concerts/images/1994/1994-02-19/1994-02-19_06.jpg",
+            "caption": "Advert"
+        },
+        {
+            "url": "/concerts/images/1994/1994-02-19/1994-02-19_07.jpg",
+            "caption": "Advert"
+        },
+        {
+            "url": "/concerts/images/1994/1994-02-19/1994-02-19_08.jpg",
+            "caption": "Advert"
+        },
+        {
+            "url": "/concerts/images/1994/1994-02-19/1994-02-19_09.jpg",
+            "caption": "Advert"
+        },
+        {
+            "url": "/concerts/images/1994/1994-02-19/1994-02-19_10.jpg",
+            "caption": "Advert"
+        },
+        {
+            "url": "/concerts/images/1994/1994-02-19/1994-02-19_11.jpg",
+            "caption": "Ticket"
+        }
+    ],
+    "images": [
+        {
+            "url": "/concerts/images/1994/1994-02-19/1994-02-19_001.jpg",
+            "caption": "Unknown photographer"
+        },
+        {
+            "url": "/concerts/images/1994/1994-02-19/1994-02-19_002.jpg",
+            "caption": "Photo by Joseph Carlucci"
+        },
+        {
+            "url": "/concerts/images/1994/1994-02-19/1994-02-19_003.jpg",
+            "caption": "Photo by Joseph Carlucci"
+        },
+        {
+            "url": "/concerts/images/1994/1994-02-19/1994-02-19_004.jpg",
+            "caption": "Photo by Joseph Carlucci"
+        },
+        {
+            "url": "/concerts/images/1994/1994-02-19/1994-02-19_005.jpg",
+            "caption": "Photo by Olivier Gresset"
+        },
+        {
+            "url": "/concerts/images/1994/1994-02-19/1994-02-19_006.jpg",
+            "caption": "Photo by Stephane Gerber"
+        },
+        {
+            "url": "/concerts/images/1994/1994-02-19/1994-02-19_007.jpg",
+            "caption": "Photo by Stephane Gerber"
+        },
+        {
+            "url": "/concerts/images/1994/1994-02-19/1994-02-19_008.jpg",
+            "caption": "Photo by Stephane Gerber"
+        },
+        {
+            "url": "/concerts/images/1994/1994-02-19/1994-02-19_009.jpg",
+            "caption": "Photo by Stephane Gerber"
+        },
+        {
+            "url": "/concerts/images/1994/1994-02-19/1994-02-19_010.jpg",
+            "caption": "Photo by Stephane Gerber"
+        },
+        {
+            "url": "/concerts/images/1994/1994-02-19/1994-02-19_011.jpg",
+            "caption": "Photo by Stephane Gerber"
+        },
+        {
+            "url": "/concerts/images/1994/1994-02-19/1994-02-19_012.jpg",
+            "caption": "Photo by Stephane Gerber"
+        },
+        {
+            "url": "/concerts/images/1994/1994-02-19/1994-02-19_013.jpg",
+            "caption": "Photo by Stephane Gerber"
+        },
+        {
+            "url": "/concerts/images/1994/1994-02-19/1994-02-19_014.jpg",
+            "caption": "Photo by Stephane Gerber"
+        },
+        {
+            "url": "/concerts/images/1994/1994-02-19/1994-02-19_015.jpg",
+            "caption": "Photo by Stephane Gerber"
+        },
+        {
+            "url": "/concerts/images/1994/1994-02-19/1994-02-19_016.jpg",
+            "caption": "Photo by Olivier Gresset"
+        },
+        {
+            "url": "/concerts/images/1994/1994-02-19/1994-02-19_017.jpg",
+            "caption": "Photo by Robin François"
+        },
+        {
+            "url": "/concerts/images/1994/1994-02-19/1994-02-19_018.jpg",
+            "caption": "Photo by Stephane Gerber"
+        },
+        {
+            "url": "/concerts/images/1994/1994-02-19/1994-02-19_019.jpg",
+            "caption": "Photo by Joseph Carlucci"
+        },
+        {
+            "url": "/concerts/images/1994/1994-02-19/1994-02-19_020.jpg",
+            "caption": "Photo by Joseph Carlucci"
+        },
+        {
+            "url": "/concerts/images/1994/1994-02-19/1994-02-19_021.jpg",
+            "caption": "Photo by Joseph Carlucci"
+        },
+        {
+            "url": "/concerts/images/1994/1994-02-19/1994-02-19_022.jpg",
+            "caption": "Photo by Joseph Carlucci"
+        },
+        {
+            "url": "/concerts/images/1994/1994-02-19/1994-02-19_023.jpg",
+            "caption": "Unknown photographer"
+        },
+        {
+            "url": "/concerts/images/1994/1994-02-19/1994-02-19_024.jpg",
+            "caption": "Unknown photographer"
+        },
+        {
+            "url": "/concerts/images/1994/1994-02-19/1994-02-19_025.jpg",
+            "caption": "Photo by Dominic Büttner"
+        },
+        {
+            "url": "/concerts/images/1994/1994-02-19/1994-02-19_026.jpg",
+            "caption": "Photo by Lionel Flusin"
+        },
+        {
+            "url": "/concerts/images/1994/1994-02-19/1994-02-19_027.jpg",
+            "caption": "Photo by Joseph Carlucci"
+        },
+        {
+            "url": "/concerts/images/1994/1994-02-19/1994-02-19_028.jpg",
+            "caption": "Photo by Robin François"
+        },
+        {
+            "url": "/concerts/images/1994/1994-02-19/1994-02-19_029.jpg",
+            "caption": "Photo by Robin François"
+        },
+        {
+            "url": "/concerts/images/1994/1994-02-19/1994-02-19_030.jpg",
+            "caption": "Photo by Robin François"
+        },
+        {
+            "url": "/concerts/images/1994/1994-02-19/1994-02-19_031.jpg",
+            "caption": "Photo by Robin François"
+        },
+        {
+            "url": "/concerts/images/1994/1994-02-19/1994-02-19_032.jpg",
+            "caption": "Photo by Joseph Carlucci"
+        },
+        {
+            "url": "/concerts/images/1994/1994-02-19/1994-02-19_033.jpg",
+            "caption": "Photo by Joseph Carlucci"
+        },
+        {
+            "url": "/concerts/images/1994/1994-02-19/1994-02-19_034.jpg",
+            "caption": "Photo by Joseph Carlucci"
+        },
+        {
+            "url": "/concerts/images/1994/1994-02-19/1994-02-19_035.jpg",
+            "caption": "Photo by Joseph Carlucci"
+        },
+        {
+            "url": "/concerts/images/1994/1994-02-19/1994-02-19_036.jpg",
+            "caption": "Photo by Lionel Flusin"
+        },
+        {
+            "url": "/concerts/images/1994/1994-02-19/1994-02-19_037.jpg",
+            "caption": "Photo by Lionel Flusin"
+        },
+        {
+            "url": "/concerts/images/1994/1994-02-19/1994-02-19_038.jpg",
+            "caption": "Photo by Joseph Carlucci"
+        },
+        {
+            "url": "/concerts/images/1994/1994-02-19/1994-02-19_039.jpg",
+            "caption": "Photo by Joseph Carlucci"
+        },
+        {
+            "url": "/concerts/images/1994/1994-02-19/1994-02-19_040.jpg",
+            "caption": "Photo by Joseph Carlucci"
+        },
+        {
+            "url": "/concerts/images/1994/1994-02-19/1994-02-19_041.jpg",
+            "caption": "Photo by Joseph Carlucci"
+        },
+        {
+            "url": "/concerts/images/1994/1994-02-19/1994-02-19_042.jpg",
+            "caption": "Photo by Robin François"
+        },
+        {
+            "url": "/concerts/images/1994/1994-02-19/1994-02-19_043.jpg",
+            "caption": "Photo by Olivier Gresset"
+        },
+        {
+            "url": "/concerts/images/1994/1994-02-19/1994-02-19_044.jpg",
+            "caption": "Photo by Joseph Carlucci"
+        }
+    ],
+    "navigation": {
+        "previous": "94-02-18",
+        "next": "94-02-21"
+    },
+    "graph": {
+        "bleach": "2",
+        "nevermind": "7",
+        "inutero": "9",
+        "non": "3"
+    }
+}

@@ -1,0 +1,266 @@
+{
+    "year": "1990",
+    "month": "01",
+    "day": "19",
+    "band": [
+        {
+            "NIRVANA": [
+                {
+                    "name": "Kurt Cobain ",
+                    "duty": "vocals, guitar"
+                },
+                {
+                    "name": "Krist Novoselic ",
+                    "duty": "bass"
+                },
+                {
+                    "name": "Chad Channing ",
+                    "duty": "drums"
+                }
+            ],
+            "type": "group"
+        }
+    ],
+    "crew": [],
+    "buyer": {
+        "names": [
+            "Jon Snyder",
+            "Brad Sweek"
+        ],
+        "company": "Reko Muse Gallery & Events"
+    },
+    "schedule": [
+        {
+            "event": "Load In",
+            "time": "…:…"
+        },
+        {
+            "event": "Soundcheck",
+            "time": "…:…"
+        },
+        {
+            "event": "Doors",
+            "time": "20:00"
+        },
+        {
+            "event": "Beat Happening Showtime",
+            "time": "…:…"
+        },
+        {
+            "event": "NIRVANA Showtime",
+            "time": "…:…"
+        },
+        {
+            "event": "Melvins Showtime",
+            "time": "…:…"
+        }
+    ],
+    "soundcheck": [],
+    "soundcheck_incomplete": false,
+    "set": [
+        {
+            "type": "jam",
+            "text": "jam bass jam",
+            "notes": [
+                "bass jam"
+            ]
+        },
+        {
+            "type": "banter",
+            "text": "We're called The Delays, How you doing?",
+            "person": "Novoselic"
+        },
+        {
+            "type": "jam",
+            "text": "jam bass jam",
+            "notes": [
+                "bass jam"
+            ]
+        },
+        {
+            "type": "banter",
+            "text": "??????",
+            "person": "Novoselic"
+        },
+        {
+            "type": "banter",
+            "text": "Hey, Hey, Hey",
+            "person": "Cobain"
+        },
+        {
+            "type": "banter",
+            "text": "We'll play a sound",
+            "person": "Novoselic"
+        },
+        {
+            "type": "banter",
+            "text": "Ready?",
+            "person": "Voice"
+        },
+        {
+            "type": "banter",
+            "text": "Hey man ??",
+            "person": "Channing"
+        },
+        {
+            "type": "banter",
+            "text": "put it up higher, it goes higher",
+            "person": "Voice"
+        },
+        {
+            "type": "banter",
+            "text": "I can't get it much higher",
+            "person": "Novoselic"
+        },
+        {
+            "type": "banter",
+            "text": "Play a song man!",
+            "person": "Voice"
+        },
+        {
+            "type": "song",
+            "text": "Scoff",
+            "notes": []
+        },
+        {
+            "type": "jam",
+            "text": "jam bass jam",
+            "notes": [
+                "bass jam"
+            ]
+        },
+        {
+            "type": "song",
+            "text": "Floyd The Barber",
+            "notes": []
+        },
+        {
+            "type": "banter",
+            "text": ".... por favor",
+            "person": "Novoselic"
+        },
+        {
+            "type": "song",
+            "text": "Love Buzz",
+            "notes": []
+        },
+        {
+            "type": "banter",
+            "text": "??? ???",
+            "person": "Cobain"
+        },
+        {
+            "type": "song",
+            "text": "Dive",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "Polly",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "About A Girl",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "School",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "Sappy",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "Molly's Lips",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "Spank Thru",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "Breed",
+            "notes": []
+        }
+    ],
+    "set_incomplete": true,
+    "transmission": {},
+    "rehearsel_circulating_sources": [],
+    "circulating_sources": [
+        {
+            "name": "AMT #1",
+            "complete": false,
+            "equipment": "Built In > Panasonic PV-330",
+            "generation": "VHS(M) > DVDR/FLAC",
+            "video-generation": null,
+            "audio-generation": null,
+            "length-sound": "16:06 min / 7.5",
+            "notes": [
+                "Amateur video, shot from the left side of the stage, surfaced in December 2011.",
+                "Includes \"Scoff\" (includes only the very beginning), \"Floyd The Barber\" (cuts in), \"Love Buzz\" (cuts in), \"Dive\" (cuts in), \"Polly' (cuts in and cuts out), \"About A Girl\" (cuts in), \"Sappy\" (cuts in) and \"Spank Thru\" (cuts in, cut within and cuts out).",
+                "Has some special effects."
+            ]
+        }
+    ],
+    "uncirculated_sources": [],
+    "notes": [
+        "The handwritten setlist simply says \"D Songs\" at the end, referring to songs in drop-D tuning, likely including at least \"Been A Son,\" \"Negative Creep,\" and \"Blew.\"",
+        "As a joke costume, Kurt used stage blood to draw needle marks on his arms.",
+        "Krist wore an old-lady-style dress and was drinking from a jug of wine.",
+        "The crowd was very intense. Some people in the audience were even swinging from the overhead pipes."
+    ],
+    "press": [],
+    "memorabilia": [
+        {
+            "url": "/concerts/images/1990/1990-01-19/1990-01-19_01.jpg",
+            "caption": "Handbill/Flyer, designed by Calvin Johnson"
+        },
+        {
+            "url": "/concerts/images/1990/1990-01-19/1990-01-19_02.jpg",
+            "caption": "Handbill/Flyer, designed by Calvin Johnson"
+        },
+        {
+            "url": "/concerts/images/1990/1990-01-19/1990-01-19_03.jpg",
+            "caption": "Handwritten setlist"
+        }
+    ],
+    "images": [
+        {
+            "url": "/concerts/images/1990/1990-01-19/1990-01-19_001.jpg",
+            "caption": "Unknown photographer"
+        },
+        {
+            "url": "/concerts/images/1990/1990-01-19/1990-01-19_002.jpg",
+            "caption": "Unknown photographer"
+        },
+        {
+            "url": "/concerts/images/1990/1990-01-19/1990-01-19_003.jpg",
+            "caption": "Unknown photographer"
+        },
+        {
+            "url": "/concerts/images/1990/1990-01-19/1990-01-19_004.jpg",
+            "caption": "Screencap of AMT #1"
+        },
+        {
+            "url": "/concerts/images/1990/1990-01-19/1990-01-19_005.jpg",
+            "caption": "Screencap of AMT #1"
+        }
+    ],
+    "navigation": {
+        "previous": "90-01-12",
+        "next": "90-01-20"
+    },
+    "graph": {
+        "bleach": "5",
+        "nevermind": "2",
+        "inutero": "0",
+        "non": "4"
+    }
+}

@@ -1,0 +1,218 @@
+{
+    "year": "1989",
+    "month": "11",
+    "day": "29",
+    "venue": "November 29",
+    "city": "1989 - l'Usine",
+    "state": "Geneva",
+    "country": "CH",
+    "band": [
+        {
+            "NIRVANA": [
+                {
+                    "name": "Kurt Cobain ",
+                    "duty": "vocals, guitar"
+                },
+                {
+                    "name": "Krist Novoselic ",
+                    "duty": "bass"
+                },
+                {
+                    "name": "Chad Channing ",
+                    "duty": "drums"
+                }
+            ],
+            "type": "group"
+        }
+    ],
+    "crew": [
+        {
+            "name": "Edwin Heath",
+            "duty": "tour manager"
+        },
+        {
+            "name": "Craig Montgomery",
+            "duty": "sound engineer"
+        }
+    ],
+    "buyer": {
+        "names": [
+            "Alain Jeanmairet"
+        ],
+        "company": "Post Tenebras Rock"
+    },
+    "schedule": [
+        {
+            "event": "Load In",
+            "time": "16:30"
+        },
+        {
+            "event": "Soundcheck",
+            "time": "16:30"
+        },
+        {
+            "event": "Doors",
+            "time": "21:00"
+        },
+        {
+            "event": "Act 1 Showtime",
+            "time": "…:…"
+        },
+        {
+            "event": "Act 2 Showtime",
+            "time": "…:…"
+        }
+    ],
+    "soundcheck": [],
+    "soundcheck_incomplete": false,
+    "set": [
+        {
+            "type": "song",
+            "text": "School",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "Scoff",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "Love Buzz",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "Floyd The Barber",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "Dive",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "Polly",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "Sappy",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "Big Cheese",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "About A Girl",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "Molly's Lips",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "Where Did You Sleep Last Night?",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "Spank Thru",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "Breed",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "Been A Son",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "Stain",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "Blew",
+            "notes": []
+        }
+    ],
+    "set_incomplete": false,
+    "transmission": {},
+    "rehearsel_circulating_sources": [],
+    "circulating_sources": [
+        {
+            "name": "SBD #1",
+            "complete": false,
+            "equipment": "Soundboard > Unknown",
+            "generation": "ANA(1) > MP3",
+            "video-generation": null,
+            "audio-generation": null,
+            "length-sound": "3 min / ??",
+            "notes": [
+                "Posted in \"Soundcloud\".",
+                "Includes only \"Sappy\" and the first chord of \"Big Cheese' (cut's out), that was included in the unreleased Nirvana album called \"Verse Chorus Verse\"."
+            ]
+        }
+    ],
+    "uncirculated_sources": [],
+    "notes": [
+        "Chad remembers playing a \"rocked-up version of 'Where Did You Sleep Last Night'\" at the show."
+    ],
+    "press": [],
+    "memorabilia": [
+        {
+            "url": "/concerts/images/1989/1989-11-29/1989-11-29_01.jpg",
+            "caption": "Handbill/Flyer, designed by unknown"
+        },
+        {
+            "url": "/concerts/images/1989/1989-11-29/1989-11-29_02.jpg",
+            "caption": "Advert"
+        },
+        {
+            "url": "/concerts/images/1989/1989-11-29/1989-11-29_03.jpg",
+            "caption": "Advert"
+        },
+        {
+            "url": "/concerts/images/1989/1989-11-29/1989-11-29_04.jpg",
+            "caption": "Nirvana's tour itinerary"
+        },
+        {
+            "url": "/concerts/images/1989/1989-11-29/1989-11-29_05.jpg",
+            "caption": "Nirvana's tour itinerary"
+        },
+        {
+            "url": "/concerts/images/1989/1989-11-29/1989-11-29_06.jpg",
+            "caption": "Nirvana's tour itinerary"
+        },
+        {
+            "url": "/concerts/images/1989/1989-11-29/1989-11-29_07.jpg",
+            "caption": "Advert"
+        },
+        {
+            "url": "/concerts/images/1989/1989-11-29/1989-11-29_08.jpg",
+            "caption": "Advert"
+        }
+    ],
+    "images": [],
+    "navigation": {
+        "previous": "89-11-27",
+        "next": "89-11-30"
+    },
+    "graph": {
+        "bleach": "7",
+        "nevermind": "2",
+        "inutero": "0",
+        "non": "7"
+    }
+}

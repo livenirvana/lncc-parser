@@ -1,0 +1,323 @@
+{
+    "year": "1992",
+    "month": "10",
+    "day": "03",
+    "band": [
+        {
+            "NIRVANA": [
+                {
+                    "name": "Kurt Cobain ",
+                    "duty": "vocals, guitar"
+                },
+                {
+                    "name": "Krist Novoselic ",
+                    "duty": "bass"
+                },
+                {
+                    "name": "Dave Grohl ",
+                    "duty": "drums, backing vocals"
+                }
+            ],
+            "type": "group"
+        }
+    ],
+    "crew": [
+        {
+            "name": "Alex MacLeod",
+            "duty": "tour manager"
+        },
+        {
+            "name": "Craig Montgomery",
+            "duty": "sound engineer"
+        },
+        {
+            "name": "Barrett Jones",
+            "duty": "monitor engineer & drum technician"
+        },
+        {
+            "name": "Earnie Bailey",
+            "duty": "guitar technician"
+        }
+    ],
+    "buyer": {
+        "names": [
+            "No Info"
+        ],
+        "company": "ASP Special Events"
+    },
+    "schedule": [
+        {
+            "event": "Load In",
+            "time": "…:…"
+        },
+        {
+            "event": "Soundcheck",
+            "time": "…:…"
+        },
+        {
+            "event": "Doors",
+            "time": "20:00"
+        },
+        {
+            "event": "NIRVANA Showtime",
+            "time": "…:…"
+        },
+        {
+            "event": "Saucer Showtime",
+            "time": "…:…"
+        },
+        {
+            "event": "Medelicious  Showtime",
+            "time": "…:…"
+        },
+        {
+            "event": "Mudhoney Showtime",
+            "time": "…:…"
+        }
+    ],
+    "soundcheck": [],
+    "soundcheck_incomplete": false,
+    "set": [
+        {
+            "type": "song",
+            "text": "Breed",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "Mexican Seafood",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "Beeswax",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "D-7",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "Dumb",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "Drain You",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "Jesus Wants Me For A Sunbeam",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "School",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "Stain",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "On A Plain",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "Endless, Nameless",
+            "notes": []
+        }
+    ],
+    "set_incomplete": true,
+    "transmission": {},
+    "rehearsel_circulating_sources": [],
+    "circulating_sources": [
+        {
+            "name": "AUD #1",
+            "complete": false,
+            "equipment": "Unknown > Unknown",
+            "generation": "ANA(1) > DAT(1) > FLAC",
+            "video-generation": null,
+            "audio-generation": null,
+            "length-sound": "17 min / 7.5",
+            "notes": [
+                "\"Drain You\" cuts in on the closing chords, whilst \"Endless, Nameless\" cuts out during the second chorus."
+            ]
+        }
+    ],
+    "uncirculated_sources": [],
+    "notes": [
+        "Nirvana was an unannounced opening band at the show.",
+        "The show was about 45 minutes long, according to a review.",
+        "Most of the songs played were old songs from the demo tapes that appeared on Incesticide, according to a review.",
+        "Kurt couldn't remember the words to some of the old songs, so he just mumbled, according to Courtney Love.",
+        "\"Smells Like Teen Spirit\" and \"Lithium\" were not played, according to a review.",
+        "At the end of the show, Kurt and Krist handed their instruments to some young boys. The kids either did not know how to play the instruments, or were feeling awkward and were encouraged to smash them to appease the audience, but someone asked to stop before they broke anything. Earnie Bailey said that Matt Lukin handed a kid Krist's Gibson Thunderbird, and encouraged him to smash it, but Krist asked Earnie to run out and intercept the bass before it was throttled. He did and the bass was not smashed, but most likely the kid smashed one of Matt Lukin's basses.",
+        "At one point during the show, Kurt jumped into the audience, then came back onstage and played Fang and Black Flag covers, according to Nils Bernstein. Due to conflicting reports from attendees, it is unclear whether this was during Mudhoney's set or Nirvana's."
+    ],
+    "press": [],
+    "memorabilia": [
+        {
+            "url": "/concerts/images/1992/1992-10-03/1992-10-03_01.jpg",
+            "caption": "Ticket"
+        },
+        {
+            "url": "/concerts/images/1992/1992-10-03/1992-10-03_02.jpg",
+            "caption": "Advert"
+        },
+        {
+            "url": "/concerts/images/1992/1992-10-03/1992-10-03_03.jpg",
+            "caption": "Handbill/Flyer, designed by unknown"
+        }
+    ],
+    "images": [
+        {
+            "url": "/concerts/images/1992/1992-10-03/1992-10-03_001.jpg",
+            "caption": "Photo by Charles Peterson"
+        },
+        {
+            "url": "/concerts/images/1992/1992-10-03/1992-10-03_002.jpg",
+            "caption": "Photo by Charles Peterson"
+        },
+        {
+            "url": "/concerts/images/1992/1992-10-03/1992-10-03_003.jpg",
+            "caption": "Photo by Charles Peterson"
+        },
+        {
+            "url": "/concerts/images/1992/1992-10-03/1992-10-03_004.jpg",
+            "caption": "Photo by Charles Peterson"
+        },
+        {
+            "url": "/concerts/images/1992/1992-10-03/1992-10-03_005.jpg",
+            "caption": "Photo by Charles Peterson"
+        },
+        {
+            "url": "/concerts/images/1992/1992-10-03/1992-10-03_006.jpg",
+            "caption": "Photo by Charles Peterson"
+        },
+        {
+            "url": "/concerts/images/1992/1992-10-03/1992-10-03_007.jpg",
+            "caption": "Photo by Charles Peterson"
+        },
+        {
+            "url": "/concerts/images/1992/1992-10-03/1992-10-03_008.jpg",
+            "caption": "Photo by Charles Peterson"
+        },
+        {
+            "url": "/concerts/images/1992/1992-10-03/1992-10-03_009.jpg",
+            "caption": "Photo by Charles Peterson"
+        },
+        {
+            "url": "/concerts/images/1992/1992-10-03/1992-10-03_010.jpg",
+            "caption": "Unknown photographer"
+        },
+        {
+            "url": "/concerts/images/1992/1992-10-03/1992-10-03_011.jpg",
+            "caption": "Unknown photographer"
+        },
+        {
+            "url": "/concerts/images/1992/1992-10-03/1992-10-03_012.jpg",
+            "caption": "Photo by Charles Peterson"
+        },
+        {
+            "url": "/concerts/images/1992/1992-10-03/1992-10-03_013.jpg",
+            "caption": "Photo by Godot Gutierre"
+        },
+        {
+            "url": "/concerts/images/1992/1992-10-03/1992-10-03_014.jpg",
+            "caption": "Unknown photographer"
+        },
+        {
+            "url": "/concerts/images/1992/1992-10-03/1992-10-03_015.jpg",
+            "caption": "Unknown photographer"
+        },
+        {
+            "url": "/concerts/images/1992/1992-10-03/1992-10-03_016.jpg",
+            "caption": "Photo by Jonathan Burton"
+        },
+        {
+            "url": "/concerts/images/1992/1992-10-03/1992-10-03_017.jpg",
+            "caption": "Photo by Charles Peterson"
+        },
+        {
+            "url": "/concerts/images/1992/1992-10-03/1992-10-03_018.jpg",
+            "caption": "Photo by Charles Peterson"
+        },
+        {
+            "url": "/concerts/images/1992/1992-10-03/1992-10-03_019.jpg",
+            "caption": "Photo by Charles Peterson"
+        },
+        {
+            "url": "/concerts/images/1992/1992-10-03/1992-10-03_020.jpg",
+            "caption": "Photo by Godot Gutierre"
+        },
+        {
+            "url": "/concerts/images/1992/1992-10-03/1992-10-03_021.jpg",
+            "caption": "Photo by Godot Gutierre"
+        },
+        {
+            "url": "/concerts/images/1992/1992-10-03/1992-10-03_022.jpg",
+            "caption": "Photo by Godot Gutierre"
+        },
+        {
+            "url": "/concerts/images/1992/1992-10-03/1992-10-03_023.jpg",
+            "caption": "Unknown photographer"
+        },
+        {
+            "url": "/concerts/images/1992/1992-10-03/1992-10-03_024.jpg",
+            "caption": "Photo by John Grinter"
+        },
+        {
+            "url": "/concerts/images/1992/1992-10-03/1992-10-03_025.jpg",
+            "caption": "Photo by John Grinter"
+        },
+        {
+            "url": "/concerts/images/1992/1992-10-03/1992-10-03_026.jpg",
+            "caption": "Photo by John Grinter"
+        },
+        {
+            "url": "/concerts/images/1992/1992-10-03/1992-10-03_027.jpg",
+            "caption": "Photo by John Grinter"
+        },
+        {
+            "url": "/concerts/images/1992/1992-10-03/1992-10-03_028.jpg",
+            "caption": "Photo by John Grinter"
+        },
+        {
+            "url": "/concerts/images/1992/1992-10-03/1992-10-03_029.jpg",
+            "caption": "Photo by John Grinter"
+        },
+        {
+            "url": "/concerts/images/1992/1992-10-03/1992-10-03_030.jpg",
+            "caption": "Photo by Godot Gutierre"
+        },
+        {
+            "url": "/concerts/images/1992/1992-10-03/1992-10-03_031.jpg",
+            "caption": "Photo by Godot Gutierre"
+        },
+        {
+            "url": "/concerts/images/1992/1992-10-03/1992-10-03_032.jpg",
+            "caption": "Photo by Thomas Wittenberg"
+        },
+        {
+            "url": "/concerts/images/1992/1992-10-03/1992-10-03_033.jpg",
+            "caption": "Photo by Charles Peterson"
+        }
+    ],
+    "navigation": {
+        "previous": "92-09-26b",
+        "next": "92-10-04a"
+    },
+    "graph": {
+        "bleach": "1",
+        "nevermind": "4",
+        "inutero": "1",
+        "non": "5"
+    }
+}

@@ -1,0 +1,397 @@
+{
+    "year": "1993",
+    "month": "12",
+    "day": "18",
+    "band": [
+        {
+            "NIRVANA": [
+                {
+                    "name": "Kurt Cobain ",
+                    "duty": "vocals, guitar"
+                },
+                {
+                    "name": "Krist Novoselic ",
+                    "duty": "bass"
+                },
+                {
+                    "name": "Dave Grohl ",
+                    "duty": "drums, backing vocals"
+                },
+                {
+                    "name": "Pat Smear ",
+                    "duty": "guitar"
+                },
+                {
+                    "name": "Lori Goldston ",
+                    "duty": "cello"
+                }
+            ],
+            "type": "group"
+        }
+    ],
+    "crew": [
+        {
+            "name": "Alex MacLeod",
+            "duty": "tour manager"
+        },
+        {
+            "name": "Jeff Mason",
+            "duty": "production manager"
+        },
+        {
+            "name": "Kelly Nase",
+            "duty": "tour accountant"
+        },
+        {
+            "name": "Susanne Sasic",
+            "duty": "lighting designer"
+        },
+        {
+            "name": "Craig Overbay",
+            "duty": "sound engineer"
+        },
+        {
+            "name": "Ian Beveridge",
+            "duty": "monitor engineer"
+        },
+        {
+            "name": "Jim Vincent",
+            "duty": "guitar technician"
+        },
+        {
+            "name": "John Duncan",
+            "duty": "guitar technician"
+        },
+        {
+            "name": "Mike Dalke",
+            "duty": "drum technician"
+        },
+        {
+            "name": "Ed Swink",
+            "duty": "stage manager"
+        },
+        {
+            "name": "Allan Bagley",
+            "duty": "Pro Show sound crew"
+        },
+        {
+            "name": "Tom Pfaeffle",
+            "duty": "Pro Show sound crew"
+        },
+        {
+            "name": "Niko Vonk",
+            "duty": "Pro Show sound crew"
+        },
+        {
+            "name": "Mike Lamb",
+            "duty": "LSD lighting crew"
+        },
+        {
+            "name": "Pat Connolly",
+            "duty": "LSD lighting crew"
+        },
+        {
+            "name": "Gary Vaspol",
+            "duty": "LSD lighting crew"
+        }
+    ],
+    "buyer": {
+        "names": [
+            "Doug Kaufman"
+        ],
+        "company": "Nobody In Particular Presents Inc."
+    },
+    "schedule": [
+        {
+            "event": "Load In",
+            "time": "08:00"
+        },
+        {
+            "event": "Soundcheck",
+            "time": "15:00"
+        },
+        {
+            "event": "Doors",
+            "time": "17:45"
+        },
+        {
+            "event": "Melvins Showtime",
+            "time": "18:30"
+        },
+        {
+            "event": "Breeders Showtime",
+            "time": "19:15"
+        },
+        {
+            "event": "NIRVANA Showtime",
+            "time": "20:15"
+        }
+    ],
+    "soundcheck": [],
+    "soundcheck_incomplete": false,
+    "set": [
+        {
+            "type": "song",
+            "text": "Radio Friendly Unit Shifter",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "Drain You",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "Breed",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "Serve The Servants",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "Come As You Are",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "Smells Like Teen Spirit",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "Sliver",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "Dumb",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "In Bloom",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "About A Girl",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "Pennyroyal Tea",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "School",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "Polly",
+            "notes": [
+                "acoustic"
+            ]
+        },
+        {
+            "type": "song",
+            "text": "Frances Farmer Will Have Her Revenge On Seattle",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "Milk It",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "Rape Me",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "Territorial Pissings",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "The Man Who Sold The World",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "All Apologies",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "On A Plain",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "Heart-Shaped Box",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "Blew",
+            "notes": []
+        }
+    ],
+    "set_incomplete": false,
+    "transmission": {},
+    "rehearsel_circulating_sources": [],
+    "circulating_sources": [
+        {
+            "name": "AUD #1",
+            "complete": true,
+            "equipment": "Unknown > Unknown",
+            "generation": "ANA(3) > FLAC",
+            "video-generation": null,
+            "audio-generation": null,
+            "length-sound": "80 min / 7.5",
+            "notes": [
+                "This upgrade was circulated in February 2003.",
+                "There are two cuts in \"Frances Farmer Will Have Her Revenge On Seattle\" (this being the point of the tape flip) and the end noise cuts off."
+            ]
+        },
+        {
+            "name": "AUD #2",
+            "complete": true,
+            "equipment": "Sony mic (supplied) > Sony WM-F2401",
+            "generation": "ANA(M) > FLAC",
+            "video-generation": null,
+            "audio-generation": null,
+            "length-sound": "79 min / 8.0",
+            "notes": [
+                "Has cuts in \"Milk It\" and \"Rape Me\" because the taper had to move out of a security guard's sight to flip the tape over."
+            ]
+        },
+        {
+            "name": "AUD #3",
+            "complete": true,
+            "equipment": "Unknown > Unknown",
+            "generation": "ANA(M) > CDR(1) > FLAC",
+            "video-generation": null,
+            "audio-generation": null,
+            "length-sound": "86 min / 8.5",
+            "notes": [
+                "Circulated in December 2012."
+            ]
+        }
+    ],
+    "uncirculated_sources": [],
+    "notes": [
+        "According to a newspaper review, Nirvana played for a crowd of about 5,000.",
+        "During \"Smells Like Teen Spirit\" Nirvana was joined by members of the Breeders and the Melvins dressed in cheerleader outfits to mock the song's MTV video.",
+        "During the Melvins' set, Dave played drums along with Dale Crover for their last song, \"Night Goat.\""
+    ],
+    "press": [],
+    "memorabilia": [
+        {
+            "url": "/concerts/images/1993/1993-12-18/1993-12-18_01.jpg",
+            "caption": "Advert"
+        },
+        {
+            "url": "/concerts/images/1993/1993-12-18/1993-12-18_02.jpg",
+            "caption": "Ticket"
+        },
+        {
+            "url": "/concerts/images/1993/1993-12-18/1993-12-18_03.jpg",
+            "caption": "Backstage pass"
+        },
+        {
+            "url": "/concerts/images/1993/1993-12-18/1993-12-18_04.jpg",
+            "caption": "Ticket"
+        },
+        {
+            "url": "/concerts/images/1993/1993-12-18/1993-12-18_05.jpg",
+            "caption": "Nirvana's tour itinerary"
+        },
+        {
+            "url": "/concerts/images/1993/1993-12-18/1993-12-18_06.jpg",
+            "caption": "Advert"
+        }
+    ],
+    "images": [
+        {
+            "url": "/concerts/images/1993/1993-12-18/1993-12-18_001.jpg",
+            "caption": "Unknown photographer"
+        },
+        {
+            "url": "/concerts/images/1993/1993-12-18/1993-12-18_002.jpg",
+            "caption": "Unknown photographer"
+        },
+        {
+            "url": "/concerts/images/1993/1993-12-18/1993-12-18_003.jpg",
+            "caption": "Unknown photographer"
+        },
+        {
+            "url": "/concerts/images/1993/1993-12-18/1993-12-18_004.jpg",
+            "caption": "Unknown photographer"
+        },
+        {
+            "url": "/concerts/images/1993/1993-12-18/1993-12-18_005.jpg",
+            "caption": "Unknown photographer"
+        },
+        {
+            "url": "/concerts/images/1993/1993-12-18/1993-12-18_006.jpg",
+            "caption": "Photo by Joe Hughes"
+        },
+        {
+            "url": "/concerts/images/1993/1993-12-18/1993-12-18_007.jpg",
+            "caption": "Unknown photographer"
+        },
+        {
+            "url": "/concerts/images/1993/1993-12-18/1993-12-18_008.jpg",
+            "caption": "Photo by Joe Hughes"
+        },
+        {
+            "url": "/concerts/images/1993/1993-12-18/1993-12-18_009.jpg",
+            "caption": "Photo by Joe Hughes"
+        },
+        {
+            "url": "/concerts/images/1993/1993-12-18/1993-12-18_010.jpg",
+            "caption": "Photo by Joe Hughes"
+        },
+        {
+            "url": "/concerts/images/1993/1993-12-18/1993-12-18_011.jpg",
+            "caption": "Photo by Joe Hughes"
+        },
+        {
+            "url": "/concerts/images/1993/1993-12-18/1993-12-18_012.jpg",
+            "caption": "Photo by Joe Hughes"
+        },
+        {
+            "url": "/concerts/images/1993/1993-12-18/1993-12-18_013.jpg",
+            "caption": "Photo by Joe Hughes"
+        },
+        {
+            "url": "/concerts/images/1993/1993-12-18/1993-12-18_014.jpg",
+            "caption": "Unknown photographer"
+        },
+        {
+            "url": "/concerts/images/1993/1993-12-18/1993-12-18_015.jpg",
+            "caption": "Photo by Joe Hughes"
+        },
+        {
+            "url": "/concerts/images/1993/1993-12-18/1993-12-18_016.jpg",
+            "caption": "Unknown photographer"
+        }
+    ],
+    "navigation": {
+        "previous": "93-12-16",
+        "next": "93-12-29"
+    },
+    "graph": {
+        "bleach": "3",
+        "nevermind": "8",
+        "inutero": "9",
+        "non": "2"
+    }
+}

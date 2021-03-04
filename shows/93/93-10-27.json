@@ -1,0 +1,315 @@
+{
+    "year": "1993",
+    "month": "10",
+    "day": "27",
+    "band": [
+        {
+            "NIRVANA": [
+                {
+                    "name": "Kurt Cobain ",
+                    "duty": "vocals, guitar"
+                },
+                {
+                    "name": "Krist Novoselic ",
+                    "duty": "bass"
+                },
+                {
+                    "name": "Dave Grohl ",
+                    "duty": "drums, backing vocals"
+                },
+                {
+                    "name": "Pat Smear ",
+                    "duty": "guitar"
+                },
+                {
+                    "name": "Lori Goldston ",
+                    "duty": "cello"
+                }
+            ],
+            "type": "group"
+        }
+    ],
+    "crew": [
+        {
+            "name": "Alex MacLeod",
+            "duty": "tour manager"
+        },
+        {
+            "name": "Jeff Mason",
+            "duty": "production manager"
+        },
+        {
+            "name": "Kelly Nase",
+            "duty": "tour accountant"
+        },
+        {
+            "name": "Susanne Sasic",
+            "duty": "lighting designer"
+        },
+        {
+            "name": "Craig Overbay",
+            "duty": "sound engineer"
+        },
+        {
+            "name": "Ian Beveridge",
+            "duty": "monitor engineer"
+        },
+        {
+            "name": "Jim Vincent",
+            "duty": "guitar technician"
+        },
+        {
+            "name": "John Duncan",
+            "duty": "guitar technician"
+        },
+        {
+            "name": "Mike Dalke",
+            "duty": "drum technician"
+        },
+        {
+            "name": "Ed Swink",
+            "duty": "stage manager"
+        },
+        {
+            "name": "Dave Stevens",
+            "duty": "Pro Show sound crew"
+        },
+        {
+            "name": "Allan Bagley",
+            "duty": "Pro Show sound crew"
+        },
+        {
+            "name": "Tom Pfaeffle",
+            "duty": "Pro Show sound crew"
+        },
+        {
+            "name": "Spike Brant",
+            "duty": "LSD lighting crew"
+        },
+        {
+            "name": "Mike Lamb",
+            "duty": "LSD lighting crew"
+        },
+        {
+            "name": "Pat Connolly",
+            "duty": "LSD lighting crew"
+        },
+        {
+            "name": "Gary Vaspol",
+            "duty": "LSD lighting crew"
+        }
+    ],
+    "buyer": {
+        "names": [
+            "Rick Franks",
+            "Vince Bannon"
+        ],
+        "company": "Cellar Door Productions Of Michigan"
+    },
+    "schedule": [
+        {
+            "event": "Load In",
+            "time": "09:00"
+        },
+        {
+            "event": "Soundcheck",
+            "time": "15:30"
+        },
+        {
+            "event": "Doors",
+            "time": "18:30"
+        },
+        {
+            "event": "Boredoms Showtime",
+            "time": "19:30"
+        },
+        {
+            "event": "Meat Puppets Showtime",
+            "time": "20:15"
+        },
+        {
+            "event": "NIRVANA Showtime",
+            "time": "21:15"
+        }
+    ],
+    "soundcheck": [],
+    "soundcheck_incomplete": false,
+    "set": [
+        {
+            "type": "song",
+            "text": "Radio Friendly Unit Shifter",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "Drain You",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "Breed",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "Serve The Servants",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "Heart-Shaped Box",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "Sliver",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "Dumb",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "In Bloom",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "Come As You Are",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "Lithium",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "Pennyroyal Tea",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "School",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "Polly",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "Rape Me",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "All Apologies",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "Jesus Wants Me For A Sunbeam",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "Something In The Way",
+            "notes": []
+        }
+    ],
+    "set_incomplete": true,
+    "transmission": {},
+    "rehearsel_circulating_sources": [],
+    "circulating_sources": [],
+    "uncirculated_sources": [],
+    "notes": [
+        "According to a newspaper review, Nirvana played for a crowd of about 4,700.",
+        "The show was about 75 minutes long, with a 15 minute encore of mostly acoustic songs, according to a review.",
+        "During \"School,\" rather than playing the solo, Kurt pushed his guitar into the amps and fell down, according to an attendee.",
+        "\"Smells Like Teen Spirit\" was not played."
+    ],
+    "press": [
+        {
+            "text": "Review from a unknown newspaper published in 1993.",
+            "url": "/concerts/images/1993/1993-10-27/1993-10-27_01_review.jpg"
+        }
+    ],
+    "memorabilia": [
+        {
+            "url": "/concerts/images/1993/1993-10-27/1993-10-27_01.jpg",
+            "caption": "Ticket"
+        },
+        {
+            "url": "/concerts/images/1993/1993-10-27/1993-10-27_02.jpg",
+            "caption": "Ticket"
+        },
+        {
+            "url": "/concerts/images/1993/1993-10-27/1993-10-27_03.jpg",
+            "caption": "Ticket"
+        },
+        {
+            "url": "/concerts/images/1993/1993-10-27/1993-10-27_04.jpg",
+            "caption": "Advert"
+        },
+        {
+            "url": "/concerts/images/1993/1993-10-27/1993-10-27_05.jpg",
+            "caption": "Advert"
+        },
+        {
+            "url": "/concerts/images/1993/1993-10-27/1993-10-27_06.jpg",
+            "caption": "Nirvana's tour itinerary"
+        }
+    ],
+    "images": [
+        {
+            "url": "/concerts/images/1993/1993-10-27/1993-10-27_001.jpg",
+            "caption": "Photo by Ken Settle"
+        },
+        {
+            "url": "/concerts/images/1993/1993-10-27/1993-10-27_002.jpg",
+            "caption": "Photo by Ken Settle"
+        },
+        {
+            "url": "/concerts/images/1993/1993-10-27/1993-10-27_003.jpg",
+            "caption": "Photo by Ken Settle"
+        },
+        {
+            "url": "/concerts/images/1993/1993-10-27/1993-10-27_004.jpg",
+            "caption": "Photo by Ken Settle"
+        },
+        {
+            "url": "/concerts/images/1993/1993-10-27/1993-10-27_005.jpg",
+            "caption": "Photo by Ken Settle"
+        },
+        {
+            "url": "/concerts/images/1993/1993-10-27/1993-10-27_006.jpg",
+            "caption": "Photo by Ken Settle"
+        },
+        {
+            "url": "/concerts/images/1993/1993-10-27/1993-10-27_007.jpg",
+            "caption": "Photo by Ken Settle"
+        },
+        {
+            "url": "/concerts/images/1993/1993-10-27/1993-10-27_008.jpg",
+            "caption": "Photo by Ken Settle"
+        },
+        {
+            "url": "/concerts/images/1993/1993-10-27/1993-10-27_009.jpg",
+            "caption": "Photo by Bob Wheaton"
+        }
+    ],
+    "navigation": {
+        "previous": "93-10-26",
+        "next": "93-10-29"
+    },
+    "graph": {
+        "bleach": "1",
+        "nevermind": "6",
+        "inutero": "7",
+        "non": "2"
+    }
+}

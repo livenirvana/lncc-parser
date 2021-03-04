@@ -1,0 +1,117 @@
+{
+    "year": "1990",
+    "month": "05",
+    "day": "14",
+    "band": [
+        {
+            "NIRVANA": [
+                {
+                    "name": "Kurt Cobain ",
+                    "duty": "vocals, guitar"
+                },
+                {
+                    "name": "Krist Novoselic ",
+                    "duty": "bass"
+                },
+                {
+                    "name": "Chad Channing ",
+                    "duty": "drums"
+                }
+            ],
+            "type": "group"
+        }
+    ],
+    "crew": [
+        {
+            "name": "Craig Montgomery",
+            "duty": "sound engineer"
+        }
+    ],
+    "buyer": {
+        "names": [
+            "Michael Lustig"
+        ]
+    },
+    "schedule": [
+        {
+            "event": "Load In",
+            "time": "…:…"
+        },
+        {
+            "event": "Soundcheck",
+            "time": "…:…"
+        },
+        {
+            "event": "Doors",
+            "time": "21:00"
+        },
+        {
+            "event": "Jux County Showtime",
+            "time": "…:…"
+        },
+        {
+            "event": "NIRVANA Showtime",
+            "time": "…:…"
+        }
+    ],
+    "soundcheck": [],
+    "soundcheck_incomplete": false,
+    "set": [
+        {
+            "type": "song",
+            "text": "Floyd The Barber",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "About A Girl",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "Negative Creep",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "Blew",
+            "notes": []
+        }
+    ],
+    "set_incomplete": true,
+    "transmission": {},
+    "rehearsel_circulating_sources": [],
+    "circulating_sources": [],
+    "uncirculated_sources": [],
+    "notes": [
+        "There were some sound problems, but the band played an intense 60-minute set, according to a review.",
+        "This was the last show with Chad Channing on drums."
+    ],
+    "press": [],
+    "memorabilia": [
+        {
+            "url": "/concerts/images/1990/1990-05-14/1990-05-14_01.jpg",
+            "caption": "Handbill/Flyer, designed by unknown"
+        },
+        {
+            "url": "/concerts/images/1990/1990-05-14/1990-05-14_02.jpg",
+            "caption": "Advert"
+        }
+    ],
+    "images": [
+        {
+            "url": "/concerts/images/1990/1990-05-14/1990-05-14_001.jpg",
+            "caption": "Photo by Bradley Ryan"
+        }
+    ],
+    "navigation": {
+        "previous": "90-05-13",
+        "next": "90-08-16"
+    },
+    "graph": {
+        "bleach": "4",
+        "nevermind": "0",
+        "inutero": "0",
+        "non": "0"
+    }
+}

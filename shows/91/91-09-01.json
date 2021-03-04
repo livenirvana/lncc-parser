@@ -1,0 +1,343 @@
+{
+    "year": "1991",
+    "month": "09",
+    "day": "01",
+    "venue": "De Doelen (Ein Abend in Wien)",
+    "city": "Rotterdam",
+    "country": "NL",
+    "state": null,
+    "band": [
+        {
+            "NIRVANA": [
+                {
+                    "name": "Kurt Cobain ",
+                    "duty": "vocals, guitar"
+                },
+                {
+                    "name": "Krist Novoselic ",
+                    "duty": "bass"
+                },
+                {
+                    "name": "Dave Grohl ",
+                    "duty": "drums, backing vocals"
+                }
+            ],
+            "type": "group"
+        }
+    ],
+    "crew": [
+        {
+            "name": "Alex MacLeod",
+            "duty": "tour manager"
+        },
+        {
+            "name": "Craig Montgomery",
+            "duty": "sound engineer"
+        },
+        {
+            "name": "Ian Beveridge",
+            "duty": "monitor engineer"
+        }
+    ],
+    "buyer": {
+        "names": [
+            "Willem Vennema"
+        ],
+        "company": "Mojo Concerts"
+    },
+    "schedule": [
+        {
+            "event": "Load In",
+            "time": "…:…"
+        },
+        {
+            "event": "Soundcheck",
+            "time": "…:…"
+        },
+        {
+            "event": "Doors",
+            "time": "19:00"
+        },
+        {
+            "event": "Loose Showtime",
+            "time": "20:15"
+        },
+        {
+            "event": "Chapterhouse Showtime",
+            "time": "21:25"
+        },
+        {
+            "event": "Paradogs Showtime",
+            "time": "22:25"
+        },
+        {
+            "event": "NIRVANA Showtime",
+            "time": "23:30"
+        },
+        {
+            "event": "Caspar Brotzmann Showtime",
+            "time": "01:00"
+        }
+    ],
+    "soundcheck": [],
+    "soundcheck_incomplete": false,
+    "set": [
+        {
+            "type": "song",
+            "text": "Polly",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "Drain You",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "School",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "Floyd The Barber",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "Smells Like Teen Spirit",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "Come As You Are",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "About A Girl",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "Breed",
+            "notes": []
+        },
+        {
+            "type": "jam",
+            "text": "Sliver false start",
+            "notes": [
+                "false start"
+            ]
+        },
+        {
+            "type": "song",
+            "text": "Sliver",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "In Bloom",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "Been A Son",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "Negative Creep",
+            "notes": [
+                "part of"
+            ]
+        },
+        {
+            "type": "song",
+            "text": "Limbo Rock",
+            "notes": [
+                "bass jam"
+            ]
+        },
+        {
+            "type": "song",
+            "text": "jam",
+            "notes": []
+        }
+    ],
+    "set_incomplete": false,
+    "transmission": {},
+    "rehearsel_circulating_sources": [],
+    "circulating_sources": [
+        {
+            "name": "AUD #1",
+            "complete": true,
+            "equipment": "Unknown > Aiwa HS-1202",
+            "generation": "ANA(M) > CDR",
+            "video-generation": null,
+            "audio-generation": null,
+            "length-sound": "47 min / 8.5",
+            "notes": [
+                "In June 2002 the master was circulated."
+            ]
+        },
+        {
+            "name": "AUD #2",
+            "complete": true,
+            "equipment": "Sony PC-62 > Sony WM-D3",
+            "generation": "ANA(M) > FLAC",
+            "video-generation": null,
+            "audio-generation": null,
+            "length-sound": "48 min / 9.0",
+            "notes": [
+                "A master transfer was circulated December 20th 2017"
+            ]
+        },
+        {
+            "name": "AUD #3",
+            "complete": false,
+            "equipment": "unknown > unknown",
+            "generation": "ANA(M) > FLAC",
+            "video-generation": null,
+            "audio-generation": null,
+            "length-sound": "19:12 min / ?",
+            "notes": [
+                "Surfaced December 2020",
+                "Includes only the intro, \"Polly\", \"Drain You\", \"School (cuts out), \"Smells Like Teen Spirit\" (cuts in) and \"Come As You Are\"."
+            ]
+        },
+        {
+            "name": "AMT #1",
+            "complete": true,
+            "equipment": "Unknown > Unknown",
+            "generation": "VHS(1) > DVDR/FLAC",
+            "video-generation": null,
+            "audio-generation": null,
+            "length-sound": "50 min / 7.0",
+            "notes": [
+                "Amateur video, shot from an elevated position, back left of the venue (side shot).",
+                "This source has very bad audio since the taper is having microphone issues."
+            ]
+        },
+        {
+            "name": "AMT #2",
+            "complete": true,
+            "equipment": "Unknown > Unknown",
+            "generation": "VHS(1) > DVDR/FLAC",
+            "video-generation": null,
+            "audio-generation": null,
+            "length-sound": "45 min / 8.5",
+            "notes": [
+                "Amateur video, shot from an elevated position from the back of the venue (front shot).",
+                "\"Polly\" cuts in and \"In Bloom\" is cut within."
+            ]
+        },
+        {
+            "name": "PRO CLIP #1",
+            "complete": false,
+            "equipment": "Beaulieu Boom Microphone > Beaulieu 5008 S (Super 8)",
+            "generation": "Official DVD [1991: The Year Punk Broke]",
+            "video-generation": null,
+            "audio-generation": null,
+            "length-sound": "5 min / 8.5",
+            "notes": [
+                "Includes only \"In Bloom\", which cuts in.",
+                "Appears on the (This Is Known As) The Blues Scale bonus video included on the official video release, in some parts they used footage from other concerts of the same tour.",
+                "Clips of \"Polly\" (with audio from 10/25/91), \"School\" (with audio from 08/20/91), and the end-of-show destruction appear on the same official video release.",
+                "Clips appear on a rough edit of the official video release 1991: The Year Punk Broke that Dave Markey posted on YouTube.",
+                "A clip of \"In Bloom\" has been broadcast on TV.",
+                "Clips appear on the official video release Live! Tonight! Sold Out!! and in the \"Lithium\" music video."
+            ]
+        }
+    ],
+    "uncirculated_sources": [
+        {
+            "name": "SBD #1",
+            "note": "The entire show was recorded by the Dutch broadcasting company VPRO."
+        },
+        {
+            "name": "PRO #2",
+            "note": "A second video crew from the Dutch broadcasting company VPRO filmed the entire show."
+        },
+        {
+            "name": "AUD #3",
+            "note": "It is rumored that the show was recorded."
+        }
+    ],
+    "notes": [
+        "Because Nick Cave was reading poetry in the venue below this one, Nirvana had to wait onstage so they would not interfere with his performance. After being asked twice to not play yet, Kurt started playing \"Polly.\"",
+        "The band was very drunk by the end of the show.",
+        "Sound problems, combined the band's drunkenness, resulted in false starts of \"Sliver\" and \"In Bloom.\"",
+        "Kurt threw his guitar down, then started destroying the set after just one verse of \"Negative Creep.\" After extensive destruction, Kurt got into a fight with people from the venue, but the fight was promptly broken up."
+    ],
+    "press": [],
+    "memorabilia": [
+        {
+            "url": "/concerts/images/1991/1991-09-01/1991-09-01_01.jpg",
+            "caption": "Advert"
+        },
+        {
+            "url": "/concerts/images/1991/1991-09-01/1991-09-01_02.jpg",
+            "caption": "Advert"
+        },
+        {
+            "url": "/concerts/images/1991/1991-09-01/1991-09-01_03.jpg",
+            "caption": "Ticket"
+        },
+        {
+            "url": "/concerts/images/1991/1991-09-01/1991-09-01_04.jpg",
+            "caption": "Event chronogram"
+        },
+        {
+            "url": "/concerts/images/1991/1991-09-01/1991-09-01_05.jpg",
+            "caption": "Event chronogram"
+        },
+        {
+            "url": "/concerts/images/1991/1991-09-01/1991-09-01_06.jpg",
+            "caption": "Backstage pass"
+        },
+        {
+            "url": "/concerts/images/1991/1991-09-01/1991-09-01_07.jpg",
+            "caption": "Handwritten setlist"
+        },
+        {
+            "url": "/concerts/images/1991/1991-09-01/1991-09-01_08.jpg",
+            "caption": "Advert"
+        },
+        {
+            "url": "/concerts/images/1991/1991-09-01/1991-09-01_09.jpg",
+            "caption": "Nirvana's tour itinerary"
+        }
+    ],
+    "images": [
+        {
+            "url": "/concerts/images/1991/1991-09-01/1991-09-01_001.jpg",
+            "caption": "Photo by Cor Jabaaij"
+        },
+        {
+            "url": "/concerts/images/1991/1991-09-01/1991-09-01_003.jpg",
+            "caption": "Screencap of AMT #1"
+        },
+        {
+            "url": "/concerts/images/1991/1991-09-01/1991-09-01_004.jpg",
+            "caption": "Screencap of AMT #1"
+        },
+        {
+            "url": "/concerts/images/1991/1991-09-01/1991-09-01_005.jpg",
+            "caption": "Screencap of AMT #2"
+        },
+        {
+            "url": "/concerts/images/1991/1991-09-01/1991-09-01_006.jpg",
+            "caption": "Screencap of AMT #2"
+        }
+    ],
+    "navigation": {
+        "previous": "91-08-30",
+        "next": "91-09-16"
+    },
+    "graph": {
+        "bleach": "4",
+        "nevermind": "6",
+        "inutero": "0",
+        "non": "2"
+    }
+}

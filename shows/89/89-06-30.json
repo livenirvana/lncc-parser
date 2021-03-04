@@ -1,0 +1,95 @@
+{
+    "year": "1989",
+    "month": "06",
+    "day": "30",
+    "band": [
+        {
+            "NIRVANA": [
+                {
+                    "name": "Kurt Cobain ",
+                    "duty": "vocals, guitar"
+                },
+                {
+                    "name": "Krist Novoselic ",
+                    "duty": "bass"
+                },
+                {
+                    "name": "Chad Channing ",
+                    "duty": "drums"
+                },
+                {
+                    "name": "Jason Everman ",
+                    "duty": "guitar"
+                }
+            ],
+            "type": "group"
+        }
+    ],
+    "crew": [],
+    "buyer": {
+        "names": [
+            "Milton Robichaux"
+        ]
+    },
+    "schedule": [
+        {
+            "event": "Load In",
+            "time": "…:…"
+        },
+        {
+            "event": "Soundcheck",
+            "time": "…:…"
+        },
+        {
+            "event": "Doors",
+            "time": "…:…"
+        },
+        {
+            "event": "Swaziland White Band Showtime",
+            "time": "…:…"
+        },
+        {
+            "event": "NIRVANA Showtime",
+            "time": "…:…"
+        },
+        {
+            "event": "Happy Dogs Showtime",
+            "time": "…:…"
+        }
+    ],
+    "soundcheck": [],
+    "soundcheck_incomplete": false,
+    "set": [],
+    "set_incomplete": false,
+    "transmission": {},
+    "rehearsel_circulating_sources": [],
+    "circulating_sources": [],
+    "uncirculated_sources": [
+        {
+            "name": "AUD #1",
+            "note": "It is rumored that the show was recorded."
+        }
+    ],
+    "notes": [
+        "The show may have been a private birthday party.",
+        "Kurt gave the \"Elvis-Cooper\" tapestry/poster to a member of \"The Happy Dogs\"."
+    ],
+    "press": [],
+    "memorabilia": [
+        {
+            "url": "/concerts/images/1989/1989-06-30/1989-06-30_01.jpg",
+            "caption": "Nirvana's tour itinerary"
+        }
+    ],
+    "images": [],
+    "navigation": {
+        "previous": "89-06-27",
+        "next": "89-07-01"
+    },
+    "graph": {
+        "bleach": "1",
+        "nevermind": "1",
+        "inutero": "1",
+        "non": "1"
+    }
+}

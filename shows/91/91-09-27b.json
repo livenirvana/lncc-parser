@@ -1,0 +1,237 @@
+{
+    "year": "1991",
+    "month": "09",
+    "day": "27",
+    "band": [
+        {
+            "NIRVANA": [
+                {
+                    "name": "Kurt Cobain ",
+                    "duty": "vocals, guitar"
+                },
+                {
+                    "name": "Krist Novoselic ",
+                    "duty": "bass"
+                },
+                {
+                    "name": "Dave Grohl ",
+                    "duty": "drums, backing vocals"
+                }
+            ],
+            "type": "group"
+        }
+    ],
+    "crew": [
+        {
+            "name": "Monty Lee Wilkes",
+            "duty": "tour manager & sound engineer"
+        },
+        {
+            "name": "Myles Kennedy",
+            "duty": "monitor engineer & drum technician"
+        },
+        {
+            "name": "Nic Close",
+            "duty": "guitar technician"
+        }
+    ],
+    "buyer": {
+        "names": [
+            "Randy Ellis"
+        ]
+    },
+    "schedule": [
+        {
+            "event": "Load In",
+            "time": "…:…"
+        },
+        {
+            "event": "Soundcheck",
+            "time": "…:…"
+        },
+        {
+            "event": "Doors",
+            "time": "21:00"
+        },
+        {
+            "event": "Planet Dread Showtime",
+            "time": "…:…"
+        },
+        {
+            "event": "Das Damen Showtime",
+            "time": "…:…"
+        },
+        {
+            "event": "NIRVANA Showtime",
+            "time": "23:30"
+        }
+    ],
+    "soundcheck": [],
+    "soundcheck_incomplete": false,
+    "set": [
+        {
+            "type": "song",
+            "text": "Jesus Wants Me For A Sunbeam",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "Aneurysm",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "D-7",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "Drain You",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "School",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "Floyd The Barber",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "Sliver",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "Smells Like Teen Spirit",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "Polly",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "About A Girl",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "Blew",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "Been A Son",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "Something In The Way",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "Negative Creep",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "Endless, Nameless",
+            "notes": []
+        }
+    ],
+    "set_incomplete": false,
+    "transmission": {},
+    "rehearsel_circulating_sources": [],
+    "circulating_sources": [
+        {
+            "name": "AMT #1",
+            "complete": true,
+            "equipment": "Unknown > Unknown",
+            "generation": "8MM(M) > DVDR/FLAC",
+            "video-generation": null,
+            "audio-generation": null,
+            "length-sound": "51 min / 7.0",
+            "notes": [
+                "Amateur video, shot from the left.",
+                "In June 2007 the master tape was circulated.",
+                "\"Jesus Wants Me For A Sunbeam\" cuts in."
+            ]
+        }
+    ],
+    "uncirculated_sources": [
+        {
+            "name": "AMT #2",
+            "note": "\nNotes:\nVideo taped from the DJ booth with a tripod for the band.\nThe master tape was turned over to the band after the show.\n"
+        },
+        {
+            "name": "AMT #3",
+            "note": "\nNotes:\nVideo taped from the audience for the band.\nThe master tape was turned over to the band after the show.\n"
+        }
+    ],
+    "notes": [],
+    "press": [],
+    "memorabilia": [
+        {
+            "url": "/concerts/images/1991/1991-09-27b/1991-09-27b_01.jpg",
+            "caption": "Advert"
+        },
+        {
+            "url": "/concerts/images/1991/1991-09-27b/1991-09-27b_02.jpg",
+            "caption": "Band's contract"
+        },
+        {
+            "url": "/concerts/images/1991/1991-09-27b/1991-09-27b_03.jpg",
+            "caption": "Advert"
+        },
+        {
+            "url": "/concerts/images/1991/1991-09-27b/1991-09-27b_04.jpg",
+            "caption": "Advert"
+        },
+        {
+            "url": "/concerts/images/1991/1991-09-27b/1991-09-27b_05.jpg",
+            "caption": "Ticket"
+        },
+        {
+            "url": "/concerts/images/1991/1991-09-27b/1991-09-27b_06.jpg",
+            "caption": "Advert;"
+        },
+        {
+            "url": "/concerts/images/1991/1991-09-27b/1991-09-27b_07.jpg",
+            "caption": "Advert"
+        },
+        {
+            "url": "/concerts/images/1991/1991-09-27b/1991-09-27b_08.jpg",
+            "caption": "Advert"
+        },
+        {
+            "url": "/concerts/images/1991/1991-09-27b/1991-09-27b_09.jpg",
+            "caption": "Advert"
+        },
+        {
+            "url": "/concerts/images/1991/1991-09-27b/1991-09-27b_10.jpg",
+            "caption": "Advert"
+        }
+    ],
+    "images": [
+        {
+            "url": "/concerts/images/1991/1991-09-27b/1991-09-27b_001.jpg",
+            "caption": "Photo by Stephan Apicella-Hitchcock"
+        }
+    ],
+    "navigation": {
+        "previous": "91-09-27a",
+        "next": "91-09-28"
+    },
+    "graph": {
+        "bleach": "5",
+        "nevermind": "5",
+        "inutero": "0",
+        "non": "5"
+    }
+}

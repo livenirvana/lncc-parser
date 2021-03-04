@@ -1,0 +1,504 @@
+{
+    "year": "1993",
+    "month": "11",
+    "day": "04",
+    "band": [
+        {
+            "NIRVANA": [
+                {
+                    "name": "Kurt Cobain ",
+                    "duty": "vocals, guitar, drums"
+                },
+                {
+                    "name": "Krist Novoselic ",
+                    "duty": "bass"
+                },
+                {
+                    "name": "Dave Grohl ",
+                    "duty": "drums, backing vocals"
+                },
+                {
+                    "name": "Pat Smear ",
+                    "duty": "guitar"
+                },
+                {
+                    "name": "Lori Goldston ",
+                    "duty": "cello"
+                }
+            ],
+            "type": "group"
+        }
+    ],
+    "crew": [
+        {
+            "name": "Alex MacLeod",
+            "duty": "tour manager"
+        },
+        {
+            "name": "Jeff Mason",
+            "duty": "production manager"
+        },
+        {
+            "name": "Kelly Nase",
+            "duty": "tour accountant"
+        },
+        {
+            "name": "Susanne Sasic",
+            "duty": "lighting designer"
+        },
+        {
+            "name": "Craig Overbay",
+            "duty": "sound engineer"
+        },
+        {
+            "name": "Ian Beveridge",
+            "duty": "monitor engineer"
+        },
+        {
+            "name": "Jim Vincent",
+            "duty": "guitar technician"
+        },
+        {
+            "name": "John Duncan",
+            "duty": "guitar technician"
+        },
+        {
+            "name": "Mike Dalke",
+            "duty": "drum technician"
+        },
+        {
+            "name": "Ed Swink",
+            "duty": "stage manager"
+        },
+        {
+            "name": "Dave Stevens",
+            "duty": "Pro Show sound crew"
+        },
+        {
+            "name": "Allan Bagley",
+            "duty": "Pro Show sound crew"
+        },
+        {
+            "name": "Tom Pfaeffle",
+            "duty": "Pro Show sound crew"
+        },
+        {
+            "name": "Spike Brant",
+            "duty": "LSD lighting crew"
+        },
+        {
+            "name": "Mike Lamb",
+            "duty": "LSD lighting crew"
+        },
+        {
+            "name": "Pat Connolly",
+            "duty": "LSD lighting crew"
+        },
+        {
+            "name": "Gary Vaspol",
+            "duty": "LSD lighting crew"
+        }
+    ],
+    "buyer": {
+        "names": []
+    },
+    "schedule": [
+        {
+            "event": "Load In",
+            "time": "09:00"
+        },
+        {
+            "event": "Soundcheck",
+            "time": "15:30"
+        },
+        {
+            "event": "Doors",
+            "time": "18:30"
+        },
+        {
+            "event": "Boredoms Showtime",
+            "time": "19:30"
+        },
+        {
+            "event": "Meat Puppets Showtime",
+            "time": "20:15"
+        },
+        {
+            "event": "NIRVANA Showtime",
+            "time": "21:15"
+        }
+    ],
+    "soundcheck": [],
+    "soundcheck_incomplete": false,
+    "set": [
+        {
+            "type": "song",
+            "text": "Radio Friendly Unit Shifter",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "Drain You",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "Breed",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "About A Girl",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "Heart-Shaped Box",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "Sliver",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "Serve The Servants",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "Dumb",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "In Bloom",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "Come As You Are",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "Lithium",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "Pennyroyal Tea",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "School",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "Polly",
+            "notes": [
+                "acoustic"
+            ]
+        },
+        {
+            "type": "song",
+            "text": "Milk It",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "Rape Me",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "Territorial Pissings",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "All Apologies",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "Four Enclosed Walls",
+            "notes": [
+                "jam",
+                "Cobain on drums"
+            ]
+        },
+        {
+            "type": "song",
+            "text": "Jesus Wants Me For A Sunbeam",
+            "notes": [
+                "acoustic"
+            ]
+        },
+        {
+            "type": "song",
+            "text": "On A Plain",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "Scentless Apprentice",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "Blew",
+            "notes": []
+        }
+    ],
+    "set_incomplete": false,
+    "transmission": {},
+    "rehearsel_circulating_sources": [],
+    "circulating_sources": [
+        {
+            "name": "AUD #1",
+            "complete": true,
+            "equipment": "Core Sound Binaural > Sony WM-D6",
+            "generation": "ANA(M) > DAT(1) > FLAC",
+            "video-generation": null,
+            "audio-generation": null,
+            "length-sound": "96 min / 8.0",
+            "notes": [
+                "This upgrade was circulated in June 2007.",
+                "\"Pennyroyal Tea\" cuts off and the end noise fades out."
+            ]
+        },
+        {
+            "name": "AUD #2",
+            "complete": false,
+            "equipment": "Unknown > Unknown",
+            "generation": "ANA(M) > CDR",
+            "video-generation": null,
+            "audio-generation": null,
+            "length-sound": "62 min / 5.5",
+            "notes": [
+                "Missing \"Come As You Are\", \"Lithium\", and everything after \"All Apologies\".",
+                "\"Pennyroyal Tea\" cuts in."
+            ]
+        },
+        {
+            "name": "AUD #3",
+            "complete": true,
+            "equipment": "Aiwa > Aiwa",
+            "generation": "ANA(M) > FLAC",
+            "video-generation": null,
+            "audio-generation": null,
+            "length-sound": "90 min / 7.5",
+            "notes": [
+                "\"Pennyroyal Tea\" cuts in."
+            ]
+        },
+        {
+            "name": "AUD #4",
+            "complete": true,
+            "equipment": "Unknown > Unknown",
+            "generation": "ANA(x) > FLAC",
+            "video-generation": null,
+            "audio-generation": null,
+            "length-sound": "95 min / 7.0",
+            "notes": [
+                "Surfaced in April 2007.",
+                "\"Pennyroyal Tea\" cuts in slightly."
+            ]
+        },
+        {
+            "name": "AMT #1",
+            "complete": false,
+            "equipment": "Unknown > Unknown",
+            "generation": "VHS(1) > DVDR",
+            "video-generation": null,
+            "audio-generation": "VHS(1) > FLAC",
+            "length-sound": "90 min / 7.5",
+            "notes": [
+                "The circulating DVDR was remastered.",
+                "Amateur video, shot from an elevated position to the left of the stage.",
+                "Missing \"Radio Friendly Unit Shifter\".",
+                "\"Drain You\" cuts in."
+            ]
+        },
+        {
+            "name": "PRO CLIP #1",
+            "complete": false,
+            "equipment": "Unknown > Unknown",
+            "generation": "TV > VHS(x)",
+            "video-generation": null,
+            "audio-generation": null,
+            "length-sound": "30 sec / 8.5",
+            "notes": [
+                "PRO-shot video.",
+                "Brodcast on City TV News and MuchMusic on April 8, 1994.",
+                "Feature a very short clip of \"Heart-Shaped Box\" only, but is also possible that clips of \"Lithium\" were also broadcasted.",
+                "Has a reporter talking over the audio.",
+                "Not circulating widely."
+            ]
+        }
+    ],
+    "uncirculated_sources": [],
+    "notes": [
+        "For the \"In Bloom\" solo, Kurt took his guitar off, put it on the floor, and played the solo with his foot while Krist kneeled in front of him.",
+        "The jam on Public Image Ltd's \"Four Enclosed Walls\" featured Kurt on drums."
+    ],
+    "press": [],
+    "memorabilia": [
+        {
+            "url": "/concerts/images/1993/1993-11-04/1993-11-04_01.jpg",
+            "caption": "Ticket"
+        },
+        {
+            "url": "/concerts/images/1993/1993-11-04/1993-11-04_02.jpg",
+            "caption": "Advert"
+        },
+        {
+            "url": "/concerts/images/1993/1993-11-04/1993-11-04_03.jpg",
+            "caption": "Handwritten setlist"
+        },
+        {
+            "url": "/concerts/images/1993/1993-11-04/1993-11-04_04.jpg",
+            "caption": "Backstage pass"
+        },
+        {
+            "url": "/concerts/images/1993/1993-11-04/1993-11-04_05.jpg",
+            "caption": "Ticket"
+        },
+        {
+            "url": "concerts/images/1993/1993-11-04/1993-11-04_06.jpg",
+            "caption": "Nirvana's tour itinerary"
+        }
+    ],
+    "images": [
+        {
+            "url": "/concerts/images/1993/1993-11-04/1993-11-04_001.jpg",
+            "caption": "Photo by Graham Kennedy"
+        },
+        {
+            "url": "/concerts/images/1993/1993-11-04/1993-11-04_002.jpg",
+            "caption": "Unknown photographer"
+        },
+        {
+            "url": "/concerts/images/1993/1993-11-04/1993-11-04_003.jpg",
+            "caption": "Photo by Rob Robertson"
+        },
+        {
+            "url": "/concerts/images/1993/1993-11-04/1993-11-04_004.jpg",
+            "caption": "Photo by Rob Robertson"
+        },
+        {
+            "url": "/concerts/images/1993/1993-11-04/1993-11-04_005.jpg",
+            "caption": "Photo by Richard Beland"
+        },
+        {
+            "url": "/concerts/images/1993/1993-11-04/1993-11-04_006.jpg",
+            "caption": "Photo by Richard Beland"
+        },
+        {
+            "url": "/concerts/images/1993/1993-11-04/1993-11-04_007.jpg",
+            "caption": "Photo by Rob Robertson"
+        },
+        {
+            "url": "/concerts/images/1993/1993-11-04/1993-11-04_008.jpg",
+            "caption": "Photo by Alex Urosevic"
+        },
+        {
+            "url": "/concerts/images/1993/1993-11-04/1993-11-04_009.jpg",
+            "caption": "Unknown photographer"
+        },
+        {
+            "url": "/concerts/images/1993/1993-11-04/1993-11-04_010.jpg",
+            "caption": "Photo by Raj Rama"
+        },
+        {
+            "url": "/concerts/images/1993/1993-11-04/1993-11-04_011.jpg",
+            "caption": "Photo by Richard Beland"
+        },
+        {
+            "url": "/concerts/images/1993/1993-11-04/1993-11-04_012.jpg",
+            "caption": "Photo by Richard Beland"
+        },
+        {
+            "url": "/concerts/images/1993/1993-11-04/1993-11-04_013.jpg",
+            "caption": "Photo by Richard Beland"
+        },
+        {
+            "url": "/concerts/images/1993/1993-11-04/1993-11-04_014.jpg",
+            "caption": "Photo by Rob Robertson"
+        },
+        {
+            "url": "/concerts/images/1993/1993-11-04/1993-11-04_015.jpg",
+            "caption": "Photo by Rob Robertson"
+        },
+        {
+            "url": "/concerts/images/1993/1993-11-04/1993-11-04_016.jpg",
+            "caption": "Unknown photographer"
+        },
+        {
+            "url": "/concerts/images/1993/1993-11-04/1993-11-04_017.jpg",
+            "caption": "Photo by Darko"
+        },
+        {
+            "url": "/concerts/images/1993/1993-11-04/1993-11-04_018.jpg",
+            "caption": "Photo by Richard Beland"
+        },
+        {
+            "url": "/concerts/images/1993/1993-11-04/1993-11-04_019.jpg",
+            "caption": "Photo by Graham Kennedy"
+        },
+        {
+            "url": "/concerts/images/1993/1993-11-04/1993-11-04_020.jpg",
+            "caption": "Unknown photographer"
+        },
+        {
+            "url": "/concerts/images/1993/1993-11-04/1993-11-04_021.jpg",
+            "caption": "Photo by Rob Robertson"
+        },
+        {
+            "url": "/concerts/images/1993/1993-11-04/1993-11-04_022.jpg",
+            "caption": "Photo by Rob Robertson"
+        },
+        {
+            "url": "/concerts/images/1993/1993-11-04/1993-11-04_023.jpg",
+            "caption": "Photo by Rob Robertson"
+        },
+        {
+            "url": "/concerts/images/1993/1993-11-04/1993-11-04_024.jpg",
+            "caption": "Photo by Rob Robertson"
+        },
+        {
+            "url": "/concerts/images/1993/1993-11-04/1993-11-04_025.jpg",
+            "caption": "Photo by Rob Robertson"
+        },
+        {
+            "url": "/concerts/images/1993/1993-11-04/1993-11-04_026.jpg",
+            "caption": "Photo by Richard Beland"
+        },
+        {
+            "url": "/concerts/images/1993/1993-11-04/1993-11-04_027.jpg",
+            "caption": "Photo by Richard Beland"
+        },
+        {
+            "url": "/concerts/images/1993/1993-11-04/1993-11-04_028.jpg",
+            "caption": "Photo by Richard Beland"
+        },
+        {
+            "url": "/concerts/images/1993/1993-11-04/1993-11-04_029.jpg",
+            "caption": "Unknown photographer"
+        }
+    ],
+    "navigation": {
+        "previous": "93-11-02",
+        "next": "93-11-05"
+    },
+    "graph": {
+        "bleach": "3",
+        "nevermind": "8",
+        "inutero": "9",
+        "non": "2"
+    }
+}

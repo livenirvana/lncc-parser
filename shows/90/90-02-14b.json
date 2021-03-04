@@ -1,0 +1,275 @@
+{
+    "year": "1990",
+    "month": "02",
+    "day": "14",
+    "band": [
+        {
+            "NIRVANA": [
+                {
+                    "name": "Kurt Cobain ",
+                    "duty": "vocals, guitar"
+                },
+                {
+                    "name": "Krist Novoselic ",
+                    "duty": "bass"
+                },
+                {
+                    "name": "Chad Channing ",
+                    "duty": "drums"
+                }
+            ],
+            "type": "group"
+        }
+    ],
+    "crew": [],
+    "buyer": {
+        "names": [
+            "Anita Rivas"
+        ]
+    },
+    "schedule": [
+        {
+            "event": "Load In",
+            "time": "…:…"
+        },
+        {
+            "event": "Soundcheck",
+            "time": "…:…"
+        },
+        {
+            "event": "Doors",
+            "time": "21:00"
+        },
+        {
+            "event": "Dickless Showtime",
+            "time": "…:…"
+        },
+        {
+            "event": "The Legend! Showtime",
+            "time": "…:…"
+        },
+        {
+            "event": "TAD Showtime",
+            "time": "…:…"
+        },
+        {
+            "event": "NIRVANA Showtime",
+            "time": "…:…"
+        }
+    ],
+    "soundcheck": [],
+    "soundcheck_incomplete": false,
+    "set": [
+        {
+            "type": "song",
+            "text": "School",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "Floyd The Barber",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "Love Buzz",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "jam",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "Dive",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "Sappy",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "Spank Thru",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "About A Girl",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "Scoff",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "Polly",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "Breed",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "Molly's Lips",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "Been A Son",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "Stain",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "Negative Creep",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "Blew",
+            "notes": []
+        }
+    ],
+    "set_incomplete": false,
+    "transmission": {},
+    "rehearsel_circulating_sources": [],
+    "circulating_sources": [
+        {
+            "name": "AUD #1",
+            "complete": true,
+            "equipment": "Sony PC-62 > Sony WM-D3",
+            "generation": "ANA(2) > FLAC",
+            "video-generation": null,
+            "audio-generation": null,
+            "length-sound": "57 min / 8.0",
+            "notes": [
+                "In December 2011 a better sounding ANA(2) tape was circulated.",
+                "During \"Been A Son,\" the sound becomes distant and muffled while the taper goes to the restroom."
+            ]
+        },
+        {
+            "name": "AUD #2",
+            "complete": true,
+            "equipment": "Sony PC-62 > Sony WM-D3",
+            "generation": "ANA(M) > FLAC",
+            "video-generation": null,
+            "audio-generation": null,
+            "length-sound": "55 min / 8.5",
+            "notes": [
+                "In December 2004 the master was circulated."
+            ]
+        },
+        {
+            "name": "AMT #1a",
+            "complete": false,
+            "equipment": "Soundboard > Unknown",
+            "generation": "VHS(3) > DVDR/FLAC",
+            "video-generation": null,
+            "audio-generation": null,
+            "length-sound": "48 min / 9.0",
+            "notes": [
+                "Multi-camera video with soundboard audio.",
+                "Missing \"School\".",
+                "After going through the lineage, the 2nd generation tape turned out to be a 3rd generation."
+            ]
+        },
+        {
+            "name": "AMT #1b [soundboard audio from amateur video]",
+            "complete": false,
+            "equipment": "Soundboard > Unknown",
+            "generation": "VHS(2) > DAT(1) > FLAC",
+            "video-generation": null,
+            "audio-generation": null,
+            "length-sound": "47 min / 9.5",
+            "notes": [
+                "In November 2007 it was determined that the SBD #1 (ANA(2) > DAT(1) > FLAC) source is actually sourced from the video and was renumbered to AMT #1b.",
+                "Lower generation and higher quality, but less complete than AMT #1a and includes only the audio from the video.",
+                "Missing \"School\" and \"Blew\" cuts off after a minute and a half."
+            ]
+        }
+    ],
+    "uncirculated_sources": [],
+    "notes": [
+        "The jam after \"Love Buzz\" was the riff from the folk song on the Dressed For Success unofficial CD, from practice session of 1987-1988.",
+        "During the \"Spank Thru\" guitar solo, Kurt's guitar went out, and when he got it working again, the band lost their timing, resulting in Kurt not singing or playing the last chorus and the song ending in noise.",
+        "Before \"Blew,\" Krist totally destroyed his bass."
+    ],
+    "press": [],
+    "memorabilia": [
+        {
+            "url": "/concerts/images/1990/1990-02-14b/1990-02-14b_01.jpg",
+            "caption": "Flyer, designed by Seth Maxwell Malice"
+        },
+        {
+            "url": "/concerts/images/1990/1990-02-14b/1990-02-14b_02.jpg",
+            "caption": "Flyer, designed by Seth Maxwell Malice"
+        },
+        {
+            "url": "/concerts/images/1990/1990-02-14b/1990-02-14b_03.jpg",
+            "caption": "Advert"
+        },
+        {
+            "url": "/concerts/images/1990/1990-02-14b/1990-02-14b_04.jpg",
+            "caption": "Handwritten setlist"
+        },
+        {
+            "url": "/concerts/images/1990/1990-02-14b/1990-02-14b_05.jpg",
+            "caption": "Advert"
+        },
+        {
+            "url": "/concerts/images/1990/1990-02-14b/1990-02-14b_06.JPG",
+            "caption": "Flyer, designed by Seth Maxwell Malice"
+        },
+        {
+            "url": "/concerts/images/1990/1990-02-14b/1990-02-14b_07.jpg",
+            "caption": "SUB POP Fax"
+        },
+        {
+            "url": "/concerts/images/1990/1990-02-14b/1990-02-14b_08.jpg",
+            "caption": "Advert"
+        }
+    ],
+    "images": [
+        {
+            "url": "/concerts/images/1990/1990-02-14b/1990-02-14b_001.jpg",
+            "caption": "Unknown photographer"
+        },
+        {
+            "url": "/concerts/images/1990/1990-02-14b/1990-02-14b_002.jpg",
+            "caption": "Screencap of AMT #1"
+        },
+        {
+            "url": "/concerts/images/1990/1990-02-14b/1990-02-14b_003.jpg",
+            "caption": "Screencap of AMT #1"
+        },
+        {
+            "url": "/concerts/images/1990/1990-02-14b/1990-02-14b_004.jpg",
+            "caption": "Screencap of AMT #1"
+        },
+        {
+            "url": "/concerts/images/1990/1990-02-14b/1990-02-14b_005.jpg",
+            "caption": "Screencap of AMT #1"
+        }
+    ],
+    "navigation": {
+        "previous": "90-02-14a",
+        "next": "90-02-15"
+    },
+    "graph": {
+        "bleach": "7",
+        "nevermind": "2",
+        "inutero": "0",
+        "non": "6"
+    }
+}

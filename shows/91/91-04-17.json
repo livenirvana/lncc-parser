@@ -1,0 +1,297 @@
+{
+    "year": "1991",
+    "month": "04",
+    "day": "17",
+    "band": [
+        {
+            "NIRVANA": [
+                {
+                    "name": "Kurt Cobain ",
+                    "duty": "vocals, guitar"
+                },
+                {
+                    "name": "Krist Novoselic ",
+                    "duty": "bass"
+                },
+                {
+                    "name": "Dave Grohl ",
+                    "duty": "drums"
+                }
+            ],
+            "type": "group"
+        }
+    ],
+    "crew": [],
+    "buyer": {
+        "names": [
+            "Robin Taylor"
+        ],
+        "company": "Lobotomy Talent Group"
+    },
+    "schedule": [
+        {
+            "event": "Load In",
+            "time": "…:…"
+        },
+        {
+            "event": "Soundcheck",
+            "time": "…:…"
+        },
+        {
+            "event": "Doors",
+            "time": "…:…"
+        },
+        {
+            "event": "Bikini Kill Showtime",
+            "time": "…:…"
+        },
+        {
+            "event": "Fitz Of Depression Showtime",
+            "time": "…:…"
+        },
+        {
+            "event": "NIRVANA Showtime",
+            "time": "…:…"
+        }
+    ],
+    "soundcheck": [],
+    "soundcheck_incomplete": false,
+    "set": [
+        {
+            "type": "song",
+            "text": "Pennyroyal Tea",
+            "notes": [
+                "Cobain solo"
+            ]
+        },
+        {
+            "type": "song",
+            "text": "Polly",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "Big Cheese",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "Turnaround",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "Love Buzz",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "D-7",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "Blew",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "Been A Son",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "Stain",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "Libido",
+            "notes": [
+                "jam"
+            ]
+        },
+        {
+            "type": "song",
+            "text": "Negative Creep",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "About A Girl",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "Breed",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "Floyd The Barber",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "Verse Chorus Verse",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "Smells Like Teen Spirit",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "School",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "Dive",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "Territorial Pissings",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "Sliver",
+            "notes": []
+        }
+    ],
+    "set_incomplete": false,
+    "transmission": {},
+    "rehearsel_circulating_sources": [],
+    "circulating_sources": [
+        {
+            "name": "AMT #1a",
+            "complete": false,
+            "equipment": "Unknown > Unknown",
+            "generation": "VHS(1) > DVDR/FLAC",
+            "video-generation": null,
+            "audio-generation": null,
+            "length-sound": "64:10 min / 8.5",
+            "notes": [
+                "The circulating DVDR was remastered.",
+                "Amateur video, shot from the front left of the audience.",
+                "Less complete, lower quality but has less sound dropouts than AMT #1b.",
+                "Missing \"Pennyroyal Tea\" and \"Polly\" cuts in.",
+                "There is also a cut right before the beginning of \"Smells Like Teen Spirit\", which means Cobain's banter introducing the song is cut and the song is very slightly cut into.",
+                "There is a small drop out in \"Love Buzz\".",
+                "Part of \"Smells Like Teen Spirit\" appears on the official video release Hype!"
+            ]
+        },
+        {
+            "name": "AMT #1b",
+            "complete": false,
+            "equipment": "Unknown > Unknown",
+            "generation": "VHS(M) > DVDR(1) > Reauthor > DVDR",
+            "video-generation": null,
+            "audio-generation": null,
+            "length-sound": "64:21 min / 9.0",
+            "notes": [
+                "Amateur video, shot from the front left of the audience.",
+                "More complete and higher quality than AMT #1a but has additional sound dropouts during \"Love Buzz\", \"Blew\", \"About A Girl\", \"School\" and \"Dive\" which are not present on AMT #1a.",
+                "\"Pennyroyal Tea\" and \"Polly\" cuts in. Includes a five-second clip of \"Pennyroyal Tea\" and four extra seconds \"Polly\" that are missing from AMT #1a.",
+                "There is also a cut right before the beginning of \"Smells Like Teen Spirit\", which means Cobain's banter introducing the song is cut and the song is very slightly cut into.",
+                "There is a small drop out in \"Love Buzz\".",
+                "Part of \"Smells Like Teen Spirit\" appears on the official video release Hype!",
+                "Upgrade transfer from master tape circulated December 2020, but with transfer errors, requiring continued split source."
+            ]
+        },
+        {
+            "name": "AMT #2",
+            "complete": false,
+            "equipment": "Unknown > Unknown",
+            "generation": "Official DVD [With The Lights Out]",
+            "video-generation": null,
+            "audio-generation": null,
+            "length-sound": "15 min / 7.5",
+            "notes": [
+                "Multi camera video, with open mic audio.",
+                "Made up of three camera shots, one of which is that used to make AMT #1.",
+                "Features \"Pennyroyal Tea\" (slightly cut in), \"Smells Like Teen Spirit\" (with Cobain's introductory banter to the song) and \"Territorial Pissings\" only."
+            ]
+        }
+    ],
+    "uncirculated_sources": [
+        {
+            "name": "AMT #3",
+            "note": "Shot from Kurt's side of the stage. Some of this video's footage appears in AMT #2."
+        },
+        {
+            "name": "AMT #4",
+            "note": "Shot from the center of the back of the venue. Some of this video's footage appears in AMT #2."
+        },
+        {
+            "name": "AMT #5",
+            "note": "Equipment: unknown > JVC"
+        },
+        {
+            "name": "AMT #6",
+            "note": "At least one more person taped the concert."
+        }
+    ],
+    "notes": [
+        "Kurt performed \"Pennyroyal Tea\" by himself.",
+        "After \"Negative Creep,\" the band jammed on \"Libido\" by Naked Raygun and \"Wild Thing\" by The Troggs."
+    ],
+    "press": [],
+    "memorabilia": [
+        {
+            "url": "/concerts/images/1991/1991-04-17/1991-04-17_01.jpg",
+            "caption": "Handbill/Flyer, designed by Mark Bendix"
+        },
+        {
+            "url": "/concerts/images/1991/1991-04-17/1991-04-17_02.jpg",
+            "caption": "Handwritten setlist"
+        },
+        {
+            "url": "/concerts/images/1991/1991-04-17/1991-04-17_03.jpg",
+            "caption": "Handbill/Flyer, designed by unknown"
+        }
+    ],
+    "images": [
+        {
+            "url": "/concerts/images/1991/1991-04-17/1991-04-17_001.jpg",
+            "caption": "Photo by John Leach"
+        },
+        {
+            "url": "/concerts/images/1991/1991-04-17/1991-04-17_002.jpg",
+            "caption": "Screencap of AMT #1"
+        },
+        {
+            "url": "/concerts/images/1991/1991-04-17/1991-04-17_003.jpg",
+            "caption": "Screencap of AMT #1"
+        },
+        {
+            "url": "/concerts/images/1991/1991-04-17/1991-04-17_004.jpg",
+            "caption": "Screencap of AMT #1"
+        },
+        {
+            "url": "/concerts/images/1991/1991-04-17/1991-04-17_005.jpg",
+            "caption": "Screencap of AMT #1"
+        },
+        {
+            "url": "/concerts/images/1991/1991-04-17/1991-04-17_006.jpg",
+            "caption": "Screencap of AMT #1"
+        },
+        {
+            "url": "/concerts/images/1991/1991-04-17/1991-04-17_007.jpg",
+            "caption": "Screencap of AMT #1"
+        }
+    ],
+    "navigation": {
+        "previous": "91-04-13",
+        "next": "91-05-29"
+    },
+    "graph": {
+        "bleach": "7",
+        "nevermind": "4",
+        "inutero": "1",
+        "non": "7"
+    }
+}

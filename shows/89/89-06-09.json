@@ -1,0 +1,203 @@
+{
+    "year": "1989",
+    "month": "06",
+    "day": "09",
+    "band": [
+        {
+            "NIRVANA": [
+                {
+                    "name": "Kurt Cobain ",
+                    "duty": "vocals, guitar"
+                },
+                {
+                    "name": "Krist Novoselic ",
+                    "duty": "bass"
+                },
+                {
+                    "name": "Chad Channing ",
+                    "duty": "drums"
+                },
+                {
+                    "name": "Jason Everman ",
+                    "duty": "guitar"
+                }
+            ],
+            "type": "group"
+        }
+    ],
+    "crew": [],
+    "buyer": {
+        "names": []
+    },
+    "schedule": [
+        {
+            "event": "Load In",
+            "time": "…:…"
+        },
+        {
+            "event": "Soundcheck",
+            "time": "…:…"
+        },
+        {
+            "event": "Doors",
+            "time": "20:00"
+        },
+        {
+            "event": "NIRVANA Showtime",
+            "time": "…:…"
+        },
+        {
+            "event": "TAD Showtime",
+            "time": "…:…"
+        },
+        {
+            "event": "Mudhoney Showtime",
+            "time": "…:…"
+        }
+    ],
+    "soundcheck": [],
+    "soundcheck_incomplete": false,
+    "set": [
+        {
+            "type": "song",
+            "text": "Floyd The Barber",
+            "notes": []
+        },
+        {
+            "type": "banter",
+            "text": "?? ??",
+            "person": "Novoselic"
+        },
+        {
+            "type": "banter",
+            "text": "Yeah!",
+            "person": "Voice"
+        },
+        {
+            "type": "song",
+            "text": "Negative Creep",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "Blew",
+            "notes": []
+        }
+    ],
+    "set_incomplete": true,
+    "transmission": {},
+    "rehearsel_circulating_sources": [],
+    "circulating_sources": [
+        {
+            "name": "AMT #1",
+            "complete": false,
+            "equipment": "Built-in > Panasonic PV-330",
+            "generation": null,
+            "video-generation": "VHS(4) > DVDR",
+            "audio-generation": "VHS(3) > DAT(1) > FLAC",
+            "length-sound": "4:40 min / 6.0",
+            "notes": [
+                "In July 2004 \"Blew\" from the audio portion of a 3rd generation video tape was circulated and in 2006 a 4th generation video was transferred to DVD.",
+                "Includes only \"Blew,\" which cuts in, and the end of the concert.",
+                "Shot from the balcony."
+            ]
+        },
+        {
+            "name": "AMT #2",
+            "complete": false,
+            "equipment": "Unknown > Unknown",
+            "generation": "VHS(M) > DVDR(1) > MP4",
+            "video-generation": null,
+            "audio-generation": null,
+            "length-sound": "6:49 min / 8.5",
+            "notes": [
+                "Amateur video, shot from the back.",
+                "Sourced from an MP4 video file posted on YouTube in February 2008.",
+                "Feature only \"Negative Creep\", \"Blew\" and the end of the concert, which was all that was recorded."
+            ]
+        },
+        {
+            "name": "AMT CLIP #2",
+            "complete": false,
+            "equipment": "Unknown > Unknown",
+            "generation": "VHS(M) > Unknown > MP4",
+            "video-generation": null,
+            "audio-generation": null,
+            "length-sound": "30 sec / 8.5\n                                    Notes:\nAmateur video, shot from the back.\nDeleted scene from \"I'M NOW: The Story of Mudhoney\", sourced from an MP4 video file posted on YouTube in March 2013. Features \"Negative Creep\" only\nThe same source as AMT #2 but in better quality due to Professional quality encoding\n",
+            "notes": []
+        }
+    ],
+    "uncirculated_sources": [
+        {
+            "name": "AMT #3",
+            "note": "In the circulating amateur videos, someone can be seen video taping the show from the stage."
+        },
+        {
+            "name": "AMT #4",
+            "note": "A TV in the venue's bar was showing low-quality, black and white video of the show while the band was playing, so it's possible that it was recorded by the venue."
+        }
+    ],
+    "notes": [
+        "The band's sound was bad, but their performance was \"totally intense,\" according to a review.",
+        "At one point during the show, Kurt dove into the drum set and got his hair tangled in his guitar strings, then walked around the stage with the guitar dangling from his hair, according to attendees."
+    ],
+    "press": [],
+    "memorabilia": [
+        {
+            "url": "/concerts/images/1989/1989-06-09/1989-06-09_01.jpg",
+            "caption": "Handbill/Flyer, designed by unknown"
+        },
+        {
+            "url": "/concerts/images/1989/1989-06-09/1989-06-09_02.jpg",
+            "caption": "Handbill/Flyer, designed by unknown"
+        },
+        {
+            "url": "/concerts/images/1989/1989-06-09/1989-06-09_03.jpg",
+            "caption": "Advert"
+        },
+        {
+            "url": "/concerts/images/1989/1989-06-09/1989-06-09_04.jpg",
+            "caption": "Advert"
+        },
+        {
+            "url": "/concerts/images/1989/1989-06-09/1989-06-09_05.jpg",
+            "caption": "Ticket"
+        },
+        {
+            "url": "/concerts/images/1989/1989-06-09/1989-06-09_06.jpg",
+            "caption": "Advert"
+        },
+        {
+            "url": "/concerts/images/1989/1989-06-09/1989-06-09_07.jpg",
+            "caption": "Advert"
+        },
+        {
+            "url": "/concerts/images/1989/1989-06-09/1989-06-09_08.jpg",
+            "caption": "Advert"
+        }
+    ],
+    "images": [
+        {
+            "url": "/concerts/images/1989/1989-06-09/1989-06-09_001.jpg",
+            "caption": "Unknown photographer"
+        },
+        {
+            "url": "/concerts/images/1989/1989-06-09/1989-06-09_002.jpg",
+            "caption": "Screencap of AMT# 1"
+        },
+        {
+            "url": "/concerts/images/1989/1989-06-09/1989-06-09_003.jpg",
+            "caption": "Screencap of AMT# 2"
+        }
+    ],
+    "navigation": {
+        "previous": "89-05-26",
+        "next": "89-06-10"
+    },
+    "graph": {
+        "bleach": "3",
+        "nevermind": "0",
+        "inutero": "0",
+        "non": "0"
+    }
+}

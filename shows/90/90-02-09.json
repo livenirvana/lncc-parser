@@ -1,0 +1,257 @@
+{
+    "year": "1990",
+    "month": "02",
+    "day": "09",
+    "band": [
+        {
+            "NIRVANA": [
+                {
+                    "name": "Kurt Cobain ",
+                    "duty": "vocals, guitar"
+                },
+                {
+                    "name": "Krist Novoselic ",
+                    "duty": "bass"
+                },
+                {
+                    "name": "Chad Channing ",
+                    "duty": "drums"
+                }
+            ],
+            "type": "group"
+        }
+    ],
+    "crew": [],
+    "buyer": {
+        "names": [
+            "Mike Quinn"
+        ],
+        "company": "Monqui Presents"
+    },
+    "schedule": [
+        {
+            "event": "Load In",
+            "time": "…:…"
+        },
+        {
+            "event": "Soundcheck",
+            "time": "…:…"
+        },
+        {
+            "event": "Doors",
+            "time": "…:…"
+        },
+        {
+            "event": "Rawhead Rex Showtime",
+            "time": "…:…"
+        },
+        {
+            "event": "TAD Showtime",
+            "time": "…:…"
+        },
+        {
+            "event": "NIRVANA Showtime",
+            "time": "…:…"
+        },
+        {
+            "event": "The Legend! Showtime",
+            "time": "…:…"
+        },
+        {
+            "event": "Screaming Trees Showtime",
+            "time": "…:…"
+        }
+    ],
+    "soundcheck": [],
+    "soundcheck_incomplete": false,
+    "set": [
+        {
+            "type": "song",
+            "text": "School",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "Floyd The Barber",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "Dive",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "Love Buzz",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "Spank Thru",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "Molly's Lips",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "Sappy",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "Scoff",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "About A Girl",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "Been A Son",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "jam",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "Blew",
+            "notes": []
+        }
+    ],
+    "set_incomplete": false,
+    "transmission": {},
+    "rehearsel_circulating_sources": [],
+    "circulating_sources": [
+        {
+            "name": "SBD #1",
+            "complete": false,
+            "equipment": "Soundboard > Sony WM-D3",
+            "generation": "ANA(1) > DAT(1) > FLAC",
+            "video-generation": null,
+            "audio-generation": null,
+            "length-sound": "38 min / 8.0",
+            "notes": [
+                "Original live mix from the night of the show.",
+                "Missing the opening song, \"School\".",
+                "There is a cut during \"Scoff\" and the recording cuts out during the noise after \"Blew\"."
+            ]
+        },
+        {
+            "name": "SBD #2a",
+            "complete": false,
+            "equipment": "Soundboard > Unknown",
+            "generation": "Official CD [Sliver] > FLAC",
+            "video-generation": null,
+            "audio-generation": null,
+            "length-sound": "10 min / 10",
+            "notes": [
+                "Professionally mixed by Gary Held.",
+                "Includes only \"Spank Thru\" and \"About A Girl\"."
+            ]
+        },
+        {
+            "name": "SBD #2b",
+            "complete": false,
+            "equipment": "Soundboard > Unknown",
+            "generation": "Official 7\" [Molly's Lips] > FLAC",
+            "video-generation": null,
+            "audio-generation": null,
+            "length-sound": "05 min / 9.5",
+            "notes": [
+                "Professionally mixed by Gary Held.",
+                "Includes only \"Molly's Lips\"."
+            ]
+        },
+        {
+            "name": "SBD #3",
+            "complete": false,
+            "equipment": "Soundboard > Unknown",
+            "generation": "Official CD [Bleach - Deluxe Edition] > FLAC",
+            "video-generation": null,
+            "audio-generation": null,
+            "length-sound": "34 min / 10",
+            "notes": [
+                "Professionally remixed by Jack Endino.",
+                "Missing the jam and most between-song banter."
+            ]
+        },
+        {
+            "name": "SBD CLIP #2",
+            "complete": false,
+            "equipment": "Soundboard > Unknown",
+            "generation": "Official CD [Nevermind, It's An Interview] > FLAC",
+            "video-generation": null,
+            "audio-generation": null,
+            "length-sound": "50 sec / 10",
+            "notes": [
+                "Professionally mixed by Gary Held.",
+                "Feature a 50 seconds long clip of \"Molly's Lips\" and has talking over the first twenty seconds of the clip."
+            ]
+        },
+        {
+            "name": "PRO CLIP #1",
+            "complete": false,
+            "equipment": "Unknown > Unknown",
+            "generation": "TV > VHS(1) > DVDR",
+            "video-generation": null,
+            "audio-generation": null,
+            "length-sound": "45 sec / 7.5",
+            "notes": [
+                "It is believed that the show was recorded with multiple cameras due to the existence of clips from two camera angles and mention of a video crew being present in the UK weekly music newspaper Melody Maker.",
+                "Feature a 30 seconds long clip of \"Molly's Lips\" only, broadcasted on MTV Tribute To Nirvana.",
+                "Clips from a different angle, including one of Kurt smashing his guitar, appear on the Nirvana promotional TV special and \"You Know You're Right\" official video."
+            ]
+        }
+    ],
+    "uncirculated_sources": [],
+    "notes": [
+        "At the end of the concert Kurt Cobain smashed his green Fender Mustang beyond repair."
+    ],
+    "press": [],
+    "memorabilia": [
+        {
+            "url": "/concerts/images/1990/1990-02-09/1990-02-09_01.jpg",
+            "caption": "Poster, designed by Steven Birch (Mr. Steve)"
+        },
+        {
+            "url": "/concerts/images/1990/1990-02-09/1990-02-09_02.jpg",
+            "caption": "SUB POP Fax"
+        }
+    ],
+    "images": [
+        {
+            "url": "/concerts/images/1990/1990-02-09/1990-02-09_001.jpg",
+            "caption": "Screencap of PRO #1"
+        },
+        {
+            "url": "/concerts/images/1990/1990-02-09/1990-02-09_002.jpg",
+            "caption": "Screencap of PRO #1"
+        },
+        {
+            "url": "/concerts/images/1990/1990-02-09/1990-02-09_003.jpg",
+            "caption": "Screencap of PRO #1"
+        },
+        {
+            "url": "/concerts/images/1990/1990-02-09/1990-02-09_004.jpg",
+            "caption": "Screencap of PRO #1"
+        }
+    ],
+    "navigation": {
+        "previous": "90-01-20",
+        "next": "90-02-11"
+    },
+    "graph": {
+        "bleach": "6",
+        "nevermind": "0",
+        "inutero": "0",
+        "non": "5"
+    }
+}

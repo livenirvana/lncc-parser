@@ -1,0 +1,424 @@
+{
+    "year": "1991",
+    "month": "11",
+    "day": "19",
+    "venue": "November 19",
+    "city": "1991 - Teatro Castello",
+    "state": "Rome",
+    "country": "IT",
+    "band": [
+        {
+            "NIRVANA": [
+                {
+                    "name": "Kurt Cobain ",
+                    "duty": "vocals, guitar"
+                },
+                {
+                    "name": "Krist Novoselic ",
+                    "duty": "bass"
+                },
+                {
+                    "name": "Dave Grohl ",
+                    "duty": "drums, backing vocals"
+                }
+            ],
+            "type": "group"
+        }
+    ],
+    "crew": [
+        {
+            "name": "Alex MacLeod",
+            "duty": "tour manager"
+        },
+        {
+            "name": "Craig Montgomery",
+            "duty": "sound engineer"
+        },
+        {
+            "name": "Ian Beveridge",
+            "duty": "monitor engineer"
+        },
+        {
+            "name": "Nic Close",
+            "duty": "guitar technician"
+        }
+    ],
+    "buyer": {
+        "names": [
+            "Daniela Giombini"
+        ],
+        "company": "Subway Productions"
+    },
+    "schedule": [
+        {
+            "event": "Load In",
+            "time": "…:…"
+        },
+        {
+            "event": "Soundcheck",
+            "time": "…:…"
+        },
+        {
+            "event": "Doors",
+            "time": "21:30"
+        },
+        {
+            "event": "Urge Overkill Showtime",
+            "time": "…:…"
+        },
+        {
+            "event": "NIRVANA Showtime",
+            "time": "…:…"
+        }
+    ],
+    "soundcheck": [],
+    "soundcheck_incomplete": false,
+    "set": [
+        {
+            "type": "song",
+            "text": "Drain You",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "Aneurysm",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "School",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "Floyd The Barber",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "Smells Like Teen Spirit",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "About A Girl",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "Polly",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "Lithium",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "Sliver",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "Come As You Are",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "Breed",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "Been A Son",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "Negative Creep",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "On A Plain",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "Blew",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "Sifting",
+            "notes": [
+                "drum jam"
+            ]
+        },
+        {
+            "type": "song",
+            "text": "Rape Me",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "Spank Thru",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "Territorial Pissings",
+            "notes": []
+        }
+    ],
+    "set_incomplete": false,
+    "transmission": {},
+    "rehearsel_circulating_sources": [],
+    "circulating_sources": [
+        {
+            "name": "SBD #1a",
+            "complete": true,
+            "equipment": "Soundboard > Unknown",
+            "generation": "FM > ANA(2) > CDR",
+            "video-generation": null,
+            "audio-generation": null,
+            "length-sound": "59 min / 8.5",
+            "notes": [
+                "More complete, but lower quality than SBD #1b.",
+                "More complete, but lower quality and higher generation than SBD #1c.",
+                "Higher generation, but higher quality than SBD #1d toward the beginning of the show.",
+                "Has a different mix from SBD #2.",
+                "Has DJ talk over the beginnings of \"School\", \"About A Girl\", and \"Come As You Are\".",
+                "Broadcast on Italian FM radio."
+            ]
+        },
+        {
+            "name": "SBD #1b",
+            "complete": false,
+            "equipment": "Soundboard > Unknown",
+            "generation": "Unofficial CD [Seattle Sound, Sounds Great]",
+            "video-generation": null,
+            "audio-generation": null,
+            "length-sound": "58 min / 9.0",
+            "notes": [
+                "Less complete, but higher quality than SBD #1a and SBD #1d.",
+                "Unknown generation and lower quality, but includes all of \"Smells Like Teen Spirit\", unlike SBD #1c.",
+                "Has a different mix from SBD #2.",
+                "\"School\", \"About A Girl\", and \"Come As You Are\" cut in.",
+                "\"Spank Thru\" has a cut at the tail end (a huge chunk of the song is missing, but edited to sound smooth).",
+                "Has cuts between some songs.",
+                "Broadcast on Italian FM radio."
+            ]
+        },
+        {
+            "name": "SBD #1c",
+            "complete": true,
+            "equipment": "Soundboard > Unknown",
+            "generation": "DBS > FLAC",
+            "video-generation": null,
+            "audio-generation": null,
+            "length-sound": "60 min / 9.0",
+            "notes": [
+                "Less complete, but higher quality and lower generation than SBD #1a and SBD #1d.",
+                "Known generation and higher quality, but has a cut that is not present on SBD #1b.",
+                "Has a different mix from SBD #2.",
+                "Has a cut in \"Smells Like Teen Spirit\" due to damage to the tape used for the broadcast.",
+                "Has DJ talk over the beginnings of \"Lithium\", \"Blew\", and \"Rape Me\".",
+                "Theres a severe problem in RAI's transmission chain which reults in diginoise issues.",
+                "Broadcast on the Italian radio station Rai Radio 2 in November 2011."
+            ]
+        },
+        {
+            "name": "SBD #1d",
+            "complete": true,
+            "equipment": "Soundboard > Unknown",
+            "generation": "FM > ANA(1) > CDR(1) > FLAC",
+            "video-generation": null,
+            "audio-generation": null,
+            "length-sound": "59 min / 8.0",
+            "notes": [
+                "Lower generation, but lower quality than SBD #1a toward the beginning of the show.",
+                "More complete, but lower quality than SBD #1b.",
+                "More complete, but lower quality and higher generation than SBD #1c.",
+                "Has a different mix from SBD #2.",
+                "Has DJ talk over the beginnings of \"Smells Like Teen Spirit\", \"Lithium\", and \"Negative Creep\".",
+                "Broadcast on Italian FM radio."
+            ]
+        },
+        {
+            "name": "SBD #2",
+            "complete": false,
+            "equipment": "Soundboard > Unknown",
+            "generation": "Official CD [From The Muddy Banks Of The Wishkah]",
+            "video-generation": null,
+            "audio-generation": null,
+            "length-sound": "03 min / 10",
+            "notes": [
+                "Has a different mix from SBD #1a, SBD #1b, SBD #1c, and SBD #1d.",
+                "Includes only \"Spank Thru\"."
+            ]
+        },
+        {
+            "name": "PRO #1a",
+            "complete": false,
+            "equipment": "Soundboard > Unknown",
+            "generation": "TV > VHS(1) > DVDR/FLAC",
+            "video-generation": null,
+            "audio-generation": null,
+            "length-sound": "54 min / 9.5",
+            "notes": [
+                "Multi camera PRO-shot video, with soundboard audio, taped by VideoMusic.",
+                "Circulating copies have mono audio.",
+                "Missing \"Drain You\" and \"Rape Me\" cuts in.",
+                "The entire show was recorded, but \"Drain You\" was omitted from the broadcast due to high humidity fogging up the camera lenses and/or the first song often being used as a video/audio check."
+            ]
+        },
+        {
+            "name": "PRO #1b [audience audio from professional video]",
+            "complete": false,
+            "equipment": "Soundboard > Unknown",
+            "generation": "Unofficial CD [On A Plain]",
+            "video-generation": null,
+            "audio-generation": null,
+            "length-sound": "53 min / 9.5",
+            "notes": [
+                "Multi camera PRO-shot video, with soundboard audio, taped by VideoMusic.",
+                "Has stereo audio, unlike circulating copies of PRO #1a, but includes only the audio from the video.",
+                "Missing \"Drain You\" and \"Rape Me\" cuts in.",
+                "The entire show was recorded, but \"Drain You\" was omitted from the broadcast due to high humidity fogging up the camera lenses and/or the first song often being used as a video/audio check."
+            ]
+        }
+    ],
+    "uncirculated_sources": [],
+    "notes": [
+        "Before \"Rape Me,\" Dave jammed a bit on \"Sifting.\""
+    ],
+    "press": [],
+    "memorabilia": [
+        {
+            "url": "/concerts/images/1991/1991-11-19/1991-11-19_01.jpg",
+            "caption": "Advert"
+        },
+        {
+            "url": "/concerts/images/1991/1991-11-19/1991-11-19_02.jpg",
+            "caption": "Handbill/Flyer, designed by unknown"
+        },
+        {
+            "url": "/concerts/images/1991/1991-11-19/1991-11-19_03.jpg",
+            "caption": "Ticket"
+        },
+        {
+            "url": "/concerts/images/1991/1991-11-19/1991-11-19_04.jpg",
+            "caption": "Backstage pass"
+        },
+        {
+            "url": "/concerts/images/1991/1991-11-19/1991-11-19_05.jpg",
+            "caption": "Advert"
+        },
+        {
+            "url": "/concerts/images/1991/1991-11-19/1991-11-19_06.jpg",
+            "caption": "Backstage pass"
+        },
+        {
+            "url": "/concerts/images/1991/1991-11-19/1991-11-19_07.jpg",
+            "caption": "Handwritten setlist"
+        }
+    ],
+    "images": [
+        {
+            "url": "/concerts/images/1991/1991-11-19/1991-11-19_001.jpg",
+            "caption": "Photo by Fausto Ristori"
+        },
+        {
+            "url": "/concerts/images/1991/1991-11-19/1991-11-19_002.jpg",
+            "caption": "Photo by Fausto Ristori"
+        },
+        {
+            "url": "/concerts/images/1991/1991-11-19/1991-11-19_003.jpg",
+            "caption": "Photo by Fausto Ristori"
+        },
+        {
+            "url": "/concerts/images/1991/1991-11-19/1991-11-19_004.jpg",
+            "caption": "Photo by Fausto Ristori"
+        },
+        {
+            "url": "/concerts/images/1991/1991-11-19/1991-11-19_005.jpg",
+            "caption": "Photo by Fausto Ristori"
+        },
+        {
+            "url": "/concerts/images/1991/1991-11-19/1991-11-19_006.jpg",
+            "caption": "Photo by Fausto Ristori"
+        },
+        {
+            "url": "/concerts/images/1991/1991-11-19/1991-11-19_007.jpg",
+            "caption": "Unknown photographer"
+        },
+        {
+            "url": "/concerts/images/1991/1991-11-19/1991-11-19_008.jpg",
+            "caption": "Photo by Fausto Ristori"
+        },
+        {
+            "url": "/concerts/images/1991/1991-11-19/1991-11-19_009.jpg",
+            "caption": "Photo by Micaela Petroni"
+        },
+        {
+            "url": "/concerts/images/1991/1991-11-19/1991-11-19_010.jpg",
+            "caption": "Photo by Michael Petroni"
+        },
+        {
+            "url": "/concerts/images/1991/1991-11-19/1991-11-19_011.jpg",
+            "caption": "Photo by Fausto Ristori"
+        },
+        {
+            "url": "/concerts/images/1991/1991-11-19/1991-11-19_012.jpg",
+            "caption": "Photo by Fioralba Coci"
+        },
+        {
+            "url": "/concerts/images/1991/1991-11-19/1991-11-19_013.jpg",
+            "caption": "Photo by Marcello D' Andrea"
+        },
+        {
+            "url": "/concerts/images/1991/1991-11-19/1991-11-19_014.jpg",
+            "caption": "Unknown photographer"
+        },
+        {
+            "url": "/concerts/images/1991/1991-11-19/1991-11-19_015.jpg",
+            "caption": "Unknown photographer"
+        },
+        {
+            "url": "/concerts/images/1991/1991-11-19/1991-11-19_016.jpg",
+            "caption": "Photo by Marcello D' Andrea"
+        },
+        {
+            "url": "/concerts/images/1991/1991-11-19/1991-11-19_017.jpg",
+            "caption": "Photo by Marcello D' Andrea"
+        },
+        {
+            "url": "/concerts/images/1991/1991-11-19/1991-11-19_018.jpg",
+            "caption": "Photo by Marcello D' Andrea"
+        },
+        {
+            "url": "/concerts/images/1991/1991-11-19/1991-11-19_019.jpg",
+            "caption": "Unknown photographer"
+        },
+        {
+            "url": "/concerts/images/1991/1991-11-19/1991-11-19_020.jpg",
+            "caption": "Unknown photographer"
+        },
+        {
+            "url": "/concerts/images/1991/1991-11-19/1991-11-19_021.jpg",
+            "caption": "Unknown photographer"
+        }
+    ],
+    "navigation": {
+        "previous": "91-11-17",
+        "next": "91-11-20"
+    },
+    "graph": {
+        "bleach": "5",
+        "nevermind": "8",
+        "inutero": "1",
+        "non": "4"
+    }
+}

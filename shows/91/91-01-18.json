@@ -1,0 +1,420 @@
+{
+    "year": "1991",
+    "month": "01",
+    "day": "18",
+    "band": [
+        {
+            "NIRVANA": [
+                {
+                    "name": "Kurt Cobain ",
+                    "duty": "vocals, guitar"
+                },
+                {
+                    "name": "Krist Novoselic ",
+                    "duty": "bass"
+                },
+                {
+                    "name": "Dave Grohl ",
+                    "duty": "drums"
+                }
+            ],
+            "type": "group"
+        }
+    ],
+    "crew": [],
+    "buyer": {
+        "names": [
+            "Rob Campbell"
+        ]
+    },
+    "schedule": [
+        {
+            "event": "Load In",
+            "time": "…:…"
+        },
+        {
+            "event": "Soundcheck",
+            "time": "…:…"
+        },
+        {
+            "event": "Doors",
+            "time": "20:00"
+        },
+        {
+            "event": "The Four Squares Showtime",
+            "time": "…:…"
+        },
+        {
+            "event": "Goat Knut Showtime",
+            "time": "…:…"
+        },
+        {
+            "event": "Fitz Of Depression Showtime",
+            "time": "…:…"
+        },
+        {
+            "event": "Nubbin Showtime",
+            "time": "…:…"
+        },
+        {
+            "event": "Helltrout Showtime",
+            "time": "…:…"
+        },
+        {
+            "event": "NIRVANA Showtime",
+            "time": "…:…"
+        }
+    ],
+    "soundcheck": [],
+    "soundcheck_incomplete": false,
+    "set": [
+        {
+            "type": "banter",
+            "text": "Wasn’t World War 1 the war to end all wars? I feel sad about this contempt, and I really do I- I- I just can’t I- I just can’t get- you know. You know, I feel sad about this contempt, but don’t expect me to go flip off pro war protest- protesters like I’ve been flipped off cause I protested. And as I marched on I5 Tuesday, a person drove by yelling Suck my dick! Suck- You guys suck dick you all suck dick! You know? What kinda reaction is that? You know? What am I supposed to yell? Uh- uh, you suck toes! Uh, you fondle breasts! Uh, you nibble ears! But I didn’t say anything. You know, he was just part of the haters for hatred club.",
+            "person": "Novoselic"
+        },
+        {
+            "type": "song",
+            "text": "Aneurysm",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "Love Buzz",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "Breed",
+            "notes": []
+        },
+        {
+            "type": "banter",
+            "text": "Thanks a lot",
+            "person": "Novoselic"
+        },
+        {
+            "type": "song",
+            "text": "Stay Away",
+            "notes": []
+        },
+        {
+            "type": "banter",
+            "text": "if somebody has a lens on their glass and they say, Wilma Hogg (?) glasses are expensive because, you know, oh hey I was... I'll get plaintiff Ogan (?).They spent 30 million dollars in the last five months and a person, there's a lens right there, but if we have... ah... national health care we wouldn't worry about that, she'd get her glasses free you know (cuts) ...insurance, you might as well...(cuts) ...totally sick and then go in the emergency room and then you're just too far gone anyway. I think even Albania has national health care, so put that on ?? there.",
+            "person": "Novoselic"
+        },
+        {
+            "type": "banter",
+            "text": "I'll pay a dollar for a cup of water. One dollar for one cup of water, two' two dollars for one cup of water!",
+            "person": "Grohl"
+        },
+        {
+            "type": "song",
+            "text": "School",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "Floyd The Barber",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "Territorial Pissings",
+            "notes": []
+        },
+        {
+            "type": "banter",
+            "text": "Thanks a lot, hey!",
+            "person": "Novoselic"
+        },
+        {
+            "type": "banter",
+            "text": "We're experiencing technical difficulties",
+            "person": "Grohl"
+        },
+        {
+            "type": "banter",
+            "text": "Ready? We're playing a lot of new songs, we're sick of our old songs!",
+            "person": "Novoselic"
+        },
+        {
+            "type": "banter",
+            "text": "and this is the last song",
+            "person": "Cobain"
+        },
+        {
+            "type": "song",
+            "text": "Endless, Nameless",
+            "notes": []
+        }
+    ],
+    "set_incomplete": false,
+    "transmission": {},
+    "rehearsel_circulating_sources": [],
+    "circulating_sources": [
+        {
+            "name": "AMT #1a [audience audio from amateur video]",
+            "complete": false,
+            "equipment": "Unknown > Unknown",
+            "generation": "VHS(1) > MP3",
+            "video-generation": null,
+            "audio-generation": null,
+            "length-sound": "02:37 min / 8.0",
+            "notes": [
+                "Includes only the audio from the video. The video footage remains uncirculated.",
+                "Includes only \"School\" and a bit of dialogue from Krist about health care.",
+                "Circulating copies are sourced from a 96 kbps MP3 file.",
+                "The complete video is 33 minutes long and was shot from the left side of the stage.",
+                "Clips of the destruction can be found on the official release \"Kurt Cobain: Montage of Heck\"."
+            ]
+        },
+        {
+            "name": "AMT #1b",
+            "complete": false,
+            "equipment": "Unknown > Unknown",
+            "generation": null,
+            "video-generation": "VHS(1) > TV > VHS(3) > MiniDV(1) > DVDR",
+            "audio-generation": "VHS(1) > TV > VHS(3) > FLAC",
+            "length-sound": "03:12 min / 6.0",
+            "notes": [
+                "Includes only \"Breed\".",
+                "The complete video is 33 minutes long and was shot from the left side of the stage.",
+                "Broadcast on the show Mosher's Mayhem on TCTV, Olympia's public access channel.",
+                "\"Breed\", \"Stay Away\", and possibly more were broadcast on the show Mosher's Mayhem on TCTV, Olympia's public access channel.",
+                "Clips of the destruction can be found on the official release \"Kurt Cobain: Montage of Heck\"."
+            ]
+        },
+        {
+            "name": "AMT #1c",
+            "complete": false,
+            "equipment": "Unknown > Unknown",
+            "generation": "VHS(x) > Youtube",
+            "video-generation": null,
+            "audio-generation": null,
+            "length-sound": "09:05 min / ??",
+            "notes": [
+                "Video surfaced online March 2020.",
+                "Includes part of the band tuning and part of the Krist speech about the Gulf War.",
+                "\"Aneurysm\" (cuts in and out), \"Breed\" (cuts in), \"Stay Away\" (cuts in and out), \"School\" (cuts in and out), \"Territorial Pissings\" (cuts in) and \"Endless, Nameless\" (cut and cuts out). ",
+                "The complete video is 33 minutes long and was shot from the left side of the stage.",
+                "Clips of the destruction can be found on the official release \"Kurt Cobain: Montage of Heck\"."
+            ]
+        },
+        {
+            "name": "AUD CLIP #1",
+            "complete": false,
+            "equipment": "Unknown > Unknown",
+            "generation": "Unknown > MP3",
+            "video-generation": null,
+            "audio-generation": null,
+            "length-sound": "1:11 min / 8.0",
+            "notes": [
+                "This was posted anonymously on the internet in December 2002.",
+                "A short clip of \"Endless Nameless\" is circulating from what is suspected to be an unsurfaced analog audience recording.",
+                "This source is believed to be complete, but only a clip of \"Endless Nameless\" is circulating."
+            ]
+        }
+    ],
+    "uncirculated_sources": [
+        {
+            "name": "AMT #2",
+            "note": ""
+        },
+        {
+            "name": "AMT #3",
+            "note": "It is rumored that the show was recorded."
+        }
+    ],
+    "notes": [
+        "At the beginning of the show, Krist gave a speech on the Gulf War.",
+        "At the end of the concert Kurt Cobain smashed with a hammer his red Memphis Stratocaster beyond repair."
+    ],
+    "press": [],
+    "memorabilia": [
+        {
+            "url": "/concerts/images/1991/1991-01-18/1991-01-18_01.jpg",
+            "caption": "Handbill/Flyer, designed by unknown"
+        },
+        {
+            "url": "/concerts/images/1991/1991-01-18/1991-01-18_02.jpg",
+            "caption": "Ticket"
+        }
+    ],
+    "images": [
+        {
+            "url": "/concerts/images/1991/1991-01-18/1991-01-18_001.jpg",
+            "caption": "Unknown photographer"
+        },
+        {
+            "url": "/concerts/images/1991/1991-01-18/1991-01-18_002.jpg",
+            "caption": "Unknown photographer"
+        },
+        {
+            "url": "/concerts/images/1991/1991-01-18/1991-01-18_003.jpg",
+            "caption": "Unknown photographer"
+        },
+        {
+            "url": "/concerts/images/1991/1991-01-18/1991-01-18_004.jpg",
+            "caption": "Unknown photographer"
+        },
+        {
+            "url": "/concerts/images/1991/1991-01-18/1991-01-18_005.jpg",
+            "caption": "Photo by Justin Trosper"
+        },
+        {
+            "url": "/concerts/images/1991/1991-01-18/1991-01-18_006.jpg",
+            "caption": "Photo by Justin Trosper"
+        },
+        {
+            "url": "/concerts/images/1991/1991-01-18/1991-01-18_007.jpg",
+            "caption": "Photo by Justin Trosper"
+        },
+        {
+            "url": "/concerts/images/1991/1991-01-18/1991-01-18_008.jpg",
+            "caption": "Photo by Justin Trosperr"
+        },
+        {
+            "url": "/concerts/images/1991/1991-01-18/1991-01-18_009.jpg",
+            "caption": "Photo by Justin Trosper"
+        },
+        {
+            "url": "/concerts/images/1991/1991-01-18/1991-01-18_010.jpg",
+            "caption": "Photo by Justin Trosper"
+        },
+        {
+            "url": "/concerts/images/1991/1991-01-18/1991-01-18_011.jpg",
+            "caption": "Photo by Justin Trosper"
+        },
+        {
+            "url": "/concerts/images/1991/1991-01-18/1991-01-18_012.jpg",
+            "caption": "Photo by Justin Trosper"
+        },
+        {
+            "url": "/concerts/images/1991/1991-01-18/1991-01-18_013.jpg",
+            "caption": "Photo by Justin Trosper"
+        },
+        {
+            "url": "/concerts/images/1991/1991-01-18/1991-01-18_014.jpg",
+            "caption": "Photo by Justin Trosper"
+        },
+        {
+            "url": "/concerts/images/1991/1991-01-18/1991-01-18_015.jpg",
+            "caption": "Photo by Todd Minnich"
+        },
+        {
+            "url": "/concerts/images/1991/1991-01-18/1991-01-18_016.jpg",
+            "caption": "Photo by Todd Minnich"
+        },
+        {
+            "url": "/concerts/images/1991/1991-01-18/1991-01-18_017.jpg",
+            "caption": "Photo by Todd Minnich"
+        },
+        {
+            "url": "/concerts/images/1991/1991-01-18/1991-01-18_018.jpg",
+            "caption": "Photo by Todd Minnich"
+        },
+        {
+            "url": "/concerts/images/1991/1991-01-18/1991-01-18_019.jpg",
+            "caption": "Photo by Todd Minnich"
+        },
+        {
+            "url": "/concerts/images/1991/1991-01-18/1991-01-18_020.jpg",
+            "caption": "Photo by Todd Minnich"
+        },
+        {
+            "url": "/concerts/images/1991/1991-01-18/1991-01-18_021.jpg",
+            "caption": "Photo by Todd Minnich"
+        },
+        {
+            "url": "/concerts/images/1991/1991-01-18/1991-01-18_022.jpg",
+            "caption": "Photo by Todd Minnich"
+        },
+        {
+            "url": "/concerts/images/1991/1991-01-18/1991-01-18_023.jpg",
+            "caption": "Photo by Todd Minnich"
+        },
+        {
+            "url": "/concerts/images/1991/1991-01-18/1991-01-18_024.jpg",
+            "caption": "Photo by Todd Minnich"
+        },
+        {
+            "url": "/concerts/images/1991/1991-01-18/1991-01-18_025.jpg",
+            "caption": "Photo by Mike Nelson"
+        },
+        {
+            "url": "/concerts/images/1991/1991-01-18/1991-01-18_026.jpg",
+            "caption": "Photo by Johny Baltimore"
+        },
+        {
+            "url": "/concerts/images/1991/1991-01-18/1991-01-18_027.jpg",
+            "caption": "Photo by Johny Baltimore"
+        },
+        {
+            "url": "/concerts/images/1991/1991-01-18/1991-01-18_028.jpg",
+            "caption": "Photo by Johny Baltimore"
+        },
+        {
+            "url": "/concerts/images/1991/1991-01-18/1991-01-18_029.jpg",
+            "caption": "Photo by Johny Baltimore"
+        },
+        {
+            "url": "/concerts/images/1991/1991-01-18/1991-01-18_030.jpg",
+            "caption": "Photo by Johny Baltimore"
+        },
+        {
+            "url": "/concerts/images/1991/1991-01-18/1991-01-18_031.jpg",
+            "caption": "Photo by Johny Baltimore"
+        },
+        {
+            "url": "/concerts/images/1991/1991-01-18/1991-01-18_032.jpg",
+            "caption": "Photo by Johny Baltimore"
+        },
+        {
+            "url": "/concerts/images/1991/1991-01-18/1991-01-18_033.jpg",
+            "caption": "Photo by Johny Baltimore"
+        },
+        {
+            "url": "/concerts/images/1991/1991-01-18/1991-01-18_034.jpg",
+            "caption": "Photo by Johny Baltimore"
+        },
+        {
+            "url": "/concerts/images/1991/1991-01-18/1991-01-18_035.jpg",
+            "caption": "Photo by Johny Baltimore"
+        },
+        {
+            "url": "/concerts/images/1991/1991-01-18/1991-01-18_036.jpg",
+            "caption": "Photo by Johny Baltimore"
+        },
+        {
+            "url": "/concerts/images/1991/1991-01-18/1991-01-18_037.jpg",
+            "caption": "Photo by Johny Baltimore"
+        },
+        {
+            "url": "/concerts/images/1991/1991-01-18/1991-01-18_038.jpg",
+            "caption": "Photo by Johny Baltimore"
+        },
+        {
+            "url": "/concerts/images/1991/1991-01-18/1991-01-18_039.jpg",
+            "caption": "Screencap Of AMT #1"
+        },
+        {
+            "url": "/concerts/images/1991/1991-01-18/1991-01-18_040.jpg",
+            "caption": "Screencap Of AMT #1"
+        },
+        {
+            "url": "/concerts/images/1991/1991-01-18/1991-01-18_041.jpg",
+            "caption": "Screencap Of AMT #1"
+        }
+    ],
+    "navigation": {
+        "previous": "/concerts/90/90-12-31",
+        "next": "91-02-09"
+    },
+    "graph": {
+        "bleach": "3",
+        "nevermind": "4",
+        "inutero": "0",
+        "non": "1"
+    }
+}

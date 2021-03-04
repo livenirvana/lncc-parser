@@ -1,0 +1,235 @@
+{
+    "year": "1993",
+    "month": "12",
+    "day": "15",
+    "band": [
+        {
+            "NIRVANA": [
+                {
+                    "name": "Kurt Cobain ",
+                    "duty": "vocals, guitar"
+                },
+                {
+                    "name": "Krist Novoselic ",
+                    "duty": "bass"
+                },
+                {
+                    "name": "Dave Grohl ",
+                    "duty": "drums, backing vocals"
+                },
+                {
+                    "name": "Pat Smear ",
+                    "duty": "guitar"
+                },
+                {
+                    "name": "Lori Goldston ",
+                    "duty": "cello"
+                }
+            ],
+            "type": "group"
+        }
+    ],
+    "crew": [
+        {
+            "name": "Alex MacLeod",
+            "duty": "tour manager"
+        },
+        {
+            "name": "Jeff Mason",
+            "duty": "production manager"
+        },
+        {
+            "name": "Kelly Nase",
+            "duty": "tour accountant"
+        },
+        {
+            "name": "Susanne Sasic",
+            "duty": "lighting designer"
+        },
+        {
+            "name": "Craig Overbay",
+            "duty": "sound engineer"
+        },
+        {
+            "name": "Ian Beveridge",
+            "duty": "monitor engineer"
+        },
+        {
+            "name": "Jim Vincent",
+            "duty": "guitar technician"
+        },
+        {
+            "name": "John Duncan",
+            "duty": "guitar technician"
+        },
+        {
+            "name": "Mike Dalke",
+            "duty": "drum technician"
+        },
+        {
+            "name": "Ed Swink",
+            "duty": "stage manager"
+        },
+        {
+            "name": "Allan Bagley",
+            "duty": "Pro Show sound crew"
+        },
+        {
+            "name": "Tom Pfaeffle",
+            "duty": "Pro Show sound crew"
+        },
+        {
+            "name": "Niko Vonk",
+            "duty": "Pro Show sound crew"
+        },
+        {
+            "name": "Mike Lamb",
+            "duty": "LSD lighting crew"
+        },
+        {
+            "name": "Pat Connolly",
+            "duty": "LSD lighting crew"
+        },
+        {
+            "name": "Gary Vaspol",
+            "duty": "LSD lighting crew"
+        }
+    ],
+    "buyer": {
+        "names": [
+            "Mike Quinn",
+            "Ken Deans"
+        ],
+        "company": "Monqui Presents"
+    },
+    "schedule": [
+        {
+            "event": "Load In",
+            "time": "09:00"
+        },
+        {
+            "event": "Soundcheck",
+            "time": "15:30"
+        },
+        {
+            "event": "Doors",
+            "time": "18:30"
+        },
+        {
+            "event": "Melvins Showtime",
+            "time": "20:00"
+        },
+        {
+            "event": "Breeders Showtime",
+            "time": "20:45"
+        },
+        {
+            "event": "NIRVANA Showtime",
+            "time": "21:45"
+        }
+    ],
+    "soundcheck": [],
+    "soundcheck_incomplete": false,
+    "set": [
+        {
+            "type": "song",
+            "text": "Radio Friendly Unit Shifter",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "Smells Like Teen Spirit",
+            "notes": [
+                "part of"
+            ]
+        },
+        {
+            "type": "song",
+            "text": "Pennyroyal Tea",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "School",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "Frances Farmer Will Have Her Revenge On Seattle",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "On A Plain",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "Heart-Shaped Box",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "Endless, Nameless",
+            "notes": []
+        }
+    ],
+    "set_incomplete": true,
+    "transmission": {},
+    "rehearsel_circulating_sources": [],
+    "circulating_sources": [],
+    "uncirculated_sources": [],
+    "notes": [
+        "The show was about 80 minutes long, according to a review.",
+        "At the beginning of the show, Kurt reportedly told the crowd to fold up the chairs that had been set up on the floor and pass them forward, resulting in chairs strewn all over the place. After that, he preached sarcastically to the crowd: \"Now remember, don't leave your seats”. At one point, the band also incited a bunch of people to jump over a barrier onto the main floor, according to attendees.",
+        "They did stop playing in the middle of \"Smells Like Teen Spirit\", according to an attendee."
+    ],
+    "press": [
+        {
+            "text": "Review from a USA newspaper called \"The Idaho Statesman\", published in 12/16/1993.",
+            "url": "/concerts/images/1993/1993-12-15/1993-12-15_01_review.jpg"
+        }
+    ],
+    "memorabilia": [
+        {
+            "url": "/concerts/images/1993/1993-12-15/1993-12-15_01.jpg",
+            "caption": "Backstage pass"
+        },
+        {
+            "url": "/concerts/images/1993/1993-12-15/1993-12-15_02.jpg",
+            "caption": "Ticket"
+        },
+        {
+            "url": "/concerts/images/1993/1993-12-15/1993-12-15_03.jpg",
+            "caption": "Advert"
+        },
+        {
+            "url": "/concerts/images/1993/1993-12-15/1993-12-15_04.jpg",
+            "caption": "Advert"
+        },
+        {
+            "url": "/concerts/images/1993/1993-12-15/1993-12-15_05.jpg",
+            "caption": "Nirvana's tour itinerary"
+        }
+    ],
+    "images": [
+        {
+            "url": "/concerts/images/1993/1993-12-15/1993-12-15_001.jpg",
+            "caption": "Photo by Katherine Jones"
+        },
+        {
+            "url": "/concerts/images/1993/1993-12-15/1993-12-15_002.jpg",
+            "caption": "Photo by Katherine Jones"
+        }
+    ],
+    "navigation": {
+        "previous": "93-12-14",
+        "next": "93-12-16"
+    },
+    "graph": {
+        "bleach": "1",
+        "nevermind": "3",
+        "inutero": "4",
+        "non": "0"
+    }
+}

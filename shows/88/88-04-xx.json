@@ -1,0 +1,97 @@
+{
+    "year": "1988",
+    "month": "04",
+    "day": "xx",
+    "band": [
+        {
+            "NIRVANA": [
+                {
+                    "name": "Kurt Cobain ",
+                    "duty": "vocals, guitar"
+                },
+                {
+                    "name": "Krist Novoselic ",
+                    "duty": "bass"
+                },
+                {
+                    "name": "Dave Foster ",
+                    "duty": "drums"
+                }
+            ],
+            "type": "group"
+        }
+    ],
+    "crew": [
+        {
+            "name": "Jim Anderson",
+            "duty": "sound engineer"
+        }
+    ],
+    "buyer": {
+        "names": [
+            "Jan Gregor"
+        ]
+    },
+    "schedule": [
+        {
+            "event": "Load In",
+            "time": "…:…"
+        },
+        {
+            "event": "Soundcheck",
+            "time": "…:…"
+        },
+        {
+            "event": "Doors",
+            "time": "…:…"
+        },
+        {
+            "event": "NIRVANA Showtime",
+            "time": "…:…"
+        },
+        {
+            "event": "Act 2 Showtime",
+            "time": "…:…"
+        },
+        {
+            "event": "Act 3 Showtime",
+            "time": "…:…"
+        }
+    ],
+    "soundcheck": [],
+    "soundcheck_incomplete": false,
+    "set": [
+        {
+            "type": "song",
+            "text": "Love Buzz",
+            "notes": []
+        }
+    ],
+    "set_incomplete": true,
+    "transmission": {},
+    "rehearsel_circulating_sources": [],
+    "circulating_sources": [],
+    "uncirculated_sources": [],
+    "notes": [
+        "This was the band's first show in Seattle. Many sources cite the 04/24/88 show at The Vogue as the band's first Seattle show, but both Jonathan Poneman and Bruce Pavitt separately insist that this show took place first.",
+        "Only Jonathan Poneman, Bruce Pavitt, and a few other people were in attendance."
+    ],
+    "press": [],
+    "memorabilia": [
+        {
+            "url": "/concerts/images/noimage.jpg",
+            "caption": "No images found for this performance."
+        }
+    ],
+    "images": [],
+    "navigation": {
+        "previous": "88-xx-xx",
+        "next": "88-04-24"
+    },
+    "graph": {
+        "bleach": "1",
+        "nevermind": "0",
+        "inutero": "0",
+        "non": "0"
+    }
+}

@@ -1,0 +1,761 @@
+{
+    "year": "1989",
+    "month": "11",
+    "day": "05",
+    "venue": "November 5",
+    "city": "1989 - Melkweg",
+    "state": "Amsterdam",
+    "country": "NL",
+    "band": [
+        {
+            "NIRVANA": [
+                {
+                    "name": "Kurt Cobain ",
+                    "duty": "vocals, guitar"
+                },
+                {
+                    "name": "Krist Novoselic ",
+                    "duty": "bass"
+                },
+                {
+                    "name": "Chad Channing ",
+                    "duty": "drums"
+                }
+            ],
+            "type": "group"
+        }
+    ],
+    "crew": [
+        {
+            "name": "Edwin Heath",
+            "duty": "tour manager"
+        },
+        {
+            "name": "Craig Montgomery",
+            "duty": "sound engineer"
+        }
+    ],
+    "buyer": {
+        "names": [
+            "John van Luyn"
+        ]
+    },
+    "schedule": [
+        {
+            "event": "Load In",
+            "time": "16:00"
+        },
+        {
+            "event": "Soundcheck",
+            "time": "16:30"
+        },
+        {
+            "event": "Doors",
+            "time": "21:00"
+        },
+        {
+            "event": "NIRVANA Showtime",
+            "time": "22:15"
+        },
+        {
+            "event": "TAD Showtime",
+            "time": "…:…"
+        }
+    ],
+    "soundcheck": [],
+    "soundcheck_incomplete": false,
+    "set": [
+        {
+            "type": "song",
+            "text": "School",
+            "notes": []
+        },
+        {
+            "type": "banter",
+            "text": "What bird call was that?",
+            "person": "Novoselic"
+        },
+        {
+            "type": "banter",
+            "text": "What's your telephone number?",
+            "person": "Voice"
+        },
+        {
+            "type": "banter",
+            "text": "2468772",
+            "person": "Voice"
+        },
+        {
+            "type": "banter",
+            "text": "Hey, how's it going?",
+            "person": "Voice"
+        },
+        {
+            "type": "song",
+            "text": "Scoff",
+            "notes": []
+        },
+        {
+            "type": "banter",
+            "text": "Playing with another guy",
+            "person": "Voice"
+        },
+        {
+            "type": "banter",
+            "text": "Long red hair, who jumps all over the stage",
+            "person": "Voice"
+        },
+        {
+            "type": "banter",
+            "text": "Where is he?",
+            "person": "Voice"
+        },
+        {
+            "type": "banter",
+            "text": "I don't know, he's not there",
+            "person": "Voice"
+        },
+        {
+            "type": "banter",
+            "text": "What's his name?",
+            "person": "Voice"
+        },
+        {
+            "type": "banter",
+            "text": "I don't know what his name is",
+            "person": "Voice"
+        },
+        {
+            "type": "song",
+            "text": "Love Buzz",
+            "notes": []
+        },
+        {
+            "type": "banter",
+            "text": "Who's hair was pretty?",
+            "person": "Novoselic"
+        },
+        {
+            "type": "banter",
+            "text": "The birds!",
+            "person": "Voice"
+        },
+        {
+            "type": "banter",
+            "text": "my hair was pretty",
+            "person": "Cobain"
+        },
+        {
+            "type": "banter",
+            "text": "Who asked you anyway?",
+            "person": "Novoselic"
+        },
+        {
+            "type": "song",
+            "text": "Floyd The Barber",
+            "notes": []
+        },
+        {
+            "type": "banter",
+            "text": "This is kind of a new song",
+            "person": "Novoselic"
+        },
+        {
+            "type": "song",
+            "text": "Dive",
+            "notes": []
+        },
+        {
+            "type": "banter",
+            "text": "Chris, hey play a song for Reko/Muse eh?",
+            "person": "Voice"
+        },
+        {
+            "type": "banter",
+            "text": "I recognise you!",
+            "person": "Cobain"
+        },
+        {
+            "type": "banter",
+            "text": "Yeah I saw you, Reko/Muse eh?",
+            "person": "Voice"
+        },
+        {
+            "type": "banter",
+            "text": "OK this is for Reko/Muse. This song's called Polly",
+            "person": "Cobain"
+        },
+        {
+            "type": "song",
+            "text": "Polly",
+            "notes": []
+        },
+        {
+            "type": "banter",
+            "text": "Where did you get that T-shirt?",
+            "person": "Voice"
+        },
+        {
+            "type": "banter",
+            "text": "Are you from Seattle?",
+            "person": "Voice"
+        },
+        {
+            "type": "banter",
+            "text": "No, from Canada",
+            "person": "Voice"
+        },
+        {
+            "type": "banter",
+            "text": "I'm from Seattle",
+            "person": "Voice"
+        },
+        {
+            "type": "banter",
+            "text": "Are you?",
+            "person": "Voice"
+        },
+        {
+            "type": "banter",
+            "text": "Yeah, you saw them in C.O.C.A., you saw them in C.O.C.A, C.O.C.A.? Contemporary ...",
+            "person": "Voice"
+        },
+        {
+            "type": "song",
+            "text": "Big Cheese",
+            "notes": []
+        },
+        {
+            "type": "banter",
+            "text": "Did you see them in Seattle?",
+            "person": "Voice"
+        },
+        {
+            "type": "banter",
+            "text": "What?",
+            "person": "Voice"
+        },
+        {
+            "type": "banter",
+            "text": "Did you see them in Seattle?",
+            "person": "Voice"
+        },
+        {
+            "type": "banter",
+            "text": "Yeah",
+            "person": "Voice"
+        },
+        {
+            "type": "banter",
+            "text": "Where? At The Vogue?",
+            "person": "Voice"
+        },
+        {
+            "type": "banter",
+            "text": "I didn't see the whole thing, I erm ...",
+            "person": "Voice"
+        },
+        {
+            "type": "banter",
+            "text": "Where at The Vogue? At The Vogue?",
+            "person": "Voice"
+        },
+        {
+            "type": "banter",
+            "text": "Um, the little place where you walk up the stairs, you know the place?",
+            "person": "Voice"
+        },
+        {
+            "type": "banter",
+            "text": "No, I don't know that little place!",
+            "person": "Voice"
+        },
+        {
+            "type": "banter",
+            "text": "Where were you?",
+            "person": "Voice"
+        },
+        {
+            "type": "banter",
+            "text": "Oh that's you ...",
+            "person": "Voice"
+        },
+        {
+            "type": "song",
+            "text": "Spank Thru",
+            "notes": []
+        },
+        {
+            "type": "jam",
+            "text": "jam bass jam",
+            "notes": [
+                "bass jam"
+            ]
+        },
+        {
+            "type": "banter",
+            "text": "We're gonna see if we can get them to play at this squat where I've been staying, have you heard of The Island?",
+            "person": "Voice"
+        },
+        {
+            "type": "banter",
+            "text": "The what?",
+            "person": "Voice"
+        },
+        {
+            "type": "banter",
+            "text": "The ??, it's a 20 minute bus and you go down until you get to the water and you get off there, anyway, there's a bunch of squats there and there's a bar with a PA system",
+            "person": "Voice"
+        },
+        {
+            "type": "banter",
+            "text": "??",
+            "person": "Voice"
+        },
+        {
+            "type": "banter",
+            "text": "Well, I don't know if that'll happen, but who knows what will happen between now and then, but remember the 28, It's called ...",
+            "person": "Voice"
+        },
+        {
+            "type": "banter",
+            "text": "Do I catch the err ... bus",
+            "person": "Voice"
+        },
+        {
+            "type": "banter",
+            "text": "Yeah, Central Station, take the 28, it goes down a ways. It goes over some railroad tracks, turns to the left. The next stop is where this place is and it's a big pier with a bunch of caravans on it and buses. Anyway we're gonna see if we can get them to play tomorrow night",
+            "person": "Voice"
+        },
+        {
+            "type": "banter",
+            "text": "Tonight?",
+            "person": "Voice"
+        },
+        {
+            "type": "banter",
+            "text": "No, no, no",
+            "person": "Voice"
+        },
+        {
+            "type": "banter",
+            "text": "Tomorrow?",
+            "person": "Voice"
+        },
+        {
+            "type": "banter",
+            "text": "Well maybe tonight, but hopefully tomorrow night. They said they have a day off tomorrow, so maybe they can come down?",
+            "person": "Voice"
+        },
+        {
+            "type": "song",
+            "text": "About A Girl",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "Mr. Moustache",
+            "notes": []
+        },
+        {
+            "type": "banter",
+            "text": "Yeah, yeah",
+            "person": "Voice"
+        },
+        {
+            "type": "banter",
+            "text": "At least 10 more",
+            "person": "Voice"
+        },
+        {
+            "type": "banter",
+            "text": "Too long intermissions!",
+            "person": "Voice"
+        },
+        {
+            "type": "banter",
+            "text": "Just tuning guitars. Just smack him one! Please!",
+            "person": "Novoselic"
+        },
+        {
+            "type": "song",
+            "text": "Even In His Youth",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "Breed",
+            "notes": []
+        },
+        {
+            "type": "jam",
+            "text": "jam bass jam",
+            "notes": [
+                "bass jam"
+            ]
+        },
+        {
+            "type": "song",
+            "text": "Been A Son",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "Stain",
+            "notes": [
+                "part of"
+            ]
+        },
+        {
+            "type": "song",
+            "text": "jam",
+            "notes": []
+        },
+        {
+            "type": "banter",
+            "text": "This is our new album in finer stores near you",
+            "person": "Cobain"
+        },
+        {
+            "type": "banter",
+            "text": "Hey, what about Slim?",
+            "person": "Voice"
+        },
+        {
+            "type": "banter",
+            "text": "What?",
+            "person": "Cobain"
+        },
+        {
+            "type": "banter",
+            "text": "Slim",
+            "person": "Voice"
+        },
+        {
+            "type": "banter",
+            "text": "This is Chris, that's Chad, that's me!",
+            "person": "Cobain"
+        },
+        {
+            "type": "banter",
+            "text": "Where's the guy with the long red hair?",
+            "person": "Voice"
+        },
+        {
+            "type": "banter",
+            "text": "It's not Chris",
+            "person": "Cobain"
+        },
+        {
+            "type": "banter",
+            "text": "?? or is it just a joke?",
+            "person": "Voice"
+        },
+        {
+            "type": "banter",
+            "text": "Aaaah rental equipment!",
+            "person": "Cobain"
+        },
+        {
+            "type": "jam",
+            "text": "jam bass jam",
+            "notes": [
+                "bass jam"
+            ]
+        },
+        {
+            "type": "banter",
+            "text": "if it ain't Japanese don't buy it!",
+            "person": "Novoselic"
+        },
+        {
+            "type": "banter",
+            "text": "This equipment was rented in your country!",
+            "person": "Cobain"
+        },
+        {
+            "type": "jam",
+            "text": "Been A Son guitar line",
+            "notes": [
+                "guitar line"
+            ]
+        },
+        {
+            "type": "jam",
+            "text": "Stain guitar false start",
+            "notes": [
+                "guitar",
+                "false start"
+            ]
+        },
+        {
+            "type": "song",
+            "text": "Stain",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "Negative Creep",
+            "notes": []
+        },
+        {
+            "type": "banter",
+            "text": "Thanks a lot, thank you all for coming... you're a great crowd! We love you all and er' you were dynamite tonight and er' every time we come to Amsterdam it's a real big pleasure. You guys are er' were super, you were super!",
+            "person": "Novoselic"
+        },
+        {
+            "type": "song",
+            "text": "Blew",
+            "notes": []
+        },
+        {
+            "type": "banter",
+            "text": "I'm sorry that we left for so long",
+            "person": "Novoselic"
+        },
+        {
+            "type": "banter",
+            "text": "That really was an intentional um' encore I think, what you call it, is that an encore? And they take off and act like rock stars and then come back, well actually I thought we were out of songs, but you reminded me of one more",
+            "person": "Cobain"
+        },
+        {
+            "type": "banter",
+            "text": "What is this? Give me ?? ?? This is a new song, we don't know what to think of it",
+            "person": "Novoselic"
+        },
+        {
+            "type": "song",
+            "text": "Token Eastern Song",
+            "notes": []
+        },
+        {
+            "type": "banter",
+            "text": "Never use Gibson heads",
+            "person": "Novoselic"
+        },
+        {
+            "type": "banter",
+            "text": "Craig, I'm gonna unplug the MXR and er' and my bass for a second so' got me!",
+            "person": "Novoselic"
+        },
+        {
+            "type": "banter",
+            "text": "You'd better watch your gear",
+            "person": "Cobain"
+        },
+        {
+            "type": "song",
+            "text": "Vendetagainst",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "jam",
+            "notes": []
+        }
+    ],
+    "set_incomplete": false,
+    "transmission": {},
+    "rehearsel_circulating_sources": [],
+    "circulating_sources": [
+        {
+            "name": "AUD #1a",
+            "complete": false,
+            "equipment": "Unknown > Unknown",
+            "generation": "ANA(2) > FLAC",
+            "video-generation": null,
+            "audio-generation": null,
+            "length-sound": "69 min / 8.5",
+            "notes": [
+                "Higher quality, but less complete than AUD #1b.",
+                "\"School\", \"Stain\" (jam), \"Stain\" and \"Vendetagainst\" all cut in or cut, whilst \"Been A Son\" fades out."
+            ]
+        },
+        {
+            "name": "AUD #1b",
+            "complete": false,
+            "equipment": "Unknown > Unknown",
+            "generation": "Unnofficial CD [Help Me, I'm Hungry] > FLAC",
+            "video-generation": null,
+            "audio-generation": null,
+            "length-sound": "73 min / 6.5",
+            "notes": [
+                "Lower quality, but more complete than AUD #1a.",
+                "Slightly more complete, having cuts in different places.",
+                "\"School\" (cuts in more than AUD #1a), \"Spank Thru\" (cuts in/tape errors), \"Been A Son\" (cuts out), \"Stain\" (cuts in less than AUD #1a) and \"Vendetagainst\" (cuts in)."
+            ]
+        },
+        {
+            "name": "AUD #2",
+            "complete": true,
+            "equipment": "Unknown > Unknown",
+            "generation": "ANA(x) > FLAC",
+            "video-generation": null,
+            "audio-generation": null,
+            "length-sound": "84 min / 8.0",
+            "notes": [
+                "Surfaced in February 2007."
+            ]
+        }
+    ],
+    "uncirculated_sources": [],
+    "notes": [
+        "During the first performance of \"Stain\" Kurt stopped playing because of sound problems with his guitar..\n                                    During the \"Stain\" jam, Krist sang a bit of \"Funkytown\" by Lipps, Inc.\n",
+        "During the \"Stain\" jam, Krist sang a bit of \"Funkytown\" by Lipps, Inc."
+    ],
+    "press": [],
+    "memorabilia": [
+        {
+            "url": "/concerts/images/1989/1989-11-05/1989-11-05_01.jpg",
+            "caption": "Nirvana's tour itinerary"
+        },
+        {
+            "url": "/concerts/images/1989/1989-11-05/1989-11-05_02.jpg",
+            "caption": "Nirvana's tour itinerary"
+        },
+        {
+            "url": "/concerts/images/1989/1989-11-05/1989-11-05_03.jpg",
+            "caption": "Nirvana's tour itinerary"
+        },
+        {
+            "url": "/concerts/images/1989/1989-11-05/1989-11-05_04.jpg",
+            "caption": "Advert"
+        },
+        {
+            "url": "/concerts/images/1989/1989-11-05/1989-11-05_05.jpg",
+            "caption": "Advert"
+        },
+        {
+            "url": "/concerts/images/1989/1989-11-05/1989-11-05_06.JPG",
+            "caption": "Advert"
+        }
+    ],
+    "images": [
+        {
+            "url": "/concerts/images/1989/1989-11-05/1989-11-05_001.jpg",
+            "caption": "Photo Eelco Miedema"
+        },
+        {
+            "url": "/concerts/images/1989/1989-11-05/1989-11-05_002.jpg",
+            "caption": "Photo Eelco Miedema"
+        },
+        {
+            "url": "/concerts/images/1989/1989-11-05/1989-11-05_003.jpg",
+            "caption": "Photo Eelco Miedema"
+        },
+        {
+            "url": "/concerts/images/1989/1989-11-05/1989-11-05_004.jpg",
+            "caption": "Photo Eelco Miedema"
+        },
+        {
+            "url": "/concerts/images/1989/1989-11-05/1989-11-05_005.jpg",
+            "caption": "Photo by Mike Leach"
+        },
+        {
+            "url": "/concerts/images/1989/1989-11-05/1989-11-05_006.jpg",
+            "caption": "Photo by Mike Leach"
+        },
+        {
+            "url": "/concerts/images/1989/1989-11-05/1989-11-05_007.jpg",
+            "caption": "Photo by Mike Leach"
+        },
+        {
+            "url": "/concerts/images/1989/1989-11-05/1989-11-05_008.jpg",
+            "caption": "Photo by Mike Leach"
+        },
+        {
+            "url": "/concerts/images/1989/1989-11-05/1989-11-05_009.jpg",
+            "caption": "Photo by Mike Leach"
+        },
+        {
+            "url": "/concerts/images/1989/1989-11-05/1989-11-05_010.jpg",
+            "caption": "Photo by Mike Leach"
+        },
+        {
+            "url": "/concerts/images/1989/1989-11-05/1989-11-05_011.jpg",
+            "caption": "Photo by Mike Leach"
+        },
+        {
+            "url": "/concerts/images/1989/1989-11-05/1989-11-05_012.jpg",
+            "caption": "Photo by Mike Leach"
+        },
+        {
+            "url": "/concerts/images/1989/1989-11-05/1989-11-05_013.jpg",
+            "caption": "Photo by Mike Leach"
+        },
+        {
+            "url": "/concerts/images/1989/1989-11-05/1989-11-05_014.jpg",
+            "caption": "Photo by Mike Leach"
+        },
+        {
+            "url": "/concerts/images/1989/1989-11-05/1989-11-05_015.jpg",
+            "caption": "Photo by Mike Leach"
+        },
+        {
+            "url": "/concerts/images/1989/1989-11-05/1989-11-05_016.jpg",
+            "caption": "Photo by Mike Leach"
+        },
+        {
+            "url": "/concerts/images/1989/1989-11-05/1989-11-05_017.jpg",
+            "caption": "Photo by Mike Leach"
+        },
+        {
+            "url": "/concerts/images/1989/1989-11-05/1989-11-05_018.jpg",
+            "caption": "Photo by Mike Leach"
+        },
+        {
+            "url": "/concerts/images/1989/1989-11-05/1989-11-05_019.jpg",
+            "caption": "Photo by Mike Leach"
+        },
+        {
+            "url": "/concerts/images/1989/1989-11-05/1989-11-05_020.jpg",
+            "caption": "Photo by Mike Leach"
+        },
+        {
+            "url": "/concerts/images/1989/1989-11-05/1989-11-05_021.jpg",
+            "caption": "Photo by Mike Leach"
+        },
+        {
+            "url": "/concerts/images/1989/1989-11-05/1989-11-05_022.jpg",
+            "caption": "Photo by Mike Leach"
+        },
+        {
+            "url": "/concerts/images/1989/1989-11-05/1989-11-05_023.jpg",
+            "caption": "Photo by Mike Leach"
+        },
+        {
+            "url": "/concerts/images/1989/1989-11-05/1989-11-05_024.jpg",
+            "caption": "Photo by Mike Leach"
+        },
+        {
+            "url": "/concerts/images/1989/1989-11-05/1989-11-05_025.jpg",
+            "caption": "Photo by Mike Leach"
+        },
+        {
+            "url": "/concerts/images/1989/1989-11-05/1989-11-05_026.jpg",
+            "caption": "Photo by Mike Leach"
+        },
+        {
+            "url": "/concerts/images/1989/1989-11-05/1989-11-05_027.jpg",
+            "caption": "Photo by Mike Leach"
+        },
+        {
+            "url": "/concerts/images/1989/1989-11-05/1989-11-05_028.jpg",
+            "caption": "Photo by Mike Leach"
+        },
+        {
+            "url": "/concerts/images/1989/1989-11-05/1989-11-05_029.jpg",
+            "caption": "Photo by Mike Leach"
+        }
+    ],
+    "navigation": {
+        "previous": "89-11-04",
+        "next": "89-11-07"
+    },
+    "graph": {
+        "bleach": "9",
+        "nevermind": "2",
+        "inutero": "0",
+        "non": "10"
+    }
+}

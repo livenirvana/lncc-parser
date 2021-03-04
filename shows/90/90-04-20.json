@@ -1,0 +1,322 @@
+{
+    "year": "1990",
+    "month": "04",
+    "day": "20",
+    "band": [
+        {
+            "NIRVANA": [
+                {
+                    "name": "Kurt Cobain ",
+                    "duty": "vocals, guitar"
+                },
+                {
+                    "name": "Krist Novoselic ",
+                    "duty": "bass"
+                },
+                {
+                    "name": "Chad Channing ",
+                    "duty": "drums"
+                }
+            ],
+            "type": "group"
+        }
+    ],
+    "crew": [],
+    "buyer": {
+        "names": []
+    },
+    "schedule": [
+        {
+            "event": "Load In",
+            "time": "…:…"
+        },
+        {
+            "event": "Soundcheck",
+            "time": "…:…"
+        },
+        {
+            "event": "Doors",
+            "time": "…:…"
+        },
+        {
+            "event": "NIRVANA Showtime",
+            "time": "…:…"
+        }
+    ],
+    "soundcheck": [],
+    "soundcheck_incomplete": false,
+    "set": [
+        {
+            "type": "banter",
+            "text": "?? and Jerry Garcia's sketch... lith...lithograph. Ending with the show the Otema captive?? choir, er help you with that with any er...",
+            "person": "Novoselic"
+        },
+        {
+            "type": "banter",
+            "text": "Check, check, check, check",
+            "person": "Cobain"
+        },
+        {
+            "type": "song",
+            "text": "School",
+            "notes": []
+        },
+        {
+            "type": "banter",
+            "text": "Thanks!",
+            "person": "Novoselic"
+        },
+        {
+            "type": "song",
+            "text": "Floyd The Barber",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "Love Buzz",
+            "notes": []
+        },
+        {
+            "type": "banter",
+            "text": "Come off the balcony and get busy, yeah!",
+            "person": "Channing"
+        },
+        {
+            "type": "banter",
+            "text": "I got beat up by a striped truck?? last night, this song is dedicated to Barry!",
+            "person": "Novoselic"
+        },
+        {
+            "type": "banter",
+            "text": "This is a new song",
+            "person": "Cobain"
+        },
+        {
+            "type": "song",
+            "text": "Dive",
+            "notes": []
+        },
+        {
+            "type": "banter",
+            "text": "This here's cousin Duke speaking fellas, that nothing in this world is free. You can STOP! I was talking ??. You fellas smoke pot? Your cousin Duke smokes pot! Recreational pot, medicinal pot, it's gonna be all fumigate your ROOOOOM, ?? I don't care. You took quite a lump on the noggin there, hermano. We need.. we need to have a Trinity college my room mate's first aid card, we need it right now!",
+            "person": "Novoselic"
+        },
+        {
+            "type": "song",
+            "text": "About A Girl",
+            "notes": []
+        },
+        {
+            "type": "banter",
+            "text": "Thank you. ?? ??",
+            "person": "Cobain"
+        },
+        {
+            "type": "banter",
+            "text": "It's the burning, dervishing, magic trick",
+            "person": "Novoselic"
+        },
+        {
+            "type": "song",
+            "text": "Breed",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "Polly",
+            "notes": []
+        },
+        {
+            "type": "banter",
+            "text": "Everybody pogo to this song OK? Remember pogo, remember that in the good old days?",
+            "person": "Cobain"
+        },
+        {
+            "type": "song",
+            "text": "Molly's Lips",
+            "notes": []
+        },
+        {
+            "type": "banter",
+            "text": "Thank you for coming out tonight, thank your financial aid and er... everybody's parents for making this show popular. Thank you! Dutch? We don't have a song called Dutch! Dutch? What, did your... did your girlfriend pay your way in tonight, hermano?",
+            "person": "Novoselic"
+        },
+        {
+            "type": "song",
+            "text": "Spank Thru",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "Big Cheese",
+            "notes": []
+        },
+        {
+            "type": "banter",
+            "text": "They're playing free beers by the back door, what's the matter with you? Go and drink it",
+            "person": "Novoselic"
+        },
+        {
+            "type": "banter",
+            "text": "?? ... have any",
+            "person": "Cobain"
+        },
+        {
+            "type": "banter",
+            "text": "Is it Car Zsa Goo Goo(?)",
+            "person": "Novoselic"
+        },
+        {
+            "type": "banter",
+            "text": "This is a new song, it'll be on our next record in September on Sub Pop. This song was written by Zsa Zsa Gábor",
+            "person": "Cobain"
+        },
+        {
+            "type": "song",
+            "text": "In Bloom",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "jam",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "Stay Away",
+            "notes": []
+        },
+        {
+            "type": "banter",
+            "text": "\"says something in a high pitched voice\"",
+            "person": "Novoselic"
+        },
+        {
+            "type": "banter",
+            "text": "You must explain to me the name of this your god, I don't understand!",
+            "person": "Novoselic"
+        },
+        {
+            "type": "banter",
+            "text": "There's one way, there's one truth and there's one light! I think you all, all already know ?? why does ?? hate ??",
+            "person": "Channing"
+        },
+        {
+            "type": "song",
+            "text": "Been A Son",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "Negative Creep",
+            "notes": []
+        },
+        {
+            "type": "banter",
+            "text": "Can we have a beer? More beer!",
+            "person": "Novoselic"
+        },
+        {
+            "type": "banter",
+            "text": "Good night! Good night!",
+            "person": "Cobain"
+        },
+        {
+            "type": "song",
+            "text": "Blew",
+            "notes": []
+        },
+        {
+            "type": "banter",
+            "text": "Hey Eugene",
+            "person": "Novoselic"
+        },
+        {
+            "type": "banter",
+            "text": "This is the 1990's, this is the decade of waste. You're going to recycle that can aren't you?",
+            "person": "Novoselic"
+        },
+        {
+            "type": "song",
+            "text": "Scoff",
+            "notes": []
+        },
+        {
+            "type": "banter",
+            "text": "Good night!",
+            "person": "Cobain"
+        },
+        {
+            "type": "song",
+            "text": "Stain",
+            "notes": [
+                "part of"
+            ]
+        },
+        {
+            "type": "banter",
+            "text": "?? and fuck it, fuck it, fuck it, fuck it! Fuck it, fuck it, fuck it, rock it! My baby is rocking Ron",
+            "person": "Channing"
+        },
+        {
+            "type": "banter",
+            "text": "Hey Eugene",
+            "person": "Novoselic"
+        },
+        {
+            "type": "song",
+            "text": "Stain",
+            "notes": []
+        },
+        {
+            "type": "banter",
+            "text": "Good night",
+            "person": "Cobain"
+        },
+        {
+            "type": "banter",
+            "text": "Anybody wish you to smoke after...??",
+            "person": "Novoselic"
+        }
+    ],
+    "set_incomplete": false,
+    "transmission": {},
+    "rehearsel_circulating_sources": [],
+    "circulating_sources": [
+        {
+            "name": "AUD #1",
+            "complete": true,
+            "equipment": "Unknown > Unknown",
+            "generation": "ANA(M) > CDR(1) > FLAC",
+            "video-generation": null,
+            "audio-generation": null,
+            "length-sound": "71 min / 8.0",
+            "notes": [
+                "Circulated in April 2014.",
+                "\"Been A Son\" cuts in."
+            ]
+        }
+    ],
+    "uncirculated_sources": [],
+    "notes": [
+        "The band played \"one of the loudest, most intense, greatest shows\" one attendee had seen in a long time in front of about 25-30 people."
+    ],
+    "press": [],
+    "memorabilia": [
+        {
+            "url": "/concerts/images/noimage.jpg",
+            "caption": "No images found for this performance."
+        }
+    ],
+    "images": [],
+    "navigation": {
+        "previous": "90-04-18",
+        "next": "90-04-21"
+    },
+    "graph": {
+        "bleach": "8",
+        "nevermind": "4",
+        "inutero": "0",
+        "non": "5"
+    }
+}

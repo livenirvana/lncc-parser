@@ -1,0 +1,206 @@
+{
+    "year": "1994",
+    "month": "02",
+    "day": "23",
+    "venue": "February 23",
+    "city": "1994 - RAI Centro di Produzione TV Studi Nomentano (Tunnel)",
+    "state": "Rome",
+    "country": "IT",
+    "band": [
+        {
+            "NIRVANA": [
+                {
+                    "name": "Kurt Cobain ",
+                    "duty": "vocals, guitar"
+                },
+                {
+                    "name": "Krist Novoselic ",
+                    "duty": "bass"
+                },
+                {
+                    "name": "Dave Grohl ",
+                    "duty": "drums, backing vocals"
+                },
+                {
+                    "name": "Pat Smear ",
+                    "duty": "guitar"
+                },
+                {
+                    "name": "Melora Creager ",
+                    "duty": "cello"
+                }
+            ],
+            "type": "group"
+        }
+    ],
+    "crew": [
+        {
+            "name": "Alex MacLeod",
+            "duty": "tour manager"
+        },
+        {
+            "name": "Jim Vincent",
+            "duty": "guitar technician"
+        },
+        {
+            "name": "John Duncan",
+            "duty": "guitar technician"
+        },
+        {
+            "name": "Garry Mackenzie",
+            "duty": "drum technician"
+        },
+        {
+            "name": "Di Rosa, Franza",
+            "duty": "director"
+        },
+        {
+            "name": "Lele Marchitelli",
+            "duty": "music director"
+        },
+        {
+            "name": "Serena Dandini",
+            "duty": "host"
+        },
+        {
+            "name": "Corrado Guzzanti",
+            "duty": "host"
+        }
+    ],
+    "buyer": {
+        "names": []
+    },
+    "schedule": [
+        {
+            "event": "Load In",
+            "time": "…:…"
+        },
+        {
+            "event": "Soundcheck",
+            "time": "…:…"
+        },
+        {
+            "event": "Doors",
+            "time": "…:…"
+        },
+        {
+            "event": "NIRVANA Showtime",
+            "time": "…:…"
+        }
+    ],
+    "soundcheck": [
+        {
+            "type": "song",
+            "text": "Dumb",
+            "notes": []
+        }
+    ],
+    "soundcheck_incomplete": false,
+    "set": [
+        {
+            "type": "song",
+            "text": "Serve The Servants",
+            "notes": []
+        }
+    ],
+    "set_incomplete": false,
+    "transmission": {
+        "info": "1994-02-27, RAI Tre",
+        "show": "Tunnel"
+    },
+    "rehearsel_circulating_sources": [],
+    "circulating_sources": [
+        {
+            "name": "SBD #1",
+            "complete": false,
+            "equipment": "Soundboard > Unknown",
+            "generation": "Podcast MP3 (96 kbps)",
+            "video-generation": null,
+            "audio-generation": null,
+            "length-sound": "03 min / 7.0",
+            "notes": [
+                "Released as a podcast on RAI Radio 2's Planet Rock website.",
+                "Originally broadcast on \"Planet Rock\" nearly the end of April, 1994.",
+                "Audio more complete than PRO #1c but has a DJ talking over the bridge.",
+                "Includes \"Dumb\" only."
+            ]
+        },
+        {
+            "name": "PRO #1a",
+            "complete": false,
+            "equipment": "Soundboard > Unknown",
+            "generation": null,
+            "video-generation": "TV > VHS(1) > MDV(1) > MPG",
+            "audio-generation": "TV > VHS(2) > FLAC",
+            "length-sound": "05 min / 8.5",
+            "notes": [
+                "Mutli camera PRO-shot video, with soundboard audio, first broadcast on Italian TV channel Rai Tre.",
+                "Lower quality, but includes some banter missing from PRO #1b.",
+                "Includes only \"Serve The Servants\", which cuts in."
+            ]
+        },
+        {
+            "name": "PRO #1b",
+            "complete": false,
+            "equipment": "Soundboard > Unknown",
+            "generation": "Official DVD [Live And Loud]",
+            "video-generation": null,
+            "audio-generation": null,
+            "length-sound": "03:21 min / 9.5",
+            "notes": [
+                "Mutli camera PRO-shot video, with soundboard audio.",
+                "Higher quality, but less complete than PRO #1a.",
+                "Includes only \"Serve The Servants\", which cuts in."
+            ]
+        },
+        {
+            "name": "PRO #1c",
+            "complete": false,
+            "equipment": "Soundboard > Unknown",
+            "generation": null,
+            "video-generation": "TV > VHS(1) > MKV(mpeg2)",
+            "audio-generation": "TV > VHS(1) > DAT(1) > FLAC",
+            "length-sound": "03 min / 9.0",
+            "notes": [
+                "Mutli camera PRO-shot video, with soundboard audio, second broadcast on Italian TV channel Rai Uno.",
+                "Includes only \"Dumb\"."
+            ]
+        }
+    ],
+    "uncirculated_sources": [],
+    "notes": [
+        "The band played \"Dumb\" because the tour manager told Kurt to choose a song with cello since Melora Creager was hanging around anyway, according to Melora.",
+        "Before \"Dumb\", Kurt shouts \"Shut up!\" to the crowd because they were clapping hands.",
+        "The band stopped playing \"Serve The Servants\" when Kurt noticed a fake smoke effect that he didn't like, according to a cast member of the TV show. It is not known exactly when the band stopped and started, since this part was not included in the broadcast."
+    ],
+    "press": [],
+    "memorabilia": [],
+    "images": [
+        {
+            "url": "/concerts/images/1994/1994-02-23/1994-02-23_001.jpg",
+            "caption": "Unknown photographer"
+        },
+        {
+            "url": "/concerts/images/1994/1994-02-23/1994-02-23_002.jpg",
+            "caption": "Photo by Shelli Hyrkas"
+        },
+        {
+            "url": "/concerts/images/1994/1994-02-23/1994-02-23_003.jpg",
+            "caption": "Photo by Shelli Hyrkas"
+        },
+        {
+            "url": "/concerts/images/1994/1994-02-23/1994-02-23_004.jpg",
+            "caption": "Photo by Shelli Hyrkas"
+        }
+    ],
+    "navigation": {
+        "previous": "94-02-22",
+        "next": "94-02-24"
+    },
+    "graph": {
+        "bleach": "0",
+        "nevermind": "0",
+        "inutero": "2",
+        "non": "0"
+    }
+}

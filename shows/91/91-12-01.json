@@ -1,0 +1,153 @@
+{
+    "year": "1991",
+    "month": "12",
+    "day": "01",
+    "venue": "December 1",
+    "city": "1991 - The Southern Bar",
+    "state": "Edinburgh",
+    "country": "UK",
+    "band": [
+        {
+            "Teen Spirit": [
+                {
+                    "name": "Kurt Cobain ",
+                    "duty": "vocals, guitar"
+                },
+                {
+                    "name": "Dave Grohl ",
+                    "duty": "bass"
+                }
+            ],
+            "type": "group"
+        }
+    ],
+    "crew": [
+        {
+            "name": "Alex MacLeod",
+            "duty": "tour manager"
+        }
+    ],
+    "buyer": {
+        "names": []
+    },
+    "schedule": [
+        {
+            "event": "Load In",
+            "time": "N/A"
+        },
+        {
+            "event": "Soundcheck",
+            "time": "N/A"
+        },
+        {
+            "event": "Doors",
+            "time": "19:00"
+        },
+        {
+            "event": "NIRVANA Showtime",
+            "time": "…:…"
+        },
+        {
+            "event": "The Joyriders Showtime",
+            "time": "…:…"
+        }
+    ],
+    "soundcheck": [],
+    "soundcheck_incomplete": false,
+    "set": [
+        {
+            "type": "song",
+            "text": "Dumb",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "Polly",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "Jesus Wants Me For A Sunbeam",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "Twist Barbie",
+            "notes": []
+        }
+    ],
+    "set_incomplete": true,
+    "transmission": {},
+    "rehearsel_circulating_sources": [],
+    "circulating_sources": [
+        {
+            "name": "AUD #1",
+            "complete": false,
+            "equipment": "Unknown > Aiwa",
+            "generation": "ANA(M) > FLV",
+            "video-generation": null,
+            "audio-generation": null,
+            "length-sound": "10:21 min / ??",
+            "notes": [
+                "Surfaced on Youtube, December 2017.",
+                "\"Jesus Wants Me For A Sunbeam\" fades out.",
+                "Does not include the rumored song \"Twist Barbie\".",
+                "This transfer includes all the songs that were recorded, just about one minute of tuning/intro are missing."
+            ]
+        }
+    ],
+    "uncirculated_sources": [],
+    "notes": [
+        "The band played under the name Teen Spirit.",
+        "This was a charity show organized by The Joyriders (formerly The Cateran) in aid of a children's hospital.",
+        "The show was advertised as featuring \"very, very special (American) guests\" on flyers handed out after the 11/29/91 show. Consequently, many people showed up hoping to see Nirvana. At the show, it was announced that Nirvana would not be playing, so most of the audience left. However, Kurt and Dave ended up playing.",
+        "Kurt played acoustic guitar and sang, Dave played acoustic bass, and Krist didn't play at all.",
+        "Kurt declared that he would not play until everyone put the £1 in the bucket. The bucket was then passed round the handful of people in the pub and a short 20-minute acoustic set followed in front of an audience of about twenty people.",
+        "Six songs were played, of which, three songs were totally new, according to a review.",
+        "The band played a cover of Shonen Knife's \"Twist Barbie,\" according to a member of Shonen Knife."
+    ],
+    "press": [
+        {
+            "text": "Review from a UK arts and entertainment magazine called \"The List\", published on issue number 164, 6-19 december 1991.",
+            "url": "/concerts/images/1991/1991-12-01/1991-12-01_01_review.jpg"
+        }
+    ],
+    "memorabilia": [
+        {
+            "url": "/concerts/images/1991/1991-12-01/1991-12-01_01.jpg",
+            "caption": "Advert"
+        }
+    ],
+    "images": [
+        {
+            "url": "/concerts/images/1991/1991-12-01/1991-12-01_001.jpg",
+            "caption": "Photo by Mary Boon"
+        },
+        {
+            "url": "/concerts/images/1991/1991-12-01/1991-12-01_002.jpg",
+            "caption": "Photo by Alan Edwards"
+        },
+        {
+            "url": "/concerts/images/1991/1991-12-01/1991-12-01_003.jpg",
+            "caption": "Photo by Alan Edwards"
+        },
+        {
+            "url": "/concerts/images/1991/1991-12-01/1991-12-01_004.jpg",
+            "caption": "Photo by Alan Edwards"
+        },
+        {
+            "url": "/concerts/images/1991/1991-12-01/1991-12-01_005.jpg",
+            "caption": "Photo by Alan Edwards"
+        }
+    ],
+    "navigation": {
+        "previous": "91-11-30",
+        "next": "91-12-02"
+    },
+    "graph": {
+        "bleach": "0",
+        "nevermind": "1",
+        "inutero": "1",
+        "non": "2"
+    }
+}

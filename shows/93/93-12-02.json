@@ -1,0 +1,358 @@
+{
+    "year": "1993",
+    "month": "12",
+    "day": "02",
+    "band": [
+        {
+            "NIRVANA": [
+                {
+                    "name": "Kurt Cobain ",
+                    "duty": "vocals, guitar"
+                },
+                {
+                    "name": "Krist Novoselic ",
+                    "duty": "bass"
+                },
+                {
+                    "name": "Dave Grohl ",
+                    "duty": "drums, backing vocals"
+                },
+                {
+                    "name": "Pat Smear ",
+                    "duty": "guitar"
+                },
+                {
+                    "name": "Lori Goldston ",
+                    "duty": "cello"
+                }
+            ],
+            "type": "group"
+        }
+    ],
+    "crew": [
+        {
+            "name": "Alex MacLeod",
+            "duty": "tour manager"
+        },
+        {
+            "name": "Jeff Mason",
+            "duty": "production manager"
+        },
+        {
+            "name": "Kelly Nase",
+            "duty": "tour accountant"
+        },
+        {
+            "name": "Susanne Sasic",
+            "duty": "lighting designer"
+        },
+        {
+            "name": "Craig Overbay",
+            "duty": "sound engineer"
+        },
+        {
+            "name": "Ian Beveridge",
+            "duty": "monitor engineer"
+        },
+        {
+            "name": "Jim Vincent",
+            "duty": "guitar technician"
+        },
+        {
+            "name": "John Duncan",
+            "duty": "guitar technician"
+        },
+        {
+            "name": "Mike Dalke",
+            "duty": "drum technician"
+        },
+        {
+            "name": "Ed Swink",
+            "duty": "stage manager"
+        },
+        {
+            "name": "Allan Bagley",
+            "duty": "Pro Show sound crew"
+        },
+        {
+            "name": "Tom Pfaeffle",
+            "duty": "Pro Show sound crew"
+        },
+        {
+            "name": "Niko Vonk",
+            "duty": "Pro Show sound crew"
+        },
+        {
+            "name": "Mike Lamb",
+            "duty": "LSD lighting crew"
+        },
+        {
+            "name": "Pat Connolly",
+            "duty": "LSD lighting crew"
+        },
+        {
+            "name": "Gary Vaspol",
+            "duty": "LSD lighting crew"
+        }
+    ],
+    "buyer": {
+        "names": [
+            "Dan Barnett",
+            "Roy Steinman"
+        ],
+        "company": "Cellar Door Concerts Of Florida"
+    },
+    "schedule": [
+        {
+            "event": "Load In",
+            "time": "09:00"
+        },
+        {
+            "event": "Soundcheck",
+            "time": "15:30"
+        },
+        {
+            "event": "Doors",
+            "time": "19:00"
+        },
+        {
+            "event": "Come Showtime",
+            "time": "20:00"
+        },
+        {
+            "event": "Breeders Showtime",
+            "time": "20:40"
+        },
+        {
+            "event": "NIRVANA Showtime",
+            "time": "21:35"
+        }
+    ],
+    "soundcheck": [],
+    "soundcheck_incomplete": false,
+    "set": [
+        {
+            "type": "song",
+            "text": "Radio Friendly Unit Shifter",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "Drain You",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "Breed",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "Serve The Servants",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "Come As You Are",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "Smells Like Teen Spirit",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "Sliver",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "Dumb",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "In Bloom",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "About A Girl",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "Lithium",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "Pennyroyal Tea",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "School",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "Polly",
+            "notes": [
+                "acoustic"
+            ]
+        },
+        {
+            "type": "song",
+            "text": "Frances Farmer Will Have Her Revenge On Seattle",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "Rape Me",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "Territorial Pissings",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "Jesus Wants Me For A Sunbeam",
+            "notes": [
+                "acoustic"
+            ]
+        },
+        {
+            "type": "song",
+            "text": "The Man Who Sold The World",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "All Apologies",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "On A Plain",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "Scentless Apprentice",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "Heart-Shaped Box",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "Blew",
+            "notes": []
+        }
+    ],
+    "set_incomplete": false,
+    "transmission": {},
+    "rehearsel_circulating_sources": [],
+    "circulating_sources": [
+        {
+            "name": "AMT #1",
+            "complete": true,
+            "equipment": "Unknown > Unknown",
+            "generation": "HI8(M) > DVDR/FLAC",
+            "video-generation": null,
+            "audio-generation": null,
+            "length-sound": "97 min / 9.0",
+            "notes": [
+                "The master tape was circulated in  April 23rd 2017.",
+                "Amateur video shot from an elevated position to the right of the stage."
+            ]
+        }
+    ],
+    "uncirculated_sources": [],
+    "notes": [],
+    "press": [],
+    "memorabilia": [
+        {
+            "url": "/concerts/images/1993/1993-12-02/1993-12-02_01.jpg",
+            "caption": "Advert"
+        },
+        {
+            "url": "/concerts/images/1993/1993-12-02/1993-12-02_02.jpg",
+            "caption": "Ticket"
+        },
+        {
+            "url": "/concerts/images/1993/1993-12-02/1993-12-02_03.jpg",
+            "caption": "Advert"
+        },
+        {
+            "url": "/concerts/images/1993/1993-12-02/1993-12-02_04.jpg",
+            "caption": "Advert"
+        },
+        {
+            "url": "/concerts/images/1993/1993-12-02/1993-12-02_05.jpg",
+            "caption": "Nirvana's tour itinerary"
+        }
+    ],
+    "images": [
+        {
+            "url": "/concerts/images/1993/1993-12-02/1993-12-02_001.jpg",
+            "caption": "Photo by Michael Ruthig"
+        },
+        {
+            "url": "/concerts/images/1993/1993-12-02/1993-12-02_002.jpg",
+            "caption": "Photo by Selena Chambers"
+        },
+        {
+            "url": "/concerts/images/1993/1993-12-02/1993-12-02_003.jpg",
+            "caption": "Photo by Selena Chambers"
+        },
+        {
+            "url": "/concerts/images/1993/1993-12-02/1993-12-02_004.jpg",
+            "caption": "Photo by Selena Chambers"
+        },
+        {
+            "url": "/concerts/images/1993/1993-12-02/1993-12-02_005.jpg",
+            "caption": "Photo by Selena Chambers"
+        },
+        {
+            "url": "/concerts/images/1993/1993-12-02/1993-12-02_006.jpg",
+            "caption": "Photo by Selena Chambers"
+        },
+        {
+            "url": "/concerts/images/1993/1993-12-02/1993-12-02_007.jpg",
+            "caption": "Photo by Selena Chambers"
+        },
+        {
+            "url": "/concerts/images/1993/1993-12-02/1993-12-02_008.jpg",
+            "caption": "Photo by Selena Chambers"
+        },
+        {
+            "url": "/concerts/images/1993/1993-12-02/1993-12-02_009.jpg",
+            "caption": "Screencap of AMT #1"
+        },
+        {
+            "url": "/concerts/images/1993/1993-12-02/1993-12-02_010.jpg",
+            "caption": "Screencap of AMT #1"
+        },
+        {
+            "url": "/concerts/images/1993/1993-12-02/1993-12-02_011.jpg",
+            "caption": "Screencap of AMT #1"
+        }
+    ],
+    "navigation": {
+        "previous": "93-12-01",
+        "next": "93-12-03"
+    },
+    "graph": {
+        "bleach": "3",
+        "nevermind": "9",
+        "inutero": "9",
+        "non": "3"
+    }
+}

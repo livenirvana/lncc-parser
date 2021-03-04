@@ -1,0 +1,419 @@
+{
+    "year": "1990",
+    "month": "04",
+    "day": "01",
+    "band": [
+        {
+            "NIRVANA": [
+                {
+                    "name": "Kurt Cobain ",
+                    "duty": "vocals, guitar"
+                },
+                {
+                    "name": "Krist Novoselic ",
+                    "duty": "bass"
+                },
+                {
+                    "name": "Chad Channing ",
+                    "duty": "drums"
+                }
+            ],
+            "type": "group"
+        }
+    ],
+    "crew": [],
+    "buyer": {
+        "names": [
+            "Joe Shanahan"
+        ]
+    },
+    "schedule": [
+        {
+            "event": "Load In",
+            "time": "…:…"
+        },
+        {
+            "event": "Soundcheck",
+            "time": "…:…"
+        },
+        {
+            "event": "Doors",
+            "time": "18:30"
+        },
+        {
+            "event": "Bhang Revival Showtime",
+            "time": "…:…"
+        },
+        {
+            "event": "God's Acre Showtime",
+            "time": "…:…"
+        },
+        {
+            "event": "NIRVANA Showtime",
+            "time": "…:…"
+        }
+    ],
+    "soundcheck": [],
+    "soundcheck_incomplete": false,
+    "set": [
+        {
+            "type": "banter",
+            "text": "... pulled up in a multi-coloured school bus, nervous ?? that we are",
+            "person": "Novoselic"
+        },
+        {
+            "type": "song",
+            "text": "Love Buzz",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "Floyd The Barber",
+            "notes": []
+        },
+        {
+            "type": "banter",
+            "text": "TWe want you guys to pretend you're watching American Gladiators and you can go ooh, ooo, oo, oo, oo, oo, oo after every song!",
+            "person": "Novoselic"
+        },
+        {
+            "type": "banter",
+            "text": "Fuck me",
+            "person": "Channing"
+        },
+        {
+            "type": "banter",
+            "text": "So, there is a large homosexual population in Chigado, and ...",
+            "person": "Novoselic"
+        },
+        {
+            "type": "song",
+            "text": "Scoff",
+            "notes": []
+        },
+        {
+            "type": "banter",
+            "text": "This is a new song",
+            "person": "Cobain"
+        },
+        {
+            "type": "song",
+            "text": "Dive",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "In Bloom",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "School",
+            "notes": []
+        },
+        {
+            "type": "banter",
+            "text": "Thanks a lot",
+            "person": "Novoselic"
+        },
+        {
+            "type": "song",
+            "text": "Spank Thru",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "Breed",
+            "notes": []
+        },
+        {
+            "type": "banter",
+            "text": "Thank you very much",
+            "person": "Novoselic"
+        },
+        {
+            "type": "song",
+            "text": "About A Girl",
+            "notes": []
+        },
+        {
+            "type": "banter",
+            "text": "?? ?? ??",
+            "person": "Channing"
+        },
+        {
+            "type": "song",
+            "text": "Big Cheese",
+            "notes": []
+        },
+        {
+            "type": "banter",
+            "text": "We brought this black sparkler with us on tour and it's been bringing us nothing but bad luck, we had a blow out and our tape decks failed, now this thing fell over, it's baaad juju",
+            "person": "Novoselic"
+        },
+        {
+            "type": "song",
+            "text": "Stain",
+            "notes": []
+        },
+        {
+            "type": "banter",
+            "text": "This is another song from the Blew EP",
+            "person": "Novoselic"
+        },
+        {
+            "type": "song",
+            "text": "Been A Son",
+            "notes": []
+        },
+        {
+            "type": "banter",
+            "text": "?? ?? ??",
+            "person": "Novoselic"
+        },
+        {
+            "type": "song",
+            "text": "Negative Creep",
+            "notes": []
+        },
+        {
+            "type": "banter",
+            "text": "Thanks a lot, thank you all for coming. This is the first show of our tour; we drove all the way from Seattle. Don't move to there, I must admit Californians will be moving there! This day and age with disease and vermin, how wh ...",
+            "person": "Novoselic"
+        },
+        {
+            "type": "song",
+            "text": "Blew",
+            "notes": []
+        },
+        {
+            "type": "banter",
+            "text": "Thank you",
+            "person": "Cobain"
+        },
+        {
+            "type": "banter",
+            "text": "Thanks a lot, we have T-shirts for sell if you wanna buy ?? ?? ??",
+            "person": "Novoselic"
+        }
+    ],
+    "set_incomplete": false,
+    "transmission": {},
+    "rehearsel_circulating_sources": [],
+    "circulating_sources": [
+        {
+            "name": "AUD #1",
+            "complete": true,
+            "equipment": "Sony ECM-144 > Sony WM-D3",
+            "generation": "ANA(M) > FLAC",
+            "video-generation": null,
+            "audio-generation": null,
+            "length-sound": "50 min / 8.0",
+            "notes": [
+                "There is a tape flip between Been A Son and Negative Creep."
+            ]
+        },
+        {
+            "name": "AUD #2a",
+            "complete": false,
+            "equipment": "Unknown > Unknown",
+            "generation": "ANA(4) > CDR > FLAC",
+            "video-generation": null,
+            "audio-generation": null,
+            "length-sound": "47 min / 7.5",
+            "notes": [
+                "Less complete, but known generation and higher quality than AUD #2b.",
+                "This source is plagued with cuts between almost every song.",
+                "\"Dive\" cut in, \"Blew\" fades out and there are cuts within \"Scoff\" and \"Blew\"."
+            ]
+        },
+        {
+            "name": "AUD #2b",
+            "complete": false,
+            "equipment": "Unknown > Unknown",
+            "generation": "ANA(x)",
+            "video-generation": null,
+            "audio-generation": null,
+            "length-sound": "48 min / 7.0",
+            "notes": [
+                "More complete, but unknown generation and lower quality than AUD #2a.",
+                "This source is plagued with cuts between almost every song.",
+                "\"Dive' and \"Big Cheese\" cut in and has cuts in \"Scoff\" and \"Blew\".",
+                "Not circulating widely."
+            ]
+        }
+    ],
+    "uncirculated_sources": [],
+    "notes": [],
+    "press": [],
+    "memorabilia": [
+        {
+            "url": "/concerts/images/1990/1990-04-01/1990-04-01_01.jpg",
+            "caption": "Handbill/Flyer, designed by unknown"
+        },
+        {
+            "url": "/concerts/images/1990/1990-04-01/1990-04-01_02.jpg",
+            "caption": "Handwritten setlist"
+        },
+        {
+            "url": "/concerts/images/1990/1990-04-01/1990-04-01_03.jpg",
+            "caption": "Backstage pass"
+        },
+        {
+            "url": "/concerts/images/1990/1990-04-01/1990-04-01_04.jpg",
+            "caption": "Handbill/Flyer, designed by unknown"
+        },
+        {
+            "url": "/concerts/images/1990/1990-04-01/1990-04-01_05.jpg",
+            "caption": "Handbill/Flyer, designed by unknown"
+        }
+    ],
+    "images": [
+        {
+            "url": "/concerts/images/1990/1990-04-01/1990-04-01_001.jpg",
+            "caption": "Photo by Brien Rullman"
+        },
+        {
+            "url": "/concerts/images/1990/1990-04-01/1990-04-01_002.jpg",
+            "caption": "Photo by Brien Rullman"
+        },
+        {
+            "url": "/concerts/images/1990/1990-04-01/1990-04-01_003.jpg",
+            "caption": "Photo by Brien Rullman"
+        },
+        {
+            "url": "/concerts/images/1990/1990-04-01/1990-04-01_004.jpg",
+            "caption": "Photo by Brien Rullman"
+        },
+        {
+            "url": "/concerts/images/1990/1990-04-01/1990-04-01_005.jpg",
+            "caption": "Photo by Brien Rullman"
+        },
+        {
+            "url": "/concerts/images/1990/1990-04-01/1990-04-01_006.jpg",
+            "caption": "Photo by Brien Rullman"
+        },
+        {
+            "url": "/concerts/images/1990/1990-04-01/1990-04-01_007.jpg",
+            "caption": "Photo by Brien Rullman"
+        },
+        {
+            "url": "/concerts/images/1990/1990-04-01/1990-04-01_008.jpg",
+            "caption": "Photo by Brien Rullman"
+        },
+        {
+            "url": "/concerts/images/1990/1990-04-01/1990-04-01_009.jpg",
+            "caption": "Photo by Brien Rullman"
+        },
+        {
+            "url": "/concerts/images/1990/1990-04-01/1990-04-01_010.jpg",
+            "caption": "Photo by Brien Rullman"
+        },
+        {
+            "url": "/concerts/images/1990/1990-04-01/1990-04-01_011.jpg",
+            "caption": "Photo by Brien Rullman"
+        },
+        {
+            "url": "/concerts/images/1990/1990-04-01/1990-04-01_012.jpg",
+            "caption": "Photo by Brien Rullman"
+        },
+        {
+            "url": "/concerts/images/1990/1990-04-01/1990-04-01_013.jpg",
+            "caption": "Photo by Brien Rullman"
+        },
+        {
+            "url": "/concerts/images/1990/1990-04-01/1990-04-01_014.jpg",
+            "caption": "Photo by Brien Rullman"
+        },
+        {
+            "url": "/concerts/images/1990/1990-04-01/1990-04-01_015.jpg",
+            "caption": "Photo by Brien Rullman"
+        },
+        {
+            "url": "/concerts/images/1990/1990-04-01/1990-04-01_016.jpg",
+            "caption": "Photo by Brien Rullman"
+        },
+        {
+            "url": "/concerts/images/1990/1990-04-01/1990-04-01_017.jpg",
+            "caption": "Photo by Brien Rullman"
+        },
+        {
+            "url": "/concerts/images/1990/1990-04-01/1990-04-01_018.jpg",
+            "caption": "Photo by Brien Rullman"
+        },
+        {
+            "url": "/concerts/images/1990/1990-04-01/1990-04-01_019.jpg",
+            "caption": "Photo by Brien Rullman"
+        },
+        {
+            "url": "/concerts/images/1990/1990-04-01/1990-04-01_020.jpg",
+            "caption": "Photo by Brien Rullman"
+        },
+        {
+            "url": "/concerts/images/1990/1990-04-01/1990-04-01_021.jpg",
+            "caption": "Photo by Brien Rullman"
+        },
+        {
+            "url": "/concerts/images/1990/1990-04-01/1990-04-01_022.jpg",
+            "caption": "Photo by Brien Rullman"
+        },
+        {
+            "url": "/concerts/images/1990/1990-04-01/1990-04-01_023.jpg",
+            "caption": "Photo by Brien Rullman"
+        },
+        {
+            "url": "/concerts/images/1990/1990-04-01/1990-04-01_024.jpg",
+            "caption": "Photo by Brien Rullman"
+        },
+        {
+            "url": "/concerts/images/1990/1990-04-01/1990-04-01_025.jpg",
+            "caption": "Photo by Brien Rullman"
+        },
+        {
+            "url": "/concerts/images/1990/1990-04-01/1990-04-01_026.jpg",
+            "caption": "Photo by Brien Rullman"
+        },
+        {
+            "url": "/concerts/images/1990/1990-04-01/1990-04-01_027.jpg",
+            "caption": "Photo by Brien Rullman"
+        },
+        {
+            "url": "/concerts/images/1990/1990-04-01/1990-04-01_028.jpg",
+            "caption": "Photo by Brien Rullman"
+        },
+        {
+            "url": "/concerts/images/1990/1990-04-01/1990-04-01_029.jpg",
+            "caption": "Photo by Brien Rullman"
+        },
+        {
+            "url": "/concerts/images/1990/1990-04-01/1990-04-01_030.jpg",
+            "caption": "Photo by Brien Rullman"
+        },
+        {
+            "url": "/concerts/images/1990/1990-04-01/1990-04-01_031.jpg",
+            "caption": "Photo by Brien Rullman"
+        },
+        {
+            "url": "/concerts/images/1990/1990-04-01/1990-04-01_032.jpg",
+            "caption": "Photo by Brien Rullman"
+        },
+        {
+            "url": "/concerts/images/1990/1990-04-01/1990-04-01_033.jpg",
+            "caption": "Photo by Brien Rullman"
+        },
+        {
+            "url": "/concerts/images/1990/1990-04-01/1990-04-01_034.jpg",
+            "caption": "Photo by Brien Rullman"
+        }
+    ],
+    "navigation": {
+        "previous": "90-03-12",
+        "next": "90-04-xx"
+    },
+    "graph": {
+        "bleach": "8",
+        "nevermind": "2",
+        "inutero": "0",
+        "non": "4"
+    }
+}

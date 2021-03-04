@@ -1,0 +1,109 @@
+{
+    "year": "1988",
+    "month": "05",
+    "day": "21",
+    "band": [
+        {
+            "NIRVANA": [
+                {
+                    "name": "Kurt Cobain ",
+                    "duty": "vocals, guitar"
+                },
+                {
+                    "name": "Krist Novoselic ",
+                    "duty": "bass"
+                },
+                {
+                    "name": "Dave Foster ",
+                    "duty": "drums"
+                }
+            ],
+            "type": "group"
+        }
+    ],
+    "crew": [],
+    "buyer": {
+        "names": []
+    },
+    "schedule": [
+        {
+            "event": "Load In",
+            "time": "…:…"
+        },
+        {
+            "event": "Soundcheck",
+            "time": "…:…"
+        },
+        {
+            "event": "Doors",
+            "time": "…:…"
+        },
+        {
+            "event": "S.G.M",
+            "time": "CANCELLED"
+        },
+        {
+            "event": "Herd Of Turtles Showtime",
+            "time": "…:…"
+        },
+        {
+            "event": "Lansdat Blister Showtime",
+            "time": "…:…"
+        },
+        {
+            "event": "Nirvana Showtime",
+            "time": "…:…"
+        },
+        {
+            "event": "The Speds  Showtime",
+            "time": "…:…"
+        },
+        {
+            "event": "Telefunken Showtime",
+            "time": "…:…"
+        }
+    ],
+    "soundcheck": [],
+    "soundcheck_incomplete": false,
+    "set": [
+        {
+            "type": "song",
+            "text": "Love Buzz",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "Floyd The Barber",
+            "notes": []
+        }
+    ],
+    "set_incomplete": true,
+    "transmission": {},
+    "rehearsel_circulating_sources": [],
+    "circulating_sources": [],
+    "uncirculated_sources": [],
+    "notes": [
+        "The all-day show took place on the field in front of the K dorm.",
+        "According to an attendee Nirvana closed the show, but members of Telefunken said Nirvana played much earlier that day.",
+        "It was a hot and sunny day, but it started to rain during NIRVANA's set, so they stopped playing and brought some of their equipment inside. They may have returned to play more after the rain subsided, according to an attendee.",
+        "After the show, the band asked Chad Channing if he would like to jam with them. Chad agreed and jammed with them a bunch of times, but was never officially asked to join the band. He just continued to play with them from that point on."
+    ],
+    "press": [],
+    "memorabilia": [
+        {
+            "url": "/concerts/images/1988/1988-05-21/1988-05-21_01.jpg",
+            "caption": "Poster, designed by Unknown"
+        }
+    ],
+    "images": [],
+    "navigation": {
+        "previous": "88-05-14b",
+        "next": "88-05-27"
+    },
+    "graph": {
+        "bleach": "2",
+        "nevermind": "0",
+        "inutero": "0",
+        "non": "0"
+    }
+}

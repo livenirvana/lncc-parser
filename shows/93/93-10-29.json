@@ -1,0 +1,434 @@
+{
+    "year": "1993",
+    "month": "10",
+    "day": "29",
+    "band": [
+        {
+            "NIRVANA": [
+                {
+                    "name": "Kurt Cobain ",
+                    "duty": "vocals, guitar"
+                },
+                {
+                    "name": "Krist Novoselic ",
+                    "duty": "bass"
+                },
+                {
+                    "name": "Dave Grohl ",
+                    "duty": "drums, backing vocals"
+                },
+                {
+                    "name": "Pat Smear ",
+                    "duty": "guitar"
+                },
+                {
+                    "name": "Lori Goldston ",
+                    "duty": "cello"
+                }
+            ],
+            "type": "group"
+        }
+    ],
+    "crew": [
+        {
+            "name": "Alex MacLeod",
+            "duty": "tour manager"
+        },
+        {
+            "name": "Jeff Mason",
+            "duty": "production manager"
+        },
+        {
+            "name": "Kelly Nase",
+            "duty": "tour accountant"
+        },
+        {
+            "name": "Susanne Sasic",
+            "duty": "lighting designer"
+        },
+        {
+            "name": "Craig Overbay",
+            "duty": "sound engineer"
+        },
+        {
+            "name": "Ian Beveridge",
+            "duty": "monitor engineer"
+        },
+        {
+            "name": "Jim Vincent",
+            "duty": "guitar technician"
+        },
+        {
+            "name": "John Duncan",
+            "duty": "guitar technician"
+        },
+        {
+            "name": "Mike Dalke",
+            "duty": "drum technician"
+        },
+        {
+            "name": "Ed Swink",
+            "duty": "stage manager"
+        },
+        {
+            "name": "Dave Stevens",
+            "duty": "Pro Show sound crew"
+        },
+        {
+            "name": "Allan Bagley",
+            "duty": "Pro Show sound crew"
+        },
+        {
+            "name": "Tom Pfaeffle",
+            "duty": "Pro Show sound crew"
+        },
+        {
+            "name": "Spike Brant",
+            "duty": "LSD lighting crew"
+        },
+        {
+            "name": "Mike Lamb",
+            "duty": "LSD lighting crew"
+        },
+        {
+            "name": "Pat Connolly",
+            "duty": "LSD lighting crew"
+        },
+        {
+            "name": "Gary Vaspol",
+            "duty": "LSD lighting crew"
+        }
+    ],
+    "buyer": {
+        "names": [
+            "Rick Franks",
+            "Vince Bannon"
+        ],
+        "company": "Cellar Door Productions Of Michigan"
+    },
+    "schedule": [
+        {
+            "event": "Load In",
+            "time": "09:00"
+        },
+        {
+            "event": "Soundcheck",
+            "time": "15:30"
+        },
+        {
+            "event": "Doors",
+            "time": "19:00"
+        },
+        {
+            "event": "Boredoms Showtime",
+            "time": "20:00"
+        },
+        {
+            "event": "Meat Puppets Showtime",
+            "time": "20:45"
+        },
+        {
+            "event": "NIRVANA Showtime",
+            "time": "21:45"
+        }
+    ],
+    "soundcheck": [],
+    "soundcheck_incomplete": false,
+    "set": [
+        {
+            "type": "song",
+            "text": "Radio Friendly Unit Shifter",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "Drain You",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "Breed",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "Serve The Servants",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "About A Girl",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "Heart-Shaped Box",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "Sliver",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "Dumb",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "In Bloom",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "Come As You Are",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "Lithium",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "School",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "Polly",
+            "notes": [
+                "acoustic"
+            ]
+        },
+        {
+            "type": "song",
+            "text": "Milk It",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "Rape Me",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "Territorial Pissings",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "Smells Like Teen Spirit",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "All Apologies",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "Jesus Wants Me For A Sunbeam",
+            "notes": [
+                "acoustic"
+            ]
+        },
+        {
+            "type": "song",
+            "text": "On A Plain",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "Scentless Apprentice",
+            "notes": []
+        }
+    ],
+    "set_incomplete": false,
+    "transmission": {},
+    "rehearsel_circulating_sources": [],
+    "circulating_sources": [
+        {
+            "name": "AUD #1",
+            "complete": true,
+            "equipment": "Built In > Realistic SCP-29",
+            "generation": "ANA(M) > DAT(1) > FLAC",
+            "video-generation": null,
+            "audio-generation": null,
+            "length-sound": "84 min / 8.0",
+            "notes": [
+                "\"School\" cuts out due to a tape flip."
+            ]
+        },
+        {
+            "name": "AUD #2",
+            "complete": false,
+            "equipment": "Aiwa CM-30A > Toshiba",
+            "generation": "ANA(M) > DAT(1) > FLAC",
+            "video-generation": null,
+            "audio-generation": null,
+            "length-sound": "60 min / 7.0",
+            "notes": [
+                "Missing everything after \"All Apologies\".",
+                "Has cuts in \"Radio Friendly Unit Shifter\", \"About A Girl\", \"Heart-Shaped Box\", \"Territorial Pissings\", \"Smells Like Teen Spirit\", and \"All Apologies\"."
+            ]
+        }
+    ],
+    "uncirculated_sources": [
+        {
+            "name": "AUD #3",
+            "note": "It is rumored that the show was recorded."
+        }
+    ],
+    "notes": [
+        "After \"Scentless Apprentice\", Kurt threw down his guitar and stormed off the stage, ending the show early, upset that he was hit in the head by a shoe from the crowd."
+    ],
+    "press": [],
+    "memorabilia": [
+        {
+            "url": "/concerts/images/1993/1993-10-29/1993-10-29_01.jpg",
+            "caption": "Ticket"
+        },
+        {
+            "url": "/concerts/images/1993/1993-10-29/1993-10-29_02.jpg",
+            "caption": "Ticket"
+        },
+        {
+            "url": "/concerts/images/1993/1993-10-29/1993-10-29_03.jpg",
+            "caption": "Ticket"
+        },
+        {
+            "url": "/concerts/images/1993/1993-10-29/1993-10-29_04.jpg",
+            "caption": "Advert"
+        },
+        {
+            "url": "/concerts/images/1993/1993-10-29/1993-10-29_05.jpg",
+            "caption": "Advert"
+        },
+        {
+            "url": "/concerts/images/1993/1993-10-29/1993-10-29_06.jpg",
+            "caption": "Advert"
+        },
+        {
+            "url": "/concerts/images/1993/1993-10-29/1993-10-29_07.jpg",
+            "caption": "Nirvana's tour itinerary"
+        },
+        {
+            "url": "/concerts/images/1993/1993-10-29/1993-10-29_08.jpg",
+            "caption": "Advert"
+        },
+        {
+            "url": "/concerts/images/1993/1993-10-29/1993-10-29_09.jpg",
+            "caption": "Advert"
+        }
+    ],
+    "images": [
+        {
+            "url": "/concerts/images/1993/1993-10-29/1993-10-29_001.jpg",
+            "caption": "Unknown photographer"
+        },
+        {
+            "url": "/concerts/images/1993/1993-10-29/1993-10-29_002.jpg",
+            "caption": "Unknown photographer"
+        },
+        {
+            "url": "/concerts/images/1993/1993-10-29/1993-10-29_003.jpg",
+            "caption": "Unknown photographer"
+        },
+        {
+            "url": "/concerts/images/1993/1993-10-29/1993-10-29_004.jpg",
+            "caption": "Unknown photographer"
+        },
+        {
+            "url": "/concerts/images/1993/1993-10-29/1993-10-29_005.jpg",
+            "caption": "Unknown photographer"
+        },
+        {
+            "url": "/concerts/images/1993/1993-10-29/1993-10-29_006.jpg",
+            "caption": "Unknown photographer"
+        },
+        {
+            "url": "/concerts/images/1993/1993-10-29/1993-10-29_007.jpg",
+            "caption": "Unknown photographer"
+        },
+        {
+            "url": "/concerts/images/1993/1993-10-29/1993-10-29_008.jpg",
+            "caption": "Unknown photographer"
+        },
+        {
+            "url": "/concerts/images/1993/1993-10-29/1993-10-29_009.jpg",
+            "caption": "Unknown photographer"
+        },
+        {
+            "url": "/concerts/images/1993/1993-10-29/1993-10-29_010.jpg",
+            "caption": "Unknown photographer"
+        },
+        {
+            "url": "/concerts/images/1993/1993-10-29/1993-10-29_011.jpg",
+            "caption": "Unknown photographer"
+        },
+        {
+            "url": "/concerts/images/1993/1993-10-29/1993-10-29_012.jpg",
+            "caption": "Unknown photographer"
+        },
+        {
+            "url": "/concerts/images/1993/1993-10-29/1993-10-29_013.jpg",
+            "caption": "Unknown photographer"
+        },
+        {
+            "url": "/concerts/images/1993/1993-10-29/1993-10-29_014.jpg",
+            "caption": "Photo by Wes Orshoski"
+        },
+        {
+            "url": "/concerts/images/1993/1993-10-29/1993-10-29_015.jpg",
+            "caption": "Photo by Mark O'Neill"
+        },
+        {
+            "url": "/concerts/images/1993/1993-10-29/1993-10-29_016.jpg",
+            "caption": "Photo by Mark O'Neill"
+        },
+        {
+            "url": "/concerts/images/1993/1993-10-29/1993-10-29_017.jpg",
+            "caption": "Unknown photographer"
+        },
+        {
+            "url": "/concerts/images/1993/1993-10-29/1993-10-29_018.jpg",
+            "caption": "Unknown photographer"
+        },
+        {
+            "url": "/concerts/images/1993/1993-10-29/1993-10-29_019.jpg",
+            "caption": "Photo by Jeff Kowalsky"
+        },
+        {
+            "url": "/concerts/images/1993/1993-10-29/1993-10-29_020.jpg",
+            "caption": "Unknown photographer"
+        },
+        {
+            "url": "/concerts/images/1993/1993-10-29/1993-10-29_021.jpg",
+            "caption": "Photo by Mark O'Neill"
+        },
+        {
+            "url": "/concerts/images/1993/1993-10-29/1993-10-29_022.jpg",
+            "caption": "Photo by Seiji Matsumoto"
+        },
+        {
+            "url": "/concerts/images/1993/1993-10-29/1993-10-29_023.jpg",
+            "caption": "Photo by Seiji Matsumoto"
+        },
+        {
+            "url": "/concerts/images/1993/1993-10-29/1993-10-29_024.jpg",
+            "caption": "Photo by Mark O'Neill"
+        }
+    ],
+    "navigation": {
+        "previous": "93-10-27",
+        "next": "93-10-30"
+    },
+    "graph": {
+        "bleach": "2",
+        "nevermind": "9",
+        "inutero": "8",
+        "non": "2"
+    }
+}

@@ -1,0 +1,447 @@
+{
+    "year": "1993",
+    "month": "12",
+    "day": "29",
+    "band": [
+        {
+            "NIRVANA": [
+                {
+                    "name": "Kurt Cobain ",
+                    "duty": "vocals, guitar"
+                },
+                {
+                    "name": "Krist Novoselic ",
+                    "duty": "bass"
+                },
+                {
+                    "name": "Dave Grohl ",
+                    "duty": "drums, backing vocals"
+                },
+                {
+                    "name": "Pat Smear ",
+                    "duty": "guitar"
+                },
+                {
+                    "name": "Lori Goldston ",
+                    "duty": "cello"
+                }
+            ],
+            "type": "group"
+        },
+        {
+            "name": "Bobcat Goldthwait ",
+            "duty": "master of ceremonies",
+            "type": "person"
+        }
+    ],
+    "crew": [
+        {
+            "name": "Alex MacLeod",
+            "duty": "tour manager"
+        },
+        {
+            "name": "Jeff Mason",
+            "duty": "production manager"
+        },
+        {
+            "name": "Kelly Nase",
+            "duty": "tour accountant"
+        },
+        {
+            "name": "Susanne Sasic",
+            "duty": "lighting designer"
+        },
+        {
+            "name": "Craig Overbay",
+            "duty": "sound engineer"
+        },
+        {
+            "name": "Ian Beveridge",
+            "duty": "monitor engineer"
+        },
+        {
+            "name": "Jim Vincent",
+            "duty": "guitar technician"
+        },
+        {
+            "name": "John Duncan",
+            "duty": "guitar technician"
+        },
+        {
+            "name": "Earnie Bailey",
+            "duty": "guitar technician"
+        },
+        {
+            "name": "Mike Dalke",
+            "duty": "drum technician"
+        },
+        {
+            "name": "Ed Swink",
+            "duty": "stage manager"
+        },
+        {
+            "name": "Allan Bagley",
+            "duty": "Pro Show sound crew"
+        },
+        {
+            "name": "Tom Pfaeffle",
+            "duty": "Pro Show sound crew"
+        },
+        {
+            "name": "Niko Vonk",
+            "duty": "Pro Show sound crew"
+        },
+        {
+            "name": "Mike Lamb",
+            "duty": "LSD lighting crew"
+        },
+        {
+            "name": "Pat Connolly",
+            "duty": "LSD lighting crew"
+        },
+        {
+            "name": "Gary Vaspol",
+            "duty": "LSD lighting crew"
+        }
+    ],
+    "buyer": {
+        "names": [
+            "Bill Silva",
+            "Rick Stewart",
+            "Rich McKee"
+        ],
+        "company": "Bill Silva Presents"
+    },
+    "schedule": [
+        {
+            "event": "Load In",
+            "time": "08:00"
+        },
+        {
+            "event": "Soundcheck",
+            "time": "15:30"
+        },
+        {
+            "event": "Doors",
+            "time": "18:00"
+        },
+        {
+            "event": "Chokebore Showtime",
+            "time": "19:00"
+        },
+        {
+            "event": "Butthole Surfers Showtime",
+            "time": "19:45"
+        },
+        {
+            "event": "NIRVANA Showtime",
+            "time": "20:45"
+        }
+    ],
+    "soundcheck": [],
+    "soundcheck_incomplete": false,
+    "set": [
+        {
+            "type": "song",
+            "text": "Radio Friendly Unit Shifter",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "Drain You",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "Breed",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "Serve The Servants",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "Come As You Are",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "Smells Like Teen Spirit",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "Sliver",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "Dumb",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "In Bloom",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "About A Girl",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "Lithium",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "Pennyroyal Tea",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "School",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "Polly",
+            "notes": [
+                "acoustic"
+            ]
+        },
+        {
+            "type": "song",
+            "text": "Frances Farmer Will Have Her Revenge On Seattle",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "Milk It",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "Rape Me",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "Territorial Pissings",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "Jesus Wants Me For A Sunbeam",
+            "notes": [
+                "acoustic"
+            ]
+        },
+        {
+            "type": "song",
+            "text": "The Man Who Sold The World",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "All Apologies",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "Heart-Shaped Box",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "Blew",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "unknown song",
+            "notes": []
+        }
+    ],
+    "set_incomplete": false,
+    "transmission": {},
+    "rehearsel_circulating_sources": [],
+    "circulating_sources": [
+        {
+            "name": "AUD #1",
+            "complete": false,
+            "equipment": "Sony ECM-909 > Sony WM-D6",
+            "generation": "ANA(1) > FLAC",
+            "video-generation": null,
+            "audio-generation": null,
+            "length-sound": "92 min / 8.5",
+            "notes": [
+                "The intro to \"Radio Friendly Unit Shifter\" cuts in and the recording cuts off during the end of the \"unknown song\", which also is cut within."
+            ]
+        },
+        {
+            "name": "AMT #1",
+            "complete": true,
+            "equipment": "Unknown > Unknown",
+            "generation": "HI8(M) > DVDR/HI8(M) > DVDR(2)>FLAC",
+            "video-generation": null,
+            "audio-generation": null,
+            "length-sound": "98 min / 8.0",
+            "notes": [
+                "Has a cut in \"Blew\".",
+                "The sound goes thinny during the songs due to the 'wind cut' option being activated on the camcorder."
+            ]
+        },
+        {
+            "name": "SBD CLIP #1",
+            "complete": false,
+            "equipment": "Soundboard > Unknown",
+            "generation": "Unknown > WMV",
+            "video-generation": null,
+            "audio-generation": null,
+            "length-sound": "03:22 min / 9.0",
+            "notes": [
+                "Includes only the \"unknown song\"."
+            ]
+        }
+    ],
+    "uncirculated_sources": [],
+    "notes": [
+        "During Krist's intro to \"Territorial Pissings,\" Kurt removed his guitar and proceeded to sing the entire song without it.",
+        "The show ended with the same unknown song that was played on 11/12/93."
+    ],
+    "press": [],
+    "memorabilia": [
+        {
+            "url": "/concerts/images/1993/1993-12-29/1993-12-29_01.jpg",
+            "caption": "Ticket"
+        },
+        {
+            "url": "/concerts/images/1993/1993-12-29/1993-12-29_02.jpg",
+            "caption": "Backstage pass"
+        },
+        {
+            "url": "/concerts/images/1993/1993-12-29/1993-12-29_03.jpg",
+            "caption": "Advert"
+        },
+        {
+            "url": "/concerts/images/1993/1993-12-29/1993-12-29_04.jpg",
+            "caption": "Advert"
+        },
+        {
+            "url": "/concerts/images/1993/1993-12-29/1993-12-29_05.jpg",
+            "caption": "Nirvana's tour itinerary"
+        },
+        {
+            "url": "/concerts/images/1993/1993-12-29/1993-12-29_06.jpg",
+            "caption": "Advert"
+        },
+        {
+            "url": "/concerts/images/1993/1993-12-29/1993-12-29_07.jpg",
+            "caption": "Advert"
+        },
+        {
+            "url": "/concerts/images/1993/1993-12-29/1993-12-29_08.jpg",
+            "caption": "Advert"
+        },
+        {
+            "url": "/concerts/images/1993/1993-12-29/1993-12-29_09.jpg",
+            "caption": "Nirvana's tour itinerary"
+        }
+    ],
+    "images": [
+        {
+            "url": "/concerts/images/1993/1993-12-29/1993-12-29_001.jpg",
+            "caption": "Unknown photographer"
+        },
+        {
+            "url": "/concerts/images/1993/1993-12-29/1993-12-29_002.jpg",
+            "caption": "Unknown photographer"
+        },
+        {
+            "url": "/concerts/images/1993/1993-12-29/1993-12-29_003.jpg",
+            "caption": "Unknown photographer"
+        },
+        {
+            "url": "/concerts/images/1993/1993-12-29/1993-12-29_004.jpg",
+            "caption": "Unknown photographer"
+        },
+        {
+            "url": "/concerts/images/1993/1993-12-29/1993-12-29_005.jpg",
+            "caption": "Unknown photographer"
+        },
+        {
+            "url": "/concerts/images/1993/1993-12-29/1993-12-29_006.jpg",
+            "caption": "Unknown photographer"
+        },
+        {
+            "url": "/concerts/images/1993/1993-12-29/1993-12-29_007.jpg",
+            "caption": "Unknown photographer"
+        },
+        {
+            "url": "/concerts/images/1993/1993-12-29/1993-12-29_008.jpg",
+            "caption": "Unknown photographer"
+        },
+        {
+            "url": "/concerts/images/1993/1993-12-29/1993-12-29_009.jpg",
+            "caption": "Unknown photographer"
+        },
+        {
+            "url": "/concerts/images/1993/1993-12-29/1993-12-29_010.jpg",
+            "caption": "Unknown photographer"
+        },
+        {
+            "url": "/concerts/images/1993/1993-12-29/1993-12-29_011.jpg",
+            "caption": "Unknown photographer"
+        },
+        {
+            "url": "/concerts/images/1993/1993-12-29/1993-12-29_012.jpg",
+            "caption": "Unknown photographer"
+        },
+        {
+            "url": "/concerts/images/1993/1993-12-29/1993-12-29_013.jpg",
+            "caption": "Unknown photographer"
+        },
+        {
+            "url": "/concerts/images/1993/1993-12-29/1993-12-29_014.jpg",
+            "caption": "Unknown photographer"
+        },
+        {
+            "url": "/concerts/images/1993/1993-12-29/1993-12-29_015.jpg",
+            "caption": "Unknown photographer"
+        },
+        {
+            "url": "/concerts/images/1993/1993-12-29/1993-12-29_016.jpg",
+            "caption": "Unknown photographer"
+        },
+        {
+            "url": "/concerts/images/1993/1993-12-29/1993-12-29_017.jpg",
+            "caption": "Unknown photographer"
+        },
+        {
+            "url": "/concerts/images/1993/1993-12-29/1993-12-29_018.jpg",
+            "caption": "Photo by Essy Ghavameddini"
+        },
+        {
+            "url": "/concerts/images/1993/1993-12-29/1993-12-29_019.jpg",
+            "caption": "Unknown photographer"
+        },
+        {
+            "url": "/concerts/images/1993/1993-12-29/1993-12-29_020.jpg",
+            "caption": "Photo by Neil Kendricks"
+        }
+    ],
+    "navigation": {
+        "previous": "93-12-18",
+        "next": "93-12-30"
+    },
+    "graph": {
+        "bleach": "3",
+        "nevermind": "8",
+        "inutero": "9",
+        "non": "4"
+    }
+}

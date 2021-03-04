@@ -1,0 +1,616 @@
+{
+    "year": "1993",
+    "month": "11",
+    "day": "18",
+    "band": [
+        {
+            "NIRVANA": [
+                {
+                    "name": "Kurt Cobain ",
+                    "duty": "vocals, acoustic guitar"
+                },
+                {
+                    "name": "Krist Novoselic ",
+                    "duty": "bass, accordian, acoustic guitar"
+                },
+                {
+                    "name": "Dave Grohl ",
+                    "duty": "drums, backing vocals, acoustic bass, acoustic guitar"
+                },
+                {
+                    "name": "Pat Smear ",
+                    "duty": "acoustic guitar"
+                },
+                {
+                    "name": "Lori Goldston ",
+                    "duty": "cello"
+                }
+            ],
+            "type": "group"
+        },
+        {
+            "name": "Cris Kirkwood ",
+            "duty": "acoustic bass, backing vocals",
+            "type": "person"
+        },
+        {
+            "name": "Curt Kirkwood ",
+            "duty": "acousticguitar",
+            "type": "person"
+        }
+    ],
+    "crew": [
+        {
+            "name": "Alex Coletti",
+            "duty": "producer"
+        },
+        {
+            "name": "Scott Litt",
+            "duty": "sound engineer"
+        },
+        {
+            "name": "Beth McCarthy",
+            "duty": "director"
+        },
+        {
+            "name": "John Duncan",
+            "duty": "guitar technician"
+        },
+        {
+            "name": "Mike Dalke",
+            "duty": "drum technician"
+        },
+        {
+            "name": "Jim Vincent",
+            "duty": "guitar technician"
+        }
+    ],
+    "buyer": {
+        "names": []
+    },
+    "schedule": [
+        {
+            "event": "Load In",
+            "time": "09:00"
+        },
+        {
+            "event": "Soundcheck",
+            "time": "16:00"
+        },
+        {
+            "event": "Doors",
+            "time": "20:00"
+        },
+        {
+            "event": "NIRVANA Showtime",
+            "time": "21:00"
+        }
+    ],
+    "soundcheck": [
+        {
+            "type": "song",
+            "text": "Come As You Are",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "Come As You Are",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "About A Girl",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "About A Girl",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "The Man Who Sold The World",
+            "notes": [
+                "false start"
+            ]
+        },
+        {
+            "type": "song",
+            "text": "The Man Who Sold The World",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "The Man Who Sold The World",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "The Man Who Sold The World",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "Polly",
+            "notes": [
+                "part of"
+            ]
+        },
+        {
+            "type": "song",
+            "text": "Polly",
+            "notes": [
+                "Smear on guitar and backing vocals",
+                "part of",
+                "Grohl on guitar and Smear on backing vocals",
+                "Novoselic on accordian, Grohl on bass",
+                "Curt K. on guitar, Cris K. on bass and B.V, Novoselic on guitar",
+                "Curt K. on guitar, Cris K. on bass and B.V, Novoselic on guitar",
+                "Curt K. on guitar, Cris K. on bass and B.V, Novoselic on guitar",
+                "Curt K. on guitar, Cris K. on bass and B.V, Novoselic on guitar",
+                "Curt K. on guitar, Cris K. on bass and B.V, Novoselic on guitar"
+            ]
+        },
+        {
+            "type": "song",
+            "text": "Dumb",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "Pennyroyal Tea",
+            "notes": [
+                "Smear on guitar and backing vocals"
+            ]
+        },
+        {
+            "type": "song",
+            "text": "Pennyroyal Tea",
+            "notes": [
+                "part of",
+                "Grohl on guitar and Smear on backing vocals"
+            ]
+        },
+        {
+            "type": "song",
+            "text": "Jesus Wants Me For A Sunbeam",
+            "notes": [
+                "Novoselic on accordian, Grohl on bass"
+            ]
+        },
+        {
+            "type": "song",
+            "text": "Plateau",
+            "notes": [
+                "Curt K. on guitar, Cris K. on bass and B.V, Novoselic on guitar"
+            ]
+        },
+        {
+            "type": "song",
+            "text": "Lake Of Fire",
+            "notes": [
+                "Curt K. on guitar, Cris K. on bass and B.V, Novoselic on guitar"
+            ]
+        },
+        {
+            "type": "song",
+            "text": "Oh, Me",
+            "notes": [
+                "Curt K. on guitar, Cris K. on bass and B.V, Novoselic on guitar"
+            ]
+        },
+        {
+            "type": "song",
+            "text": "Oh, Me",
+            "notes": [
+                "Curt K. on guitar, Cris K. on bass and B.V, Novoselic on guitar"
+            ]
+        },
+        {
+            "type": "song",
+            "text": "jam",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "Plateau",
+            "notes": [
+                "Curt K. on guitar, Cris K. on bass and B.V, Novoselic on guitar"
+            ]
+        },
+        {
+            "type": "song",
+            "text": "All Apologies",
+            "notes": []
+        }
+    ],
+    "soundcheck_incomplete": true,
+    "set": [
+        {
+            "type": "song",
+            "text": "About A Girl",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "Come As You Are",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "Jesus Wants Me For A Sunbeam",
+            "notes": [
+                "Novoselic on accordian, Grohl on bass"
+            ]
+        },
+        {
+            "type": "song",
+            "text": "The Man Who Sold The World",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "Pennyroyal Tea",
+            "notes": [
+                "Cobain solo"
+            ]
+        },
+        {
+            "type": "song",
+            "text": "Dumb",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "Polly",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "On A Plain",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "Something In The Way",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "Plateau",
+            "notes": [
+                "Curt K. on guitar, Cris K. on bass and B.V, Novoselic on guitar"
+            ]
+        },
+        {
+            "type": "song",
+            "text": "Oh, Me",
+            "notes": [
+                "Curt K. on guitar, Cris K. on bass and B.V, Novoselic on guitar"
+            ]
+        },
+        {
+            "type": "song",
+            "text": "Lake Of Fire",
+            "notes": [
+                "Curt K. on guitar, Cris K. on bass and B.V, Novoselic on guitar"
+            ]
+        },
+        {
+            "type": "song",
+            "text": "All Apologies",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "Where Did You Sleep Last Night?",
+            "notes": []
+        }
+    ],
+    "set_incomplete": false,
+    "transmission": {},
+    "rehearsel_circulating_sources": [
+        {
+            "name": "PRO #1",
+            "complete": false,
+            "equipment": "Soundboard > Unknown",
+            "generation": "Official DVD [Unplugged In New York]",
+            "video-generation": null,
+            "audio-generation": null,
+            "length-sound": "23 min / 10",
+            "notes": [
+                "Multi camera PRO-shot video, with soundboard audio.",
+                "Includes only \"Come As You Are\" (first take), \"Polly\" (part of), \"Polly\", \"Plateau\" (second take), \"Pennyroyal Tea\", \"Pennyroyal Tea\" (part of), \"The Man Who Sold The World\" (false start) and \"The Man Who Sold The World\" (one take).",
+                "\"Pennyroyal Tea\" (second take) cuts in.",
+                "The official DVD release includes both stereo and 5.1-channel audio mixes."
+            ]
+        },
+        {
+            "name": "PRO CLIP #1a",
+            "complete": false,
+            "equipment": "Unknown > Unknown",
+            "generation": "Official DVD [Unplugged In New York]",
+            "video-generation": null,
+            "audio-generation": null,
+            "length-sound": "01:25 min / 10",
+            "notes": [
+                "Multi camera PRO-shot video, with soundboard audio.",
+                "Feature banter from the rehearsals.",
+                "Has an interview and music from the 11/18/93 show over most the audio.",
+                "Appear on MTV BAREwitness."
+            ]
+        },
+        {
+            "name": "PRO CLIP #1b",
+            "complete": false,
+            "equipment": "Unknown > Unknown",
+            "generation": "TV > VHS(x) > DVDR",
+            "video-generation": null,
+            "audio-generation": null,
+            "length-sound": "35 sec / 9.5",
+            "notes": [
+                "Multi camera PRO-shot video, with soundboard audio.",
+                "Feature a clip of \"Oh, Me\".",
+                "Has mostly other clips shown over the audio.",
+                "Appear in the tribute to Kurt that was shown at the 1994 video music awards on 09/08/94."
+            ]
+        },
+        {
+            "name": "SBD #1",
+            "complete": false,
+            "equipment": "Soundboard > Unknown",
+            "generation": "Official CD [Unplugged In New York]",
+            "video-generation": null,
+            "audio-generation": null,
+            "length-sound": "54 min / 10",
+            "notes": [
+                "Remixed by Scott Litt.",
+                "Some of the banter and jams between songs have been edited out.",
+                "\"Pennyroyal Tea\" has a little cut within (Kurt's stumble into the third verse is shortened).",
+                "\"All Apologies\", \"The Man Who Sold The World\", \"Where Did You Sleep Last Night\", and \"Something In The Way\" each appear on versions of the official release Nirvana.",
+                "\"About A Girl\" and \"Something In The Way\" appear on the official CD single About A Girl.",
+                "\"Where Did You Sleep Last Night\" appears on the official CD single Pennyroyal Tea."
+            ]
+        },
+        {
+            "name": "SBD #2a",
+            "complete": false,
+            "equipment": "Soundboard > Unknown",
+            "generation": "Official GAME [Guitar Hero: World Tour]",
+            "video-generation": null,
+            "audio-generation": null,
+            "length-sound": "04 min / 10",
+            "notes": [
+                "Includes only \"About A Girl\".",
+                "The video game contains individual audio tracks (stem mixes) that, together, form the full mix of the recording."
+            ]
+        },
+        {
+            "name": "SBD #2b",
+            "complete": false,
+            "equipment": "Soundboard > Unknown",
+            "generation": "Official GAME [Rock Band]",
+            "video-generation": null,
+            "audio-generation": null,
+            "length-sound": "04 min / 10",
+            "notes": [
+                "Includes only \"Come As You Are\".",
+                "The video game contains individual audio tracks (stem mixes) that, together, form the full mix of the recording."
+            ]
+        },
+        {
+            "name": "PRO #1a",
+            "complete": false,
+            "equipment": "Soundboard > Unknown",
+            "generation": "TV > DVDR",
+            "video-generation": null,
+            "audio-generation": null,
+            "length-sound": "46 min / 10",
+            "notes": [
+                "Multi camera PRO-shot video, with soundboard audio.",
+                "Original broadcast audio mix by Scott Litt broadcasted on MTV.",
+                "Has different camera angles from PRO #2 and PRO #3.",
+                "Missing \"Something In The Way\", \"Oh, Me\", and some of the banter and jams between songs.",
+                "The placement of \"Dumb\" was changed to after \"Jesus Wants Me For A Sunbeam\" for the broadcast."
+            ]
+        },
+        {
+            "name": "PRO #1b",
+            "complete": false,
+            "equipment": "Soundboard > Unknown",
+            "generation": "Official DVD [Unplugged In New York]",
+            "video-generation": null,
+            "audio-generation": null,
+            "length-sound": "46 min / 10",
+            "notes": [
+                "Multi camera PRO-shot video, with soundboard audio.",
+                "Has different camera angles from PRO #2 and PRO #3.",
+                "Missing \"Something In The Way\", \"Oh, Me\", and some of the banter and jams between songs.",
+                "The placement of \"Dumb\" was changed to after \"Jesus Wants Me For A Sunbeam\" for the broadcast.",
+                "Includes professionally remixed stereo audio by Scott Litt and 5.1-channel audio by Elliot Scheiner, both done in 2007 for this release.",
+                "Has a slightly different stereo audio mix from PRO #3."
+            ]
+        },
+        {
+            "name": "PRO #2",
+            "complete": true,
+            "equipment": "Soundboard > Unknown",
+            "generation": null,
+            "video-generation": "VHS(1) > D8(1) > DVDR",
+            "audio-generation": "VHS(1) > CDR",
+            "length-sound": "68 min / 9.5",
+            "notes": [
+                "Multi camera PRO-shot video, with soundboard audio.",
+                "Original live audio mix by Scott Litt.",
+                "Unremixed and uncut version with different camera angles from PRO #1a, PRO #1b, and PRO #3."
+            ]
+        },
+        {
+            "name": "PRO #3",
+            "complete": true,
+            "equipment": "Soundboard > Unknown",
+            "generation": "Official DVD [Unplugged In New York]",
+            "video-generation": null,
+            "audio-generation": null,
+            "length-sound": "66 min / 10",
+            "notes": [
+                "Multi camera PRO-shot video, with soundboard audio.",
+                "Has different camera angles from PRO #1a, PRO #1b, and PRO #2.",
+                "Includes professionally remixed stereo audio by Scott Litt and 5.1-channel audio by Elliot Scheiner, both done in 2007 for this release.",
+                "Has a slightly different stereo audio mix from PRO #1b."
+            ]
+        }
+    ],
+    "circulating_sources": [
+        {
+            "name": "SBD #1",
+            "complete": false,
+            "equipment": "Soundboard > Unknown",
+            "generation": "Official CD [Unplugged In New York]",
+            "video-generation": null,
+            "audio-generation": null,
+            "length-sound": "54 min / 10",
+            "notes": [
+                "Remixed by Scott Litt.",
+                "Some of the banter and jams between songs have been edited out.",
+                "\"Pennyroyal Tea\" has a little cut within (Kurt's stumble into the third verse is shortened).",
+                "\"All Apologies\", \"The Man Who Sold The World\", \"Where Did You Sleep Last Night\", and \"Something In The Way\" each appear on versions of the official release Nirvana.",
+                "\"About A Girl\" and \"Something In The Way\" appear on the official CD single About A Girl.",
+                "\"Where Did You Sleep Last Night\" appears on the official CD single Pennyroyal Tea."
+            ]
+        },
+        {
+            "name": "SBD #2a",
+            "complete": false,
+            "equipment": "Soundboard > Unknown",
+            "generation": "Official GAME [Guitar Hero: World Tour]",
+            "video-generation": null,
+            "audio-generation": null,
+            "length-sound": "04 min / 10",
+            "notes": [
+                "Includes only \"About A Girl\".",
+                "The video game contains individual audio tracks (stem mixes) that, together, form the full mix of the recording."
+            ]
+        },
+        {
+            "name": "SBD #2b",
+            "complete": false,
+            "equipment": "Soundboard > Unknown",
+            "generation": "Official GAME [Rock Band]",
+            "video-generation": null,
+            "audio-generation": null,
+            "length-sound": "04 min / 10",
+            "notes": [
+                "Includes only \"Come As You Are\".",
+                "The video game contains individual audio tracks (stem mixes) that, together, form the full mix of the recording."
+            ]
+        },
+        {
+            "name": "PRO #1a",
+            "complete": false,
+            "equipment": "Soundboard > Unknown",
+            "generation": "TV > DVDR",
+            "video-generation": null,
+            "audio-generation": null,
+            "length-sound": "46 min / 10",
+            "notes": [
+                "Multi camera PRO-shot video, with soundboard audio.",
+                "Original broadcast audio mix by Scott Litt broadcasted on MTV.",
+                "Has different camera angles from PRO #2 and PRO #3.",
+                "Missing \"Something In The Way\", \"Oh, Me\", and some of the banter and jams between songs.",
+                "The placement of \"Dumb\" was changed to after \"Jesus Wants Me For A Sunbeam\" for the broadcast."
+            ]
+        },
+        {
+            "name": "PRO #1b",
+            "complete": false,
+            "equipment": "Soundboard > Unknown",
+            "generation": "Official DVD [Unplugged In New York]",
+            "video-generation": null,
+            "audio-generation": null,
+            "length-sound": "46 min / 10",
+            "notes": [
+                "Multi camera PRO-shot video, with soundboard audio.",
+                "Has different camera angles from PRO #2 and PRO #3.",
+                "Missing \"Something In The Way\", \"Oh, Me\", and some of the banter and jams between songs.",
+                "The placement of \"Dumb\" was changed to after \"Jesus Wants Me For A Sunbeam\" for the broadcast.",
+                "Includes professionally remixed stereo audio by Scott Litt and 5.1-channel audio by Elliot Scheiner, both done in 2007 for this release.",
+                "Has a slightly different stereo audio mix from PRO #3."
+            ]
+        },
+        {
+            "name": "PRO #2",
+            "complete": true,
+            "equipment": "Soundboard > Unknown",
+            "generation": null,
+            "video-generation": "VHS(1) > D8(1) > DVDR",
+            "audio-generation": "VHS(1) > CDR",
+            "length-sound": "68 min / 9.5",
+            "notes": [
+                "Multi camera PRO-shot video, with soundboard audio.",
+                "Original live audio mix by Scott Litt.",
+                "Unremixed and uncut version with different camera angles from PRO #1a, PRO #1b, and PRO #3."
+            ]
+        },
+        {
+            "name": "PRO #3",
+            "complete": true,
+            "equipment": "Soundboard > Unknown",
+            "generation": "Official DVD [Unplugged In New York]",
+            "video-generation": null,
+            "audio-generation": null,
+            "length-sound": "66 min / 10",
+            "notes": [
+                "Multi camera PRO-shot video, with soundboard audio.",
+                "Has different camera angles from PRO #1a, PRO #1b, and PRO #2.",
+                "Includes professionally remixed stereo audio by Scott Litt and 5.1-channel audio by Elliot Scheiner, both done in 2007 for this release.",
+                "Has a slightly different stereo audio mix from PRO #1b."
+            ]
+        }
+    ],
+    "uncirculated_sources": [],
+    "notes": [
+        "The rehearsal was reportedly about three hours long, a large portion of which was spent checking sound and tuning.",
+        "For the night show, Kurt performed \"Pennyroyal Tea\" by himself.",
+        "Curt and Cris Kirkwood from the Meat Puppets joined the band onstage for the three Meat Puppets songs (\"Plateau,\" \"Oh, Me,\" and \"Lake Of Fire\"). Curt played guitar, and Cris played bass and sang backup vocals.",
+        "The band played short jams on many songs, including \"Sweet Home Alabama\", \"Negative Creep\", \"Sliver\", \"In Bloom\", \"Scentless Apprentice\", and \"Serve The Servants\"."
+    ],
+    "press": [],
+    "memorabilia": [
+        {
+            "url": "/concerts/images/1993/1993-11-18b/1993-11-18b_01.jpg",
+            "caption": "Handwritten setlist"
+        },
+        {
+            "url": "/concerts/images/1993/1993-11-18b/1993-11-18b_02.jpg",
+            "caption": "Backstage pass"
+        },
+        {
+            "url": "/concerts/images/1993/1993-11-18b/1993-11-18b_03.jpg",
+            "caption": "Ticket"
+        },
+        {
+            "url": "/concerts/images/1993/1993-11-18b/1993-11-18b_04.jpg",
+            "caption": "Invitation"
+        },
+        {
+            "url": "/concerts/images/1993/1993-11-18b/1993-11-18b_05.jpg",
+            "caption": "Event chronogram"
+        },
+        {
+            "url": "concerts/images/1993/1993-11-18b/1993-11-18b_06.jpg",
+            "caption": "Nirvana's tour itinerary"
+        }
+    ],
+    "images": [],
+    "navigation": {
+        "previous": "93-11-15",
+        "next": "93-11-26"
+    },
+    "graph": {
+        "bleach": "1",
+        "nevermind": "4",
+        "inutero": "3",
+        "non": "6"
+    }
+}

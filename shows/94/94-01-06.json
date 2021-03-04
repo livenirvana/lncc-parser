@@ -1,0 +1,316 @@
+{
+    "year": "1994",
+    "month": "01",
+    "day": "06",
+    "band": [
+        {
+            "NIRVANA": [
+                {
+                    "name": "Kurt Cobain ",
+                    "duty": "vocals, guitar"
+                },
+                {
+                    "name": "Krist Novoselic ",
+                    "duty": "bass"
+                },
+                {
+                    "name": "Dave Grohl ",
+                    "duty": "drums, backing vocals"
+                },
+                {
+                    "name": "Pat Smear ",
+                    "duty": "guitar"
+                },
+                {
+                    "name": "Lori Goldston ",
+                    "duty": "cello"
+                }
+            ],
+            "type": "group"
+        }
+    ],
+    "crew": [
+        {
+            "name": "Alex MacLeod",
+            "duty": "tour manager"
+        },
+        {
+            "name": "Jeff Mason",
+            "duty": "production manager"
+        },
+        {
+            "name": "Kelly Nase",
+            "duty": "tour accountant"
+        },
+        {
+            "name": "Susanne Sasic",
+            "duty": "lighting designer"
+        },
+        {
+            "name": "Craig Overbay",
+            "duty": "sound engineer"
+        },
+        {
+            "name": "Ian Beveridge",
+            "duty": "monitor engineer"
+        },
+        {
+            "name": "Jim Vincent",
+            "duty": "guitar technician"
+        },
+        {
+            "name": "John Duncan",
+            "duty": "guitar technician"
+        },
+        {
+            "name": "Earnie Bailey",
+            "duty": "guitar technician"
+        },
+        {
+            "name": "Mike Dalke",
+            "duty": "drum technician"
+        },
+        {
+            "name": "Ed Swink",
+            "duty": "stage manager"
+        },
+        {
+            "name": "Allan Bagley",
+            "duty": "Pro Show sound crew"
+        },
+        {
+            "name": "Tom Pfaeffle",
+            "duty": "Pro Show sound crew"
+        },
+        {
+            "name": "Niko Vonk",
+            "duty": "Pro Show sound crew"
+        },
+        {
+            "name": "Mike Lamb",
+            "duty": "LSD lighting crew"
+        },
+        {
+            "name": "Pat Connolly",
+            "duty": "LSD lighting crew"
+        },
+        {
+            "name": "Gary Vaspol",
+            "duty": "LSD lighting crew"
+        }
+    ],
+    "buyer": {
+        "names": [
+            "Chris Monlux",
+            "Ken Deans"
+        ],
+        "company": "Monqui Presents"
+    },
+    "schedule": [
+        {
+            "event": "Load In",
+            "time": "09:00"
+        },
+        {
+            "event": "Soundcheck",
+            "time": "15:30"
+        },
+        {
+            "event": "Doors",
+            "time": "18:00"
+        },
+        {
+            "event": "Chokebore Showtime",
+            "time": "19:30"
+        },
+        {
+            "event": "Butthole Surfers Showtime",
+            "time": "20:15"
+        },
+        {
+            "event": "NIRVANA Showtime",
+            "time": "21:15"
+        }
+    ],
+    "soundcheck": [],
+    "soundcheck_incomplete": false,
+    "set": [
+        {
+            "type": "song",
+            "text": "Radio Friendly Unit Shifter",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "Serve the Servants",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "Come As You Are",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "Smells Like Teen Spirit",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "Sliver",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "In Bloom",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "Lithium",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "Pennyroyal Tea",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "Polly",
+            "notes": [
+                "acoustic"
+            ]
+        },
+        {
+            "type": "song",
+            "text": "Rape Me",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "Jesus Wants Me For A Sunbeam",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "The Man Who Sold The World",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "All Apologies",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "Heart-Shaped Box",
+            "notes": []
+        }
+    ],
+    "set_incomplete": true,
+    "transmission": {},
+    "rehearsel_circulating_sources": [],
+    "circulating_sources": [
+        {
+            "name": "PRO CLIP #1",
+            "complete": false,
+            "equipment": "Unknown > Unknown",
+            "generation": "Unknown > MP4",
+            "video-generation": null,
+            "audio-generation": null,
+            "length-sound": "46 sec / ??",
+            "notes": [
+                "The video was sourced from a MP4 posted in facebook.",
+                "Includes only a clip of \"In Bloom\" with distorted audio.."
+            ]
+        }
+    ],
+    "uncirculated_sources": [],
+    "notes": [
+        "While the ad for the show listed Bobcat Goldthwait as the M.C., the tour itinerary listed \"no host for this show,\" and multiple attendees report that Bobcat did not appear.",
+        "The band was in a great mood and talked to the audience quite a bit, according to reviews.",
+        "Shortly after taking the stage, Kurt yelled out, \"Hello, Ellensburg!\"",
+        "Kurt told a story about meeting Eddie Van Halen backstage in Los Angeles (Inglewood) on 12/30/93."
+    ],
+    "press": [
+        {
+            "text": "Review from a USA newspaper called \"The Spokesman\", published in January 1994.",
+            "url": "/concerts/images/1994/1994-01-06/1994-01-06_01_review.jpg"
+        }
+    ],
+    "memorabilia": [
+        {
+            "url": "/concerts/images/1994/1994-01-06/1994-01-06_01.jpg",
+            "caption": "Advert"
+        },
+        {
+            "url": "/concerts/images/1994/1994-01-06/1994-01-06_02.jpg",
+            "caption": "Ticket"
+        },
+        {
+            "url": "/concerts/images/1994/1994-01-06/1994-01-06_03.jpg",
+            "caption": "Backstage pass"
+        },
+        {
+            "url": "/concerts/images/1994/1994-01-06/1994-01-06_04.jpg",
+            "caption": "Handbill/Flyer, designed by unknown"
+        },
+        {
+            "url": "/concerts/images/1994/1994-01-06/1994-01-06_05.jpg",
+            "caption": "Nirvana's tour itinerary"
+        },
+        {
+            "url": "/concerts/images/1994/1994-01-06/1994-01-06_06.jpg",
+            "caption": "Backstage pass"
+        },
+        {
+            "url": "/concerts/images/1994/1994-01-06/1994-01-06_07.jpg",
+            "caption": "Advert"
+        },
+        {
+            "url": "/concerts/images/1994/1994-01-06/1994-01-06_08.jpg",
+            "caption": "Advert"
+        },
+        {
+            "url": "/concerts/images/1994/1994-01-06/1994-01-06_09.jpg",
+            "caption": "Advert"
+        }
+    ],
+    "images": [
+        {
+            "url": "/concerts/images/1994/1994-01-06/1994-01-06_001.jpg",
+            "caption": "Photo by Darren Balch"
+        },
+        {
+            "url": "/concerts/images/1994/1994-01-06/1994-01-06_002.jpg",
+            "caption": "Unknown photographer"
+        },
+        {
+            "url": "/concerts/images/1994/1994-01-06/1994-01-06_003.jpg",
+            "caption": "Photo by Dan Pelle"
+        },
+        {
+            "url": "/concerts/images/1994/1994-01-06/1994-01-06_004.jpg",
+            "caption": "Photo by Dan Pelle"
+        },
+        {
+            "url": "/concerts/images/1994/1994-01-06/1994-01-06_005.jpg",
+            "caption": "Photo by Dan Pelle"
+        },
+        {
+            "url": "/concerts/images/1994/1994-01-06/1994-01-06_006.jpg",
+            "caption": "Photo by Dan Pelle"
+        }
+    ],
+    "navigation": {
+        "previous": "94-01-04",
+        "next": "94-01-07"
+    },
+    "graph": {
+        "bleach": "0",
+        "nevermind": "5",
+        "inutero": "6",
+        "non": "3"
+    }
+}

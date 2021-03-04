@@ -1,0 +1,413 @@
+{
+    "year": "1989",
+    "month": "10",
+    "day": "29",
+    "venue": "October 29",
+    "city": "1989 - Edward's No. 8",
+    "state": "Birmingham",
+    "country": "UK",
+    "band": [
+        {
+            "NIRVANA": [
+                {
+                    "name": "Kurt Cobain ",
+                    "duty": "vocals, guitar"
+                },
+                {
+                    "name": "Krist Novoselic ",
+                    "duty": "bass, vocals"
+                },
+                {
+                    "name": "Chad Channing ",
+                    "duty": "drums"
+                }
+            ],
+            "type": "group"
+        }
+    ],
+    "crew": [
+        {
+            "name": "Edwin Heath",
+            "duty": "tour manager"
+        },
+        {
+            "name": "Craig Montgomery",
+            "duty": "sound engineer"
+        }
+    ],
+    "buyer": {
+        "names": [
+            "Greg Hemmings"
+        ]
+    },
+    "schedule": [
+        {
+            "event": "Load In",
+            "time": "15:00"
+        },
+        {
+            "event": "Soundcheck",
+            "time": "18:00"
+        },
+        {
+            "event": "Doors",
+            "time": "19:00"
+        },
+        {
+            "event": "Filler Showtime",
+            "time": "…:…"
+        },
+        {
+            "event": "TAD Showtime",
+            "time": "…:…"
+        },
+        {
+            "event": "NIRVANA Showtime",
+            "time": "…:…"
+        }
+    ],
+    "soundcheck": [],
+    "soundcheck_incomplete": false,
+    "set": [
+        {
+            "type": "jam",
+            "text": "Stone Cold Crazy bass jam",
+            "notes": [
+                "bass jam"
+            ]
+        },
+        {
+            "type": "banter",
+            "text": "Hi, hello",
+            "person": "Cobain"
+        },
+        {
+            "type": "banter",
+            "text": "Hello",
+            "person": "Voice"
+        },
+        {
+            "type": "banter",
+            "text": "We're The Bras. So is lithium readily available in this country, can you get lithium here, lithium?",
+            "person": "Cobain"
+        },
+        {
+            "type": "song",
+            "text": "School",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "Scoff",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "Love Buzz",
+            "notes": []
+        },
+        {
+            "type": "banter",
+            "text": "Hey Craig, can you turn up my guitars in the monitor? It be sounded real bad!",
+            "person": "Cobain"
+        },
+        {
+            "type": "jam",
+            "text": "jam bass jam",
+            "notes": [
+                "bass jam"
+            ]
+        },
+        {
+            "type": "song",
+            "text": "Floyd The Barber",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "Dive",
+            "notes": []
+        },
+        {
+            "type": "banter",
+            "text": "We know Ozzy",
+            "person": "Voice"
+        },
+        {
+            "type": "banter",
+            "text": "?? ?? ??",
+            "person": "Cobain"
+        },
+        {
+            "type": "banter",
+            "text": "I love you all",
+            "person": "Cobain"
+        },
+        {
+            "type": "banter",
+            "text": "My lithium joke. Well, this one's kind of mellow, it isn't very much like Black Sabbath! Just put up with this one",
+            "person": "Cobain"
+        },
+        {
+            "type": "jam",
+            "text": "Hand of Doom bass jam",
+            "notes": [
+                "bass jam"
+            ]
+        },
+        {
+            "type": "song",
+            "text": "Polly",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "Big Cheese",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "Spank Thru",
+            "notes": []
+        },
+        {
+            "type": "banter",
+            "text": "What?",
+            "person": "novoselic"
+        },
+        {
+            "type": "jam",
+            "text": "jam bass jam",
+            "notes": [
+                "bass jam"
+            ]
+        },
+        {
+            "type": "song",
+            "text": "About A Girl",
+            "notes": []
+        },
+        {
+            "type": "banter",
+            "text": "Thank you ... thank you, thank you, thank you, thank you",
+            "person": "Cobain"
+        },
+        {
+            "type": "song",
+            "text": "Token Eastern Song",
+            "notes": []
+        },
+        {
+            "type": "jam",
+            "text": "Hand of Doom bass jam",
+            "notes": [
+                "bass jam"
+            ]
+        },
+        {
+            "type": "banter",
+            "text": "Moustache, we haven't played that for a long long time",
+            "person": "Cobain"
+        },
+        {
+            "type": "song",
+            "text": "Mr. Moustache",
+            "notes": [
+                "Novoselic briefly on vocals"
+            ]
+        },
+        {
+            "type": "banter",
+            "text": "You're too kind",
+            "person": "Novoselic"
+        },
+        {
+            "type": "song",
+            "text": "jam",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "Stain",
+            "notes": [
+                "part of"
+            ]
+        },
+        {
+            "type": "banter",
+            "text": "Get your refund at the door",
+            "person": "Novoselic"
+        },
+        {
+            "type": "banter",
+            "text": "Play fucking shit",
+            "person": "Channing"
+        },
+        {
+            "type": "banter",
+            "text": "Ooh, it still works! You see that's what happens when you're a little baby like me and you have to play with shit equipment that keep moving around and falling out of place and you get all crying and you go man wauuuugh, wauugugh. Mr soundman, I will pay for this, don't, don't come and beat me up!",
+            "person": "Cobain"
+        },
+        {
+            "type": "banter",
+            "text": "Incredible",
+            "person": "Cobain"
+        },
+        {
+            "type": "banter",
+            "text": "Taste the wine",
+            "person": "Novoselic"
+        },
+        {
+            "type": "banter",
+            "text": "Has anyone heard our new EP? Has anyone got it? it's alright!",
+            "person": "Novoselic"
+        },
+        {
+            "type": "song",
+            "text": "Negative Creep",
+            "notes": []
+        },
+        {
+            "type": "banter",
+            "text": "You're very patient people, thanks for coming",
+            "person": "Novoselic"
+        },
+        {
+            "type": "jam",
+            "text": "Blew bass false start",
+            "notes": [
+                "bass",
+                "false start"
+            ]
+        },
+        {
+            "type": "banter",
+            "text": "And thanks for Tess for cutting my hair tonight, ha ha ha! Sorry!",
+            "person": "Cobain"
+        },
+        {
+            "type": "song",
+            "text": "Blew",
+            "notes": [
+                "Novoselic briefly on vocals"
+            ]
+        },
+        {
+            "type": "banter",
+            "text": "Thanks for putting up with us, maybe we'll come back with some better equipment sometime! What the fuck, it's just punk rock anyways!",
+            "person": "Cobain"
+        }
+    ],
+    "set_incomplete": false,
+    "transmission": {},
+    "rehearsel_circulating_sources": [],
+    "circulating_sources": [
+        {
+            "name": "AUD #1",
+            "complete": true,
+            "equipment": "A+F MC385D > Fostex X-15",
+            "generation": "ANA(M) > FLAC",
+            "video-generation": null,
+            "audio-generation": null,
+            "length-sound": "57 min / 8.5",
+            "notes": [
+                "In November 2007 the master tape was surfaced."
+            ]
+        },
+        {
+            "name": "AUD #2",
+            "complete": false,
+            "equipment": "Unknown > Unknown",
+            "generation": "ANA(M) > FLAC",
+            "video-generation": null,
+            "audio-generation": null,
+            "length-sound": "30 min / 8.0",
+            "notes": [
+                "Surfaced in November 2001.",
+                "Missing \"Love Buzz,\" \"Polly,\" \"About A Girl,\" the jam, and \"Stain.\""
+            ]
+        }
+    ],
+    "uncirculated_sources": [],
+    "notes": [
+        "The show was originally supposed to be at the Barrel Organ.",
+        "Krist sang parts of \"Mr. Moustache\" and \"Blew,\" due to Kurt's guitar troubles.",
+        "The band stopped playing \"Stain\" after about 40 because Kurt's mic stand kept twisting round and that really pissed him off so he smashed it to the floor then threw himself into Chad's drum kit."
+    ],
+    "press": [],
+    "memorabilia": [
+        {
+            "url": "/concerts/images/1989/1989-10-29/1989-10-29_01.jpg",
+            "caption": "Ticket"
+        },
+        {
+            "url": "/concerts/images/1989/1989-10-29/1989-10-29_02.jpg",
+            "caption": "Advert"
+        },
+        {
+            "url": "/concerts/images/1989/1989-10-29/1989-10-29_03.jpg",
+            "caption": "Handbill/Flyer, designed by unknown"
+        },
+        {
+            "url": "/concerts/images/1989/1989-10-29/1989-10-29_04.jpg",
+            "caption": "Handbill/Flyer, designed by unknown"
+        },
+        {
+            "url": "/concerts/images/1989/1989-10-29/1989-10-29_05.jpg",
+            "caption": "Handbill/Flyer, designed by unknown"
+        },
+        {
+            "url": "/concerts/images/1989/1989-10-29/1989-10-29_06.jpg",
+            "caption": "Venue events calendar"
+        },
+        {
+            "url": "/concerts/images/1989/1989-10-29/1989-10-29_07.jpg",
+            "caption": "Advert"
+        },
+        {
+            "url": "/concerts/images/1989/1989-10-29/1989-10-29_08.jpg",
+            "caption": "Nirvana's tour itinerary"
+        },
+        {
+            "url": "/concerts/images/1989/1989-10-29/1989-10-29_09.jpg",
+            "caption": "Nirvana's tour itinerary"
+        },
+        {
+            "url": "/concerts/images/1989/1989-10-29/1989-10-29_10.jpg",
+            "caption": "Nirvana's tour itinerary"
+        },
+        {
+            "url": "/concerts/images/1989/1989-10-29/1989-10-29_11.jpg",
+            "caption": "Handwritten setlist"
+        }
+    ],
+    "images": [
+        {
+            "url": "/concerts/images/1989/1989-10-29/1989-10-29_001.jpg",
+            "caption": "Photo by Tess Osborne"
+        },
+        {
+            "url": "/concerts/images/1989/1989-10-29/1989-10-29_002.jpg",
+            "caption": "Photo by C. Earp"
+        },
+        {
+            "url": "/concerts/images/1989/1989-10-29/1989-10-29_003.jpg",
+            "caption": "Photo by C. Earp"
+        },
+        {
+            "url": "/concerts/images/1989/1989-10-29/1989-10-29_004.jpg",
+            "caption": "Photo by C. Earp"
+        }
+    ],
+    "navigation": {
+        "previous": "89-10-28",
+        "next": "89-10-30"
+    },
+    "graph": {
+        "bleach": "9",
+        "nevermind": "1",
+        "inutero": "0",
+        "non": "4"
+    }
+}

@@ -1,0 +1,82 @@
+{
+    "year": "1989",
+    "month": "06",
+    "day": "16",
+    "band": [
+        {
+            "Industrial Nirvana": [
+                {
+                    "name": "Kurt Cobain",
+                    "duty": ""
+                },
+                {
+                    "name": "Krist Novoselic",
+                    "duty": ""
+                },
+                {
+                    "name": "Tobi Vail",
+                    "duty": ""
+                }
+            ],
+            "type": "group"
+        }
+    ],
+    "crew": [],
+    "buyer": {
+        "names": [
+            "Tammy Rae Carland"
+        ]
+    },
+    "schedule": [
+        {
+            "event": "Load In",
+            "time": "…:…"
+        },
+        {
+            "event": "Soundcheck",
+            "time": "…:…"
+        },
+        {
+            "event": "Doors",
+            "time": "…:…"
+        },
+        {
+            "event": "Industrial Nirvana Showtime",
+            "time": "…:…"
+        },
+        {
+            "event": "Lush Showtime",
+            "time": "…:…"
+        }
+    ],
+    "soundcheck": [],
+    "soundcheck_incomplete": false,
+    "set": [],
+    "set_incomplete": false,
+    "transmission": {},
+    "rehearsel_circulating_sources": [],
+    "circulating_sources": [],
+    "uncirculated_sources": [],
+    "notes": [
+        "Billed as Industrial Nirvana, the band borrowed Slim Moon's drum machine and used it to play repetitive beats while they made noise.",
+        "Some friends joined the band on stage, including Tobi Vail."
+    ],
+    "press": [],
+    "memorabilia": [
+        {
+            "url": "/concerts/images/1989/1989-06-16r/1989-06-16r_01.jpg",
+            "caption": "Handbill/Flyer, designed by Kathleen Hanna"
+        }
+    ],
+    "images": [],
+    "navigation": {
+        "previous": "89-06-10",
+        "next": "89-06-21"
+    },
+    "graph": {
+        "bleach": "1",
+        "nevermind": "1",
+        "inutero": "1",
+        "non": "1"
+    }
+}

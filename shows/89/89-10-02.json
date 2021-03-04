@@ -1,0 +1,137 @@
+{
+    "year": "1989",
+    "month": "10",
+    "day": "02",
+    "band": [
+        {
+            "NIRVANA": [
+                {
+                    "name": "Kurt Cobain ",
+                    "duty": "vocals, guitar"
+                },
+                {
+                    "name": "Krist Novoselic ",
+                    "duty": "bass"
+                },
+                {
+                    "name": "Chad Channing ",
+                    "duty": "drums"
+                }
+            ],
+            "type": "group"
+        }
+    ],
+    "crew": [
+        {
+            "name": "Ben Shepherd",
+            "duty": "roadie"
+        }
+    ],
+    "buyer": {
+        "names": [
+            "Tim Kolleth"
+        ]
+    },
+    "schedule": [
+        {
+            "event": "Load In",
+            "time": "19:00"
+        },
+        {
+            "event": "Soundcheck",
+            "time": "20:00"
+        },
+        {
+            "event": "Doors",
+            "time": "…:…"
+        },
+        {
+            "event": "Steel Pole Bath Tub Showtime",
+            "time": "…:…"
+        },
+        {
+            "event": "The Slugs Showtime",
+            "time": "…:…"
+        },
+        {
+            "event": "NIRVANA Showtime",
+            "time": "23:30"
+        }
+    ],
+    "soundcheck": [],
+    "soundcheck_incomplete": false,
+    "set": [
+        {
+            "type": "song",
+            "text": "School",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "Love Buzz",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "Floyd The Barber",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "Big Cheese",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "About A Girl",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "Spank Thru",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "Token Eastern Song",
+            "notes": []
+        }
+    ],
+    "set_incomplete": true,
+    "transmission": {},
+    "rehearsel_circulating_sources": [],
+    "circulating_sources": [],
+    "uncirculated_sources": [],
+    "notes": [
+        "There were about 20-50 people at the show, according to an attendee.",
+        "The band played for about 30-45 minutes.",
+        "The set was beset by equipment problems.",
+        "Kurt accidentally cut his hand while on-stage."
+    ],
+    "press": [],
+    "memorabilia": [
+        {
+            "url": "/concerts/images/1989/1989-10-02/1989-10-02_01.jpg",
+            "caption": "Advert"
+        },
+        {
+            "url": "/concerts/images/1989/1989-10-02/1989-10-02_02.jpg",
+            "caption": "Nirvana's tour itinerary"
+        },
+        {
+            "url": "/concerts/images/1989/1989-10-02/1989-10-02_03.jpg",
+            "caption": "Handbill/Flyer, designed by unknown"
+        }
+    ],
+    "images": [],
+    "navigation": {
+        "previous": "89-10-01",
+        "next": "89-10-03"
+    },
+    "graph": {
+        "bleach": "5",
+        "nevermind": "0",
+        "inutero": "0",
+        "non": "2"
+    }
+}

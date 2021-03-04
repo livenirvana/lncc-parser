@@ -1,0 +1,303 @@
+{
+    "year": "1992",
+    "month": "02",
+    "day": "09",
+    "venue": "February 9",
+    "city": "1992 - Logan Campbell Centre",
+    "state": "Auckland",
+    "country": "NZ",
+    "band": [
+        {
+            "NIRVANA": [
+                {
+                    "name": "Kurt Cobain ",
+                    "duty": "vocals, guitar"
+                },
+                {
+                    "name": "Krist Novoselic ",
+                    "duty": "bass"
+                },
+                {
+                    "name": "Dave Grohl ",
+                    "duty": "drums, backing vocals"
+                }
+            ],
+            "type": "group"
+        }
+    ],
+    "crew": [
+        {
+            "name": "Alex MacLeod",
+            "duty": "tour manager"
+        },
+        {
+            "name": "Susanne Sasic",
+            "duty": "lighting designer"
+        },
+        {
+            "name": "Craig Montgomery",
+            "duty": "sound engineer"
+        },
+        {
+            "name": "Ian Beveridge",
+            "duty": "monitor engineer"
+        },
+        {
+            "name": "Nic Close",
+            "duty": "guitar technician"
+        },
+        {
+            "name": "Barrett Jones",
+            "duty": "drum technician"
+        }
+    ],
+    "buyer": {
+        "names": [
+            "Doug Hood"
+        ],
+        "company": "Looney Tours"
+    },
+    "schedule": [
+        {
+            "event": "Load In",
+            "time": "…:…"
+        },
+        {
+            "event": "Soundcheck",
+            "time": "…:…"
+        },
+        {
+            "event": "Doors",
+            "time": "20:00"
+        },
+        {
+            "event": "Second Child Showtime",
+            "time": "…:…"
+        },
+        {
+            "event": "3D's Showtime",
+            "time": "…:…"
+        },
+        {
+            "event": "NIRVANA Showtime",
+            "time": "…:…"
+        }
+    ],
+    "soundcheck": [],
+    "soundcheck_incomplete": false,
+    "set": [
+        {
+            "type": "song",
+            "text": "Negative Creep",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "Been A Son",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "On A Plain",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "Something In The Way",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "Blew",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "Come As You Are",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "Lithium",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "Breed",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "Sliver",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "Drain You",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "About A Girl",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "School",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "Aneurysm",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "Love Buzz",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "Polly",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "Lounge Act",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "Territorial Pissings",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "Smells Like Teen Spirit",
+            "notes": []
+        }
+    ],
+    "set_incomplete": false,
+    "transmission": {},
+    "rehearsel_circulating_sources": [],
+    "circulating_sources": [],
+    "uncirculated_sources": [
+        {
+            "name": "AUD #1",
+            "note": "While it has been rumored that a radio station taped this show, the radio station claims they didn't. They do, however, believe that a \"crappy quality bootleg\" of the show is floating around."
+        },
+        {
+            "name": "AMT #1",
+            "note": "It is rumored that the show was recorded."
+        }
+    ],
+    "notes": [
+        "The show was originally booked at the Powerstation, then moved to the larger Auckland Town Hall, and finally moved to the even larger Logan Campbell Centre.",
+        "The set above comes from the band's handwritten setlist. \"In Bloom\" may have also been played, according to an attendee.",
+        "While some reports indicate that the band was drunk, they played poorly, and/or their set was shortened, other attendees indicate that it was a normal show.",
+        "Nirvana played for about 65 minutes."
+    ],
+    "press": [],
+    "memorabilia": [
+        {
+            "url": "/concerts/images/1992/1992-02-09/1992-02-09_01.jpg",
+            "caption": "Handbill/Flyer, designed by unknown"
+        },
+        {
+            "url": "/concerts/images/1992/1992-02-09/1992-02-09_02.jpg",
+            "caption": "Ticket"
+        },
+        {
+            "url": "/concerts/images/1992/1992-02-09/1992-02-09_03.jpg",
+            "caption": "Handwritten setlist"
+        },
+        {
+            "url": "/concerts/images/1992/1992-02-09/1992-02-09_04.jpg",
+            "caption": "Backstage pass"
+        }
+    ],
+    "images": [
+        {
+            "url": "/concerts/images/1992/1992-02-09/1992-02-09_001.jpg",
+            "caption": "Unknown photographer"
+        },
+        {
+            "url": "/concerts/images/1992/1992-02-09/1992-02-09_002.jpg",
+            "caption": "Photo by Paulette Koriacos Bardot"
+        },
+        {
+            "url": "/concerts/images/1992/1992-02-09/1992-02-09_003.jpg",
+            "caption": "Photo by Paulette Koriacos Bardot"
+        },
+        {
+            "url": "/concerts/images/1992/1992-02-09/1992-02-09_004.jpg",
+            "caption": "Photo by Paulette Koriacos Bardot"
+        },
+        {
+            "url": "/concerts/images/1992/1992-02-09/1992-02-09_005.jpg",
+            "caption": "Photo by Paulette Koriacos Bardot"
+        },
+        {
+            "url": "/concerts/images/1992/1992-02-09/1992-02-09_006.jpg",
+            "caption": "Photo by Paulette Koriacos Bardot"
+        },
+        {
+            "url": "/concerts/images/1992/1992-02-09/1992-02-09_007.jpg",
+            "caption": "Photo by Paulette Koriacos Bardot"
+        },
+        {
+            "url": "/concerts/images/1992/1992-02-09/1992-02-09_008.jpg",
+            "caption": "Photo by Paulette Koriacos Bardot"
+        },
+        {
+            "url": "/concerts/images/1992/1992-02-09/1992-02-09_009.jpg",
+            "caption": "Photo by Paulette Koriacos Bardot"
+        },
+        {
+            "url": "/concerts/images/1992/1992-02-09/1992-02-09_010.jpg",
+            "caption": "Photo by Paulette Koriacos Bardot"
+        },
+        {
+            "url": "/concerts/images/1992/1992-02-09/1992-02-09_011.jpg",
+            "caption": "Photo by Paulette Koriacos Bardot"
+        },
+        {
+            "url": "/concerts/images/1992/1992-02-09/1992-02-09_012.jpg",
+            "caption": "Photo by Paulette Koriacos Bardot"
+        },
+        {
+            "url": "/concerts/images/1992/1992-02-09/1992-02-09_013.jpg",
+            "caption": "Photo by Paulette Koriacos Bardot"
+        },
+        {
+            "url": "/concerts/images/1992/1992-02-09/1992-02-09_014.jpg",
+            "caption": "Photo by Paulette Koriacos Bardot"
+        },
+        {
+            "url": "/concerts/images/1992/1992-02-09/1992-02-09_015.jpg",
+            "caption": "Photo by Paulette Koriacos Bardot"
+        },
+        {
+            "url": "/concerts/images/1992/1992-02-09/1992-02-09_016.jpg",
+            "caption": "Photo by Paulette Koriacos Bardot"
+        },
+        {
+            "url": "/concerts/images/1992/1992-02-09/1992-02-09_017.jpg",
+            "caption": "Photo by Paulette Koriacos Bardot"
+        },
+        {
+            "url": "/concerts/images/1992/1992-02-09/1992-02-09_018.jpg",
+            "caption": "Photo by Paulette Koriacos Bardot"
+        }
+    ],
+    "navigation": {
+        "previous": "92-02-07",
+        "next": "92-02-14"
+    },
+    "graph": {
+        "bleach": "5",
+        "nevermind": "10",
+        "inutero": "0",
+        "non": "3"
+    }
+}

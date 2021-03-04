@@ -1,0 +1,198 @@
+{
+    "year": "1990",
+    "month": "04",
+    "day": "29",
+    "band": [
+        {
+            "NIRVANA": [
+                {
+                    "name": "Kurt Cobain ",
+                    "duty": "vocals, guitar"
+                },
+                {
+                    "name": "Krist Novoselic ",
+                    "duty": "bass, vocals"
+                },
+                {
+                    "name": "Chad Channing ",
+                    "duty": "drums"
+                }
+            ],
+            "type": "group"
+        }
+    ],
+    "crew": [],
+    "buyer": {
+        "names": [
+            "Seth Hurwitz"
+        ]
+    },
+    "schedule": [
+        {
+            "event": "Load In",
+            "time": "…:…"
+        },
+        {
+            "event": "Soundcheck",
+            "time": "…:…"
+        },
+        {
+            "event": "Doors",
+            "time": "20:00"
+        },
+        {
+            "event": "Thud Showtime",
+            "time": "…:…"
+        },
+        {
+            "event": "NIRVANA Showtime",
+            "time": "…:…"
+        },
+        {
+            "event": "Loop Showtime",
+            "time": "…:…"
+        }
+    ],
+    "soundcheck": [],
+    "soundcheck_incomplete": false,
+    "set": [
+        {
+            "type": "song",
+            "text": "School",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "Floyd The Barber",
+            "notes": [
+                "Novoselic briefly on vocals"
+            ]
+        },
+        {
+            "type": "song",
+            "text": "Love Buzz",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "Dive",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "Spank Thru",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "Breed",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "Scoff",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "About A Girl",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "In Bloom",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "Big Cheese",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "Polly",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "Been A Soon",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "Stain",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "Negative Creep",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "Blew",
+            "notes": []
+        }
+    ],
+    "set_incomplete": true,
+    "transmission": {},
+    "rehearsel_circulating_sources": [],
+    "circulating_sources": [
+        {
+            "name": "AUD #1",
+            "complete": false,
+            "equipment": "Unknown > Unknown",
+            "generation": "ANA(2) > DAT(1) > FLAC",
+            "video-generation": null,
+            "audio-generation": null,
+            "length-sound": "35 min / 7.5",
+            "notes": [
+                "In September 2002 an ANA(2) > DAT(1) upgrade surfaced, replacing older ANA(3) copies.",
+                "\"Scoff\" cuts out, missing \"About A Girl\", according to the Handwritten setlist and it is unclear if any more was played after \"Polly\", which is the last song on this source."
+            ]
+        }
+    ],
+    "uncirculated_sources": [],
+    "notes": [
+        "Krist sang part of \"Floyd The Barber.\"",
+        "The incomplete set above comes from the band's handwritten setlist."
+    ],
+    "press": [],
+    "memorabilia": [
+        {
+            "url": "/concerts/images/1990/1990-04-29/1990-04-29_01.jpg",
+            "caption": "Handbill/Flyer, designed by unknown"
+        },
+        {
+            "url": "/concerts/images/1990/1990-04-29/1990-04-29_02.jpg",
+            "caption": "Handbill/Flyer, designed by unknown"
+        },
+        {
+            "url": "/concerts/images/1990/1990-04-29/1990-04-29_03.jpg",
+            "caption": "Advert"
+        },
+        {
+            "url": "/concerts/images/1990/1990-04-29/1990-04-29_04.jpg",
+            "caption": "Handwritten setlist"
+        },
+        {
+            "url": "/concerts/images/1990/1990-04-29/1990-04-29_05.jpg",
+            "caption": "Venue events calendar"
+        },
+        {
+            "url": "/concerts/images/1990/1990-04-29/1990-04-29_06.jpg",
+            "caption": "Advert"
+        }
+    ],
+    "images": [],
+    "navigation": {
+        "previous": "90-04-28",
+        "next": "90-04-30"
+    },
+    "graph": {
+        "bleach": "8",
+        "nevermind": "3",
+        "inutero": "0",
+        "non": "4"
+    }
+}

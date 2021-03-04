@@ -1,0 +1,260 @@
+{
+    "year": "1989",
+    "month": "09",
+    "day": "30",
+    "band": [
+        {
+            "NIRVANA": [
+                {
+                    "name": "Kurt Cobain ",
+                    "duty": "vocals, guitar"
+                },
+                {
+                    "name": "Krist Novoselic ",
+                    "duty": "bass"
+                },
+                {
+                    "name": "Chad Channing ",
+                    "duty": "drums"
+                }
+            ],
+            "type": "group"
+        }
+    ],
+    "crew": [
+        {
+            "name": "Ben Shepherd",
+            "duty": "roadie"
+        }
+    ],
+    "buyer": {
+        "names": [
+            "Fred Darden"
+        ]
+    },
+    "schedule": [
+        {
+            "event": "Load In",
+            "time": "21:00"
+        },
+        {
+            "event": "Soundcheck",
+            "time": "21:30"
+        },
+        {
+            "event": "Doors",
+            "time": "23:00"
+        },
+        {
+            "event": "NIRVANA Showtime",
+            "time": "23:30"
+        },
+        {
+            "event": "Eleventh Dream Day Showtime",
+            "time": "…:…"
+        }
+    ],
+    "soundcheck": [],
+    "soundcheck_incomplete": false,
+    "set": [
+        {
+            "type": "banter",
+            "text": "Ladies and gentlemen, please welcome to Cabaret Metro. Nirvana!",
+            "person": "MC"
+        },
+        {
+            "type": "banter",
+            "text": "Wait about 20 minutes from now.",
+            "person": "Novoselic"
+        },
+        {
+            "type": "song",
+            "text": "School",
+            "notes": []
+        },
+        {
+            "type": "banter",
+            "text": "Can we have the guitar up on the mains a little bit? Thanks.",
+            "person": "Cobain"
+        },
+        {
+            "type": "song",
+            "text": "Scoff",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "Love Buzz",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "Floyd The Barber",
+            "notes": []
+        },
+        {
+            "type": "banter",
+            "text": "This is a new song.",
+            "person": "Cobain"
+        },
+        {
+            "type": "song",
+            "text": "Dive",
+            "notes": []
+        },
+        {
+            "type": "banter",
+            "text": "What?",
+            "person": "Cobain"
+        },
+        {
+            "type": "banter",
+            "text": "?? ??",
+            "person": "Cobain"
+        },
+        {
+            "type": "song",
+            "text": "Polly",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "Big Cheese",
+            "notes": []
+        },
+        {
+            "type": "banter",
+            "text": "Thanks a lot!",
+            "person": "Novoselic"
+        },
+        {
+            "type": "song",
+            "text": "Spank Thru",
+            "notes": []
+        },
+        {
+            "type": "banter",
+            "text": "It's on a compilation, that's it.",
+            "person": "Cobain"
+        },
+        {
+            "type": "song",
+            "text": "Token Eastern Song",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "About A Girl",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "Stain",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "Negative Creep",
+            "notes": []
+        },
+        {
+            "type": "banter",
+            "text": "Thank you for coming.",
+            "person": "Cobain"
+        },
+        {
+            "type": "song",
+            "text": "Blew",
+            "notes": []
+        }
+    ],
+    "set_incomplete": false,
+    "transmission": {},
+    "rehearsel_circulating_sources": [],
+    "circulating_sources": [
+        {
+            "name": "AUD #1",
+            "complete": true,
+            "equipment": "Teac > Sony TC-D5",
+            "generation": "ANA(M) > CDR(1) > FLAC",
+            "video-generation": null,
+            "audio-generation": null,
+            "length-sound": "47 min / 9.0",
+            "notes": [
+                "Surfaced in January 2008."
+            ]
+        },
+        {
+            "name": "AMT #1",
+            "complete": false,
+            "equipment": "Bult-in > Unknown",
+            "generation": "VHS(M) > DVDR(1)/FLAC",
+            "video-generation": null,
+            "audio-generation": null,
+            "length-sound": "31 min / 8.0",
+            "notes": [
+                "Surfaced in January 2008",
+                "Amateur video, shot from a balcony in front of the stage.",
+                "\"Love Buzz\", \"Polly\", \"Big Cheese\" and \"Spank Thru\" all cut in, whilst the video is missing \"Token Eastern Song\" and cuts out completely after \"About A Girl\".",
+                "The taper only recorded part of the Nirvana set because he only had one video tape and needed the space to record Eleventh Dream Day."
+            ]
+        }
+    ],
+    "uncirculated_sources": [],
+    "notes": [],
+    "press": [],
+    "memorabilia": [
+        {
+            "url": "/concerts/images/1989/1989-09-30/1989-09-30_01.jpg",
+            "caption": "Handbill/Flyer, designed by unknown"
+        },
+        {
+            "url": "/concerts/images/1989/1989-09-30/1989-09-30_02.jpg",
+            "caption": "Advert"
+        },
+        {
+            "url": "/concerts/images/1989/1989-09-30/1989-09-30_03.jpg",
+            "caption": "Tour itinerary"
+        }
+    ],
+    "images": [
+        {
+            "url": "/concerts/images/1989/1989-09-30/1989-09-30_001.jpg",
+            "caption": "Screencap of AMT #1"
+        },
+        {
+            "url": "/concerts/images/1989/1989-09-30/1989-09-30_002.jpg",
+            "caption": "Screencap of AMT #1"
+        },
+        {
+            "url": "/concerts/images/1989/1989-09-30/1989-09-30_003.jpg",
+            "caption": "Screencap of AMT #1"
+        },
+        {
+            "url": "/concerts/images/1989/1989-09-30/1989-09-30_004.jpg",
+            "caption": "Screencap of AMT #1"
+        },
+        {
+            "url": "/concerts/images/1989/1989-09-30/1989-09-30_005.jpg",
+            "caption": "Screencap of AMT #1"
+        },
+        {
+            "url": "/concerts/images/1989/1989-09-30/1989-09-30_006.jpg",
+            "caption": "Screencap of AMT #1"
+        },
+        {
+            "url": "/concerts/images/1989/1989-09-30/1989-09-30_007.jpg",
+            "caption": "Screencap of AMT #1"
+        }
+    ],
+    "navigation": {
+        "previous": "89-09-28",
+        "next": "89-10-01"
+    },
+    "graph": {
+        "bleach": "8",
+        "nevermind": "1",
+        "inutero": "0",
+        "non": "4"
+    }
+}

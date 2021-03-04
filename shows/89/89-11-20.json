@@ -1,0 +1,484 @@
+{
+    "year": "1989",
+    "month": "11",
+    "day": "20",
+    "venue": "November 20",
+    "city": "1989 - Kapu",
+    "state": "Linz",
+    "country": "AT",
+    "band": [
+        {
+            "NIRVANA": [
+                {
+                    "name": "Kurt Cobain ",
+                    "duty": "vocals, guitar"
+                },
+                {
+                    "name": "Krist Novoselic ",
+                    "duty": "bass, vocals"
+                },
+                {
+                    "name": "Chad Channing ",
+                    "duty": "drums"
+                }
+            ],
+            "type": "group"
+        }
+    ],
+    "crew": [
+        {
+            "name": "Edwin Heath",
+            "duty": "tour manager"
+        },
+        {
+            "name": "Craig Montgomery",
+            "duty": "sound engineer"
+        }
+    ],
+    "buyer": {
+        "names": [
+            "Christian Vögener"
+        ]
+    },
+    "schedule": [
+        {
+            "event": "Load In",
+            "time": "15:00"
+        },
+        {
+            "event": "Soundcheck",
+            "time": "16:00"
+        },
+        {
+            "event": "Doors",
+            "time": "19:00"
+        },
+        {
+            "event": "TAD Showtime",
+            "time": "…:…"
+        },
+        {
+            "event": "NIRVANA Showtime",
+            "time": "…:…"
+        }
+    ],
+    "soundcheck": [],
+    "soundcheck_incomplete": false,
+    "set": [
+        {
+            "type": "song",
+            "text": "School",
+            "notes": []
+        },
+        {
+            "type": "banter",
+            "text": "Danke",
+            "person": "Novoselic"
+        },
+        {
+            "type": "banter",
+            "text": "Donkey show",
+            "person": "Cobain"
+        },
+        {
+            "type": "song",
+            "text": "Scoff",
+            "notes": [
+                "Novoselic briefly on vocals"
+            ]
+        },
+        {
+            "type": "banter",
+            "text": "It's great to be here in Australia!",
+            "person": "Novoselic"
+        },
+        {
+            "type": "banter",
+            "text": "Ha ha! Fuck you!",
+            "person": "Voice"
+        },
+        {
+            "type": "banter",
+            "text": "But I haven't seen any kangeroos yet!",
+            "person": "Novoselic"
+        },
+        {
+            "type": "song",
+            "text": "Love Buzz",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "Floyd The Barber",
+            "notes": []
+        },
+        {
+            "type": "banter",
+            "text": "Danke",
+            "person": "Novoselic"
+        },
+        {
+            "type": "song",
+            "text": "Dive",
+            "notes": []
+        },
+        {
+            "type": "jam",
+            "text": "jam bass jam",
+            "notes": [
+                "bass jam"
+            ]
+        },
+        {
+            "type": "song",
+            "text": "Polly",
+            "notes": []
+        },
+        {
+            "type": "banter",
+            "text": "Danke",
+            "person": "Novoselic"
+        },
+        {
+            "type": "song",
+            "text": "Big Cheese",
+            "notes": []
+        },
+        {
+            "type": "banter",
+            "text": "Sydney's a beautiful city",
+            "person": "Novoselic"
+        },
+        {
+            "type": "song",
+            "text": "About A Girl",
+            "notes": []
+        },
+        {
+            "type": "banter",
+            "text": "Danke",
+            "person": "Novoselic"
+        },
+        {
+            "type": "song",
+            "text": "Spank Thru",
+            "notes": []
+        },
+        {
+            "type": "banter",
+            "text": "We love Japan!",
+            "person": "Voice"
+        },
+        {
+            "type": "banter",
+            "text": "You love Japan? I'm from Tokyo! Alright ?? ??",
+            "person": "Novoselic"
+        },
+        {
+            "type": "jam",
+            "text": "jam bass jam",
+            "notes": [
+                "bass jam"
+            ]
+        },
+        {
+            "type": "banter",
+            "text": "I'm from Tokyo, he loves Japan",
+            "person": "Novoselic"
+        },
+        {
+            "type": "banter",
+            "text": "You're from Japan?",
+            "person": "Cobain"
+        },
+        {
+            "type": "banter",
+            "text": "You're from Japan!",
+            "person": "Voice"
+        },
+        {
+            "type": "banter",
+            "text": "Yeah!",
+            "person": "Novoselic"
+        },
+        {
+            "type": "banter",
+            "text": "I am? Well, it's from Scotland too, well Aberdeen",
+            "person": "Cobain"
+        },
+        {
+            "type": "banter",
+            "text": "Sub Pop!",
+            "person": "Voice"
+        },
+        {
+            "type": "banter",
+            "text": "It's a sum of a pump pop!",
+            "person": "Novoselic"
+        },
+        {
+            "type": "banter",
+            "text": "Has anybody ever heard of the Vaselines? They're from Scotland, you've heard of the Vaselines? Ola ermano not that Vaseline, the petroleum jelly, it's like a band called the Vaselines. If you have chapped lips you have the vaselines, but if you have a chapped head, you can listen to 'em",
+            "person": "Novoselic"
+        },
+        {
+            "type": "banter",
+            "text": "This songs has two notes! That's it. This note, and this note, OK?",
+            "person": "Cobain"
+        },
+        {
+            "type": "song",
+            "text": "Molly's Lips",
+            "notes": []
+        },
+        {
+            "type": "banter",
+            "text": "??",
+            "person": "Channing"
+        },
+        {
+            "type": "banter",
+            "text": "Everybody pogo, everybody pogo, pogo for everyone!",
+            "person": "Cobain"
+        },
+        {
+            "type": "banter",
+            "text": "Everybody pogo, thank you",
+            "person": "Channing"
+        },
+        {
+            "type": "banter",
+            "text": "This song is called pedonecrocrapum",
+            "person": "Cobain"
+        },
+        {
+            "type": "banter",
+            "text": "Pogo!",
+            "person": "Cobain"
+        },
+        {
+            "type": "song",
+            "text": "Breed",
+            "notes": []
+        },
+        {
+            "type": "banter",
+            "text": "Diaper cream for everyone, ?? flavour curd",
+            "person": "Cobain"
+        },
+        {
+            "type": "banter",
+            "text": "Yoiks, I gotta change my diapers, what a chump",
+            "person": "Kurt Danielson"
+        },
+        {
+            "type": "banter",
+            "text": "The DDR will be here soon to change your diapers",
+            "person": "Cobain"
+        },
+        {
+            "type": "banter",
+            "text": "How many have our record..., no one has our record?",
+            "person": "Cobain"
+        },
+        {
+            "type": "banter",
+            "text": "He has our record, he looks out!",
+            "person": "Novoselic"
+        },
+        {
+            "type": "banter",
+            "text": "Well if you can find it, buy it!",
+            "person": "Cobain"
+        },
+        {
+            "type": "banter",
+            "text": "He's German! He's German, Dieter",
+            "person": "Novoselic"
+        },
+        {
+            "type": "banter",
+            "text": "Pogo! Yeah, invent the pogo!",
+            "person": "Cobain"
+        },
+        {
+            "type": "song",
+            "text": "Been A Son",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "Negative Creep",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "Blew",
+            "notes": []
+        },
+        {
+            "type": "banter",
+            "text": "Thank you, good night.",
+            "person": "Cobain"
+        },
+        {
+            "type": "banter",
+            "text": "I'm Sorry but this song is slow, but the next one after that will be fast, this is a love song",
+            "person": "Cobain"
+        },
+        {
+            "type": "song",
+            "text": "Sappy",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "Even In His Youth",
+            "notes": []
+        },
+        {
+            "type": "jam",
+            "text": "I Just Called To Say I Love You bass jam",
+            "notes": [
+                "bass jam"
+            ]
+        },
+        {
+            "type": "banter",
+            "text": "OK, now we're done, thanks for coming",
+            "person": "Cobain"
+        },
+        {
+            "type": "song",
+            "text": "Stain",
+            "notes": []
+        },
+        {
+            "type": "banter",
+            "text": "Thank you, good night",
+            "person": "Cobain"
+        },
+        {
+            "type": "banter",
+            "text": "You guys are too tired",
+            "person": "Novoselic"
+        },
+        {
+            "type": "banter",
+            "text": "Would you buy our t-shirts ...",
+            "person": "Cobain"
+        }
+    ],
+    "set_incomplete": false,
+    "transmission": {},
+    "rehearsel_circulating_sources": [],
+    "circulating_sources": [
+        {
+            "name": "AMT #1",
+            "complete": true,
+            "equipment": "Unknown > Unknown",
+            "generation": "VHS(1) > DVDR(1)/FLAC",
+            "video-generation": null,
+            "audio-generation": null,
+            "length-sound": "60 min / 7.5",
+            "notes": [
+                "In June 2004 a 1st generation tape was transferred.",
+                "Amateur video, shot from an elevated position at the back of the venue.",
+                "\"Dive\" and \"Blew\" cut in."
+            ]
+        },
+        {
+            "name": "AMT #2",
+            "complete": true,
+            "equipment": "Built In > Hitachi VM-???",
+            "generation": "VHS(M) > DVDR(1)/FLAC",
+            "video-generation": null,
+            "audio-generation": null,
+            "length-sound": "63 min / 8.0",
+            "notes": [
+                "Surfaced in October 2007.",
+                "\"Scoff,\" \"Big Cheese,\" and \"Blew\" cut in. \"Stain\" cuts out.",
+                "Has cuts after 'Breed' and 'Blew'."
+            ]
+        }
+    ],
+    "uncirculated_sources": [],
+    "notes": [
+        "Krist sang part of \"Scoff.\""
+    ],
+    "press": [],
+    "memorabilia": [
+        {
+            "url": "/concerts/images/1989/1989-11-20/1989-11-20_01.jpg",
+            "caption": "Handbill/Flyer, designed by unknown"
+        },
+        {
+            "url": "/concerts/images/1989/1989-11-20/1989-11-20_02.jpg",
+            "caption": "Advert"
+        },
+        {
+            "url": "/concerts/images/1989/1989-11-20/1989-11-20_03.jpg",
+            "caption": "Advert"
+        },
+        {
+            "url": "/concerts/images/1989/1989-11-20/1989-11-20_04.jpg",
+            "caption": "Nirvana's tour itinerary"
+        },
+        {
+            "url": "/concerts/images/1989/1989-11-20/1989-11-20_05.jpg",
+            "caption": "Nirvana's tour itinerary"
+        },
+        {
+            "url": "/concerts/images/1989/1989-11-20/1989-11-20_06.jpg",
+            "caption": "Nirvana's tour itinerary"
+        },
+        {
+            "url": "/concerts/images/1989/1989-11-20/1989-11-20_07.jpg",
+            "caption": "Advert"
+        },
+        {
+            "url": "/concerts/images/1989/1989-11-20/1989-11-20_08.jpg",
+            "caption": "Advert"
+        },
+        {
+            "url": "/concerts/images/1989/1989-11-20/1989-11-20_09.jpg",
+            "caption": "Advert"
+        },
+        {
+            "url": "/concerts/images/1989/1989-11-20/1989-11-20_10.jpg",
+            "caption": "Contract"
+        }
+    ],
+    "images": [
+        {
+            "url": "/concerts/images/1989/1989-11-20/1989-11-20_001.jpg",
+            "caption": "Photo by Walter Horn"
+        },
+        {
+            "url": "/concerts/images/1989/1989-11-20/1989-11-20_002.jpg",
+            "caption": "Photo by Walter Horn"
+        },
+        {
+            "url": "/concerts/images/1989/1989-11-20/1989-11-20_003.jpg",
+            "caption": "Photo by Walter Horn"
+        },
+        {
+            "url": "/concerts/images/1989/1989-11-20/1989-11-20_004.jpg",
+            "caption": "Photo by Walter Horn"
+        },
+        {
+            "url": "/concerts/images/1989/1989-11-20/1989-11-20_005.jpg",
+            "caption": "Photo by Walter Horn"
+        }
+    ],
+    "navigation": {
+        "previous": "89-11-18",
+        "next": "89-11-21"
+    },
+    "graph": {
+        "bleach": "8",
+        "nevermind": "2",
+        "inutero": "0",
+        "non": "7"
+    }
+}

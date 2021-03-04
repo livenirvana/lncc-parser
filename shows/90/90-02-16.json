@@ -1,0 +1,349 @@
+{
+    "year": "1990",
+    "month": "02",
+    "day": "16",
+    "band": [
+        {
+            "NIRVANA": [
+                {
+                    "name": "Kurt Cobain ",
+                    "duty": "vocals, guitar"
+                },
+                {
+                    "name": "Krist Novoselic ",
+                    "duty": "bass"
+                },
+                {
+                    "name": "Chad Channing ",
+                    "duty": "drums"
+                }
+            ],
+            "type": "group"
+        }
+    ],
+    "crew": [],
+    "buyer": {
+        "names": [
+            "Steve Zepeda"
+        ]
+    },
+    "schedule": [
+        {
+            "event": "Load In",
+            "time": "…:…"
+        },
+        {
+            "event": "Soundcheck",
+            "time": "…:…"
+        },
+        {
+            "event": "Doors",
+            "time": "20:00"
+        },
+        {
+            "event": "Haywire Showtime",
+            "time": "…:…"
+        },
+        {
+            "event": "NIRVANA Showtime",
+            "time": "…:…"
+        },
+        {
+            "event": "TAD Showtime",
+            "time": "…:…"
+        }
+    ],
+    "soundcheck": [],
+    "soundcheck_incomplete": false,
+    "set": [
+        {
+            "type": "song",
+            "text": "Love Buzz",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "Floyd The Barber",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "Scoff",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "Dive",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "Sappy",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "About A Girl",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "Spank Thru",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "Breed",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "School",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "Been A Son",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "Stain",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "Negative Creep",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "Blew",
+            "notes": []
+        }
+    ],
+    "set_incomplete": false,
+    "transmission": {},
+    "rehearsel_circulating_sources": [],
+    "circulating_sources": [
+        {
+            "name": "AUD #1a",
+            "complete": true,
+            "equipment": "unknown > Marantz",
+            "generation": "ANA(2) > FLAC",
+            "video-generation": null,
+            "audio-generation": null,
+            "length-sound": "46:17 min / 8.5",
+            "notes": [
+                "In September 2004 an ANA(2) upgrade was circulated."
+            ]
+        },
+        {
+            "name": "AUD #1b",
+            "complete": true,
+            "equipment": "unknown > Marantz",
+            "generation": "ANA(1) > FLAC",
+            "video-generation": null,
+            "audio-generation": null,
+            "length-sound": "47:30 min / 7.0",
+            "notes": [
+                "Surfaced December 2020. More complete but worse sound than AUD #1a"
+            ]
+        },
+        {
+            "name": "AUD #2",
+            "complete": true,
+            "equipment": "Sony (supplied) > Sony WM-F76",
+            "generation": "ANA(M) > FLAC",
+            "video-generation": null,
+            "audio-generation": null,
+            "length-sound": "47:51 min / 7.5",
+            "notes": [
+                "Surfaced in October 2005."
+            ]
+        },
+        {
+            "name": "AUD #3",
+            "complete": false,
+            "equipment": "unknown > Sony TCD-D10",
+            "generation": "DAT(M) > ANA(1) > FLAC",
+            "video-generation": null,
+            "audio-generation": null,
+            "length-sound": "7 min / ?",
+            "notes": [
+                "Surfaced in December 2020. Due to a faulty DAT tape there are severe digital glitches and dropouts from \"Floyd The Barber\" to the end of the recording."
+            ]
+        },
+        {
+            "name": "SBD #1",
+            "complete": false,
+            "equipment": "Soundboard > Sony TCD-10",
+            "generation": "Unnofficial 7\" [Penu Baby] > FLAC",
+            "video-generation": null,
+            "audio-generation": null,
+            "length-sound": "10 min / 9.5",
+            "notes": [
+                "Includes only \"Love Buzz,\" \"Floyd The Barber,\" and \"Scoff.\""
+            ]
+        },
+        {
+            "name": "AMT #1",
+            "complete": true,
+            "equipment": "Unknown > Unknown",
+            "generation": "VHS(1) > DVDR/FLAC",
+            "video-generation": null,
+            "audio-generation": null,
+            "length-sound": "47 min / 8.5",
+            "notes": [
+                "Amateur video, shot from an elevated position at the back of the venue."
+            ]
+        },
+        {
+            "name": "AMT #2",
+            "complete": false,
+            "equipment": "Unknown > Unknown",
+            "generation": null,
+            "video-generation": "VHS(3) > MiniDV(1) > DVDR",
+            "audio-generation": "VHS(3) > FLAC",
+            "length-sound": "29 min / 8.0",
+            "notes": [
+                "The circulating DVDR was remastered.",
+                "Amateur video, shot mostly from the back right of the venue.",
+                "Missing \"Sappy\", \"Spank Thru\", \"Been A Son\", and \"Negative Creep\".",
+                "\"Dive\", \"About A Girl\", \"School\", \"Stain\", and \"Blew\" cut in."
+            ]
+        }
+    ],
+    "uncirculated_sources": [
+        {
+            "name": "AMT #3",
+            "note": "In the circulating amateur video, someone can be seen video taping the show from the side of the stage."
+        },
+        {
+            "name": "AUD #3",
+            "note": "It is rumored that the show was recorded."
+        }
+    ],
+    "notes": [
+        "At the end of the concert Kurt Cobain smashed his pink home-made mustang beyond repair."
+    ],
+    "press": [],
+    "memorabilia": [
+        {
+            "url": "/concerts/images/1990/1990-02-16/1990-02-16_01.jpg",
+            "caption": "Handbill/Flyer, designed by unknown"
+        },
+        {
+            "url": "/concerts/images/1990/1990-02-16/1990-02-16_02.jpg",
+            "caption": "Ticket"
+        },
+        {
+            "url": "/concerts/images/1990/1990-02-16/1990-02-16_03.jpg",
+            "caption": "Handwritten setlist"
+        },
+        {
+            "url": "/concerts/images/1990/1990-02-16/1990-02-16_04.jpg",
+            "caption": "Advert"
+        },
+        {
+            "url": "/concerts/images/1990/1990-02-16/1990-02-16_05.jpg",
+            "caption": "Advert"
+        },
+        {
+            "url": "/concerts/images/1990/1990-02-16/1990-02-16_06.jpg",
+            "caption": "SUB POP Fax"
+        }
+    ],
+    "images": [
+        {
+            "url": "/concerts/images/1990/1990-02-16/1990-02-16_001.jpg",
+            "caption": "Photo by Kevin Estrada"
+        },
+        {
+            "url": "/concerts/images/1990/1990-02-16/1990-02-16_002.jpg",
+            "caption": "Photo by Kevin Estrada"
+        },
+        {
+            "url": "/concerts/images/1990/1990-02-16/1990-02-16_003.jpg",
+            "caption": "Photo by Kevin Estrada"
+        },
+        {
+            "url": "/concerts/images/1990/1990-02-16/1990-02-16_004.jpg",
+            "caption": "Photo by Kevin Estrada"
+        },
+        {
+            "url": "/concerts/images/1990/1990-02-16/1990-02-16_005.jpg",
+            "caption": "Photo by Kevin Estrada"
+        },
+        {
+            "url": "/concerts/images/1990/1990-02-16/1990-02-16_006.jpg",
+            "caption": "Photo by Kevin Estrada"
+        },
+        {
+            "url": "/concerts/images/1990/1990-02-16/1990-02-16_007.jpg",
+            "caption": "Photo by KRK Dominguez"
+        },
+        {
+            "url": "/concerts/images/1990/1990-02-16/1990-02-16_008.jpg",
+            "caption": "Photo by KRK Dominguez"
+        },
+        {
+            "url": "/concerts/images/1990/1990-02-16/1990-02-16_009.jpg",
+            "caption": "Photo by Kevin Estrada"
+        },
+        {
+            "url": "/concerts/images/1990/1990-02-16/1990-02-16_010.jpg",
+            "caption": "Photo by Kevin Estrada"
+        },
+        {
+            "url": "/concerts/images/1990/1990-02-16/1990-02-16_011.jpg",
+            "caption": "Photo by Kevin Estrada"
+        },
+        {
+            "url": "/concerts/images/1990/1990-02-16/1990-02-16_012.jpg",
+            "caption": "Photo by Kevin Estrada"
+        },
+        {
+            "url": "/concerts/images/1990/1990-02-16/1990-02-16_013.jpg",
+            "caption": "Photo by Kevin Estrada"
+        },
+        {
+            "url": "/concerts/images/1990/1990-02-16/1990-02-16_014.jpg",
+            "caption": "Photo by Kevin Estrada"
+        },
+        {
+            "url": "/concerts/images/1990/1990-02-16/1990-02-16_015.jpg",
+            "caption": "Photo by Kevin Estrada"
+        },
+        {
+            "url": "/concerts/images/1990/1990-02-16/1990-02-16_016.jpg",
+            "caption": "Photo by Kevin Estrada"
+        },
+        {
+            "url": "/concerts/images/1990/1990-02-16/1990-02-16_017.jpg",
+            "caption": "Photo by Kevin Estrada"
+        },
+        {
+            "url": "/concerts/images/1990/1990-02-16/1990-02-16_018.jpg",
+            "caption": "Photo by KRK Dominguez"
+        },
+        {
+            "url": "/concerts/images/1990/1990-02-16/1990-02-16_019.jpg",
+            "caption": "Photo by Kevin Estrada"
+        },
+        {
+            "url": "/concerts/images/1990/1990-02-16/1990-02-16_020.jpg",
+            "caption": "Photo by KRK Dominguez"
+        }
+    ],
+    "navigation": {
+        "previous": "90-02-15",
+        "next": "90-02-17"
+    },
+    "graph": {
+        "bleach": "7",
+        "nevermind": "1",
+        "inutero": "0",
+        "non": "5"
+    }
+}

@@ -1,0 +1,685 @@
+{
+    "year": "1992",
+    "month": "02",
+    "day": "19",
+    "venue": "February 19",
+    "city": "1992 - Nakano Sunplaza",
+    "state": "Tokyo",
+    "country": "JP",
+    "band": [
+        {
+            "NIRVANA": [
+                {
+                    "name": "Kurt Cobain ",
+                    "duty": "vocals, guitar"
+                },
+                {
+                    "name": "Krist Novoselic ",
+                    "duty": "bass"
+                },
+                {
+                    "name": "Dave Grohl ",
+                    "duty": "drums, backing vocals"
+                }
+            ],
+            "type": "group"
+        }
+    ],
+    "crew": [
+        {
+            "name": "Alex MacLeod",
+            "duty": "tour manager"
+        },
+        {
+            "name": "Susanne Sasic",
+            "duty": "lighting designer"
+        },
+        {
+            "name": "Craig Montgomery",
+            "duty": "sound engineer"
+        },
+        {
+            "name": "Ian Beveridge",
+            "duty": "monitor engineer"
+        },
+        {
+            "name": "Nic Close",
+            "duty": "guitar technician"
+        },
+        {
+            "name": "Barrett Jones",
+            "duty": "drum technician"
+        }
+    ],
+    "buyer": {
+        "names": [
+            "No Info"
+        ],
+        "company": "UDO Artists, Inc."
+    },
+    "schedule": [
+        {
+            "event": "Load In",
+            "time": "…:…"
+        },
+        {
+            "event": "Soundcheck",
+            "time": "…:…"
+        },
+        {
+            "event": "Doors",
+            "time": "18:00"
+        },
+        {
+            "event": "NIRVANA Showtime",
+            "time": "…:…"
+        }
+    ],
+    "soundcheck": [],
+    "soundcheck_incomplete": false,
+    "set": [
+        {
+            "type": "song",
+            "text": "Negative Creep",
+            "notes": []
+        },
+        {
+            "type": "banter",
+            "text": "Thank you, good morning!",
+            "person": "Cobain"
+        },
+        {
+            "type": "banter",
+            "text": "This song's called Been A Son",
+            "person": "Grohl"
+        },
+        {
+            "type": "song",
+            "text": "Been A Son",
+            "notes": []
+        },
+        {
+            "type": "banter",
+            "text": "Thank you",
+            "person": "Grohl"
+        },
+        {
+            "type": "song",
+            "text": "On A Plain",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "Blew",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "Come As You Are",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "Lithium",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "Breed",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "Sliver",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "Drain You",
+            "notes": []
+        },
+        {
+            "type": "banter",
+            "text": "Kurt",
+            "person": "Grohl"
+        },
+        {
+            "type": "song",
+            "text": "About A Girl",
+            "notes": []
+        },
+        {
+            "type": "banter",
+            "text": "Thanks",
+            "person": "Cobain"
+        },
+        {
+            "type": "banter",
+            "text": "Kurt, Kurt, Kurt.",
+            "person": "Grohl"
+        },
+        {
+            "type": "jam",
+            "text": "jam bass jam",
+            "notes": [
+                "bass jam"
+            ]
+        },
+        {
+            "type": "banter",
+            "text": "So about two days ago, I got really sick, I got this really bad cold, you know, like a flu-like illness whatever, and er ... the doctor gave me this stuff to drink and I think it's Chinese herbs and it has cow's sperm in it and it's got like lizard penis scrapings and er ... and I still feel really sick but it just makes me feel good to know that I've been drinking cow semen! Makes you feel good!",
+            "person": "Grohl"
+        },
+        {
+            "type": "song",
+            "text": "School",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "Aneurysm",
+            "notes": []
+        },
+        {
+            "type": "banter",
+            "text": "Good night",
+            "person": "Grohl"
+        },
+        {
+            "type": "song",
+            "text": "Love Buzz",
+            "notes": []
+        },
+        {
+            "type": "banter",
+            "text": "Cow semen!",
+            "person": "Grohl"
+        },
+        {
+            "type": "song",
+            "text": "Polly",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "Territorial Pissings",
+            "notes": []
+        },
+        {
+            "type": "banter",
+            "text": "Good night, thank you",
+            "person": "Cobain"
+        },
+        {
+            "type": "banter",
+            "text": "Do you guys want to hear a heartfelt end of tour speech? This is heartfelt, nobody ever does, so maybe I'll just skip it. OK, can we have ?? through the radio headsets now",
+            "person": "Novoselic"
+        },
+        {
+            "type": "banter",
+            "text": "???? ????",
+            "person": "Grohl"
+        },
+        {
+            "type": "jam",
+            "text": "We Will Rock You jam novoselic acappella",
+            "notes": [
+                "jam",
+                "novoselic acappella"
+            ]
+        },
+        {
+            "type": "banter",
+            "text": " ?? ??? ahhhhhh",
+            "person": "Grohl"
+        },
+        {
+            "type": "song",
+            "text": "Smells Like Teen Spirit",
+            "notes": []
+        },
+        {
+            "type": "banter",
+            "text": "Break the noose, kill your parents (?) don't take any of the security guard shit! Kill them, kill the security guards. Kill all security guards",
+            "person": "Grohl"
+        },
+        {
+            "type": "jam",
+            "text": "noise jam/destruction ",
+            "notes": []
+        }
+    ],
+    "set_incomplete": false,
+    "transmission": {},
+    "rehearsel_circulating_sources": [],
+    "circulating_sources": [
+        {
+            "name": "AUD #1",
+            "complete": true,
+            "equipment": "Unknown > Aiwa",
+            "generation": "ANA(M) > DAT(1)> FLAC",
+            "video-generation": null,
+            "audio-generation": null,
+            "length-sound": "62:56 min / 8.0",
+            "notes": [
+                "Circulated in July 2007."
+            ]
+        },
+        {
+            "name": "AUD #2a",
+            "complete": true,
+            "equipment": "Unknown > Unknown",
+            "generation": "DAT(x) > Unofficial CD [Fire Extinguisher] > FLAC",
+            "video-generation": null,
+            "audio-generation": null,
+            "length-sound": "60:09 min / 10",
+            "notes": [
+                "Has minor cuts in \"On A Plain\", \"Drain You\" and \"Love Buzz\" intro (to remove diginoise).",
+                "Less complete in the beginning and after \"Love Buzz\" than AUD #2b."
+            ]
+        },
+        {
+            "name": "AUD #2b",
+            "complete": true,
+            "equipment": "Unknown > Unknown",
+            "generation": "DAT(x) > Unofficial CD [Tokyo 1992] > FLAC",
+            "video-generation": null,
+            "audio-generation": null,
+            "length-sound": "61 min / 10",
+            "notes": [
+                "More complete in the beginning and after \"Love Buzz\" than AUD #2a. \n                                    Has dropouts and diginoise at the end of \"Aneurysm\" and on the intro to \"Love Buzz\".\n"
+            ]
+        }
+    ],
+    "uncirculated_sources": [],
+    "notes": [
+        "Before \"Smells Like Teen Spirit,\" Krist sang a bit of Queen's \"We Will Rock You.\""
+    ],
+    "press": [],
+    "memorabilia": [
+        {
+            "url": "/concerts/images/1992/1992-02-19/1992-02-19_01.jpg",
+            "caption": "Advert"
+        },
+        {
+            "url": "/concerts/images/1992/1992-02-19/1992-02-19_02.jpg",
+            "caption": "Advert"
+        },
+        {
+            "url": "/concerts/images/1992/1992-02-19/1992-02-19_03.jpg",
+            "caption": "Ticket"
+        },
+        {
+            "url": "/concerts/images/1992/1992-02-19/1992-02-19_04.jpg",
+            "caption": "Advert"
+        },
+        {
+            "url": "/concerts/images/1992/1992-02-19/1992-02-19_05.jpg",
+            "caption": "Ticket"
+        },
+        {
+            "url": "/concerts/images/1992/1992-02-19/1992-02-19_06.jpg",
+            "caption": "Advert"
+        },
+        {
+            "url": "/concerts/images/1992/1992-02-19/1992-02-19_07.jpg",
+            "caption": "Advert"
+        },
+        {
+            "url": "/concerts/images/1992/1992-02-19/1992-02-19_08.jpg",
+            "caption": "Advert"
+        },
+        {
+            "url": "/concerts/images/1992/1992-02-19/1992-02-19_09.jpg",
+            "caption": "Advert"
+        },
+        {
+            "url": "/concerts/images/1992/1992-02-19/1992-02-19_10.jpg",
+            "caption": "Backstage pass"
+        }
+    ],
+    "images": [
+        {
+            "url": "/concerts/images/1992/1992-02-19/1992-02-19_001.jpg",
+            "caption": "Photo by Masataka Ishida"
+        },
+        {
+            "url": "/concerts/images/1992/1992-02-19/1992-02-19_002.jpg",
+            "caption": "Photo by Masataka Ishida"
+        },
+        {
+            "url": "/concerts/images/1992/1992-02-19/1992-02-19_003.jpg",
+            "caption": "Photo by Masataka Ishida"
+        },
+        {
+            "url": "/concerts/images/1992/1992-02-19/1992-02-19_004.jpg",
+            "caption": "Photo by Masataka Ishida"
+        },
+        {
+            "url": "/concerts/images/1992/1992-02-19/1992-02-19_005.jpg",
+            "caption": "Photo by Masataka Ishida"
+        },
+        {
+            "url": "/concerts/images/1992/1992-02-19/1992-02-19_006.jpg",
+            "caption": "Photo by Masataka Ishida"
+        },
+        {
+            "url": "/concerts/images/1992/1992-02-19/1992-02-19_007.jpg",
+            "caption": "Photo by Masataka Ishida"
+        },
+        {
+            "url": "/concerts/images/1992/1992-02-19/1992-02-19_008.jpg",
+            "caption": "Photo by Masataka Ishida"
+        },
+        {
+            "url": "/concerts/images/1992/1992-02-19/1992-02-19_009.jpg",
+            "caption": "Photo by Masataka Ishida"
+        },
+        {
+            "url": "/concerts/images/1992/1992-02-19/1992-02-19_010.jpg",
+            "caption": "Photo by Masataka Ishida"
+        },
+        {
+            "url": "/concerts/images/1992/1992-02-19/1992-02-19_011.jpg",
+            "caption": "Photo by Masataka Ishida"
+        },
+        {
+            "url": "/concerts/images/1992/1992-02-19/1992-02-19_012.jpg",
+            "caption": "Photo by Masataka Ishida"
+        },
+        {
+            "url": "/concerts/images/1992/1992-02-19/1992-02-19_013.jpg",
+            "caption": "Photo by Masataka Ishida"
+        },
+        {
+            "url": "/concerts/images/1992/1992-02-19/1992-02-19_014.jpg",
+            "caption": "Photo by Masataka Ishida"
+        },
+        {
+            "url": "/concerts/images/1992/1992-02-19/1992-02-19_015.jpg",
+            "caption": "Photo by Masataka Ishida"
+        },
+        {
+            "url": "/concerts/images/1992/1992-02-19/1992-02-19_016.jpg",
+            "caption": "Photo by Masataka Ishida"
+        },
+        {
+            "url": "/concerts/images/1992/1992-02-19/1992-02-19_017.jpg",
+            "caption": "Photo by Masataka Ishida"
+        },
+        {
+            "url": "/concerts/images/1992/1992-02-19/1992-02-19_018.jpg",
+            "caption": "Photo by Masataka Ishida"
+        },
+        {
+            "url": "/concerts/images/1992/1992-02-19/1992-02-19_019.jpg",
+            "caption": "Photo by Fujita Masahiro"
+        },
+        {
+            "url": "/concerts/images/1992/1992-02-19/1992-02-19_020.jpg",
+            "caption": "Photo by Fujita Masahiro"
+        },
+        {
+            "url": "/concerts/images/1992/1992-02-19/1992-02-19_021.jpg",
+            "caption": "Photo by Fujita Masahiro"
+        },
+        {
+            "url": "/concerts/images/1992/1992-02-19/1992-02-19_022.jpg",
+            "caption": "Photo by Fujita Masahiro"
+        },
+        {
+            "url": "/concerts/images/1992/1992-02-19/1992-02-19_023.jpg",
+            "caption": "Photo by Fujita Masahiro"
+        },
+        {
+            "url": "/concerts/images/1992/1992-02-19/1992-02-19_024.jpg",
+            "caption": "Photo by Fujita Masahiro"
+        },
+        {
+            "url": "/concerts/images/1992/1992-02-19/1992-02-19_025.jpg",
+            "caption": "Photo by Fujita Masahiro"
+        },
+        {
+            "url": "/concerts/images/1992/1992-02-19/1992-02-19_026.jpg",
+            "caption": "Photo by Fujita Masahiro"
+        },
+        {
+            "url": "/concerts/images/1992/1992-02-19/1992-02-19_027.jpg",
+            "caption": "Photo by Fujita Masahiro"
+        },
+        {
+            "url": "/concerts/images/1992/1992-02-19/1992-02-19_028.jpg",
+            "caption": "Photo by Richard A.Brooks"
+        },
+        {
+            "url": "/concerts/images/1992/1992-02-19/1992-02-19_029.jpg",
+            "caption": "Photo by Morio Kihara"
+        },
+        {
+            "url": "/concerts/images/1992/1992-02-19/1992-02-19_030.jpg",
+            "caption": "Photo by Morio Kihara"
+        },
+        {
+            "url": "/concerts/images/1992/1992-02-19/1992-02-19_031.jpg",
+            "caption": "Photo by Morio Kihara"
+        },
+        {
+            "url": "/concerts/images/1992/1992-02-19/1992-02-19_032.jpg",
+            "caption": "Photo by Morio Kihara"
+        },
+        {
+            "url": "/concerts/images/1992/1992-02-19/1992-02-19_033.jpg",
+            "caption": "Photo by Morio Kihara"
+        },
+        {
+            "url": "/concerts/images/1992/1992-02-19/1992-02-19_034.jpg",
+            "caption": "Photo by Yoshimasa Hatano"
+        },
+        {
+            "url": "/concerts/images/1992/1992-02-19/1992-02-19_035.jpg",
+            "caption": "Photo by Kohichiro Hiki"
+        },
+        {
+            "url": "/concerts/images/1992/1992-02-19/1992-02-19_036.jpg",
+            "caption": "Photo by Kohichiro Hiki"
+        },
+        {
+            "url": "/concerts/images/1992/1992-02-19/1992-02-19_037.jpg",
+            "caption": "Unknown photographer"
+        },
+        {
+            "url": "/concerts/images/1992/1992-02-19/1992-02-19_038.jpg",
+            "caption": "Unknown photographer"
+        },
+        {
+            "url": "/concerts/images/1992/1992-02-19/1992-02-19_039.jpg",
+            "caption": "Unknown photographer"
+        },
+        {
+            "url": "/concerts/images/1992/1992-02-19/1992-02-19_040.jpg",
+            "caption": "Unknown photographer"
+        },
+        {
+            "url": "/concerts/images/1992/1992-02-19/1992-02-19_041.jpg",
+            "caption": "Unknown photographer"
+        },
+        {
+            "url": "/concerts/images/1992/1992-02-19/1992-02-19_042.jpg",
+            "caption": "Photo by Richard Weedon"
+        },
+        {
+            "url": "/concerts/images/1992/1992-02-19/1992-02-19_043.jpg",
+            "caption": "Unknown photographer"
+        },
+        {
+            "url": "/concerts/images/1992/1992-02-19/1992-02-19_044.jpg",
+            "caption": "Unknown photographer"
+        },
+        {
+            "url": "/concerts/images/1992/1992-02-19/1992-02-19_045.jpg",
+            "caption": "Unknown photographer"
+        },
+        {
+            "url": "/concerts/images/1992/1992-02-19/1992-02-19_046.jpg",
+            "caption": "Unknown photographer"
+        },
+        {
+            "url": "/concerts/images/1992/1992-02-19/1992-02-19_047.jpg",
+            "caption": "Photo by Kohichiro Hiki"
+        },
+        {
+            "url": "/concerts/images/1992/1992-02-19/1992-02-19_048.jpg",
+            "caption": "Photo by Yoshimasa Hatano"
+        },
+        {
+            "url": "/concerts/images/1992/1992-02-19/1992-02-19_049.jpg",
+            "caption": "Photo by Yoshimasa Hatano"
+        },
+        {
+            "url": "/concerts/images/1992/1992-02-19/1992-02-19_050.jpg",
+            "caption": "Unknown photographer"
+        },
+        {
+            "url": "/concerts/images/1992/1992-02-19/1992-02-19_051.jpg",
+            "caption": "Unknown photographer"
+        },
+        {
+            "url": "/concerts/images/1992/1992-02-19/1992-02-19_052.jpg",
+            "caption": "Unknown photographer"
+        },
+        {
+            "url": "/concerts/images/1992/1992-02-19/1992-02-19_053.jpg",
+            "caption": "Unknown photographer"
+        },
+        {
+            "url": "/concerts/images/1992/1992-02-19/1992-02-19_054.jpg",
+            "caption": "Photo by Morio Kihara"
+        },
+        {
+            "url": "/concerts/images/1992/1992-02-19/1992-02-19_055.jpg",
+            "caption": "Photo by Richard Weedon"
+        },
+        {
+            "url": "/concerts/images/1992/1992-02-19/1992-02-19_056.jpg",
+            "caption": "Unknown photographer"
+        },
+        {
+            "url": "/concerts/images/1992/1992-02-19/1992-02-19_057.jpg",
+            "caption": "Unknown photographer"
+        },
+        {
+            "url": "/concerts/images/1992/1992-02-19/1992-02-19_058.jpg",
+            "caption": "Photo by Fujita Masahiro"
+        },
+        {
+            "url": "/concerts/images/1992/1992-02-19/1992-02-19_059.jpg",
+            "caption": "Photo by Fujita Masahiro"
+        },
+        {
+            "url": "/concerts/images/1992/1992-02-19/1992-02-19_060.jpg",
+            "caption": "Photo by Morio Kihara"
+        },
+        {
+            "url": "/concerts/images/1992/1992-02-19/1992-02-19_061.jpg",
+            "caption": "Photo by Fujita Masahiro"
+        },
+        {
+            "url": "/concerts/images/1992/1992-02-19/1992-02-19_062.jpg",
+            "caption": "Photo by Fujita Masahiro"
+        },
+        {
+            "url": "/concerts/images/1992/1992-02-19/1992-02-19_063.jpg",
+            "caption": "Photo by Fujita Masahiro"
+        },
+        {
+            "url": "/concerts/images/1992/1992-02-19/1992-02-19_064.jpg",
+            "caption": "Photo by Fujita Masahiro"
+        },
+        {
+            "url": "/concerts/images/1992/1992-02-19/1992-02-19_065.jpg",
+            "caption": "Photo by Fujita Masahiro"
+        },
+        {
+            "url": "/concerts/images/1992/1992-02-19/1992-02-19_066.jpg",
+            "caption": "Photo by Fujita Masahiro"
+        },
+        {
+            "url": "/concerts/images/1992/1992-02-19/1992-02-19_067.jpg",
+            "caption": "Photo by Fujita Masahiro"
+        },
+        {
+            "url": "/concerts/images/1992/1992-02-19/1992-02-19_068.jpg",
+            "caption": "Photo by Fujita Masahiro"
+        },
+        {
+            "url": "/concerts/images/1992/1992-02-19/1992-02-19_069.jpg",
+            "caption": "Photo by Kohichiro Hiki"
+        },
+        {
+            "url": "/concerts/images/1992/1992-02-19/1992-02-19_070.jpg",
+            "caption": "Photo by Richard A.Brooks"
+        },
+        {
+            "url": "/concerts/images/1992/1992-02-19/1992-02-19_071.jpg",
+            "caption": "Photo by Yoshimasa Hatano"
+        },
+        {
+            "url": "/concerts/images/1992/1992-02-19/1992-02-19_072.jpg",
+            "caption": "Photo by Yoshimasa Hatano"
+        },
+        {
+            "url": "/concerts/images/1992/1992-02-19/1992-02-19_073.jpg",
+            "caption": "Photo by Yoshimasa Hatano"
+        },
+        {
+            "url": "/concerts/images/1992/1992-02-19/1992-02-19_074.jpg",
+            "caption": "Photo by Kohichiro Hiki"
+        },
+        {
+            "url": "/concerts/images/1992/1992-02-19/1992-02-19_075.jpg",
+            "caption": "Photo by Kohichiro Hiki"
+        },
+        {
+            "url": "/concerts/images/1992/1992-02-19/1992-02-19_076.jpg",
+            "caption": "Photo by Gutchie Kojima"
+        },
+        {
+            "url": "/concerts/images/1992/1992-02-19/1992-02-19_077.jpg",
+            "caption": "Photo by Gutchie Kojima"
+        },
+        {
+            "url": "/concerts/images/1992/1992-02-19/1992-02-19_078.jpg",
+            "caption": "Photo by Gutchie Kojima"
+        },
+        {
+            "url": "/concerts/images/1992/1992-02-19/1992-02-19_079.jpg",
+            "caption": "Photo by Gutchie Kojima"
+        },
+        {
+            "url": "/concerts/images/1992/1992-02-19/1992-02-19_080.jpg",
+            "caption": "Photo by Gutchie Kojima"
+        },
+        {
+            "url": "/concerts/images/1992/1992-02-19/1992-02-19_081.jpg",
+            "caption": "Photo by Gutchie Kojima"
+        },
+        {
+            "url": "/concerts/images/1992/1992-02-19/1992-02-19_082.jpg",
+            "caption": "Photo by Gutchie Kojima"
+        },
+        {
+            "url": "/concerts/images/1992/1992-02-19/1992-02-19_083.jpg",
+            "caption": "Photo by Gutchie Kojima"
+        }
+    ],
+    "navigation": {
+        "previous": "92-02-17",
+        "next": "92-02-21"
+    },
+    "graph": {
+        "bleach": "5",
+        "nevermind": "8",
+        "inutero": "0",
+        "non": "3"
+    }
+}

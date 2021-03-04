@@ -1,0 +1,296 @@
+{
+    "year": "1993",
+    "month": "09",
+    "day": "08",
+    "band": [
+        {
+            "Courtney Love": [
+                {
+                    "name": "Courtney Love ",
+                    "duty": "vocals, guitar"
+                }
+            ],
+            "type": "group"
+        },
+        {
+            "name": "Kurt Cobain ",
+            "duty": "vocals, guitar",
+            "type": "person"
+        }
+    ],
+    "crew": [],
+    "buyer": {
+        "names": []
+    },
+    "schedule": [
+        {
+            "event": "Load In",
+            "time": "…:…"
+        },
+        {
+            "event": "Soundcheck",
+            "time": "…:…"
+        },
+        {
+            "event": "Doors",
+            "time": "21:00"
+        },
+        {
+            "event": "Kurt and Courtney Showtime",
+            "time": "…:…"
+        },
+        {
+            "event": "7 Year Bitch Showtime",
+            "time": "…:…"
+        },
+        {
+            "event": "Exene Cervenka Showtime",
+            "time": "…:…"
+        },
+        {
+            "event": "Johnette Napolitano Showtime",
+            "time": "…:…"
+        },
+        {
+            "event": "Pinching Judy Showtime",
+            "time": "…:…"
+        }
+    ],
+    "soundcheck": [],
+    "soundcheck_incomplete": false,
+    "set": [
+        {
+            "type": "banter",
+            "text": "Does anybody know any Hole, Holecio Felociana? Hose or should I'",
+            "person": "Cobain"
+        },
+        {
+            "type": "banter",
+            "text": "Kurt's leaving me, he's gonna marry Winona. Why don't I have a mic on, why do you have a mic on your guitar and I don't have a mic on mine? I have to get' oh! Can you erm'can you' play a chord. Which one do you want to do first?",
+            "person": "Love"
+        },
+        {
+            "type": "banter",
+            "text": "Erm'",
+            "person": "Cobain"
+        },
+        {
+            "type": "banter",
+            "text": "shall we do'",
+            "person": "Love"
+        },
+        {
+            "type": "banter",
+            "text": "let's do the blues one, no let's do Pennyroyal Tea",
+            "person": "Cobain"
+        },
+        {
+            "type": "banter",
+            "text": "let's do Leadbelly",
+            "person": "Love"
+        },
+        {
+            "type": "banter",
+            "text": "no, let's do Pennyroyal Tea",
+            "person": "Cobain"
+        },
+        {
+            "type": "banter",
+            "text": "I want to do Leadbelly",
+            "person": "Love"
+        },
+        {
+            "type": "banter",
+            "text": "no, let's do Pennyroyal Tea",
+            "person": "Cobain"
+        },
+        {
+            "type": "banter",
+            "text": "alright, go ahead",
+            "person": "Love"
+        },
+        {
+            "type": "song",
+            "text": "Pennyroyal Tea",
+            "notes": []
+        },
+        {
+            "type": "banter",
+            "text": "Thank you",
+            "person": "Cobain"
+        },
+        {
+            "type": "banter",
+            "text": "Thank you",
+            "person": "Love"
+        },
+        {
+            "type": "banter",
+            "text": "I can't hear the guitar",
+            "person": "Cobain"
+        },
+        {
+            "type": "banter",
+            "text": "I can't hear it either, it's a joke! Well, can you fix it? OK, hold on, oh. You'd better sing on this one!",
+            "person": "Love"
+        },
+        {
+            "type": "banter",
+            "text": "I sang on the last one! Come on",
+            "person": "Cobain"
+        },
+        {
+            "type": "banter",
+            "text": "what?",
+            "person": "Love"
+        },
+        {
+            "type": "banter",
+            "text": "I know it, just one more",
+            "person": "Cobain"
+        },
+        {
+            "type": "banter",
+            "text": "We're almost done. No, we're gonna stay here all night. Hold on' ok, go ahead. This is our last one",
+            "person": "Love"
+        },
+        {
+            "type": "song",
+            "text": "Where Did You Sleep Last Night?",
+            "notes": []
+        },
+        {
+            "type": "banter",
+            "text": "Thanks a lot",
+            "person": "Love"
+        },
+        {
+            "type": "banter",
+            "text": "Thank you",
+            "person": "Cobain"
+        },
+        {
+            "type": "banter",
+            "text": "Sonny and Cher",
+            "person": "Love"
+        }
+    ],
+    "set_incomplete": false,
+    "transmission": {},
+    "rehearsel_circulating_sources": [],
+    "circulating_sources": [
+        {
+            "name": "SBD #1",
+            "complete": true,
+            "equipment": "Soundboard > Unknown",
+            "generation": "ANA(x) > DAT(x) > FLAC",
+            "video-generation": null,
+            "audio-generation": null,
+            "length-sound": "08 min / 9.0",
+            "notes": [
+                "Surfaced in May 2005."
+            ]
+        },
+        {
+            "name": "PRO CLIP #1",
+            "complete": false,
+            "equipment": "Soundboard > Unknown",
+            "generation": "TV > VHS(1) > DVDR",
+            "video-generation": null,
+            "audio-generation": null,
+            "length-sound": "15 sec / 7.0",
+            "notes": [
+                "Single camera PRO-shot video.",
+                "Feature a clip of \"Pennyroyal Tea\" and some banter.",
+                "Has a reporter talking over the audio."
+            ]
+        }
+    ],
+    "uncirculated_sources": [],
+    "notes": [
+        "Courtney performed solo, then introduced Kurt as \"my husband, Yoko.\""
+    ],
+    "press": [],
+    "memorabilia": [
+        {
+            "url": "/concerts/images/1993/1993-09-08r/1993-09-08r_01.jpg",
+            "caption": "Advert"
+        }
+    ],
+    "images": [
+        {
+            "url": "/concerts/images/1993/1993-09-08r/1993-09-08r_001.jpg",
+            "caption": "Photo by Lisa Johnson"
+        },
+        {
+            "url": "/concerts/images/1993/1993-09-08r/1993-09-08r_002.jpg",
+            "caption": "Photo by Lindsay Brice"
+        },
+        {
+            "url": "/concerts/images/1993/1993-09-08r/1993-09-08r_003.jpg",
+            "caption": "Photo by Lisa Johnson"
+        },
+        {
+            "url": "/concerts/images/1993/1993-09-08r/1993-09-08r_004.jpg",
+            "caption": "Photo by Lisa Johnson"
+        },
+        {
+            "url": "/concerts/images/1993/1993-09-08r/1993-09-08r_005.jpg",
+            "caption": "Photo by Lisa Johnson"
+        },
+        {
+            "url": "/concerts/images/1993/1993-09-08r/1993-09-08r_006.jpg",
+            "caption": "Photo by Lisa Johnson"
+        },
+        {
+            "url": "/concerts/images/1993/1993-09-08r/1993-09-08r_007.jpg",
+            "caption": "Photo by Lindsay Brice"
+        },
+        {
+            "url": "/concerts/images/1993/1993-09-08r/1993-09-08r_008.jpg",
+            "caption": "Photo by Lindsay Brice"
+        },
+        {
+            "url": "/concerts/images/1993/1993-09-08r/1993-09-08r_009.jpg",
+            "caption": "Photo by Lindsay Brice"
+        },
+        {
+            "url": "/concerts/images/1993/1993-09-08r/1993-09-08r_010.jpg",
+            "caption": "Photo by Lindsay Brice"
+        },
+        {
+            "url": "/concerts/images/1993/1993-09-08r/1993-09-08r_011.jpg",
+            "caption": "Photo by Lindsay Brice"
+        },
+        {
+            "url": "/concerts/images/1993/1993-09-08r/1993-09-08r_012.jpg",
+            "caption": "Photo by Lisa Johnson"
+        },
+        {
+            "url": "/concerts/images/1993/1993-09-08r/1993-09-08r_013.jpg",
+            "caption": "Photo by Lisa Johnson"
+        },
+        {
+            "url": "/concerts/images/1993/1993-09-08r/1993-09-08r_014.jpg",
+            "caption": "Photo by Lindsay Brice"
+        },
+        {
+            "url": "/concerts/images/1993/1993-09-08r/1993-09-08r_015.jpg",
+            "caption": "Photo by Lindsay Brice"
+        },
+        {
+            "url": "/concerts/images/1993/1993-09-08r/1993-09-08r_016.jpg",
+            "caption": "Photo by Lindsay Brice"
+        }
+    ],
+    "navigation": {
+        "previous": "93-08-06",
+        "next": "93-09-25"
+    },
+    "graph": {
+        "bleach": "0",
+        "nevermind": "0",
+        "inutero": "1",
+        "non": "1"
+    }
+}

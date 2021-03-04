@@ -1,0 +1,299 @@
+{
+    "year": "1989",
+    "month": "05",
+    "day": "26",
+    "band": [
+        {
+            "NIRVANA": [
+                {
+                    "name": "Kurt Cobain ",
+                    "duty": "vocals, guitar"
+                },
+                {
+                    "name": "Krist Novoselic ",
+                    "duty": "bass"
+                },
+                {
+                    "name": "Chad Channing ",
+                    "duty": "drums"
+                },
+                {
+                    "name": "Jason Everman ",
+                    "duty": "guitar"
+                }
+            ],
+            "type": "group"
+        }
+    ],
+    "crew": [],
+    "buyer": {
+        "names": [
+            "Timothy Thomas"
+        ]
+    },
+    "schedule": [
+        {
+            "event": "Load In",
+            "time": "…:…"
+        },
+        {
+            "event": "Soundcheck",
+            "time": "…:…"
+        },
+        {
+            "event": "Doors",
+            "time": "21:00"
+        },
+        {
+            "event": "Bible Stud Showtime",
+            "time": "…:…"
+        },
+        {
+            "event": "NIRVANA Showtime",
+            "time": "22:40"
+        },
+        {
+            "event": "Skin Yard Showtime",
+            "time": "…:…"
+        }
+    ],
+    "soundcheck": [],
+    "soundcheck_incomplete": false,
+    "set": [
+        {
+            "type": "banter",
+            "text": "Alright ???? Bible Stud Tonigh ???? ????????????????? This is Nirvana.",
+            "person": "Voice"
+        },
+        {
+            "type": "song",
+            "text": "Dive",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "School",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "Love Buzz",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "Scoff",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "Sifting",
+            "notes": []
+        },
+        {
+            "type": "banter",
+            "text": "Spank Thru!",
+            "person": "Voice"
+        },
+        {
+            "type": "song",
+            "text": "Big Cheese",
+            "notes": []
+        },
+        {
+            "type": "jam",
+            "text": "Spank Thru guitar false start",
+            "notes": [
+                "guitar",
+                "false start"
+            ]
+        },
+        {
+            "type": "song",
+            "text": "Floyd The Barber",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "Spank Thru",
+            "notes": []
+        },
+        {
+            "type": "jam",
+            "text": "Pen Cap Chew bass line",
+            "notes": [
+                "bass line"
+            ]
+        },
+        {
+            "type": "banter",
+            "text": "Negative Creep!",
+            "person": "Voice"
+        },
+        {
+            "type": "song",
+            "text": "About A Girl",
+            "notes": []
+        },
+        {
+            "type": "banter",
+            "text": "Negative Creep!",
+            "person": "Voice"
+        },
+        {
+            "type": "song",
+            "text": "Negative Creep",
+            "notes": []
+        },
+        {
+            "type": "banter",
+            "text": "Ready?",
+            "person": "Novoselic"
+        },
+        {
+            "type": "song",
+            "text": "Blew",
+            "notes": []
+        },
+        {
+            "type": "banter",
+            "text": "Nir-vana, lets hear it for them, alright, stick around people, we still have Skinyard, so don't go away. We've got one other band still.",
+            "person": "Voice"
+        }
+    ],
+    "set_incomplete": false,
+    "transmission": {},
+    "rehearsel_circulating_sources": [],
+    "circulating_sources": [
+        {
+            "name": "AMT #1",
+            "complete": true,
+            "equipment": "Unknown > Unknown",
+            "generation": "VHS(1) > AVI",
+            "video-generation": null,
+            "audio-generation": null,
+            "length-sound": "48:19 min / 7.0",
+            "notes": [
+                "A complete video was surfaced in September 2020.",
+                "Cut in \"Dive\".",
+                "Clips appear in the edited 03/20/90 \"School\" music video."
+            ]
+        }
+    ],
+    "uncirculated_sources": [
+        {
+            "name": "SBD #1",
+            "note": "KGRG, the college's radio station, aired the show live, but no longer has a copy of the recording."
+        },
+        {
+            "name": "AMT #2",
+            "note": "It is rumored that the show was recorded."
+        }
+    ],
+    "notes": [
+        "After \"Spank Thru,\" Krist jammed on \"Pen Cap Chew\" for a few seconds."
+    ],
+    "press": [],
+    "memorabilia": [
+        {
+            "url": "/concerts/images/1989/1989-05-26/1989-05-26_01.jpg",
+            "caption": "Handbill/Flyer, designed by unknown"
+        },
+        {
+            "url": "/concerts/images/1989/1989-05-26/1989-05-26_02.jpg",
+            "caption": "Handbill/Flyer, designed by unknown"
+        },
+        {
+            "url": "/concerts/images/1989/1989-05-26/1989-05-26_03.jpg",
+            "caption": "Ticket"
+        }
+    ],
+    "images": [
+        {
+            "url": "/concerts/images/1989/1989-05-26/1989-05-26_001.jpg",
+            "caption": "Photo by Tracy Marander"
+        },
+        {
+            "url": "/concerts/images/1989/1989-05-26/1989-05-26_002.jpg",
+            "caption": "Photo by Tracy Marander"
+        },
+        {
+            "url": "/concerts/images/1989/1989-05-26/1989-05-26_003.jpg",
+            "caption": "Photo by Tracy Marander"
+        },
+        {
+            "url": "/concerts/images/1989/1989-05-26/1989-05-26_004.jpg",
+            "caption": "Photo by Tracy Marander"
+        },
+        {
+            "url": "/concerts/images/1989/1989-05-26/1989-05-26_005.jpg",
+            "caption": "Photo by Tracy Marander"
+        },
+        {
+            "url": "/concerts/images/1989/1989-05-26/1989-05-26_006.jpg",
+            "caption": "Photo by Tracy Marander"
+        },
+        {
+            "url": "/concerts/images/1989/1989-05-26/1989-05-26_007.jpg",
+            "caption": "Photo by Tracy Marander"
+        },
+        {
+            "url": "/concerts/images/1989/1989-05-26/1989-05-26_008.jpg",
+            "caption": "Photo by Tracy Marander"
+        },
+        {
+            "url": "/concerts/images/1989/1989-05-26/1989-05-26_009.jpg",
+            "caption": "Photo by Tracy Marander"
+        },
+        {
+            "url": "/concerts/images/1989/1989-05-26/1989-05-26_010.jpg",
+            "caption": "Photo by Tracy Marander"
+        },
+        {
+            "url": "/concerts/images/1989/1989-05-26/1989-05-26_011.jpg",
+            "caption": "Photo by Tracy Marander"
+        },
+        {
+            "url": "/concerts/images/1989/1989-05-26/1989-05-26_012.jpg",
+            "caption": "Photo by Tracy Marander"
+        },
+        {
+            "url": "/concerts/images/1989/1989-05-26/1989-05-26_013.jpg",
+            "caption": "Photo by Tracy Marander"
+        },
+        {
+            "url": "/concerts/images/1989/1989-05-26/1989-05-26_014.jpg",
+            "caption": "Photo by Shelli Hyrkas"
+        },
+        {
+            "url": "/concerts/images/1989/1989-05-26/1989-05-26_015.jpg",
+            "caption": "Photo by Shelli Hyrkas"
+        },
+        {
+            "url": "/concerts/images/1989/1989-05-26/1989-05-26_016.jpg",
+            "caption": "Photo by Shelli Hyrkas"
+        },
+        {
+            "url": "/concerts/images/1989/1989-05-26/1989-05-26_017.jpg",
+            "caption": "Photo by Shelli Hyrkas"
+        },
+        {
+            "url": "/concerts/images/1989/1989-05-26/1989-05-26_018.jpg",
+            "caption": "Photo by Shelli Hyrkas"
+        },
+        {
+            "url": "/concerts/images/1989/1989-05-26/1989-05-26_019.jpg",
+            "caption": "Photo by Shelli Hyrkas"
+        }
+    ],
+    "navigation": {
+        "previous": "89-04-26",
+        "next": "89-06-09"
+    },
+    "graph": {
+        "bleach": "9",
+        "nevermind": "0",
+        "inutero": "0",
+        "non": "2"
+    }
+}

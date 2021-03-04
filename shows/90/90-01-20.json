@@ -1,0 +1,525 @@
+{
+    "year": "1990",
+    "month": "01",
+    "day": "20",
+    "band": [
+        {
+            "NIRVANA": [
+                {
+                    "name": "Kurt Cobain ",
+                    "duty": "vocals, guitar"
+                },
+                {
+                    "name": "Krist Novoselic ",
+                    "duty": "bass"
+                },
+                {
+                    "name": "Chad Channing ",
+                    "duty": "drums"
+                }
+            ],
+            "type": "group"
+        }
+    ],
+    "crew": [],
+    "buyer": {
+        "names": [
+            "John Purkey"
+        ]
+    },
+    "schedule": [
+        {
+            "event": "Load In",
+            "time": "…:…"
+        },
+        {
+            "event": "Soundcheck",
+            "time": "…:…"
+        },
+        {
+            "event": "Doors",
+            "time": "20:00"
+        },
+        {
+            "event": "The Rhino Humpers Showtime",
+            "time": "…:…"
+        },
+        {
+            "event": "Machine Showtime",
+            "time": "…:…"
+        },
+        {
+            "event": "Melvins Showtime",
+            "time": "…:…"
+        },
+        {
+            "event": "NIRVANA Showtime",
+            "time": "…:…"
+        }
+    ],
+    "soundcheck": [],
+    "soundcheck_incomplete": false,
+    "set": [
+        {
+            "type": "banter",
+            "text": "We're the Mothers of Invention and here we have Jimmy Carl Black, he's the Indian of the group. We have Don Preston keyboard player here. Does anybody know any mothers? Er ... er ... where's some other mothers?",
+            "person": "Novoselic"
+        },
+        {
+            "type": "banter",
+            "text": "Minnesota Tissue",
+            "person": "Cobain"
+        },
+        {
+            "type": "banter",
+            "text": "Minnesota Tissue",
+            "person": "Novoselic"
+        },
+        {
+            "type": "banter",
+            "text": "They're white trash pieces of fucking shit",
+            "person": "Cobain"
+        },
+        {
+            "type": "banter",
+            "text": "White trash!",
+            "person": "Novoselic"
+        },
+        {
+            "type": "song",
+            "text": "School",
+            "notes": []
+        },
+        {
+            "type": "banter",
+            "text": "Thanks",
+            "person": "Cobain"
+        },
+        {
+            "type": "song",
+            "text": "Floyd The Barber",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "Love Buzz",
+            "notes": []
+        },
+        {
+            "type": "banter",
+            "text": "Minnesota Tissue",
+            "person": "Novoselic"
+        },
+        {
+            "type": "song",
+            "text": "Dive",
+            "notes": []
+        },
+        {
+            "type": "banter",
+            "text": "We're the er... Tacoma philharmonic. We got our horn section here... We played our horns, but er... their horns got stolen, the Tacoma players, so here we got these poor saxophonist, tuba, flute, flute, french horn it's just stolen you know! So...",
+            "person": "Novoselic"
+        },
+        {
+            "type": "song",
+            "text": "Scoff",
+            "notes": []
+        },
+        {
+            "type": "banter",
+            "text": "Minnesota Tissue, so you know how to play pool huh? Well this is Minnesota Tissue, That's Matt Lukin, he's leave me alone, just 'cos he don't comb his hair, that don't mean nothing. See, they're fighting back there now? There's no reason for that!",
+            "person": "Novoselic"
+        },
+        {
+            "type": "banter",
+            "text": "It's bullshit!",
+            "person": "Voice"
+        },
+        {
+            "type": "banter",
+            "text": "Hey, that's our friend, that's our friend",
+            "person": "Cobain"
+        },
+        {
+            "type": "jam",
+            "text": "All You Need Is Love jam novoselic acappella",
+            "notes": [
+                "jam",
+                "novoselic acappella"
+            ]
+        },
+        {
+            "type": "banter",
+            "text": "This arsehole over here is trying to break my finger!",
+            "person": "Matt Lukin"
+        },
+        {
+            "type": "banter",
+            "text": "But all you need is love!",
+            "person": "Channing"
+        },
+        {
+            "type": "banter",
+            "text": "Kick his ass!",
+            "person": "Voice"
+        },
+        {
+            "type": "banter",
+            "text": "He's fucking breaking our equipment too!",
+            "person": "Channing"
+        },
+        {
+            "type": "banter",
+            "text": "Just because I broke... just because I vomited a little bit of foam...he thinks I was vomiting on him!",
+            "person": "Matt Lukin"
+        },
+        {
+            "type": "banter",
+            "text": "This is Pat Logan (?) ?? for the evening",
+            "person": "Channing"
+        },
+        {
+            "type": "jam",
+            "text": "Heartbreaker bass jam",
+            "notes": [
+                "bass jam"
+            ]
+        },
+        {
+            "type": "banter",
+            "text": "But it's a natural thing!",
+            "person": "Matt Lukin"
+        },
+        {
+            "type": "banter",
+            "text": "Love, love, love",
+            "person": "Channing"
+        },
+        {
+            "type": "banter",
+            "text": "I got sick, OK this guy, Mr handcuff thinks he's gonna throw me out arsehole!",
+            "person": "Matt Lukin"
+        },
+        {
+            "type": "banter",
+            "text": "Ha ha, ha ha ha",
+            "person": "Channing"
+        },
+        {
+            "type": "banter",
+            "text": "Kick his ass!",
+            "person": "Voice"
+        },
+        {
+            "type": "banter",
+            "text": "Do you guys know any other Beatles songs? (sings lyrics to The Beatles, If I Fell, wrongly)You know \"If I fell in love with you, would you promise to be true and help me understand, 'cos I've been in love before and I know that love is more, than just holdin' hands, If I gave my heart to you, I love you more from the very start, that I would love to more than her though I couldn't stand the pain and I'd would be satified to love , wasn't made, so I'll hold you please, don't cry 'cos Melvins...",
+            "person": "Novoselic"
+        },
+        {
+            "type": "jam",
+            "text": "If I Fell jam novoselic acappella",
+            "notes": [
+                "jam",
+                "novoselic acappella"
+            ]
+        },
+        {
+            "type": "banter",
+            "text": "OK, this person wants to thrown me out, do you want me to get thrown out?",
+            "person": "Matt Lukin"
+        },
+        {
+            "type": "banter",
+            "text": "Kick his ass!",
+            "person": "Voice"
+        },
+        {
+            "type": "banter",
+            "text": "No!",
+            "person": "Audience"
+        },
+        {
+            "type": "banter",
+            "text": "Kick his ass!",
+            "person": "Voice"
+        },
+        {
+            "type": "jam",
+            "text": "Heartbreaker bass jam",
+            "notes": [
+                "bass jam"
+            ]
+        },
+        {
+            "type": "banter",
+            "text": "OK, so what're gonna do?, no no really, talk, talk, they're ready to throw me out, you know what the hell's that?",
+            "person": "Matt Lukin"
+        },
+        {
+            "type": "jam",
+            "text": "Living Loving Maid (She's Just A Woman) bass jam",
+            "notes": [
+                "bass jam"
+            ]
+        },
+        {
+            "type": "banter",
+            "text": "Turn off the mic, turn off the mic",
+            "person": "Bouncer"
+        },
+        {
+            "type": "banter",
+            "text": "You've gotta break stuff and they throw you out then yes?",
+            "person": "Matt Lukin"
+        },
+        {
+            "type": "banter",
+            "text": "This is where the riot begins",
+            "person": "Taper"
+        },
+        {
+            "type": "jam",
+            "text": "How Many More Times bass jam",
+            "notes": [
+                "bass jam"
+            ]
+        },
+        {
+            "type": "banter",
+            "text": "OK, they're happy ... this next song, we, we ripped off the Beatles on this next song",
+            "person": "Novoselic"
+        },
+        {
+            "type": "song",
+            "text": "About A Girl",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "Big Cheese",
+            "notes": []
+        },
+        {
+            "type": "banter",
+            "text": "OK ?? ??",
+            "person": "Novoselic"
+        },
+        {
+            "type": "banter",
+            "text": "Kick his ass! Kick his ass!",
+            "person": "Voice"
+        },
+        {
+            "type": "banter",
+            "text": "What? ... this song was written by a band called the Vaselines, Vaselines",
+            "person": "Cobain"
+        },
+        {
+            "type": "banter",
+            "text": "La la",
+            "person": "Channing"
+        },
+        {
+            "type": "song",
+            "text": "Molly's Lips",
+            "notes": []
+        },
+        {
+            "type": "banter",
+            "text": "?? they're a good band, of course you are",
+            "person": "Novoselic"
+        },
+        {
+            "type": "banter",
+            "text": "?? ??",
+            "person": "Taper"
+        },
+        {
+            "type": "song",
+            "text": "Token Eastern Song",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "Spank Thru",
+            "notes": []
+        },
+        {
+            "type": "banter",
+            "text": "Minnesota tissue",
+            "person": "Novoselic"
+        },
+        {
+            "type": "song",
+            "text": "Breed",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "Stain",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "Been A Son",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "Sweet Home Alabama",
+            "notes": [
+                "jam"
+            ]
+        },
+        {
+            "type": "banter",
+            "text": "We're a bunch of rednecks! Yeah right, that's all the world needs, more arsehole, that's all the world needs is more, is more rednecks like you, jerk! I hate rednecks, they're racist",
+            "person": "Novoselic"
+        },
+        {
+            "type": "song",
+            "text": "Negative Creep",
+            "notes": []
+        },
+        {
+            "type": "banter",
+            "text": "Do you guys watch 'Good Times'? JJ says \"you're a big mighty\" you're supposed to laugh, that's a good show you don't care, you're all insensitive. Can you read this? You have to cover your right eye, cover your right eye, there's a Cat in the Hat in a jockstrap!",
+            "person": "Novoselic"
+        },
+        {
+            "type": "banter",
+            "text": "Nomeansno and plug uglies at er... UPS it's gonna be great and rockin' Nomeansno",
+            "person": "Voice"
+        },
+        {
+            "type": "banter",
+            "text": "Addams family is right before Good Times",
+            "person": "Novoselic"
+        },
+        {
+            "type": "banter",
+            "text": "Well good night and God bless ...",
+            "person": "Cobain"
+        },
+        {
+            "type": "banter",
+            "text": "I'm alive, that's all I have to say, I'm just alive",
+            "person": "Matt Lukin"
+        },
+        {
+            "type": "banter",
+            "text": "No, I have big eyes!",
+            "person": "Voice"
+        },
+        {
+            "type": "song",
+            "text": "Blew",
+            "notes": []
+        }
+    ],
+    "set_incomplete": false,
+    "transmission": {},
+    "rehearsel_circulating_sources": [],
+    "circulating_sources": [
+        {
+            "name": "AUD #1",
+            "complete": true,
+            "equipment": "Built In > Unknown",
+            "generation": "ANA(M) > CDR(1) > FLAC",
+            "video-generation": null,
+            "audio-generation": null,
+            "length-sound": "54:55 min / 6.0",
+            "notes": [
+                "In August 2003 the master was transferred to CDR, replacing older ANA(2) copies.",
+                "There is a cut during \"Sweet Home Alabama\" on this source due to the tape flip and the recording cuts out during the end noise."
+            ]
+        },
+        {
+            "name": "AUD #2",
+            "complete": false,
+            "equipment": "Unknown > Unknown",
+            "generation": "ANA(x) > FLAC",
+            "video-generation": null,
+            "audio-generation": null,
+            "length-sound": "46:53 min / 8.0",
+            "notes": [
+                "Missing \"School\" and \"Floyd The Barber\".",
+                "\"Love Buzz\" and the \"If I Fell\" jam cuts in."
+            ]
+        },
+        {
+            "name": "AMT #1",
+            "complete": true,
+            "equipment": "Unknown > Unknown",
+            "generation": "VHS(1) > DVDR/FLAC",
+            "video-generation": null,
+            "audio-generation": null,
+            "length-sound": "54:01 min / 7.5",
+            "notes": [
+                "Amateur video, shot from the left-hand side of the stage.",
+                "\"School\", \"Floyd The Barber\" and \"Sweet Home Alabama\" cuts in, whilst there is also a cut during \"Dive\" and has minor dropouts in various songs."
+            ]
+        }
+    ],
+    "uncirculated_sources": [
+        {
+            "name": "AMT #2",
+            "note": "It is rumored that the show was recorded."
+        }
+    ],
+    "notes": [
+        "After \"Scoff,\" Krist sang parts of The Beatles' \"All You Need Is Love\" and \"If I Fell,\" then jammed briefly on Led Zeppelin's \"Heartbreaker,\" \"Living Loving Maid,\" and \"How Many More Times.\"",
+        "Matt Lukin of Mudhoney jumped onstage numerous times, causing fights between him and the bouncers."
+    ],
+    "press": [],
+    "memorabilia": [
+        {
+            "url": "/concerts/images/1990/1990-01-20/1990-01-20_01.jpg",
+            "caption": "Poster, designed by Ryan Loiselle"
+        },
+        {
+            "url": "/concerts/images/1990/1990-01-20/1990-01-20_02.jpg",
+            "caption": "Ticket"
+        },
+        {
+            "url": "/concerts/images/1990/1990-01-20/1990-01-20_03.jpg",
+            "caption": "Handbill/Flyer, designed by Amy Brown Fantasy Art Inc."
+        }
+    ],
+    "images": [
+        {
+            "url": "/concerts/images/1990/1990-01-20/1990-01-20_001.jpg",
+            "caption": "Photo by Elliott Tripoli"
+        },
+        {
+            "url": "/concerts/images/1990/1990-01-20/1990-01-20_002.jpg",
+            "caption": "Photo by Elliott Tripoli"
+        },
+        {
+            "url": "/concerts/images/1990/1990-01-20/1990-01-20_003.jpg",
+            "caption": "Unknown photographer"
+        },
+        {
+            "url": "/concerts/images/1990/1990-01-20/1990-01-20_004.jpg",
+            "caption": "Unknown photographer"
+        },
+        {
+            "url": "/concerts/images/1990/1990-01-20/1990-01-20_005.jpg",
+            "caption": "Screencap of AMT #1"
+        },
+        {
+            "url": "/concerts/images/1990/1990-01-20/1990-01-20_006.jpg",
+            "caption": "Screencap of AMT #1"
+        }
+    ],
+    "navigation": {
+        "previous": "90-01-19",
+        "next": "90-02-09"
+    },
+    "graph": {
+        "bleach": "8",
+        "nevermind": "1",
+        "inutero": "0",
+        "non": "6"
+    }
+}

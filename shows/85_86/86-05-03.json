@@ -1,0 +1,104 @@
+{
+    "year": "1986",
+    "month": "05",
+    "day": "03",
+    "band": [
+        {
+            "Brown Towel/Brown Cow": [
+                {
+                    "name": "Kurt Cobain ",
+                    "duty": "vocals"
+                },
+                {
+                    "name": "Buzz Osborne ",
+                    "duty": "guitar"
+                },
+                {
+                    "name": "Dale Crover ",
+                    "duty": "drums"
+                }
+            ],
+            "type": "group"
+        }
+    ],
+    "crew": [],
+    "buyer": {
+        "names": []
+    },
+    "schedule": [
+        {
+            "event": "Load In",
+            "time": "…:…"
+        },
+        {
+            "event": "Soundcheck",
+            "time": "…:…"
+        },
+        {
+            "event": "Doors",
+            "time": "…:…"
+        },
+        {
+            "event": "Brown Towel/Brown Cow Showtime",
+            "time": "…:…"
+        },
+        {
+            "event": "Grinder Showtime",
+            "time": "…:…"
+        },
+        {
+            "event": "Danger Mouse Showtime",
+            "time": "…:…"
+        },
+        {
+            "event": "Melvins Showtime",
+            "time": "…:…"
+        }
+    ],
+    "soundcheck": [],
+    "soundcheck_incomplete": false,
+    "set": [
+        {
+            "type": "song",
+            "text": "I Like Porn",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "Sky Pup",
+            "notes": []
+        }
+    ],
+    "set_incomplete": true,
+    "transmission": {},
+    "rehearsel_circulating_sources": [],
+    "circulating_sources": [],
+    "uncirculated_sources": [],
+    "notes": [
+        "The trio was originally called Brown Towel, but the promoter misheard Buzz over the phone and spelled their name as Brown Cow on the flyer.",
+        "Kurt recited poetry over improvised music by Dale (on drums) and Buzz (on guitar), including some early versions of Melvins songs.",
+        "\"Kurt was just jumping around the stage reading, singing, and screaming,\" according to Dale."
+    ],
+    "press": [],
+    "memorabilia": [
+        {
+            "url": "/concerts/images/1986/1986-05-03/1986-05-03_01.jpg",
+            "caption": "Poster, designed by unknown"
+        },
+        {
+            "url": "/concerts/images/1986/1986-05-03/1986-05-03_02.jpg",
+            "caption": "Poster, designed by unknown"
+        }
+    ],
+    "images": [],
+    "navigation": {
+        "previous": "85-12-xx",
+        "next": "86-xx-xx"
+    },
+    "graph": {
+        "bleach": "0",
+        "nevermind": "0",
+        "inutero": "0",
+        "non": "2"
+    }
+}

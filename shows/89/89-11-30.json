@@ -1,0 +1,138 @@
+{
+    "year": "1989",
+    "month": "11",
+    "day": "30",
+    "venue": "November 30",
+    "city": "1989 - Rote Fabrik",
+    "state": "Zurich",
+    "country": "CH",
+    "band": [
+        {
+            "NIRVANA": [
+                {
+                    "name": "Kurt Cobain ",
+                    "duty": "vocals, guitar"
+                },
+                {
+                    "name": "Krist Novoselic ",
+                    "duty": "bass"
+                },
+                {
+                    "name": "Chad Channing ",
+                    "duty": "drums"
+                }
+            ],
+            "type": "group"
+        }
+    ],
+    "crew": [
+        {
+            "name": "Edwin Heath",
+            "duty": "tour manager"
+        },
+        {
+            "name": "Craig Montgomery",
+            "duty": "sound engineer"
+        }
+    ],
+    "buyer": {
+        "names": [
+            "Patrick",
+            "Benni"
+        ]
+    },
+    "schedule": [
+        {
+            "event": "Load In",
+            "time": "15:00"
+        },
+        {
+            "event": "Soundcheck",
+            "time": "…:…"
+        },
+        {
+            "event": "Doors",
+            "time": "20:30"
+        },
+        {
+            "event": "TAD Showtime",
+            "time": "…:…"
+        },
+        {
+            "event": "NIRVANA Showtime",
+            "time": "…:…"
+        }
+    ],
+    "soundcheck": [],
+    "soundcheck_incomplete": false,
+    "set": [
+        {
+            "type": "song",
+            "text": "Breed",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "Been A Son",
+            "notes": []
+        }
+    ],
+    "set_incomplete": true,
+    "transmission": {},
+    "rehearsel_circulating_sources": [],
+    "circulating_sources": [],
+    "uncirculated_sources": [],
+    "notes": [
+        "The band arrived late, right before Tad finished their set, according to the venue."
+    ],
+    "press": [],
+    "memorabilia": [],
+    "images": [
+        {
+            "url": "/concerts/images/1989/1989-11-30/1989-11-30_01.jpg",
+            "caption": "Handbill/Flyer, designed by unknown"
+        },
+        {
+            "url": "/concerts/images/1989/1989-11-30/1989-11-30_02.jpg",
+            "caption": "Advert"
+        },
+        {
+            "url": "/concerts/images/1989/1989-11-30/1989-11-30_03.jpg",
+            "caption": "Advert"
+        },
+        {
+            "url": "/concerts/images/1989/1989-11-30/1989-11-30_04.jpg",
+            "caption": "Nirvana's tour itinerary"
+        },
+        {
+            "url": "/concerts/images/1989/1989-11-30/1989-11-30_05.jpg",
+            "caption": "Nirvana's tour itinerary"
+        },
+        {
+            "url": "/concerts/images/1989/1989-11-30/1989-11-30_06.jpg",
+            "caption": "Nirvana's tour itinerary"
+        },
+        {
+            "url": "/concerts/images/1989/1989-11-30/1989-11-30_07.jpg",
+            "caption": "Advert"
+        },
+        {
+            "url": "/concerts/images/1989/1989-11-30/1989-11-30_08.jpg",
+            "caption": "Advert"
+        },
+        {
+            "url": "/concerts/images/1989/1989-11-30/1989-11-30_09.jpg",
+            "caption": "Advert"
+        }
+    ],
+    "navigation": {
+        "previous": "89-11-29",
+        "next": "89-12-01"
+    },
+    "graph": {
+        "bleach": "0",
+        "nevermind": "1",
+        "inutero": "0",
+        "non": "1"
+    }
+}

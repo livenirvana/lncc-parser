@@ -1,0 +1,366 @@
+{
+    "year": "1990",
+    "month": "10",
+    "day": "11",
+    "band": [
+        {
+            "NIRVANA": [
+                {
+                    "name": "Kurt Cobain ",
+                    "duty": "vocals, guitar"
+                },
+                {
+                    "name": "Krist Novoselic ",
+                    "duty": "bass"
+                },
+                {
+                    "name": "Dave Grohl ",
+                    "duty": "drums"
+                }
+            ],
+            "type": "group"
+        }
+    ],
+    "crew": [],
+    "buyer": {
+        "names": []
+    },
+    "schedule": [
+        {
+            "event": "Load In",
+            "time": "…:…"
+        },
+        {
+            "event": "Soundcheck",
+            "time": "…:…"
+        },
+        {
+            "event": "Doors",
+            "time": "20:30"
+        },
+        {
+            "event": "Witchypoo Showtime",
+            "time": "…:…"
+        },
+        {
+            "event": "NIRVANA Showtime",
+            "time": "…:…"
+        }
+    ],
+    "soundcheck": [],
+    "soundcheck_incomplete": false,
+    "set": [
+        {
+            "type": "song",
+            "text": "Son Of A Gun",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "Molly's Lips",
+            "notes": [
+                "part of"
+            ]
+        },
+        {
+            "type": "song",
+            "text": "D-7",
+            "notes": [
+                "part of"
+            ]
+        },
+        {
+            "type": "song",
+            "text": "Blew",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "Negative Creep",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "Been A Son",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "Stain",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "Floyd The Barber",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "About A Girl",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "Spank Thru",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "School",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "Stay Away",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "Breed",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "Big Cheese",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "In Bloom",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "Dive",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "Love Buzz",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "Scoff",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "Sliver",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "Turnaround",
+            "notes": []
+        }
+    ],
+    "set_incomplete": false,
+    "transmission": {},
+    "rehearsel_circulating_sources": [],
+    "circulating_sources": [
+        {
+            "name": "AUD #1",
+            "complete": true,
+            "equipment": "Built In > Sony",
+            "generation": "ANA(M) > FLAC",
+            "video-generation": null,
+            "audio-generation": null,
+            "length-sound": "72 min / 8.0",
+            "notes": [
+                "The master was surfaced in September 2002.",
+                "Many small cuts are present on the recording between songs.",
+                "Just before \"Spank Thru\", the taper did a radio station ID, saying \"KAOS 89.3, Olympia, Washington.\"",
+                "The show was most likely taped to be broadcast on KAOS, but it is not known if it was ever actually broadcast.",
+                "If it was broadcast, it's possible that the circulating 25-minute edit of this recording was sourced from the broadcast."
+            ]
+        },
+        {
+            "name": "AMT #1",
+            "complete": false,
+            "equipment": "Unknown > Unknown",
+            "generation": "VHS(1) > DVDR/FLAC",
+            "video-generation": null,
+            "audio-generation": null,
+            "length-sound": "11 min / 7.0",
+            "notes": [
+                "Amateur video, shot on the the right side, near Kurt.",
+                "Features only \"Love Buzz\", \"Scoff\", \"Sliver\" and \"Turnaround\".",
+                "\"Love Buzz\", \"Scoff\" and \"Sliver\" cuts in and 'Turnaround' cuts out.",
+                "Clips appear in the Nirvana promotional TV special and in the edited 03/20/90 \"Lithium\" music videos."
+            ]
+        },
+        {
+            "name": "AMT #2",
+            "complete": false,
+            "equipment": "Unknown > Unknown",
+            "generation": "Official DVD [With The Lights Out]",
+            "video-generation": null,
+            "audio-generation": null,
+            "length-sound": "04 min / 9.0",
+            "notes": [
+                "Multi-camera video made up of three camera shots with open mic audio. (AMT #1-Right side near Kurt, left side and AMT #3-Back of the venue)",
+                "Includes only \"Love Buzz\"."
+            ]
+        },
+        {
+            "name": "AMT #3",
+            "complete": false,
+            "equipment": "Unknown > Unknown",
+            "generation": "VHS(x) > AUD > MOV",
+            "video-generation": null,
+            "audio-generation": null,
+            "length-sound": "29 min / 8.0",
+            "notes": [
+                "Amateur video recording of a projection of a video of this show. Shot from the back of the venue.",
+                "Features \"Stay Away\" (cuts in, last few seconds only), \"Breed\", \"Big Cheese\", \"In Bloom\" (cuts out), \"Dive\" and \"Love Buzz\".",
+                "Most of \"Son Of A Gun\" was posted in youtube and we are waiting for a proper transfer."
+            ]
+        }
+    ],
+    "uncirculated_sources": [
+        {
+            "name": "SBD #1",
+            "note": "It is rumored that the show was recorded."
+        }
+    ],
+    "notes": [
+        "This was the first show with Dave Grohl on drums.",
+        "The power went out multiple times toward the beginning of the show, causing the band to stop playing in the middle of \"Molly's Lips\" and \"D-7,\" without finishing either song. It also caused them to stop in the middle of \"Blew,\" but they finished the song when the power came back on."
+    ],
+    "press": [],
+    "memorabilia": [
+        {
+            "url": "/concerts/images/1990/1990-10-11/1990-10-11_01.jpg",
+            "caption": "Handbill/Flyer, designed by Calvin Johnson"
+        },
+        {
+            "url": "/concerts/images/1990/1990-10-11/1990-10-11_02.jpg",
+            "caption": "Handwritten setlist"
+        }
+    ],
+    "images": [
+        {
+            "url": "/concerts/images/1990/1990-10-11/1990-10-11_001.jpg",
+            "caption": "Unknown photographer"
+        },
+        {
+            "url": "/concerts/images/1990/1990-10-11/1990-10-11_002.jpg",
+            "caption": "Photo by Jon B. Snyder"
+        },
+        {
+            "url": "/concerts/images/1990/1990-10-11/1990-10-11_003.jpg",
+            "caption": "Photo by Jon B. Snyder"
+        },
+        {
+            "url": "/concerts/images/1990/1990-10-11/1990-10-11_004.jpg",
+            "caption": "Photo by Jon B. Snyder"
+        },
+        {
+            "url": "/concerts/images/1990/1990-10-11/1990-10-11_005.jpg",
+            "caption": "Photo by Jon B. Snyder"
+        },
+        {
+            "url": "/concerts/images/1990/1990-10-11/1990-10-11_006.jpg",
+            "caption": "Photo by Jon B. Snyder"
+        },
+        {
+            "url": "/concerts/images/1990/1990-10-11/1990-10-11_007.jpg",
+            "caption": "Photo by Jon B. Snyder"
+        },
+        {
+            "url": "/concerts/images/1990/1990-10-11/1990-10-11_008.jpg",
+            "caption": "Unknown photographer"
+        },
+        {
+            "url": "/concerts/images/1990/1990-10-11/1990-10-11_009.jpg",
+            "caption": "Unknown photographer"
+        },
+        {
+            "url": "/concerts/images/1990/1990-10-11/1990-10-11_010.jpg",
+            "caption": "Unknown photographer"
+        },
+        {
+            "url": "/concerts/images/1990/1990-10-11/1990-10-11_011.jpg",
+            "caption": "Unknown photographer"
+        },
+        {
+            "url": "/concerts/images/1990/1990-10-11/1990-10-11_012.jpg",
+            "caption": "Unknown photographer"
+        },
+        {
+            "url": "/concerts/images/1990/1990-10-11/1990-10-11_013.jpg",
+            "caption": "Unknown photographer"
+        },
+        {
+            "url": "/concerts/images/1990/1990-10-11/1990-10-11_014.jpg",
+            "caption": "Unknown photographer"
+        },
+        {
+            "url": "/concerts/images/1990/1990-10-11/1990-10-11_015.jpg",
+            "caption": "Unknown photographer"
+        },
+        {
+            "url": "/concerts/images/1990/1990-10-11/1990-10-11_016.jpg",
+            "caption": "Unknown photographer"
+        },
+        {
+            "url": "/concerts/images/1990/1990-10-11/1990-10-11_017.jpg",
+            "caption": "Unknown photographer"
+        },
+        {
+            "url": "/concerts/images/1990/1990-10-11/1990-10-11_018.jpg",
+            "caption": "Unknown photographer"
+        },
+        {
+            "url": "/concerts/images/1990/1990-10-11/1990-10-11_019.jpg",
+            "caption": "Unknown photographer"
+        },
+        {
+            "url": "/concerts/images/1990/1990-10-11/1990-10-11_020.jpg",
+            "caption": "Unknown photographer"
+        },
+        {
+            "url": "/concerts/images/1990/1990-10-11/1990-10-11_021.jpg",
+            "caption": "Unknown photographer"
+        },
+        {
+            "url": "/concerts/images/1990/1990-10-11/1990-10-11_022.jpg",
+            "caption": "Unknown photographer"
+        },
+        {
+            "url": "/concerts/images/1990/1990-10-11/1990-10-11_023.jpg",
+            "caption": "Unknown photographer"
+        },
+        {
+            "url": "/concerts/images/1990/1990-10-11/1990-10-11_024.jpg",
+            "caption": "Unknown photographer"
+        },
+        {
+            "url": "/concerts/images/1990/1990-10-11/1990-10-11_025.jpg",
+            "caption": "Unknown photographer"
+        },
+        {
+            "url": "/concerts/images/1990/1990-10-11/1990-10-11_026.jpg",
+            "caption": "Unknown photographer"
+        },
+        {
+            "url": "/concerts/images/1990/1990-10-11/1990-10-11_027.jpg",
+            "caption": "Unknown photographer"
+        },
+        {
+            "url": "/concerts/images/1990/1990-10-11/1990-10-11_028.jpg",
+            "caption": "Photo by Jon B. Snyder"
+        }
+    ],
+    "navigation": {
+        "previous": "90-09-22",
+        "next": "90-10-17"
+    },
+    "graph": {
+        "bleach": "1",
+        "nevermind": "1",
+        "inutero": "1",
+        "non": "1"
+    }
+}

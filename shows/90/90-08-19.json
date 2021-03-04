@@ -1,0 +1,313 @@
+{
+    "year": "1990",
+    "month": "08",
+    "day": "19",
+    "band": [
+        {
+            "NIRVANA": [
+                {
+                    "name": "Kurt Cobain ",
+                    "duty": "vocals, guitar"
+                },
+                {
+                    "name": "Krist Novoselic ",
+                    "duty": "bass"
+                },
+                {
+                    "name": "Dale Crover ",
+                    "duty": "drums"
+                }
+            ],
+            "type": "group"
+        }
+    ],
+    "crew": [],
+    "buyer": {
+        "names": [
+            "Harlan Schiffman"
+        ],
+        "company": "Fineline Entertainment"
+    },
+    "schedule": [
+        {
+            "event": "Load In",
+            "time": "…:…"
+        },
+        {
+            "event": "Soundcheck",
+            "time": "…:…"
+        },
+        {
+            "event": "Doors",
+            "time": "20:00"
+        },
+        {
+            "event": "Chemical People Showtime",
+            "time": "…:…"
+        },
+        {
+            "event": "Granfaloon Bus Showtime",
+            "time": "…:…"
+        },
+        {
+            "event": "NIRVANA Showtime",
+            "time": "…:…"
+        }
+    ],
+    "soundcheck": [],
+    "soundcheck_incomplete": false,
+    "set": [
+        {
+            "type": "song",
+            "text": "In Bloom",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "Floyd The Barber",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "Love Buzz",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "Dive",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "School",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "TV Eye",
+            "notes": [
+                "jam"
+            ]
+        },
+        {
+            "type": "song",
+            "text": "Big Cheese",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "About A Girl",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "Stay Away",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "Lithium",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "Scoff",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "Spank Thru",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "Been A Son",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "Stain",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "Negative Creep",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "Blew",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "Eye Flys",
+            "notes": [
+                "bass jam"
+            ]
+        },
+        {
+            "type": "song",
+            "text": "Verse Chorus Verse",
+            "notes": []
+        }
+    ],
+    "set_incomplete": false,
+    "transmission": {},
+    "rehearsel_circulating_sources": [],
+    "circulating_sources": [
+        {
+            "name": "AUD #1a",
+            "complete": false,
+            "equipment": "Unknown > Sony WM-D6",
+            "generation": "ANA(1) > FLAC",
+            "video-generation": null,
+            "audio-generation": null,
+            "length-sound": "61:57 min / 8.5",
+            "notes": [
+                "Surfaced in March 2003.",
+                "There is a large cut during \"Dive\" on this source tape."
+            ]
+        },
+        {
+            "name": "AUD #1b",
+            "complete": false,
+            "equipment": "Unknown > Sony WM-D6",
+            "generation": "ANA(2) > CDR",
+            "video-generation": null,
+            "audio-generation": null,
+            "length-sound": "46:43 min / 8.0",
+            "notes": [
+                "Same source as above, missing some noises of the intro, everything after \"Been A Son\" and poorer quality than AUD #1a, but with no cut in \"Dive'."
+            ]
+        },
+        {
+            "name": "AUD #2",
+            "complete": false,
+            "equipment": "unknown > Marantz",
+            "generation": "ANA(1) > FLAC",
+            "video-generation": null,
+            "audio-generation": null,
+            "length-sound": "64:16 min / ?",
+            "notes": [
+                "Surfaced December 2020.",
+                "\"Negative Creep\" cuts in."
+            ]
+        }
+    ],
+    "uncirculated_sources": [
+        {
+            "name": "AUD #3",
+            "note": "Equipment: unknown > Toshiba KT-4087"
+        },
+        {
+            "name": "AUD #4 Incomplete",
+            "note": "It is rumored that the show was recorded."
+        },
+        {
+            "name": "AMT #1",
+            "note": "The venue recorded the show using a video camera set up toward the back of the room with a frontal view of the full band, according to the venue's doorman. He claims they did this with all shows of this era, but the recordings have never been copied."
+        }
+    ],
+    "notes": [
+        "The band played a short jam on Iggy Pop's \"TV Eye.\"",
+        "\"Lithium\" deteriorated during the second chorus, so the band cut the song short.",
+        "\"Been A Son\" deteriorated into jamming toward the end of the song.",
+        "Krist jammed on the Melvins' \"Eye Flys.\""
+    ],
+    "press": [],
+    "memorabilia": [
+        {
+            "url": "/concerts/images/1990/1990-08-19/1990-08-19_01.jpg",
+            "caption": "Handbill/Flyer, designed by unknown"
+        },
+        {
+            "url": "/concerts/images/1990/1990-08-19/1990-08-19_02.jpg",
+            "caption": "Ticket"
+        },
+        {
+            "url": "/concerts/images/1990/1990-08-19/1990-08-19_03.jpg",
+            "caption": "Advert"
+        },
+        {
+            "url": "/concerts/images/1990/1990-08-19/1990-08-19_04.jpg",
+            "caption": "Advert"
+        }
+    ],
+    "images": [
+        {
+            "url": "/concerts/images/1990/1990-08-19/1990-08-19_001.jpg",
+            "caption": "Photo by Mike Metropolis"
+        },
+        {
+            "url": "/concerts/images/1990/1990-08-19/1990-08-19_002.jpg",
+            "caption": "Photo by Mike Metropolis"
+        },
+        {
+            "url": "/concerts/images/1990/1990-08-19/1990-08-19_003.jpg",
+            "caption": "Photo by Mike Metropolis"
+        },
+        {
+            "url": "/concerts/images/1990/1990-08-19/1990-08-19_004.jpg",
+            "caption": "Photo by Mike Metropolis"
+        },
+        {
+            "url": "/concerts/images/1990/1990-08-19/1990-08-19_005.jpg",
+            "caption": "Photo by Mike Metropolis"
+        },
+        {
+            "url": "/concerts/images/1990/1990-08-19/1990-08-19_006.jpg",
+            "caption": "Photo by Mike Metropolis"
+        },
+        {
+            "url": "/concerts/images/1990/1990-08-19/1990-08-19_007.jpg",
+            "caption": "Photo by Mike Metropolis"
+        },
+        {
+            "url": "/concerts/images/1990/1990-08-19/1990-08-19_008.jpg",
+            "caption": "Photo by Mike Metropolis"
+        },
+        {
+            "url": "/concerts/images/1990/1990-08-19/1990-08-19_009.jpg",
+            "caption": "Photo by Mike Metropolis"
+        },
+        {
+            "url": "/concerts/images/1990/1990-08-19/1990-08-19_010.jpg",
+            "caption": "Photo by Mike Metropolis"
+        },
+        {
+            "url": "/concerts/images/1990/1990-08-19/1990-08-19_011.jpg",
+            "caption": "Photo by Otis Bperiod"
+        },
+        {
+            "url": "/concerts/images/1990/1990-08-19/1990-08-19_012.jpg",
+            "caption": "Photo by Mike Metropolis"
+        },
+        {
+            "url": "/concerts/images/1990/1990-08-19/1990-08-19_013.jpg",
+            "caption": "Photo by Mike Metropolis"
+        },
+        {
+            "url": "/concerts/images/1990/1990-08-19/1990-08-19_014.jpg",
+            "caption": "Photo by April Star Davis"
+        },
+        {
+            "url": "/concerts/images/1990/1990-08-19/1990-08-19_015.jpg",
+            "caption": "Photo by April Star Davis"
+        },
+        {
+            "url": "/concerts/images/1990/1990-08-19/1990-08-19_016.jpg",
+            "caption": "Photo by April Star Davis"
+        }
+    ],
+    "navigation": {
+        "previous": "90-08-17",
+        "next": "90-08-20"
+    },
+    "graph": {
+        "bleach": "8",
+        "nevermind": "3",
+        "inutero": "0",
+        "non": "5"
+    }
+}

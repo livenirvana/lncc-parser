@@ -1,0 +1,122 @@
+{
+    "year": "1989",
+    "month": "10",
+    "day": "12",
+    "band": [
+        {
+            "NIRVANA": [
+                {
+                    "name": "Kurt Cobain ",
+                    "duty": "vocals, guitar"
+                },
+                {
+                    "name": "Krist Novoselic ",
+                    "duty": "bass"
+                },
+                {
+                    "name": "Chad Channing ",
+                    "duty": "drums"
+                }
+            ],
+            "type": "group"
+        }
+    ],
+    "crew": [
+        {
+            "name": "Ben Shepherd",
+            "duty": "roadie"
+        }
+    ],
+    "buyer": {
+        "names": [
+            "John"
+        ]
+    },
+    "schedule": [
+        {
+            "event": "Load In",
+            "time": "…:…"
+        },
+        {
+            "event": "Soundcheck",
+            "time": "…:…"
+        },
+        {
+            "event": "Doors",
+            "time": "20:00"
+        },
+        {
+            "event": "Dogbite Showtime",
+            "time": "…:…"
+        },
+        {
+            "event": "NIRVANA Showtime",
+            "time": "…:…"
+        }
+    ],
+    "soundcheck": [],
+    "soundcheck_incomplete": false,
+    "set": [
+        {
+            "type": "song",
+            "text": "Love Buzz",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "Floyd The Barber",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "About A Girl",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "Paper Cuts",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "Negative Creep",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "Blew",
+            "notes": []
+        }
+    ],
+    "set_incomplete": true,
+    "transmission": {},
+    "rehearsel_circulating_sources": [],
+    "circulating_sources": [],
+    "uncirculated_sources": [],
+    "notes": [
+        "There were 30 people at the show, according to attendees.",
+        "They played a great concert, which included some Meat Puppet’s songs."
+    ],
+    "press": [],
+    "memorabilia": [
+        {
+            "url": "/concerts/images/1989/1989-10-12/1989-10-12_01.jpg",
+            "caption": "Handbill/Flyer, designed by Bob McDonald"
+        },
+        {
+            "url": "/concerts/images/1989/1989-10-12/1989-10-12_02.jpg",
+            "caption": "Nirvana's tour itinerary"
+        }
+    ],
+    "images": [],
+    "navigation": {
+        "previous": "89-10-11",
+        "next": "89-10-13"
+    },
+    "graph": {
+        "bleach": "6",
+        "nevermind": "0",
+        "inutero": "0",
+        "non": "0"
+    }
+}

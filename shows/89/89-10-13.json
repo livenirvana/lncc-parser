@@ -1,0 +1,109 @@
+{
+    "year": "1989",
+    "month": "10",
+    "day": "13",
+    "band": [
+        {
+            "NIRVANA": [
+                {
+                    "name": "Kurt Cobain ",
+                    "duty": "vocals, guitar"
+                },
+                {
+                    "name": "Krist Novoselic ",
+                    "duty": "bass"
+                },
+                {
+                    "name": "Chad Channing ",
+                    "duty": "drums"
+                }
+            ],
+            "type": "group"
+        }
+    ],
+    "crew": [
+        {
+            "name": "Ben Shepherd",
+            "duty": "roadie"
+        }
+    ],
+    "buyer": {
+        "names": [
+            "Allen Ireland"
+        ]
+    },
+    "schedule": [
+        {
+            "event": "Load In",
+            "time": "17:30"
+        },
+        {
+            "event": "Soundcheck",
+            "time": "20:00"
+        },
+        {
+            "event": "Doors",
+            "time": "20:30"
+        },
+        {
+            "event": "Methods Of Dance Showtime",
+            "time": "…:…"
+        },
+        {
+            "event": "NIRVANA Showtime",
+            "time": "22:30"
+        },
+        {
+            "event": "24-7 Spyz Showtime",
+            "time": "…:…"
+        }
+    ],
+    "soundcheck": [],
+    "soundcheck_incomplete": false,
+    "set": [],
+    "set_incomplete": false,
+    "transmission": {},
+    "rehearsel_circulating_sources": [],
+    "circulating_sources": [],
+    "uncirculated_sources": [],
+    "notes": [
+        "There were 200 people at the show, according to attendees.",
+        "Nirvana blew 24-7 Spyz off the stage.",
+        "They played for about 40 minutes.",
+        "Nirvana was supposed to play for about 30 minutes. After about 40 minutes the sound man walked on the stage, kicked the drum set over and dragged both Chad and Krist off stage. Krist's bass was still plugged in so the cord pulled his amp over. The sound man then did the same thing to Kurt, this time picking him up by his neck and throttling him because some equipment ended up getting trashed during the Nirvana's set, it was chaos."
+    ],
+    "press": [],
+    "memorabilia": [
+        {
+            "url": "/concerts/images/1989/1989-10-13/1989-10-13_01.jpg",
+            "caption": "Nirvana's tour itinerary"
+        },
+        {
+            "url": "/concerts/images/1989/1989-10-13/1989-10-13_02.jpg",
+            "caption": "Advert"
+        },
+        {
+            "url": "/concerts/images/1989/1989-10-13/1989-10-13_03.jpg",
+            "caption": "Advert"
+        },
+        {
+            "url": "/concerts/images/1989/1989-10-13/1989-10-13_04.jpg",
+            "caption": "Advert"
+        },
+        {
+            "url": "/concerts/images/1989/1989-10-13/1989-10-13_05.jpg",
+            "caption": "Advert"
+        }
+    ],
+    "images": [],
+    "navigation": {
+        "previous": "89-10-12",
+        "next": "89-10-23"
+    },
+    "graph": {
+        "bleach": "1",
+        "nevermind": "1",
+        "inutero": "1",
+        "non": "1"
+    }
+}

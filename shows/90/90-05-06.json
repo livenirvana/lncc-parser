@@ -1,0 +1,252 @@
+{
+    "year": "1990",
+    "month": "05",
+    "day": "06",
+    "band": [
+        {
+            "NIRVANA": [
+                {
+                    "name": "Kurt Cobain ",
+                    "duty": "vocals, guitar"
+                },
+                {
+                    "name": "Krist Novoselic ",
+                    "duty": "bass"
+                },
+                {
+                    "name": "Chad Channing ",
+                    "duty": "drums"
+                }
+            ],
+            "type": "group"
+        }
+    ],
+    "crew": [
+        {
+            "name": "Craig Montgomery",
+            "duty": "sound engineer"
+        }
+    ],
+    "buyer": {
+        "names": [
+            "Greg Webb"
+        ]
+    },
+    "schedule": [
+        {
+            "event": "Load In",
+            "time": "…:…"
+        },
+        {
+            "event": "Soundcheck",
+            "time": "…:…"
+        },
+        {
+            "event": "Doors",
+            "time": "19:00"
+        },
+        {
+            "event": "Naked Truth Showtime",
+            "time": "…:…"
+        },
+        {
+            "event": "Insane Jane Showtime",
+            "time": "…:…"
+        },
+        {
+            "event": "NIRVANA Showtime",
+            "time": "…:…"
+        }
+    ],
+    "soundcheck": [],
+    "soundcheck_incomplete": false,
+    "set": [
+        {
+            "type": "song",
+            "text": "Love Buzz",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "Floyd The Barber",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "Scoff",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "Dive",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "School",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "Spank Thru",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "Breed",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "About A Girl",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "Big Cheese",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "Molly's Lips",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "Polly",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "Here She Comes Now",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "Been A Son",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "Stain",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "Negative Creep",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "Blew",
+            "notes": []
+        }
+    ],
+    "set_incomplete": false,
+    "transmission": {},
+    "rehearsel_circulating_sources": [],
+    "circulating_sources": [
+        {
+            "name": "SBD #1",
+            "complete": false,
+            "equipment": "Soundboard > Unknown",
+            "generation": "ANA(1) > DAT(1) > FLAC",
+            "video-generation": null,
+            "audio-generation": null,
+            "length-sound": "55 min / 9.0",
+            "notes": [
+                "\"Love Buzz\" cuts in, and there is a small cut in \"Stain\"."
+            ]
+        },
+        {
+            "name": "AMT #1",
+            "complete": true,
+            "equipment": "Unknown > Unknown",
+            "generation": "VHS(x) > DVDR/FLAC",
+            "video-generation": null,
+            "audio-generation": null,
+            "length-sound": "54 min / 8.0",
+            "notes": [
+                "Amateur video, shot from various locations onstage with a fisheye lens.",
+                "\"Love Buzz\" cuts in, has dropouts in several songs and the sound quality worsens for about 30 seconds during \"Scoff\"."
+            ]
+        },
+        {
+            "name": "AMT #2",
+            "complete": true,
+            "equipment": "Unknown > Unknown",
+            "generation": "VHS(1) > DVDR/FLAC",
+            "video-generation": null,
+            "audio-generation": null,
+            "length-sound": "55 min / 8.5",
+            "notes": [
+                "Combination of AMT #1 and another uncirculated amateur video.",
+                "The audio is a mix of both source videos with a slight time misalignment, resulting in an echo.",
+                "Portions from the uncirculated amateur video have special effects.",
+                "\"Love Buzz\" cuts in."
+            ]
+        }
+    ],
+    "uncirculated_sources": [
+        {
+            "name": "AMT #3",
+            "note": "There were quite a few people video taping, according to an attendee, so at least one other amateur video probably exists."
+        }
+    ],
+    "notes": [],
+    "press": [],
+    "memorabilia": [
+        {
+            "url": "/concerts/images/1990/1990-05-06/1990-05-06_01.jpg",
+            "caption": "Handbill/Flyer, designed by unknown"
+        },
+        {
+            "url": "/concerts/images/1990/1990-05-06/1990-05-06_02.jpg",
+            "caption": "Handwritten setlist"
+        },
+        {
+            "url": "/concerts/images/1990/1990-05-06/1990-05-06_03.jpg",
+            "caption": "Advert"
+        }
+    ],
+    "images": [
+        {
+            "url": "/concerts/images/1990/1990-05-06/1990-05-06_001.jpg",
+            "caption": "Screencap of AMT #2"
+        },
+        {
+            "url": "/concerts/images/1990/1990-05-06/1990-05-06_002.jpg",
+            "caption": "Screencap of AMT #2"
+        },
+        {
+            "url": "/concerts/images/1990/1990-05-06/1990-05-06_003.jpg",
+            "caption": "Screencap of AMT #2"
+        },
+        {
+            "url": "/concerts/images/1990/1990-05-06/1990-05-06_004.jpg",
+            "caption": "Screencap of AMT #2"
+        },
+        {
+            "url": "/concerts/images/1990/1990-05-06/1990-05-06_005.jpg",
+            "caption": "Screencap of AMT #2"
+        },
+        {
+            "url": "/concerts/images/1990/1990-05-06/1990-05-06_006.jpg",
+            "caption": "Screencap of AMT #2"
+        },
+        {
+            "url": "/concerts/images/1990/1990-05-06/1990-05-06_007.jpg",
+            "caption": "Screencap of AMT #2"
+        }
+    ],
+    "navigation": {
+        "previous": "90-05-05",
+        "next": "90-05-09"
+    },
+    "graph": {
+        "bleach": "8",
+        "nevermind": "2",
+        "inutero": "0",
+        "non": "6"
+    }
+}

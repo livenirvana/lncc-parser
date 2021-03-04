@@ -1,0 +1,385 @@
+{
+    "year": "1990",
+    "month": "01",
+    "day": "12",
+    "band": [
+        {
+            "NIRVANA": [
+                {
+                    "name": "Kurt Cobain ",
+                    "duty": "vocals, guitar"
+                },
+                {
+                    "name": "Krist Novoselic ",
+                    "duty": "bass"
+                },
+                {
+                    "name": "Chad Channing ",
+                    "duty": "drums"
+                }
+            ],
+            "type": "group"
+        }
+    ],
+    "crew": [],
+    "buyer": {
+        "names": []
+    },
+    "schedule": [
+        {
+            "event": "Load In",
+            "time": "…:…"
+        },
+        {
+            "event": "Soundcheck",
+            "time": "…:…"
+        },
+        {
+            "event": "Doors",
+            "time": "…:…"
+        },
+        {
+            "event": "Oily Bloodmen Showtime",
+            "time": "…:…"
+        },
+        {
+            "event": "Melvins Showtime",
+            "time": "…:…"
+        },
+        {
+            "event": "NIRVANA Showtime",
+            "time": "…:…"
+        }
+    ],
+    "soundcheck": [],
+    "soundcheck_incomplete": false,
+    "set": [
+        {
+            "type": "song",
+            "text": "jam",
+            "notes": []
+        },
+        {
+            "type": "jam",
+            "text": "jam bass jam",
+            "notes": [
+                "bass jam"
+            ]
+        },
+        {
+            "type": "song",
+            "text": "Scoff",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "Floyd The Barber",
+            "notes": []
+        },
+        {
+            "type": "jam",
+            "text": "jam bass jam",
+            "notes": [
+                "bass jam"
+            ]
+        },
+        {
+            "type": "song",
+            "text": "Love Buzz",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "Dive",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "Polly",
+            "notes": []
+        },
+        {
+            "type": "banter",
+            "text": "Thanks",
+            "person": "Cobain"
+        },
+        {
+            "type": "song",
+            "text": "Big Cheese",
+            "notes": []
+        },
+        {
+            "type": "banter",
+            "text": "Who spilt the nail polish remover or s...? There's a awful chemical in the air and you're all being poisoned by the toxic, toxis fumes and these pretty tiny mang!... Man, you don't know anything about beers you're a swine!",
+            "person": "Novoselic"
+        },
+        {
+            "type": "song",
+            "text": "Spank Thru",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "Sappy",
+            "notes": []
+        },
+        {
+            "type": "banter",
+            "text": "Thanks",
+            "person": "Cobain"
+        },
+        {
+            "type": "banter",
+            "text": "Good evening! I'll have some nail polish, I'm not proud I'll snort that stuff, you'll kill brain cells and it'll send you up",
+            "person": "Novoselic"
+        },
+        {
+            "type": "song",
+            "text": "Breed",
+            "notes": []
+        },
+        {
+            "type": "banter",
+            "text": "Shabba-roo. Who's Levison? Do you like the Vaselines? That's their song, it's a song by the Vaselines",
+            "person": "Novoselic"
+        },
+        {
+            "type": "song",
+            "text": "Molly's Lips",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "School",
+            "notes": []
+        },
+        {
+            "type": "jam",
+            "text": "jam bass jam",
+            "notes": [
+                "bass jam"
+            ]
+        },
+        {
+            "type": "banter",
+            "text": "This song's off a promo EP that I think it might be on the next record if we put one out!",
+            "person": "Cobain"
+        },
+        {
+            "type": "song",
+            "text": "Been A Son",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "Stain",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "About A Girl",
+            "notes": []
+        },
+        {
+            "type": "banter",
+            "text": "??? ????? ???? ",
+            "person": "Cobain"
+        },
+        {
+            "type": "jam",
+            "text": "jam bass jam",
+            "notes": [
+                "bass jam"
+            ]
+        },
+        {
+            "type": "jam",
+            "text": "Hand Of Doom bass jam",
+            "notes": [
+                "bass jam"
+            ]
+        },
+        {
+            "type": "jam",
+            "text": "Heartbreaker bass jam",
+            "notes": [
+                "bass jam"
+            ]
+        },
+        {
+            "type": "jam",
+            "text": "Hand Of Doom bass jam",
+            "notes": [
+                "bass jam"
+            ]
+        },
+        {
+            "type": "jam",
+            "text": "Ramble On bass jam",
+            "notes": [
+                "bass jam"
+            ]
+        },
+        {
+            "type": "banter",
+            "text": "You're gonna hurt yourself! This little kid's story, the guy's a spider, he crawls up the wall",
+            "person": "Channing"
+        },
+        {
+            "type": "banter",
+            "text": "Seeking guitar player! Must have Marshall stack, image and going to the top a must!",
+            "person": "Novoselic"
+        },
+        {
+            "type": "banter",
+            "text": "Definitely he listens. And anyway in spider, it's like...",
+            "person": "Channing"
+        },
+        {
+            "type": "jam",
+            "text": "jam bass jam",
+            "notes": [
+                "bass jam"
+            ]
+        },
+        {
+            "type": "banter",
+            "text": "Hey, shut up I'm telling a story!",
+            "person": "Channing"
+        },
+        {
+            "type": "banter",
+            "text": "I don't know what that is. You put your thumb on your pinky like this, it's about the spider and er... Thanks Chris and you put your hand and your pinky like this or was it this? Yeah, that's it.",
+            "person": "Channing"
+        },
+        {
+            "type": "jam",
+            "text": "Ramble On bass jam",
+            "notes": [
+                "bass jam"
+            ]
+        },
+        {
+            "type": "banter",
+            "text": "Yes, you know this is fucked up, Rinky Dinky Spider, it's er... how's it go? um...",
+            "person": "Channing"
+        },
+        {
+            "type": "banter",
+            "text": "Rinky Dinky Spider!!",
+            "person": "Audience"
+        },
+        {
+            "type": "banter",
+            "text": "Rinky Dinky Spider, crawled up the water spout, along came the rain and washed the spider out and out came the sun, and dried up all the rain, and the itsy bitsy spider crawled up the spout again! That's it!!\"",
+            "person": "Channing"
+        },
+        {
+            "type": "jam",
+            "text": "Whole Lotta Love bass jam",
+            "notes": [
+                "bass jam"
+            ]
+        },
+        {
+            "type": "jam",
+            "text": "Heartbreaker bass jam",
+            "notes": [
+                "bass jam"
+            ]
+        },
+        {
+            "type": "banter",
+            "text": "Don't I get a...don't I get applause when I take my own stage?",
+            "person": "Cobain"
+        },
+        {
+            "type": "song",
+            "text": "Negative Creep",
+            "notes": []
+        },
+        {
+            "type": "jam",
+            "text": "jam bass jam",
+            "notes": [
+                "bass jam"
+            ]
+        },
+        {
+            "type": "banter",
+            "text": "Well, thanks for coming",
+            "person": "Cobain"
+        },
+        {
+            "type": "song",
+            "text": "Blew",
+            "notes": []
+        }
+    ],
+    "set_incomplete": false,
+    "transmission": {},
+    "rehearsel_circulating_sources": [],
+    "circulating_sources": [
+        {
+            "name": "AUD #1",
+            "complete": true,
+            "equipment": "Built In > Unknown",
+            "generation": "ANA(M) > FLAC",
+            "video-generation": null,
+            "audio-generation": null,
+            "length-sound": "60 min / 7.5",
+            "notes": [
+                "In November 2016 a tranfer of the master tape was circulated.",
+                "\"About A Girl\" cuts out and \"Blew\" cuts in slightly."
+            ]
+        }
+    ],
+    "uncirculated_sources": [],
+    "notes": [
+        "Kurt Cobain did smash a guitar during the end of the concert.",
+        "The live photos may be from another concert."
+    ],
+    "press": [],
+    "memorabilia": [
+        {
+            "url": "/concerts/images/1990/1990-01-12/1990-01-12_01.jpg",
+            "caption": "Handbill/Flyer, designed by unknown"
+        },
+        {
+            "url": "/concerts/images/1990/1990-01-12/1990-01-12_02.jpg",
+            "caption": "Handbill/Flyer, designed by unknown"
+        },
+        {
+            "url": "/concerts/images/1990/1990-01-12/1990-01-12_03.jpg",
+            "caption": "Venue events calendar"
+        },
+        {
+            "url": "/concerts/images/1990/1990-01-12/1990-01-12_04.jpg",
+            "caption": "Advert"
+        },
+        {
+            "url": "/concerts/images/1990/1990-01-12/1990-01-12_05.jpg",
+            "caption": "Advert"
+        }
+    ],
+    "images": [
+        {
+            "url": "/concerts/images/1990/1990-01-12/1990-01-12_001.jpg",
+            "caption": "Photo by Tracy Marander"
+        },
+        {
+            "url": "/concerts/images/1990/1990-01-12/1990-01-12_002.jpg",
+            "caption": "Photo by Tracy Marander"
+        }
+    ],
+    "navigation": {
+        "previous": "90-01-06",
+        "next": "90-01-19"
+    },
+    "graph": {
+        "bleach": "8",
+        "nevermind": "2",
+        "inutero": "0",
+        "non": "6"
+    }
+}

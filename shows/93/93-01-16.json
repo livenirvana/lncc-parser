@@ -1,0 +1,1592 @@
+{
+    "year": "1993",
+    "month": "01",
+    "day": "16",
+    "venue": "January 16",
+    "city": "1993 - Estádio Cícero Pompeu de Toledo (Hollywood Rock Festival)",
+    "state": "São Paulo",
+    "country": "BR",
+    "band": [
+        {
+            "NIRVANA": [
+                {
+                    "name": "Kurt Cobain ",
+                    "duty": "vocals, guitar, backing vocals, drums"
+                },
+                {
+                    "name": "Krist Novoselic ",
+                    "duty": "bass, backing vocals, vocals, guitar"
+                },
+                {
+                    "name": "Dave Grohl ",
+                    "duty": "drums, backing vocals, vocals, bass"
+                }
+            ],
+            "type": "group"
+        },
+        {
+            "name": "Flea ",
+            "duty": "trumpet",
+            "type": "person"
+        }
+    ],
+    "crew": [
+        {
+            "name": "Alex MacLeod",
+            "duty": "tour manager"
+        },
+        {
+            "name": "Jeff Mason",
+            "duty": "production manager"
+        },
+        {
+            "name": "Susanne Sasic",
+            "duty": "lighting designer"
+        },
+        {
+            "name": "Craig Montgomery",
+            "duty": "sound engineer"
+        },
+        {
+            "name": "Ian Beveridge",
+            "duty": "monitor engineer"
+        },
+        {
+            "name": "Earnie Bailey",
+            "duty": "guitar technician"
+        },
+        {
+            "name": "John Duncan",
+            "duty": "guitar technician"
+        },
+        {
+            "name": "Barrett Jones",
+            "duty": "drum technician"
+        }
+    ],
+    "buyer": {
+        "names": [
+            "Souza Cruz"
+        ]
+    },
+    "schedule": [
+        {
+            "event": "Load In",
+            "time": "12:30"
+        },
+        {
+            "event": "Soundcheck",
+            "time": "14:45"
+        },
+        {
+            "event": "Doors",
+            "time": "17:30"
+        },
+        {
+            "event": "Dr. Sin Showtime",
+            "time": "19:30"
+        },
+        {
+            "event": "Engenheiros do Hawaii Showtime",
+            "time": "20:20"
+        },
+        {
+            "event": "L7 Showtime",
+            "time": "21:50"
+        },
+        {
+            "event": "NIRVANA Showtime",
+            "time": "23:30"
+        }
+    ],
+    "soundcheck": [
+        {
+            "type": "song",
+            "text": "Scentless Apprentice",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "Heart-Shaped Box",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "Milk It",
+            "notes": []
+        }
+    ],
+    "soundcheck_incomplete": true,
+    "set": [
+        {
+            "type": "banter",
+            "text": "... vocês todos!!! Tenham um bom show e se divirtam bastante, muito obrigado, e me desculpem, falou, se alguém se ofendeu. Com vocês a maior banda underground de todos os tempos, NIRVANAAAAAAAA!!!",
+            "person": "João Gordo"
+        },
+        {
+            "type": "song",
+            "text": "School",
+            "notes": []
+        },
+        {
+            "type": "banter",
+            "text": "Thank you",
+            "person": "Grohl"
+        },
+        {
+            "type": "song",
+            "text": "Drain You",
+            "notes": []
+        },
+        {
+            "type": "banter",
+            "text": "Thank you",
+            "person": "Grohl"
+        },
+        {
+            "type": "banter",
+            "text": "Hey Chris, are those big bright lights bothering the shit out of you?",
+            "person": "Cobain"
+        },
+        {
+            "type": "banter",
+            "text": "I can't see a goddamn thing!",
+            "person": "Novoselic"
+        },
+        {
+            "type": "banter",
+            "text": "What? I can't see goddammit! Mr Light person, Miss or Mr Light person, will you turn those big stupid bright alien lights off please? Thank you very much. Thank you.",
+            "person": "Cobain"
+        },
+        {
+            "type": "song",
+            "text": "Breed",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "Sliver",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "In Bloom",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "About A Girl",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "Dive",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "Come As You Are",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "Molly's Lips",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "Lithium",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "(New Wave) Polly",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "D-7",
+            "notes": []
+        },
+        {
+            "type": "banter",
+            "text": "Hey Flea",
+            "person": "Grohl"
+        },
+        {
+            "type": "banter",
+            "text": "I'm sorry, I don't look good in blue, could you turn those blue lights off up there please?",
+            "person": "Cobain"
+        },
+        {
+            "type": "banter",
+            "text": "It matches your skin!",
+            "person": "Novoselic"
+        },
+        {
+            "type": "banter",
+            "text": "Thank you very muchhh",
+            "person": "Cobain"
+        },
+        {
+            "type": "banter",
+            "text": "This song was written by the bass player of the Red Hot Chili Peppers, his name is Flea",
+            "person": "Grohl"
+        },
+        {
+            "type": "banter",
+            "text": "Flea, Flea, Flea, Flea, Flea, Flea, Flea, Flea, Flea, Flea, Flea, Flea",
+            "person": "Grohl"
+        },
+        {
+            "type": "banter",
+            "text": "Do you wanna use this microphone?",
+            "person": "Grohl"
+        },
+        {
+            "type": "banter",
+            "text": "oh no, I'm fine with that one, I'm just walking around",
+            "person": "Flea"
+        },
+        {
+            "type": "banter",
+            "text": "OK, yep",
+            "person": "Grohl"
+        },
+        {
+            "type": "song",
+            "text": "Smells Like Teen Spirit",
+            "notes": [
+                "Flea on trumpet"
+            ]
+        },
+        {
+            "type": "banter",
+            "text": "Thank you Herp Albert",
+            "person": "Cobain"
+        },
+        {
+            "type": "banter",
+            "text": "Thank you",
+            "person": "Grohl"
+        },
+        {
+            "type": "song",
+            "text": "On A Plain",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "Negative Creep",
+            "notes": []
+        },
+        {
+            "type": "banter",
+            "text": "Is everybody having a good time tonight? Rock'n roll",
+            "person": "Cobain"
+        },
+        {
+            "type": "song",
+            "text": "Something In The Way",
+            "notes": []
+        },
+        {
+            "type": "banter",
+            "text": "Thank you very much, thank you, thank you",
+            "person": "Grohl"
+        },
+        {
+            "type": "jam",
+            "text": "Blew bass and drums false start",
+            "notes": [
+                "bass and drums",
+                "false start"
+            ]
+        },
+        {
+            "type": "banter",
+            "text": "Let's do the other one. You know that song you're playing I can't hear it because your monitors are on the other side.",
+            "person": "Cobain"
+        },
+        {
+            "type": "banter",
+            "text": "So tell them to turn it up",
+            "person": "Novoselic"
+        },
+        {
+            "type": "banter",
+            "text": "No, no I can't...",
+            "person": "Cobain"
+        },
+        {
+            "type": "banter",
+            "text": "At the Copa, Copacabana, The hottest spot north of Havana, oh at the Copa, Copacabana",
+            "person": "Grohl"
+        },
+        {
+            "type": "banter",
+            "text": "If you came to see professionalism, you came to the wrong place!",
+            "person": "Novoselic"
+        },
+        {
+            "type": "banter",
+            "text": "I'm going to be on the cover of Guitar World Magazine next month",
+            "person": "Cobain"
+        },
+        {
+            "type": "banter",
+            "text": "Spread your fingers to the wire too",
+            "person": "Novoselic"
+        },
+        {
+            "type": "banter",
+            "text": "This is my new variation of a Dorian mode",
+            "person": "Cobain"
+        },
+        {
+            "type": "song",
+            "text": "Blew",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "Run To The Hills",
+            "notes": [
+                "jam"
+            ]
+        },
+        {
+            "type": "song",
+            "text": "jam",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "jam",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "Heartbreaker",
+            "notes": [
+                "jam"
+            ]
+        },
+        {
+            "type": "banter",
+            "text": "Hey Guys, I know this one",
+            "person": "Grohl"
+        },
+        {
+            "type": "banter",
+            "text": "You're invited to this party",
+            "person": "Novoselic"
+        },
+        {
+            "type": "song",
+            "text": "We Will Rock You",
+            "notes": [
+                "part of",
+                "KC drums and V., DG bass and V."
+            ]
+        },
+        {
+            "type": "banter",
+            "text": "This song was written by Terry Jacks",
+            "person": "Cobain"
+        },
+        {
+            "type": "banter",
+            "text": "Craig, turn up Kurt's vocal mic",
+            "person": "Grohl"
+        },
+        {
+            "type": "song",
+            "text": "Seasons In The Sun",
+            "notes": [
+                "KC drums and V., DG bass, KN guitar (DG/KN B.V)"
+            ]
+        },
+        {
+            "type": "banter",
+            "text": "Let's do Rio",
+            "person": "Novoselic"
+        },
+        {
+            "type": "banter",
+            "text": "drum solo",
+            "person": "Cobain"
+        },
+        {
+            "type": "banter",
+            "text": "OK",
+            "person": "Grohl"
+        },
+        {
+            "type": "banter",
+            "text": "Let's do Rio",
+            "person": "Novoselic"
+        },
+        {
+            "type": "banter",
+            "text": "OK, c'mon, let me do a drum solo, OK? Let me do a drum solo",
+            "person": "Cobain"
+        },
+        {
+            "type": "banter",
+            "text": "We'll do Rio, we're gonna do Rio",
+            "person": "Grohl"
+        },
+        {
+            "type": "banter",
+            "text": "We're not in Rio!",
+            "person": "Cobain"
+        },
+        {
+            "type": "banter",
+            "text": "I don't care, let's do it anyway! Well, let's do Kids in South America",
+            "person": "Grohl"
+        },
+        {
+            "type": "song",
+            "text": "Kids In America",
+            "notes": [
+                "KC drums, DG bass and V., KN guitar (KC/KN B.V)"
+            ]
+        },
+        {
+            "type": "song",
+            "text": "Should I Stay Or Should I Go",
+            "notes": [
+                "KC drums and V., DG bass, KN guitar"
+            ]
+        },
+        {
+            "type": "banter",
+            "text": "Solo, solo",
+            "person": "Cobain"
+        },
+        {
+            "type": "banter",
+            "text": "Whatever! Well, let do, let's do something",
+            "person": "Grohl"
+        },
+        {
+            "type": "banter",
+            "text": "We've made more money...",
+            "person": "Novoselic"
+        },
+        {
+            "type": "banter",
+            "text": "86...8...",
+            "person": "Cobain"
+        },
+        {
+            "type": "banter",
+            "text": "...than the gross national product of Guatemala last year and we're just up here fucking around",
+            "person": "Novoselic"
+        },
+        {
+            "type": "banter",
+            "text": "867-5309",
+            "person": "Cobain"
+        },
+        {
+            "type": "song",
+            "text": "867-5309/Jenny",
+            "notes": [
+                "KC drums and V., DG bass, KN guitar"
+            ]
+        },
+        {
+            "type": "banter",
+            "text": "Watch, I'm Flea",
+            "person": "Grohl"
+        },
+        {
+            "type": "banter",
+            "text": "??",
+            "person": "Novoselic"
+        },
+        {
+            "type": "banter",
+            "text": "uhm...Rio, let's play Rio first",
+            "person": "Cobain"
+        },
+        {
+            "type": "banter",
+            "text": "Alight, this is a special dedication to... you",
+            "person": "Novoselic"
+        },
+        {
+            "type": "song",
+            "text": "Rio",
+            "notes": [
+                "KC drums and V., DG bass and V., KN guitar and V. (KC/DG B.V)"
+            ]
+        },
+        {
+            "type": "banter",
+            "text": "Booooooooo!",
+            "person": "Cobain"
+        },
+        {
+            "type": "banter",
+            "text": "That was terrible, boooo",
+            "person": "Grohl"
+        },
+        {
+            "type": "banter",
+            "text": "boooo",
+            "person": "Cobain"
+        },
+        {
+            "type": "banter",
+            "text": "Where we come from you say, you Suck, you suck, you guys are awful!",
+            "person": "Grohl"
+        },
+        {
+            "type": "banter",
+            "text": "OK, where's our bodyguards?",
+            "person": "Grohl"
+        },
+        {
+            "type": "banter",
+            "text": "Isn't it funny how human beings are blessed with a sense of humour, no other creature from a snail to a dolphin has that quality in like a range of emotion. This is a special moment, this is a special moment that I hope you appreciate with all of these people here together in love. Gavrilo Princip fan club",
+            "person": "Novoselic"
+        },
+        {
+            "type": "banter",
+            "text": "The what?",
+            "person": "Grohl"
+        },
+        {
+            "type": "banter",
+            "text": "OK, where are the bodyguards, we're gonna get killed! We're gonna get fucking killed. We're gonna get lynched!",
+            "person": "Grohl"
+        },
+        {
+            "type": "banter",
+            "text": "So you came to see a bunch of professional musicians. I told you we made more money last year than El Salvadors",
+            "person": "Novoselic"
+        },
+        {
+            "type": "banter",
+            "text": "Chris! Are you ready, ready?",
+            "person": "Grohl"
+        },
+        {
+            "type": "song",
+            "text": "Lounge Act",
+            "notes": [
+                "jam"
+            ]
+        },
+        {
+            "type": "banter",
+            "text": "Territorial Pissings",
+            "person": "Novoselic"
+        },
+        {
+            "type": "song",
+            "text": "Territorial Pissings",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "Heart-Shaped Box",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "Scentless Apprentice",
+            "notes": []
+        }
+    ],
+    "set_incomplete": true,
+    "transmission": {},
+    "rehearsel_circulating_sources": [],
+    "circulating_sources": [
+        {
+            "name": "SBD #1",
+            "complete": false,
+            "equipment": "Soundboard > Unknown",
+            "generation": "DAT(M) > ANA(1) > FLAC",
+            "video-generation": null,
+            "audio-generation": null,
+            "length-sound": "52:41 min / 10",
+            "notes": [
+                "Surfaced in January 2014. \n                                    Missing everything before \"D-7\", which cuts in, and everything after \"Territorial Pissings\".\n\"Smells Like Teen Spirit\" cuts out and \"On A Plain\" cuts in.\nThe master is believed to be complete and also includes the soundcheck.\n"
+            ]
+        },
+        {
+            "name": "PRO #1",
+            "complete": false,
+            "equipment": "Soundboard > Unknown",
+            "generation": "MASTER > ASF",
+            "video-generation": null,
+            "audio-generation": null,
+            "length-sound": "09:20 min / 9.0",
+            "notes": [
+                "Shot by Globo TV with two cameras and soundboard audio.",
+                "Includes only half of \"Drain You\", most of \"Breed\", and clips of \"Sliver\", \"Scentless Apprentice\", the end-of-show destruction, and the band jamming on \"Run To The Hills\" and \"Heartbreaker\".",
+                "Released as ASF video files on Globo TV's website in April 2003."
+            ]
+        },
+        {
+            "name": "PRO #2",
+            "complete": false,
+            "equipment": "Unknown > Unknown",
+            "generation": "VHS(X) > MKV",
+            "video-generation": null,
+            "audio-generation": null,
+            "length-sound": "09:54 min / 9.0",
+            "notes": [
+                "Previously listed as VHS(1), which was found to be incorrect.",
+                "An Upgraded transfer was circulated July 26th 2018.",
+                "Single camera PRO-shot video, filmed from the audience with clear audience audio, broadcast by MTV Brazil.",
+                "Includes only \"School\", \"Drain You\", some banter about lights, the very end of \"Smells Like Teen Spirit\", and \"Seasons In The Sun\".",
+                "Has cuts in \"Drain You\", \"Smells Like Teen Spirit\", and \"Seasons In The Sun\".",
+                "This is believed to be all that MTV shot, althought it's missing the João Gordo intro."
+            ]
+        },
+        {
+            "name": "PRO #3a",
+            "complete": false,
+            "equipment": "Built In > Unknown",
+            "generation": "MASTER > BETA(1) > MKV",
+            "video-generation": null,
+            "audio-generation": null,
+            "length-sound": "10:22 min / ??",
+            "notes": [
+                "Higher quality and lower generation, but less complete at the beginning and at the end than PRO #3b.",
+                "Single camera PRO-shot video, shot from an elevated position, back right of the venue, broadcast by TV Cultura.",
+                "Includes only \"School\", \"Drain You\", some banter about lights and \"Breed\"."
+            ]
+        },
+        {
+            "name": "PRO #3b",
+            "complete": false,
+            "equipment": "Built In > Unknown",
+            "generation": "MASTER > BETA(1) > U-MATIC(2) > MKV",
+            "video-generation": null,
+            "audio-generation": null,
+            "length-sound": "11:12 min / ??",
+            "notes": [
+                "More complete, but lower quality than PRO #3a.",
+                "Single camera PRO-shot video, shot from an elevated position, back right of the venue, broadcast by TV Cultura.",
+                "Includes some pre-show footage, \"School\", \"Drain You\", some banter about lights, \"Breed\" and the band getting ready to play \"Sliver\".",
+                "Also includes a 3th audio track from another tape: MASTER > BETA(1) > U-MATIC(2) > BETA(1). It's uncertain if this track is a true stereo or a double mono audio."
+            ]
+        },
+        {
+            "name": "PRO CLIP #1a",
+            "complete": false,
+            "equipment": "Soundboard > Unknown",
+            "generation": "TV > VHS(2) > DVDR",
+            "video-generation": null,
+            "audio-generation": null,
+            "length-sound": "50 sec / 9.5",
+            "notes": [
+                "Shot by Globo TV with two cameras and soundboard audio.",
+                "Same shot as PRO #1, but features higher quality clips of \"Breed\", \"Sliver\", the first destruction during \"Heartbreaker-jam\" and the second destruction during \"Scentless Apprentice\" have been broadcast on Globo TV show called \"Fantástico\", 2003. "
+            ]
+        },
+        {
+            "name": "PRO CLIP #1b",
+            "complete": false,
+            "equipment": "Soundboard > Unknown",
+            "generation": "TV > VHS(x) > DVD",
+            "video-generation": null,
+            "audio-generation": null,
+            "length-sound": "20 sec / ??",
+            "notes": [
+                "Shot by Globo TV with two cameras and soundboard audio.",
+                "Broadcasted by TV Globo show called \"Globo Repórter\" in 01/22/93.",
+                "Same shot as PRO #1 but include clips not present on PRO #1.",
+                "Clips (without audio) of \"Sliver\", the first destruction during \"Heartbreaker-jam\" and Kurt doing a \"guitar flip\" around his neck, Kurt throwing a light stage in the middle of \"Scentless Apprentice\" or \"Heart-Shaped Box\" and the second destruction during \"Scentless Apprentice\"."
+            ]
+        },
+        {
+            "name": "PRO CLIP #2a",
+            "complete": false,
+            "equipment": "Unknown > Unknown",
+            "generation": "Official DVD/LD [Live! Tonight! Sold Out!!]",
+            "video-generation": null,
+            "audio-generation": null,
+            "length-sound": "10 sec / 9.0",
+            "notes": [
+                "Single camera PRO-shot video, filmed from the audience with clear audience audio.",
+                "Same shot as PRO #2, but features the band being introduced by João Gordo from the brazilian band \"Ratos de Porão\"."
+            ]
+        },
+        {
+            "name": "PRO CLIP #2b",
+            "complete": false,
+            "equipment": "Unknown > Unknown",
+            "generation": "VHS(2) > DVDR",
+            "video-generation": null,
+            "audio-generation": null,
+            "length-sound": "34 sec / 8.5",
+            "notes": [
+                "Single camera PRO-shot video, filmed from the audience with clear audience audio, broadcast by MTV Brazil.",
+                "Features only 34 seconds of clips of \"Milk It\" and \"Scentless Apprentice\" from the soundcheck.",
+                "Broadcast by MTV Brazil."
+            ]
+        },
+        {
+            "name": "PRO CLIP #4",
+            "complete": false,
+            "equipment": "Unknown > Unknown",
+            "generation": "MASTER > youtube",
+            "video-generation": null,
+            "audio-generation": null,
+            "length-sound": "20 sec / ??",
+            "notes": [
+                "Posted on the Youtube Channel of BTV in August 2015",
+                "Include clips (without audio) of \"Drain You\", shot from left side, and at least some images from another camera angle, shot from the right side of the stage.",
+                "A Brazilian crew from BTV was responsible for the Hollywood Rock \"Making of\" documentary, it's unknown whether it was a BTV crew who taped the concert."
+            ]
+        }
+    ],
+    "uncirculated_sources": [
+        {
+            "name": "AMT #1",
+            "note": "In the documentary \"L7: Pretend We're Dead\", you can see some clips of the L7 show. Maybe L7 taped parts of the Nirvana concert as well."
+        },
+        {
+            "name": "AMT #2",
+            "note": "It's rumored there was another person taping part of the soundcheck in front of the stage."
+        }
+    ],
+    "notes": [
+        "Nirvana played for about 105 minutes and did a jam session for 50,000 people, according to the local media and reviews.",
+        "There was at least 3 cameras on the stage and 2 in the back of the venue. Two big video screens on both sides of the stage screened all the concerts for the crowd, but it is not known if these shots were recorded in their entirety .",
+        "Kurt seemed to be highly doped on medication (Dave says that Kurt got a lot of Valium before the show), most of the time he was at low speed. The performance was so horrible that some of the audience left, according to a review.",
+        "Flea from the Red Hot Chili Peppers played trumpet on \"Smells Like Teen Spirit\".",
+        "It seems that Kurt forgot how to play or couldn't hear Krist through the monitors during \"Negative Creep\" and the first attempt of \"Blew\". You can hear Krist teaching him how to start the song, but Krist and Dave start it without the usual first chords of \"Negative Creep\" and first attempt of \"Blew\" was aborted.",
+        "During \"Something In The Way\" Kurt changed a lot the lyrics.",
+        "After \"Blew\", the band did play some \"jam's\", Kurt did a \"guitar flip\" around his neck, smashed his black Fender Stratocaster beyond repair, dove into the audience and gave pieces of it to the crowd, after that, the band switched instruments, with Kurt on drums, Krist borrowed a guitar, and Dave on bass, this lasted until the end of “Rio” cover song.",
+        "Dave and Krist started to play “Lounge Act”, but Kurt was looking for a left handed guitar. He got a untuned one and Krist got upset because he took so long to tune up while the band keep playing the song. Krist hurled his bass at Kurt (or at the floor/speakers) and walked offstage. The band was under contract to play for 90 minutes, so the crew had to retrieve Krist to finish the set. When Krist returned, he picked up his tossed bass from the stage and didn't bother to retune it or swap it out.",
+        "The band played “Territorial Pissings” completely out of time and tune.",
+        "Two new songs were played, most likely “Heart-Shaped Box” and “Scentless Apprentice”, according to a review. Kurt even joked before the last song, saying that the drummer would earn 75% of the royalties/copyright. (Referring to Dave’s rhythmical creation of “Scentless Apprentice”).",
+        "After “Scentless Apprentice”, Krist and Dave left the stage but Kurt stayed on stage breaking amplifiers, another guitar, stage lights and parts of the drums. Krist and Courtney had to get on the stage to remove Kurt, possibly saying, “The show is over. You can stop now”.",
+        "The songs “Been A Son, “Aneurysm“ and “Stay Away” may have also been played, according to a review and attendees."
+    ],
+    "press": [
+        {
+            "text": "Review from a Brazilian magazine called \"Top Rock\", published in 1993.",
+            "url": "/concerts/images/1993/1993-01-16/1993-01-16_01_review.jpg"
+        },
+        {
+            "text": "Review's from Brazilian newspapers, published in 1993.",
+            "url": "/concerts/images/1993/1993-01-16/1993-01-16_02_review.jpg"
+        },
+        {
+            "text": "Review from a Brazilian newspaper, published in 1993.",
+            "url": "/concerts/images/1993/1993-01-16/1993-01-16_03_review.jpg"
+        }
+    ],
+    "memorabilia": [
+        {
+            "url": "/concerts/images/1993/1993-01-16/1993-01-16_01.jpg",
+            "caption": "Advert"
+        },
+        {
+            "url": "/concerts/images/1993/1993-01-16/1993-01-16_02.jpg",
+            "caption": "Advert"
+        },
+        {
+            "url": "/concerts/images/1993/1993-01-16/1993-01-16_03.jpg",
+            "caption": "Ticket"
+        },
+        {
+            "url": "/concerts/images/1993/1993-01-16/1993-01-16_04.jpg",
+            "caption": "Handwritten setlist"
+        },
+        {
+            "url": "/concerts/images/1993/1993-01-16/1993-01-16_05.jpg",
+            "caption": "Advert"
+        },
+        {
+            "url": "/concerts/images/1993/1993-01-16/1993-01-16_06.jpg",
+            "caption": "Advert"
+        },
+        {
+            "url": "/concerts/images/1993/1993-01-16/1993-01-16_07.jpg",
+            "caption": "Event chronogram"
+        },
+        {
+            "url": "/concerts/images/1993/1993-01-16/1993-01-16_08.jpg",
+            "caption": "Event chronogram"
+        },
+        {
+            "url": "/concerts/images/1993/1993-01-16/1993-01-16_09.jpg",
+            "caption": "Advert"
+        },
+        {
+            "url": "/concerts/images/1993/1993-01-16/1993-01-16_10.jpg",
+            "caption": "Nirvana's tour itinerary"
+        },
+        {
+            "url": "/concerts/images/1993/1993-01-16/1993-01-16_11.jpg",
+            "caption": "T-shirt merchandise"
+        },
+        {
+            "url": "/concerts/images/1993/1993-01-16/1993-01-16_12.jpg",
+            "caption": "Backstage pass"
+        },
+        {
+            "url": "/concerts/images/1993/1993-01-16/1993-01-16_13.jpg",
+            "caption": "Backstage pass"
+        },
+        {
+            "url": "/concerts/images/1993/1993-01-16/1993-01-16_14.jpg",
+            "caption": "Advert"
+        }
+    ],
+    "images": [
+        {
+            "url": "/concerts/images/1993/1993-01-16/1993-01-16_001.jpg",
+            "caption": "Photo by Iaskara Florenzano"
+        },
+        {
+            "url": "/concerts/images/1993/1993-01-16/1993-01-16_002.jpg",
+            "caption": "Photo by Iaskara Florenzano"
+        },
+        {
+            "url": "/concerts/images/1993/1993-01-16/1993-01-16_003.jpg",
+            "caption": "Photo by Toni Pires"
+        },
+        {
+            "url": "/concerts/images/1993/1993-01-16/1993-01-16_004.jpg",
+            "caption": "Photo by Toni Pires"
+        },
+        {
+            "url": "/concerts/images/1993/1993-01-16/1993-01-16_005.jpg",
+            "caption": "Photo by Jorge Rosenberg"
+        },
+        {
+            "url": "/concerts/images/1993/1993-01-16/1993-01-16_006.jpg",
+            "caption": "Photo by Iaskara Florenzano"
+        },
+        {
+            "url": "/concerts/images/1993/1993-01-16/1993-01-16_007.jpg",
+            "caption": "Photo by Iaskara Florenzano"
+        },
+        {
+            "url": "/concerts/images/1993/1993-01-16/1993-01-16_008.jpg",
+            "caption": "Photo by Iaskara Florenzano"
+        },
+        {
+            "url": "/concerts/images/1993/1993-01-16/1993-01-16_009.jpg",
+            "caption": "Photo by Iaskara Florenzano"
+        },
+        {
+            "url": "/concerts/images/1993/1993-01-16/1993-01-16_010.jpg",
+            "caption": "Photo by Iaskara Florenzano"
+        },
+        {
+            "url": "/concerts/images/1993/1993-01-16/1993-01-16_011.jpg",
+            "caption": "Photo by Iaskara Florenzano"
+        },
+        {
+            "url": "/concerts/images/1993/1993-01-16/1993-01-16_012.jpg",
+            "caption": "Photo by Iaskara Florenzano"
+        },
+        {
+            "url": "/concerts/images/1993/1993-01-16/1993-01-16_013.jpg",
+            "caption": "Photo by Iaskara Florenzano"
+        },
+        {
+            "url": "/concerts/images/1993/1993-01-16/1993-01-16_014.jpg",
+            "caption": "Photo by Iaskara Florenzano"
+        },
+        {
+            "url": "/concerts/images/1993/1993-01-16/1993-01-16_015.jpg",
+            "caption": "Photo by Iaskara Florenzano"
+        },
+        {
+            "url": "/concerts/images/1993/1993-01-16/1993-01-16_016.jpg",
+            "caption": "Photo by Iaskara Florenzano"
+        },
+        {
+            "url": "/concerts/images/1993/1993-01-16/1993-01-16_017.jpg",
+            "caption": "Photo by Albano Mendes"
+        },
+        {
+            "url": "/concerts/images/1993/1993-01-16/1993-01-16_018.jpg",
+            "caption": "Photo by Albano Mendes"
+        },
+        {
+            "url": "/concerts/images/1993/1993-01-16/1993-01-16_019.jpg",
+            "caption": "Photo by Albano Mendes"
+        },
+        {
+            "url": "/concerts/images/1993/1993-01-16/1993-01-16_020.jpg",
+            "caption": "Photo by Albano Mendes"
+        },
+        {
+            "url": "/concerts/images/1993/1993-01-16/1993-01-16_021.jpg",
+            "caption": "Photo by Albano Mendes"
+        },
+        {
+            "url": "/concerts/images/1993/1993-01-16/1993-01-16_022.jpg",
+            "caption": "Photo by Albano Mendes"
+        },
+        {
+            "url": "/concerts/images/1993/1993-01-16/1993-01-16_023.jpg",
+            "caption": "Photo by Albano Mendes"
+        },
+        {
+            "url": "/concerts/images/1993/1993-01-16/1993-01-16_024.jpg",
+            "caption": "Photo by Albano Mendes"
+        },
+        {
+            "url": "/concerts/images/1993/1993-01-16/1993-01-16_025.jpg",
+            "caption": "Photo by Albano Mendes"
+        },
+        {
+            "url": "/concerts/images/1993/1993-01-16/1993-01-16_026.jpg",
+            "caption": "Photo by Albano Mendes"
+        },
+        {
+            "url": "/concerts/images/1993/1993-01-16/1993-01-16_027.jpg",
+            "caption": "Photo by Albano Mendes"
+        },
+        {
+            "url": "/concerts/images/1993/1993-01-16/1993-01-16_028.jpg",
+            "caption": "Photo by Albano Mendes"
+        },
+        {
+            "url": "/concerts/images/1993/1993-01-16/1993-01-16_029.jpg",
+            "caption": "Photo by Albano Mendes"
+        },
+        {
+            "url": "/concerts/images/1993/1993-01-16/1993-01-16_030.jpg",
+            "caption": "Photo by Ignacio Aronovich"
+        },
+        {
+            "url": "/concerts/images/1993/1993-01-16/1993-01-16_031.jpg",
+            "caption": "Photo by Jorge Rosenberg"
+        },
+        {
+            "url": "/concerts/images/1993/1993-01-16/1993-01-16_032.jpg",
+            "caption": "Photo by Jorge Rosenberg"
+        },
+        {
+            "url": "/concerts/images/1993/1993-01-16/1993-01-16_033.jpg",
+            "caption": "Photo by Jorge Rosenberg"
+        },
+        {
+            "url": "/concerts/images/1993/1993-01-16/1993-01-16_034.jpg",
+            "caption": "Photo by Jorge Rosenberg"
+        },
+        {
+            "url": "/concerts/images/1993/1993-01-16/1993-01-16_035.jpg",
+            "caption": "Photo by Jorge Rosenberg"
+        },
+        {
+            "url": "/concerts/images/1993/1993-01-16/1993-01-16_036.jpg",
+            "caption": "Photo by Jorge Rosenberg"
+        },
+        {
+            "url": "/concerts/images/1993/1993-01-16/1993-01-16_037.jpg",
+            "caption": "Photo by João Ricardo Lima"
+        },
+        {
+            "url": "/concerts/images/1993/1993-01-16/1993-01-16_038.jpg",
+            "caption": "Photo by João Ricardo Lima"
+        },
+        {
+            "url": "/concerts/images/1993/1993-01-16/1993-01-16_039.jpg",
+            "caption": "Photo by João Ricardo Lima"
+        },
+        {
+            "url": "/concerts/images/1993/1993-01-16/1993-01-16_040.jpg",
+            "caption": "Photo by Nellie Solitrevich"
+        },
+        {
+            "url": "/concerts/images/1993/1993-01-16/1993-01-16_041.jpg",
+            "caption": "Photo by Pisco Del Gaiso"
+        },
+        {
+            "url": "/concerts/images/1993/1993-01-16/1993-01-16_042.jpg",
+            "caption": "Photo by Pisco Del Gaiso"
+        },
+        {
+            "url": "/concerts/images/1993/1993-01-16/1993-01-16_043.jpg",
+            "caption": "Photo by Pisco Del Gaiso"
+        },
+        {
+            "url": "/concerts/images/1993/1993-01-16/1993-01-16_044.jpg",
+            "caption": "Photo by Pisco Del Gaiso"
+        },
+        {
+            "url": "/concerts/images/1993/1993-01-16/1993-01-16_045.jpg",
+            "caption": "Photo by Pisco Del Gaiso"
+        },
+        {
+            "url": "/concerts/images/1993/1993-01-16/1993-01-16_046.jpg",
+            "caption": "Photo by Pisco Del Gaiso"
+        },
+        {
+            "url": "/concerts/images/1993/1993-01-16/1993-01-16_047.jpg",
+            "caption": "Photo by Pisco Del Gaiso"
+        },
+        {
+            "url": "/concerts/images/1993/1993-01-16/1993-01-16_048.jpg",
+            "caption": "Photo by Masao Goto Filho"
+        },
+        {
+            "url": "/concerts/images/1993/1993-01-16/1993-01-16_049.jpg",
+            "caption": "Photo by Marco de Bari"
+        },
+        {
+            "url": "/concerts/images/1993/1993-01-16/1993-01-16_050.jpg",
+            "caption": "Photo by Vivaldi Gil"
+        },
+        {
+            "url": "/concerts/images/1993/1993-01-16/1993-01-16_051.jpg",
+            "caption": "Photo by Vivaldi Gil"
+        },
+        {
+            "url": "/concerts/images/1993/1993-01-16/1993-01-16_052.jpg",
+            "caption": "Photo by Vivaldi Gil"
+        },
+        {
+            "url": "/concerts/images/1993/1993-01-16/1993-01-16_053.jpg",
+            "caption": "Photo by Vivaldi Gil"
+        },
+        {
+            "url": "/concerts/images/1993/1993-01-16/1993-01-16_054.jpg",
+            "caption": "Photo by Vivaldi Gil"
+        },
+        {
+            "url": "/concerts/images/1993/1993-01-16/1993-01-16_055.jpg",
+            "caption": "Photo by Vivaldi Gil"
+        },
+        {
+            "url": "/concerts/images/1993/1993-01-16/1993-01-16_056.jpg",
+            "caption": "Photo by Vivaldi Gil"
+        },
+        {
+            "url": "/concerts/images/1993/1993-01-16/1993-01-16_057.jpg",
+            "caption": "Photo by Vivaldi Gil"
+        },
+        {
+            "url": "/concerts/images/1993/1993-01-16/1993-01-16_058.jpg",
+            "caption": "Photo by Vivaldi Gil"
+        },
+        {
+            "url": "/concerts/images/1993/1993-01-16/1993-01-16_059.jpg",
+            "caption": "Photo by Vivaldi Gil"
+        },
+        {
+            "url": "/concerts/images/1993/1993-01-16/1993-01-16_060.jpg",
+            "caption": "Photo by Vivaldi Gil"
+        },
+        {
+            "url": "/concerts/images/1993/1993-01-16/1993-01-16_061.jpg",
+            "caption": "Photo by Vivaldi Gil"
+        },
+        {
+            "url": "/concerts/images/1993/1993-01-16/1993-01-16_062.jpg",
+            "caption": "Photo by Vivaldi Gil"
+        },
+        {
+            "url": "/concerts/images/1993/1993-01-16/1993-01-16_063.jpg",
+            "caption": "Photo by Vivaldi Gil"
+        },
+        {
+            "url": "/concerts/images/1993/1993-01-16/1993-01-16_064.jpg",
+            "caption": "Photo by Vivaldi Gil"
+        },
+        {
+            "url": "/concerts/images/1993/1993-01-16/1993-01-16_065.jpg",
+            "caption": "Photo by Vivaldi Gil"
+        },
+        {
+            "url": "/concerts/images/1993/1993-01-16/1993-01-16_066.jpg",
+            "caption": "Photo by Vivaldi Gil"
+        },
+        {
+            "url": "/concerts/images/1993/1993-01-16/1993-01-16_067.jpg",
+            "caption": "Photo by Vivaldi Gil"
+        },
+        {
+            "url": "/concerts/images/1993/1993-01-16/1993-01-16_068.jpg",
+            "caption": "Photo by Vivaldi Gil"
+        },
+        {
+            "url": "/concerts/images/1993/1993-01-16/1993-01-16_069.jpg",
+            "caption": "Photo by Rosanna Alberti Chaim"
+        },
+        {
+            "url": "/concerts/images/1993/1993-01-16/1993-01-16_070.jpg",
+            "caption": "Photo by Paulo Caciji"
+        },
+        {
+            "url": "/concerts/images/1993/1993-01-16/1993-01-16_071.jpg",
+            "caption": "Photo by Paulo Caciji"
+        },
+        {
+            "url": "/concerts/images/1993/1993-01-16/1993-01-16_072.jpg",
+            "caption": "Photo by Paulo Caciji"
+        },
+        {
+            "url": "/concerts/images/1993/1993-01-16/1993-01-16_073.jpg",
+            "caption": "Unknown photographer"
+        },
+        {
+            "url": "/concerts/images/1993/1993-01-16/1993-01-16_074.jpg",
+            "caption": "Unknown photographer"
+        },
+        {
+            "url": "/concerts/images/1993/1993-01-16/1993-01-16_075.jpg",
+            "caption": "Photo by Joe Giron"
+        },
+        {
+            "url": "/concerts/images/1993/1993-01-16/1993-01-16_076.jpg",
+            "caption": "Photo by Joe Giron"
+        },
+        {
+            "url": "/concerts/images/1993/1993-01-16/1993-01-16_077.jpg",
+            "caption": "Photo by Joe Giron"
+        },
+        {
+            "url": "/concerts/images/1993/1993-01-16/1993-01-16_078.jpg",
+            "caption": "Photo by Joe Giron"
+        },
+        {
+            "url": "/concerts/images/1993/1993-01-16/1993-01-16_079.jpg",
+            "caption": "Photo by Sergio Carvalho"
+        },
+        {
+            "url": "/concerts/images/1993/1993-01-16/1993-01-16_080.jpg",
+            "caption": "Photo by Joe Giron"
+        },
+        {
+            "url": "/concerts/images/1993/1993-01-16/1993-01-16_081.jpg",
+            "caption": "Photo by Sergio Carvalho"
+        },
+        {
+            "url": "/concerts/images/1993/1993-01-16/1993-01-16_082.jpg",
+            "caption": "Photo by Joe Giron"
+        },
+        {
+            "url": "/concerts/images/1993/1993-01-16/1993-01-16_083.jpg",
+            "caption": "Photo by Joe Giron"
+        },
+        {
+            "url": "/concerts/images/1993/1993-01-16/1993-01-16_084.jpg",
+            "caption": "Photo by Joe Giron"
+        },
+        {
+            "url": "/concerts/images/1993/1993-01-16/1993-01-16_085.jpg",
+            "caption": "Photo by Joe Giron"
+        },
+        {
+            "url": "/concerts/images/1993/1993-01-16/1993-01-16_086.jpg",
+            "caption": "Photo by Masao Goto Filho"
+        },
+        {
+            "url": "/concerts/images/1993/1993-01-16/1993-01-16_087.jpg",
+            "caption": "Photo by Paulo Giandalia"
+        },
+        {
+            "url": "/concerts/images/1993/1993-01-16/1993-01-16_088.jpg",
+            "caption": "Photo by Masao Goto Filho"
+        },
+        {
+            "url": "/concerts/images/1993/1993-01-16/1993-01-16_089.jpg",
+            "caption": "Photo by Pisco Del Gaiso"
+        },
+        {
+            "url": "/concerts/images/1993/1993-01-16/1993-01-16_090.jpg",
+            "caption": "Unknown photographer"
+        },
+        {
+            "url": "/concerts/images/1993/1993-01-16/1993-01-16_091.jpg",
+            "caption": "Photo by Marco de Bari"
+        },
+        {
+            "url": "/concerts/images/1993/1993-01-16/1993-01-16_092.jpg",
+            "caption": "Photo by Vivaldi Gil"
+        },
+        {
+            "url": "/concerts/images/1993/1993-01-16/1993-01-16_093.jpg",
+            "caption": "Photo by Edson Lopes"
+        },
+        {
+            "url": "/concerts/images/1993/1993-01-16/1993-01-16_094.jpg",
+            "caption": "Unknown photographer"
+        },
+        {
+            "url": "/concerts/images/1993/1993-01-16/1993-01-16_095.jpg",
+            "caption": "Photo by Rosanna Alberti Chaim"
+        },
+        {
+            "url": "/concerts/images/1993/1993-01-16/1993-01-16_096.jpg",
+            "caption": "Photo by Rosanna Alberti Chaim"
+        },
+        {
+            "url": "/concerts/images/1993/1993-01-16/1993-01-16_097.jpg",
+            "caption": "Photo Marcelo Theobald"
+        },
+        {
+            "url": "/concerts/images/1993/1993-01-16/1993-01-16_098.jpg",
+            "caption": "Unknown photographer"
+        },
+        {
+            "url": "/concerts/images/1993/1993-01-16/1993-01-16_099.jpg",
+            "caption": "Photo by Patty Schemel"
+        },
+        {
+            "url": "/concerts/images/1993/1993-01-16/1993-01-16_100.jpg",
+            "caption": "Unknown photographer"
+        },
+        {
+            "url": "/concerts/images/1993/1993-01-16/1993-01-16_101.jpg",
+            "caption": "Unknown photographer"
+        },
+        {
+            "url": "/concerts/images/1993/1993-01-16/1993-01-16_102.jpg",
+            "caption": "Unknown photographer"
+        },
+        {
+            "url": "/concerts/images/1993/1993-01-16/1993-01-16_103.jpg",
+            "caption": "Photo by Pisco Del Gaiso"
+        },
+        {
+            "url": "/concerts/images/1993/1993-01-16/1993-01-16_104.jpg",
+            "caption": "Unknown photographer"
+        },
+        {
+            "url": "/concerts/images/1993/1993-01-16/1993-01-16_105.jpg",
+            "caption": "Photo by Pisco Del Gaiso"
+        },
+        {
+            "url": "/concerts/images/1993/1993-01-16/1993-01-16_106.jpg",
+            "caption": "Photo by Luiz Carlos dos Santos"
+        },
+        {
+            "url": "/concerts/images/1993/1993-01-16/1993-01-16_107.jpg",
+            "caption": "Unknown photographer"
+        },
+        {
+            "url": "/concerts/images/1993/1993-01-16/1993-01-16_108.jpg",
+            "caption": "Photo by Joe Giron"
+        },
+        {
+            "url": "/concerts/images/1993/1993-01-16/1993-01-16_109.jpg",
+            "caption": "Photo by Jorge Rosenberg"
+        },
+        {
+            "url": "/concerts/images/1993/1993-01-16/1993-01-16_110.jpg",
+            "caption": "Photo by Paulo Caciji"
+        },
+        {
+            "url": "/concerts/images/1993/1993-01-16/1993-01-16_111.jpg",
+            "caption": "Unknown photographer"
+        },
+        {
+            "url": "/concerts/images/1993/1993-01-16/1993-01-16_112.jpg",
+            "caption": "Photo by Luis Carlos dos Santos"
+        },
+        {
+            "url": "/concerts/images/1993/1993-01-16/1993-01-16_113.jpg",
+            "caption": "Photo by Marco de Bari"
+        },
+        {
+            "url": "/concerts/images/1993/1993-01-16/1993-01-16_114.jpg",
+            "caption": "Photo by Albano Mendes"
+        },
+        {
+            "url": "/concerts/images/1993/1993-01-16/1993-01-16_115.jpg",
+            "caption": "Photo by Masao Goto Filho"
+        },
+        {
+            "url": "/concerts/images/1993/1993-01-16/1993-01-16_116.jpg",
+            "caption": "Unknown photographer"
+        },
+        {
+            "url": "/concerts/images/1993/1993-01-16/1993-01-16_117.jpg",
+            "caption": "Photo by Mariana Carril"
+        },
+        {
+            "url": "/concerts/images/1993/1993-01-16/1993-01-16_118.jpg",
+            "caption": "Unknown photographer"
+        },
+        {
+            "url": "/concerts/images/1993/1993-01-16/1993-01-16_119.jpg",
+            "caption": "Photo by Masao Goto Filho"
+        },
+        {
+            "url": "/concerts/images/1993/1993-01-16/1993-01-16_120.jpg",
+            "caption": "Photo by Eric De Haas"
+        },
+        {
+            "url": "/concerts/images/1993/1993-01-16/1993-01-16_121.jpg",
+            "caption": "Unknown photographer"
+        },
+        {
+            "url": "/concerts/images/1993/1993-01-16/1993-01-16_122.jpg",
+            "caption": "Unknown photographer"
+        },
+        {
+            "url": "/concerts/images/1993/1993-01-16/1993-01-16_123.jpg",
+            "caption": "Photo by Flávio Lacerda"
+        },
+        {
+            "url": "/concerts/images/1993/1993-01-16/1993-01-16_124.jpg",
+            "caption": "Photo by Flávio Lacerda"
+        },
+        {
+            "url": "/concerts/images/1993/1993-01-16/1993-01-16_125.jpg",
+            "caption": "Photo by Flávio Lacerda"
+        },
+        {
+            "url": "/concerts/images/1993/1993-01-16/1993-01-16_126.jpg",
+            "caption": "Photo by Flávio Lacerda"
+        },
+        {
+            "url": "/concerts/images/1993/1993-01-16/1993-01-16_127.jpg",
+            "caption": "Photo by Flávio Lacerda"
+        },
+        {
+            "url": "/concerts/images/1993/1993-01-16/1993-01-16_128.jpg",
+            "caption": "Photo by Flávio Lacerda"
+        },
+        {
+            "url": "/concerts/images/1993/1993-01-16/1993-01-16_129.jpg",
+            "caption": "Photo by Flávio Lacerda"
+        },
+        {
+            "url": "/concerts/images/1993/1993-01-16/1993-01-16_130.jpg",
+            "caption": "Photo by Flávio Lacerda"
+        },
+        {
+            "url": "/concerts/images/1993/1993-01-16/1993-01-16_131.jpg",
+            "caption": "Photo by Flávio Lacerda"
+        },
+        {
+            "url": "/concerts/images/1993/1993-01-16/1993-01-16_132.jpg",
+            "caption": "Photo by Flávio Lacerda"
+        },
+        {
+            "url": "/concerts/images/1993/1993-01-16/1993-01-16_133.jpg",
+            "caption": "Photo by Flávio Lacerda"
+        },
+        {
+            "url": "/concerts/images/1993/1993-01-16/1993-01-16_134.jpg",
+            "caption": "Photo by Edson Lopes"
+        },
+        {
+            "url": "/concerts/images/1993/1993-01-16/1993-01-16_135.jpg",
+            "caption": "Photo by Edson Lopes"
+        },
+        {
+            "url": "/concerts/images/1993/1993-01-16/1993-01-16_136.jpg",
+            "caption": "Photo by Rui Mendes"
+        },
+        {
+            "url": "/concerts/images/1993/1993-01-16/1993-01-16_137.jpg",
+            "caption": "Photo by Vivaldi Gil"
+        },
+        {
+            "url": "/concerts/images/1993/1993-01-16/1993-01-16_138.jpg",
+            "caption": "Photo by Jorge Rosenberg"
+        },
+        {
+            "url": "/concerts/images/1993/1993-01-16/1993-01-16_139.jpg",
+            "caption": "Unknown photographer"
+        },
+        {
+            "url": "/concerts/images/1993/1993-01-16/1993-01-16_140.jpg",
+            "caption": "Photo by Joe Giron"
+        },
+        {
+            "url": "/concerts/images/1993/1993-01-16/1993-01-16_141.jpg",
+            "caption": "Photo by Paulo Giandalia"
+        },
+        {
+            "url": "/concerts/images/1993/1993-01-16/1993-01-16_142.jpg",
+            "caption": "Photo by Luiz Carlos dos Santos"
+        },
+        {
+            "url": "/concerts/images/1993/1993-01-16/1993-01-16_143.jpg",
+            "caption": "Photo by Paulo Caciji"
+        },
+        {
+            "url": "/concerts/images/1993/1993-01-16/1993-01-16_144.jpg",
+            "caption": "Unknown photographer"
+        },
+        {
+            "url": "/concerts/images/1993/1993-01-16/1993-01-16_145.jpg",
+            "caption": "Photo by Toni Pires"
+        },
+        {
+            "url": "/concerts/images/1993/1993-01-16/1993-01-16_146.jpg",
+            "caption": "Photo by Toni Pires"
+        },
+        {
+            "url": "/concerts/images/1993/1993-01-16/1993-01-16_147.jpg",
+            "caption": "Photo by Toni Pires"
+        },
+        {
+            "url": "/concerts/images/1993/1993-01-16/1993-01-16_148.jpg",
+            "caption": "Photo by Mark Edwin Johnson"
+        },
+        {
+            "url": "/concerts/images/1993/1993-01-16/1993-01-16_149.jpg",
+            "caption": "Photo by Jorge Rosenberg"
+        },
+        {
+            "url": "/concerts/images/1993/1993-01-16/1993-01-16_150.jpg",
+            "caption": "Photo by Pisco Del Gaiso"
+        },
+        {
+            "url": "/concerts/images/1993/1993-01-16/1993-01-16_151.jpg",
+            "caption": "Photo by Nellie Solitrevich"
+        },
+        {
+            "url": "/concerts/images/1993/1993-01-16/1993-01-16_152.jpg",
+            "caption": "Photo by Toni Pires"
+        },
+        {
+            "url": "/concerts/images/1993/1993-01-16/1993-01-16_153.jpg",
+            "caption": "Unknown photographer"
+        },
+        {
+            "url": "/concerts/images/1993/1993-01-16/1993-01-16_154.jpg",
+            "caption": "Photo by Jorge Rosenberg"
+        },
+        {
+            "url": "/concerts/images/1993/1993-01-16/1993-01-16_155.jpg",
+            "caption": "Photo by Jorge Rosenberg"
+        },
+        {
+            "url": "/concerts/images/1993/1993-01-16/1993-01-16_156.jpg",
+            "caption": "Photo by Jorge Rosenberg"
+        },
+        {
+            "url": "/concerts/images/1993/1993-01-16/1993-01-16_157.jpg",
+            "caption": "Photo by Jorge Rosenberg"
+        },
+        {
+            "url": "/concerts/images/1993/1993-01-16/1993-01-16_158.jpg",
+            "caption": "Photo by Pisco Del Gaiso"
+        },
+        {
+            "url": "/concerts/images/1993/1993-01-16/1993-01-16_159.jpg",
+            "caption": "Photo by Masao Goto Filho"
+        },
+        {
+            "url": "/concerts/images/1993/1993-01-16/1993-01-16_160.jpg",
+            "caption": "Photo by Paulo Giandalia"
+        },
+        {
+            "url": "/concerts/images/1993/1993-01-16/1993-01-16_161.jpg",
+            "caption": "Photo by Paulo Giandalia"
+        },
+        {
+            "url": "/concerts/images/1993/1993-01-16/1993-01-16_162.jpg",
+            "caption": "Photo by Paulo Giandalia"
+        },
+        {
+            "url": "/concerts/images/1993/1993-01-16/1993-01-16_163.jpg",
+            "caption": "Photo by Barrett Jones"
+        },
+        {
+            "url": "/concerts/images/1993/1993-01-16/1993-01-16_164.jpg",
+            "caption": "Photo by Paulo Giandalia"
+        },
+        {
+            "url": "/concerts/images/1993/1993-01-16/1993-01-16_165.jpg",
+            "caption": "Photo by Jorge Rosenberg"
+        },
+        {
+            "url": "/concerts/images/1993/1993-01-16/1993-01-16_166.jpg",
+            "caption": "Photo by Marcia Zoet"
+        },
+        {
+            "url": "/concerts/images/1993/1993-01-16/1993-01-16_167.jpg",
+            "caption": "Photo by Marcia Zoet"
+        },
+        {
+            "url": "/concerts/images/1993/1993-01-16/1993-01-16_168.jpg",
+            "caption": "Photo by Jorge Rosenberg"
+        },
+        {
+            "url": "/concerts/images/1993/1993-01-16/1993-01-16_169.jpg",
+            "caption": "Photo by Jorge Rosenberg"
+        },
+        {
+            "url": "/concerts/images/1993/1993-01-16/1993-01-16_170.jpg",
+            "caption": "Photo by Jorge Rosenberg"
+        },
+        {
+            "url": "/concerts/images/1993/1993-01-16/1993-01-16_171.jpg",
+            "caption": "Photo by Jorge Rosenberg"
+        },
+        {
+            "url": "/concerts/images/1993/1993-01-16/1993-01-16_172.jpg",
+            "caption": "Photo by Paulo Giandalia"
+        },
+        {
+            "url": "/concerts/images/1993/1993-01-16/1993-01-16_173.jpg",
+            "caption": "Photo by Marcia Zoet"
+        },
+        {
+            "url": "/concerts/images/1993/1993-01-16/1993-01-16_174.jpg",
+            "caption": "Photo by Paulo Giandalia"
+        },
+        {
+            "url": "/concerts/images/1993/1993-01-16/1993-01-16_175.jpg",
+            "caption": "Photo by Paulo Giandalia"
+        },
+        {
+            "url": "/concerts/images/1993/1993-01-16/1993-01-16_176.jpg",
+            "caption": "Photo by Masao Goto Filho"
+        },
+        {
+            "url": "/concerts/images/1993/1993-01-16/1993-01-16_177.jpg",
+            "caption": "Photo by Marcia Zoet"
+        },
+        {
+            "url": "/concerts/images/1993/1993-01-16/1993-01-16_178.jpg",
+            "caption": "Photo by Paulo Giandalia"
+        },
+        {
+            "url": "/concerts/images/1993/1993-01-16/1993-01-16_179.jpg",
+            "caption": "Photo by Paulo Giandalia"
+        },
+        {
+            "url": "/concerts/images/1993/1993-01-16/1993-01-16_180.jpg",
+            "caption": "Photo by Paulo Giandalia"
+        },
+        {
+            "url": "/concerts/images/1993/1993-01-16/1993-01-16_181.jpg",
+            "caption": "Photo by Marcia Zoet"
+        },
+        {
+            "url": "/concerts/images/1993/1993-01-16/1993-01-16_182.jpg",
+            "caption": "Photo by Pisco Del Gaiso"
+        },
+        {
+            "url": "/concerts/images/1993/1993-01-16/1993-01-16_183.jpg",
+            "caption": "Photo by Pisco Del Gaiso"
+        }
+    ],
+    "navigation": {
+        "previous": "/concerts/92/92-10-30",
+        "next": "93-01-23"
+    },
+    "graph": {
+        "bleach": "4",
+        "nevermind": "10",
+        "inutero": "6",
+        "non": "16"
+    }
+}

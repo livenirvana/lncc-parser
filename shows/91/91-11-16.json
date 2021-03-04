@@ -1,0 +1,693 @@
+{
+    "year": "1991",
+    "month": "11",
+    "day": "16",
+    "venue": "November 16",
+    "city": "1991 - Teatro Verdi",
+    "state": "Muggia",
+    "country": "IT",
+    "band": [
+        {
+            "NIRVANA": [
+                {
+                    "name": "Kurt Cobain ",
+                    "duty": "vocals, guitar"
+                },
+                {
+                    "name": "Krist Novoselic ",
+                    "duty": "bass"
+                },
+                {
+                    "name": "Dave Grohl ",
+                    "duty": "drums, backing vocals"
+                }
+            ],
+            "type": "group"
+        }
+    ],
+    "crew": [
+        {
+            "name": "Alex MacLeod",
+            "duty": "tour manager"
+        },
+        {
+            "name": "Craig Montgomery",
+            "duty": "sound engineer"
+        },
+        {
+            "name": "Ian Beveridge",
+            "duty": "monitor engineer"
+        },
+        {
+            "name": "Nic Close",
+            "duty": "guitar technician"
+        }
+    ],
+    "buyer": {
+        "names": [
+            "Corrado Rizzotto"
+        ],
+        "company": "Rock Alliance"
+    },
+    "schedule": [
+        {
+            "event": "Load In",
+            "time": "…:…"
+        },
+        {
+            "event": "Soundcheck",
+            "time": "…:…"
+        },
+        {
+            "event": "Doors",
+            "time": "21:30"
+        },
+        {
+            "event": "Urge Overkill Showtime",
+            "time": "…:…"
+        },
+        {
+            "event": "NIRVANA Showtime",
+            "time": "…:…"
+        }
+    ],
+    "soundcheck": [],
+    "soundcheck_incomplete": false,
+    "set": [
+        {
+            "type": "song",
+            "text": "Drain You",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "Aneurysm",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "School",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "Floyd The Barber",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "Smells Like Teen Spirit",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "About A Girl",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "Polly",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "Lithium",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "Sliver",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "Breed",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "Love Buzz",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "Been A Son",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "Negative Creep",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "On A Plain",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "Blew",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "L'Amour Est Un Oiseau Rebelle",
+            "notes": [
+                "jam"
+            ]
+        },
+        {
+            "type": "song",
+            "text": "Talk To Me",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "Oh, The Guilt",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "Territorial Pissings",
+            "notes": []
+        }
+    ],
+    "set_incomplete": false,
+    "transmission": {},
+    "rehearsel_circulating_sources": [],
+    "circulating_sources": [
+        {
+            "name": "AUD #1a",
+            "complete": false,
+            "equipment": "Unknown > Unknown",
+            "generation": "ANA(x) > FLAC",
+            "video-generation": null,
+            "audio-generation": null,
+            "length-sound": "58 min / 7.0",
+            "notes": [
+                "Surfaced in August 2005.",
+                "Lower quality and unknown generation, but more complete than AUD #1b.",
+                "\"Drain You\" is cut within.",
+                "\"Oh, The Guilt\", \"On A Plain\" and \"L'Amour Est Un Oiseau Rebelle\" is cut.\t"
+            ]
+        },
+        {
+            "name": "AUD #1b",
+            "complete": false,
+            "equipment": "Unknown > Unknown",
+            "generation": "ANA(1) > FLAC",
+            "video-generation": null,
+            "audio-generation": null,
+            "length-sound": "57 min / 7.5",
+            "notes": [
+                "Surfaced in March 2007.",
+                "Higher quality and known generation, but less complete than AUD #1a.",
+                "\"Drain You\" cuts in\".",
+                "\"On A Plain\" and \"L'Amour Est Un Oiseau Rebelle\" is cut."
+            ]
+        }
+    ],
+    "uncirculated_sources": [],
+    "notes": [
+        "The show was originally supposed to be at Teatro Miela in Trieste, based on advertisements."
+    ],
+    "press": [],
+    "memorabilia": [
+        {
+            "url": "/concerts/images/1991/1991-11-16/1991-11-16_01.jpg",
+            "caption": "Advert"
+        },
+        {
+            "url": "/concerts/images/1991/1991-11-16/1991-11-16_02.jpg",
+            "caption": "Advert"
+        },
+        {
+            "url": "/concerts/images/1991/1991-11-16/1991-11-16_03.jpg",
+            "caption": "Ticket"
+        },
+        {
+            "url": "/concerts/images/1991/1991-11-16/1991-11-16_04.jpg",
+            "caption": "Advert"
+        },
+        {
+            "url": "/concerts/images/1991/1991-11-16/1991-11-16_05.jpg",
+            "caption": "Advert"
+        },
+        {
+            "url": "/concerts/images/1991/1991-11-16/1991-11-16_06.jpg",
+            "caption": "Advert"
+        },
+        {
+            "url": "/concerts/images/1991/1991-11-16/1991-11-16_07.jpg",
+            "caption": "Advert"
+        },
+        {
+            "url": "/concerts/images/1991/1991-11-16/1991-11-16_08.jpg",
+            "caption": "Advert"
+        },
+        {
+            "url": "/concerts/images/1991/1991-11-16/1991-11-16_09.jpg",
+            "caption": "Handbill/Flyer, designed by unknown"
+        },
+        {
+            "url": "/concerts/images/1991/1991-11-16/1991-11-16_10.jpg",
+            "caption": "Ticket"
+        },
+        {
+            "url": "/concerts/images/1991/1991-11-16/1991-11-16_11.jpg",
+            "caption": "Backstage pass"
+        }
+    ],
+    "images": [
+        {
+            "url": "/concerts/images/1991/1991-11-16/1991-11-16_001.jpg",
+            "caption": "Photo by Miha Fras"
+        },
+        {
+            "url": "/concerts/images/1991/1991-11-16/1991-11-16_002.jpg",
+            "caption": "Photo by Miha Fras"
+        },
+        {
+            "url": "/concerts/images/1991/1991-11-16/1991-11-16_003.jpg",
+            "caption": "Photo by Miha Fras"
+        },
+        {
+            "url": "/concerts/images/1991/1991-11-16/1991-11-16_004.jpg",
+            "caption": "Photo by Miha Fras"
+        },
+        {
+            "url": "/concerts/images/1991/1991-11-16/1991-11-16_005.jpg",
+            "caption": "Photo by Miha Fras"
+        },
+        {
+            "url": "/concerts/images/1991/1991-11-16/1991-11-16_006.jpg",
+            "caption": "Photo by Miha Fras"
+        },
+        {
+            "url": "/concerts/images/1991/1991-11-16/1991-11-16_007.jpg",
+            "caption": "Photo by Miha Fras"
+        },
+        {
+            "url": "/concerts/images/1991/1991-11-16/1991-11-16_008.jpg",
+            "caption": "Photo by Miha Fras"
+        },
+        {
+            "url": "/concerts/images/1991/1991-11-16/1991-11-16_009.jpg",
+            "caption": "Photo by Miha Fras"
+        },
+        {
+            "url": "/concerts/images/1991/1991-11-16/1991-11-16_010.jpg",
+            "caption": "Photo by Miha Fras"
+        },
+        {
+            "url": "/concerts/images/1991/1991-11-16/1991-11-16_011.jpg",
+            "caption": "Photo by Miha Fras"
+        },
+        {
+            "url": "/concerts/images/1991/1991-11-16/1991-11-16_012.jpg",
+            "caption": "Photo by Miha Fras"
+        },
+        {
+            "url": "/concerts/images/1991/1991-11-16/1991-11-16_013.jpg",
+            "caption": "Photo by Miha Fras"
+        },
+        {
+            "url": "/concerts/images/1991/1991-11-16/1991-11-16_014.jpg",
+            "caption": "Photo by Miha Fras"
+        },
+        {
+            "url": "/concerts/images/1991/1991-11-16/1991-11-16_015.jpg",
+            "caption": "Photo by Miha Fras"
+        },
+        {
+            "url": "/concerts/images/1991/1991-11-16/1991-11-16_016.jpg",
+            "caption": "Photo by Miha Fras"
+        },
+        {
+            "url": "/concerts/images/1991/1991-11-16/1991-11-16_017.jpg",
+            "caption": "Photo by Miha Fras"
+        },
+        {
+            "url": "/concerts/images/1991/1991-11-16/1991-11-16_018.jpg",
+            "caption": "Photo by Miha Fras"
+        },
+        {
+            "url": "/concerts/images/1991/1991-11-16/1991-11-16_019.jpg",
+            "caption": "Photo by Miha Fras"
+        },
+        {
+            "url": "/concerts/images/1991/1991-11-16/1991-11-16_020.jpg",
+            "caption": "Photo by Miha Fras"
+        },
+        {
+            "url": "/concerts/images/1991/1991-11-16/1991-11-16_021.jpg",
+            "caption": "Photo by Miha Fras"
+        },
+        {
+            "url": "/concerts/images/1991/1991-11-16/1991-11-16_022.jpg",
+            "caption": "Photo by Miha Fras"
+        },
+        {
+            "url": "/concerts/images/1991/1991-11-16/1991-11-16_023.jpg",
+            "caption": "Photo by Miha Fras"
+        },
+        {
+            "url": "/concerts/images/1991/1991-11-16/1991-11-16_024.jpg",
+            "caption": "Photo by Miha Fras"
+        },
+        {
+            "url": "/concerts/images/1991/1991-11-16/1991-11-16_025.jpg",
+            "caption": "Photo by Miha Fras"
+        },
+        {
+            "url": "/concerts/images/1991/1991-11-16/1991-11-16_026.jpg",
+            "caption": "Photo by Miha Fras"
+        },
+        {
+            "url": "/concerts/images/1991/1991-11-16/1991-11-16_027.jpg",
+            "caption": "Photo by Miha Fras"
+        },
+        {
+            "url": "/concerts/images/1991/1991-11-16/1991-11-16_028.jpg",
+            "caption": "Photo by Miha Fras"
+        },
+        {
+            "url": "/concerts/images/1991/1991-11-16/1991-11-16_029.jpg",
+            "caption": "Photo by Miha Fras"
+        },
+        {
+            "url": "/concerts/images/1991/1991-11-16/1991-11-16_030.jpg",
+            "caption": "Photo by Miha Fras"
+        },
+        {
+            "url": "/concerts/images/1991/1991-11-16/1991-11-16_031.jpg",
+            "caption": "Photo by Miha Fras"
+        },
+        {
+            "url": "/concerts/images/1991/1991-11-16/1991-11-16_032.jpg",
+            "caption": "Photo by Miha Fras"
+        },
+        {
+            "url": "/concerts/images/1991/1991-11-16/1991-11-16_033.jpg",
+            "caption": "Photo by Miha Fras"
+        },
+        {
+            "url": "/concerts/images/1991/1991-11-16/1991-11-16_034.jpg",
+            "caption": "Photo by Miha Fras"
+        },
+        {
+            "url": "/concerts/images/1991/1991-11-16/1991-11-16_035.jpg",
+            "caption": "Photo by Miha Fras"
+        },
+        {
+            "url": "/concerts/images/1991/1991-11-16/1991-11-16_036.jpg",
+            "caption": "Photo by Miha Fras"
+        },
+        {
+            "url": "/concerts/images/1991/1991-11-16/1991-11-16_037.jpg",
+            "caption": "Photo by Miha Fras"
+        },
+        {
+            "url": "/concerts/images/1991/1991-11-16/1991-11-16_038.jpg",
+            "caption": "Photo by Miha Fras"
+        },
+        {
+            "url": "/concerts/images/1991/1991-11-16/1991-11-16_039.jpg",
+            "caption": "Photo by Miha Fras"
+        },
+        {
+            "url": "/concerts/images/1991/1991-11-16/1991-11-16_040.jpg",
+            "caption": "Photo by Miha Fras"
+        },
+        {
+            "url": "/concerts/images/1991/1991-11-16/1991-11-16_041.jpg",
+            "caption": "Photo by Miha Fras"
+        },
+        {
+            "url": "/concerts/images/1991/1991-11-16/1991-11-16_042.jpg",
+            "caption": "Photo by Miha Fras"
+        },
+        {
+            "url": "/concerts/images/1991/1991-11-16/1991-11-16_043.jpg",
+            "caption": "Photo by Miha Fras"
+        },
+        {
+            "url": "/concerts/images/1991/1991-11-16/1991-11-16_044.jpg",
+            "caption": "Photo by Miha Fras"
+        },
+        {
+            "url": "/concerts/images/1991/1991-11-16/1991-11-16_045.jpg",
+            "caption": "Photo by Miha Fras"
+        },
+        {
+            "url": "/concerts/images/1991/1991-11-16/1991-11-16_046.jpg",
+            "caption": "Photo by Miha Fras"
+        },
+        {
+            "url": "/concerts/images/1991/1991-11-16/1991-11-16_047.jpg",
+            "caption": "Unknown photographer"
+        },
+        {
+            "url": "/concerts/images/1991/1991-11-16/1991-11-16_048.jpg",
+            "caption": "Unknown photographer"
+        },
+        {
+            "url": "/concerts/images/1991/1991-11-16/1991-11-16_049.jpg",
+            "caption": "Unknown photographer"
+        },
+        {
+            "url": "/concerts/images/1991/1991-11-16/1991-11-16_050.jpg",
+            "caption": "Unknown photographer"
+        },
+        {
+            "url": "/concerts/images/1991/1991-11-16/1991-11-16_051.jpg",
+            "caption": "Unknown photographer"
+        },
+        {
+            "url": "/concerts/images/1991/1991-11-16/1991-11-16_052.jpg",
+            "caption": "Unknown photographer"
+        },
+        {
+            "url": "/concerts/images/1991/1991-11-16/1991-11-16_053.jpg",
+            "caption": "Unknown photographer"
+        },
+        {
+            "url": "/concerts/images/1991/1991-11-16/1991-11-16_054.jpg",
+            "caption": "Photo by Pietro Carubolo"
+        },
+        {
+            "url": "/concerts/images/1991/1991-11-16/1991-11-16_055.jpg",
+            "caption": "Photo by Pietro Carubolo"
+        },
+        {
+            "url": "/concerts/images/1991/1991-11-16/1991-11-16_056.jpg",
+            "caption": "Photo by Pietro Carubolo"
+        },
+        {
+            "url": "/concerts/images/1991/1991-11-16/1991-11-16_057.jpg",
+            "caption": "Photo by Pietro Carubolo"
+        },
+        {
+            "url": "/concerts/images/1991/1991-11-16/1991-11-16_058.jpg",
+            "caption": "Photo by Pietro Carubolo"
+        },
+        {
+            "url": "/concerts/images/1991/1991-11-16/1991-11-16_059.jpg",
+            "caption": "Photo by Pietro Carubolo"
+        },
+        {
+            "url": "/concerts/images/1991/1991-11-16/1991-11-16_060.jpg",
+            "caption": "Photo by Pietro Carubolo"
+        },
+        {
+            "url": "/concerts/images/1991/1991-11-16/1991-11-16_061.jpg",
+            "caption": "Photo by Pietro Carubolo"
+        },
+        {
+            "url": "/concerts/images/1991/1991-11-16/1991-11-16_062.jpg",
+            "caption": "Photo by Pietro Carubolo"
+        },
+        {
+            "url": "/concerts/images/1991/1991-11-16/1991-11-16_063.jpg",
+            "caption": "Photo by Pietro Carubolo"
+        },
+        {
+            "url": "/concerts/images/1991/1991-11-16/1991-11-16_064.jpg",
+            "caption": "Photo by Pietro Carubolo"
+        },
+        {
+            "url": "/concerts/images/1991/1991-11-16/1991-11-16_065.jpg",
+            "caption": "Photo by Pietro Carubolo"
+        },
+        {
+            "url": "/concerts/images/1991/1991-11-16/1991-11-16_066.jpg",
+            "caption": "Photo by Pietro Carubolo"
+        },
+        {
+            "url": "/concerts/images/1991/1991-11-16/1991-11-16_067.jpg",
+            "caption": "Photo by Pietro Carubolo"
+        },
+        {
+            "url": "/concerts/images/1991/1991-11-16/1991-11-16_068.jpg",
+            "caption": "Photo by Pietro Carubolo"
+        },
+        {
+            "url": "/concerts/images/1991/1991-11-16/1991-11-16_069.jpg",
+            "caption": "Photo by Pietro Carubolo"
+        },
+        {
+            "url": "/concerts/images/1991/1991-11-16/1991-11-16_070.jpg",
+            "caption": "Photo Irena Povše"
+        },
+        {
+            "url": "/concerts/images/1991/1991-11-16/1991-11-16_071.jpg",
+            "caption": "Photo Irena Povše"
+        },
+        {
+            "url": "/concerts/images/1991/1991-11-16/1991-11-16_072.jpg",
+            "caption": "Photo Irena Povše"
+        },
+        {
+            "url": "/concerts/images/1991/1991-11-16/1991-11-16_073.jpg",
+            "caption": "Photo Irena Povše"
+        },
+        {
+            "url": "/concerts/images/1991/1991-11-16/1991-11-16_074.jpg",
+            "caption": "Photo Irena Povše"
+        },
+        {
+            "url": "/concerts/images/1991/1991-11-16/1991-11-16_075.jpg",
+            "caption": "Photo Irena Povše"
+        },
+        {
+            "url": "/concerts/images/1991/1991-11-16/1991-11-16_076.jpg",
+            "caption": "Photo Irena Povše"
+        },
+        {
+            "url": "/concerts/images/1991/1991-11-16/1991-11-16_077.jpg",
+            "caption": "Photo Irena Povše"
+        },
+        {
+            "url": "/concerts/images/1991/1991-11-16/1991-11-16_078.jpg",
+            "caption": "Photo Irena Povše"
+        },
+        {
+            "url": "/concerts/images/1991/1991-11-16/1991-11-16_079.jpg",
+            "caption": "Photo Irena Povše"
+        },
+        {
+            "url": "/concerts/images/1991/1991-11-16/1991-11-16_080.jpg",
+            "caption": "Photo Irena Povše"
+        },
+        {
+            "url": "/concerts/images/1991/1991-11-16/1991-11-16_081.jpg",
+            "caption": "Photo Irena Povše"
+        },
+        {
+            "url": "/concerts/images/1991/1991-11-16/1991-11-16_082.jpg",
+            "caption": "Photo Irena Povše"
+        },
+        {
+            "url": "/concerts/images/1991/1991-11-16/1991-11-16_083.jpg",
+            "caption": "Photo Irena Povše"
+        },
+        {
+            "url": "/concerts/images/1991/1991-11-16/1991-11-16_084.jpg",
+            "caption": "Photo by Bravin Eligio"
+        },
+        {
+            "url": "/concerts/images/1991/1991-11-16/1991-11-16_085.jpg",
+            "caption": "Photo by Bravin Eligio"
+        },
+        {
+            "url": "/concerts/images/1991/1991-11-16/1991-11-16_086.jpg",
+            "caption": "Photo by Bravin Eligio"
+        },
+        {
+            "url": "/concerts/images/1991/1991-11-16/1991-11-16_087.jpg",
+            "caption": "Photo by Bravin Eligio"
+        },
+        {
+            "url": "/concerts/images/1991/1991-11-16/1991-11-16_088.jpg",
+            "caption": "Photo by Bravin Eligio"
+        },
+        {
+            "url": "/concerts/images/1991/1991-11-16/1991-11-16_089.jpg",
+            "caption": "Photo by Bravin Eligio"
+        },
+        {
+            "url": "/concerts/images/1991/1991-11-16/1991-11-16_090.jpg",
+            "caption": "Photo by Bravin Eligio"
+        },
+        {
+            "url": "/concerts/images/1991/1991-11-16/1991-11-16_091.jpg",
+            "caption": "Photo by Bravin Eligio"
+        },
+        {
+            "url": "/concerts/images/1991/1991-11-16/1991-11-16_092.jpg",
+            "caption": "Photo by Bravin Eligio"
+        },
+        {
+            "url": "/concerts/images/1991/1991-11-16/1991-11-16_093.jpg",
+            "caption": "Photo by Bravin Eligio"
+        },
+        {
+            "url": "/concerts/images/1991/1991-11-16/1991-11-16_094.jpg",
+            "caption": "Photo by Bravin Eligio"
+        },
+        {
+            "url": "/concerts/images/1991/1991-11-16/1991-11-16_095.jpg",
+            "caption": "Photo by Bravin Eligio"
+        },
+        {
+            "url": "/concerts/images/1991/1991-11-16/1991-11-16_096.jpg",
+            "caption": "Photo by Bravin Eligio"
+        },
+        {
+            "url": "/concerts/images/1991/1991-11-16/1991-11-16_097.jpg",
+            "caption": "Photo by Bravin Eligio"
+        },
+        {
+            "url": "/concerts/images/1991/1991-11-16/1991-11-16_098.jpg",
+            "caption": "Photo by Bravin Eligio"
+        },
+        {
+            "url": "/concerts/images/1991/1991-11-16/1991-11-16_099.jpg",
+            "caption": "Photo by Bravin Eligio"
+        },
+        {
+            "url": "/concerts/images/1991/1991-11-16/1991-11-16_100.jpg",
+            "caption": "Photo by Bravin Eligio"
+        },
+        {
+            "url": "/concerts/images/1991/1991-11-16/1991-11-16_101.jpg",
+            "caption": "Photo by Bravin Eligio"
+        },
+        {
+            "url": "/concerts/images/1991/1991-11-16/1991-11-16_102.jpg",
+            "caption": "Photo by Bravin Eligio"
+        },
+        {
+            "url": "/concerts/images/1991/1991-11-16/1991-11-16_103.jpg",
+            "caption": "Photo by Bravin Eligio"
+        },
+        {
+            "url": "/concerts/images/1991/1991-11-16/1991-11-16_104.jpg",
+            "caption": "Photo by Bravin Eligio"
+        },
+        {
+            "url": "/concerts/images/1991/1991-11-16/1991-11-16_105.jpg",
+            "caption": "Photo by Bravin Eligio"
+        }
+    ],
+    "navigation": {
+        "previous": "91-11-14",
+        "next": "91-11-17"
+    },
+    "graph": {
+        "bleach": "6",
+        "nevermind": "7",
+        "inutero": "0",
+        "non": "5"
+    }
+}

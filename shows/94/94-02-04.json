@@ -1,0 +1,187 @@
+{
+    "year": "1994",
+    "month": "02",
+    "day": "04",
+    "band": [
+        {
+            "NIRVANA": [
+                {
+                    "name": "Kurt Cobain ",
+                    "duty": "vocals, guitar"
+                },
+                {
+                    "name": "Krist Novoselic ",
+                    "duty": "bass"
+                },
+                {
+                    "name": "Dave Grohl ",
+                    "duty": "drums, backing vocals"
+                },
+                {
+                    "name": "Pat Smear ",
+                    "duty": "guitar, backing vocals"
+                }
+            ],
+            "type": "group"
+        }
+    ],
+    "crew": [
+        {
+            "name": "Alex MacLeod",
+            "duty": "tour manager"
+        },
+        {
+            "name": "Jim Vincent",
+            "duty": "guitar technician"
+        },
+        {
+            "name": "John Duncan",
+            "duty": "guitar technician"
+        },
+        {
+            "name": "Garry Mackenzie",
+            "duty": "drum technician"
+        },
+        {
+            "name": "Stéphane Saunier",
+            "duty": "music coordinator"
+        },
+        {
+            "name": "Antoine de Caunes",
+            "duty": "host"
+        }
+    ],
+    "buyer": {
+        "names": []
+    },
+    "schedule": [
+        {
+            "event": "Load In",
+            "time": "…:…"
+        },
+        {
+            "event": "Soundcheck",
+            "time": "…:…"
+        },
+        {
+            "event": "Doors",
+            "time": "…:…"
+        },
+        {
+            "event": "NIRVANA Showtime",
+            "time": "…:…"
+        }
+    ],
+    "soundcheck": [],
+    "soundcheck_incomplete": false,
+    "set": [
+        {
+            "type": "song",
+            "text": "Rape Me",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "Pennyroyal Tea",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "Drain You",
+            "notes": []
+        }
+    ],
+    "set_incomplete": false,
+    "transmission": {
+        "info": "1994-02-04, Canal+",
+        "show": "Nulle Part Ailleurs"
+    },
+    "rehearsel_circulating_sources": [],
+    "circulating_sources": [
+        {
+            "name": "PRO #1a",
+            "complete": true,
+            "equipment": "Soundboard > Unknown",
+            "generation": "TV > VHS(1) > DVDR/FLAC",
+            "video-generation": null,
+            "audio-generation": null,
+            "length-sound": "13 min / 9.5",
+            "notes": [
+                "Multi camera PRO-shot video with soundboard audio, broadcast on French TV."
+            ]
+        },
+        {
+            "name": "PRO #1b [soundboard audio from professional video]",
+            "complete": true,
+            "equipment": "Soundboard > Unknown",
+            "generation": "Unofficial CD [Outcesticide III - The Final Solution]",
+            "video-generation": null,
+            "audio-generation": null,
+            "length-sound": "10 min / 10",
+            "notes": [
+                "Higher quality audio than PRO #1a, but includes only the audio from the video."
+            ]
+        },
+        {
+            "name": "PRO #1c",
+            "complete": true,
+            "equipment": "Soundboard > Unknown",
+            "generation": "Official DVD [Live And Loud]",
+            "video-generation": null,
+            "audio-generation": null,
+            "length-sound": "10 min / 10",
+            "notes": [
+                "Multi camera PRO-shot video with soundboard audio.",
+                "Less complete, but higher quality than PRO #1a and PRO #1b."
+            ]
+        }
+    ],
+    "uncirculated_sources": [],
+    "notes": [
+        "The show was filmed in Studio 3, commonly known as the Nulle Part Ailleurs Studio.",
+        "There was a 45-minute soundcheck recorded before the show started.",
+        "During \"Pennyroyal Tea\", Kurt's guitar began to cut out, and during the bridge in \"Drain You\" it went out completely, at which point Kurt tossed his guitar and finished singing the song without it.",
+        "Before \"Drain You\", the announcer said (in French), \"Do you want another one? Yeah! Oh, well yes, I think they are here to do a little third one: NIRVANA!\"",
+        "For the first time in the show's history, Canal+ allowed the show to go on for an extra few minutes after the normal ending time to allow Nirvana to play an extra song.",
+        "It is rumored, but denied by the station's employees, that the band came back out at the end and played another three songs, including \"Polly\" and \"Sliver\"."
+    ],
+    "press": [],
+    "memorabilia": [
+        {
+            "url": "/concerts/images/1994/1994-02-04/1994-02-04_01.jpg",
+            "caption": "Nirvana's tour itinerary"
+        },
+        {
+            "url": "/concerts/images/1994/1994-02-04/1994-02-04_02.jpg",
+            "caption": "Advert"
+        }
+    ],
+    "images": [
+        {
+            "url": "/concerts/images/1994/1994-02-04/1994-02-04_001.jpg",
+            "caption": "Photo by Xavier Lahache"
+        },
+        {
+            "url": "/concerts/images/1994/1994-02-04/1994-02-04_002.jpg",
+            "caption": "Unknown photographer"
+        },
+        {
+            "url": "/concerts/images/1994/1994-02-04/1994-02-04_003.jpg",
+            "caption": "Photo by Xavier Lahache"
+        },
+        {
+            "url": "/concerts/images/1994/1994-02-04/1994-02-04_004.jpg",
+            "caption": "Unknown photographer"
+        }
+    ],
+    "navigation": {
+        "previous": "94-01-08",
+        "next": "94-02-06"
+    },
+    "graph": {
+        "bleach": "0",
+        "nevermind": "1",
+        "inutero": "2",
+        "non": "0"
+    }
+}

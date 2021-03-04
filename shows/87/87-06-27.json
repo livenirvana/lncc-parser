@@ -1,0 +1,117 @@
+{
+    "year": "1987",
+    "month": "06",
+    "day": "27",
+    "band": [
+        {
+            "Pen Cap Chew": [
+                {
+                    "name": "Kurt Cobain ",
+                    "duty": "vocals, guitar"
+                },
+                {
+                    "name": "Krist Novoselic ",
+                    "duty": "bass"
+                },
+                {
+                    "name": "Aaron Burckhard ",
+                    "duty": "drums"
+                }
+            ],
+            "type": "group"
+        }
+    ],
+    "crew": [],
+    "buyer": {
+        "names": []
+    },
+    "schedule": [
+        {
+            "event": "Load In",
+            "time": "…:…"
+        },
+        {
+            "event": "Soundcheck",
+            "time": "…:…"
+        },
+        {
+            "event": "Doors",
+            "time": "20:00"
+        },
+        {
+            "event": "Silent Treatment Showtime",
+            "time": "…:…"
+        },
+        {
+            "event": "Soylent Green Showtime",
+            "time": "…:…"
+        },
+        {
+            "event": "Pen Cap Chew Showtime",
+            "time": "…:…"
+        },
+        {
+            "event": "Hell's Kitchen Showtime",
+            "time": "…:…"
+        }
+    ],
+    "soundcheck": [],
+    "soundcheck_incomplete": false,
+    "set": [],
+    "set_incomplete": false,
+    "transmission": {},
+    "rehearsel_circulating_sources": [],
+    "circulating_sources": [],
+    "uncirculated_sources": [
+        {
+            "name": "AMT #1",
+            "note": "Super8 footage of the band before the show can be seen on the With The Lights Out box-set DVD. Maybe part of the show was recorded as well."
+        }
+    ],
+    "notes": [
+        "The band played under the name Pen Cap Chew."
+    ],
+    "press": [],
+    "memorabilia": [
+        {
+            "url": "/concerts/images/1987/1987-06-27/1987-06-27_01.jpg",
+            "caption": "Poster, designed by unknown"
+        },
+        {
+            "url": "/concerts/images/1987/1987-06-27/1987-06-27_02.jpg",
+            "caption": "Poster, designed by unknown"
+        }
+    ],
+    "images": [
+        {
+            "url": "/concerts/images/1987/1987-06-27/1987-06-27_001.jpg",
+            "caption": "Photo by Tracy Marander"
+        },
+        {
+            "url": "/concerts/images/1987/1987-06-27/1987-06-27_002.jpg",
+            "caption": "Photo by Tracy Marander"
+        },
+        {
+            "url": "/concerts/images/1987/1987-06-27/1987-06-27_003.jpg",
+            "caption": "Photo by Shelli Hyrkas"
+        },
+        {
+            "url": "/concerts/images/1987/1987-06-27/1987-06-27_004.jpg",
+            "caption": "Photo by Shelli Hyrkas"
+        },
+        {
+            "url": "/concerts/images/1987/1987-06-27/1987-06-27_005.jpg",
+            "caption": "Unknown photographer"
+        }
+    ],
+    "navigation": {
+        "previous": "87-06-12",
+        "next": "87-xx-xxb"
+    },
+    "graph": {
+        "bleach": "1",
+        "nevermind": "1",
+        "inutero": "1",
+        "non": "1"
+    }
+}

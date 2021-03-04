@@ -1,0 +1,90 @@
+{
+    "year": "1987",
+    "month": "06",
+    "day": "12",
+    "band": [
+        {
+            "Skid Row": [
+                {
+                    "name": "Kurt Cobain ",
+                    "duty": "vocals, guitar"
+                },
+                {
+                    "name": "Krist Novoselic ",
+                    "duty": "bass"
+                },
+                {
+                    "name": "Aaron Burckhard ",
+                    "duty": "drums"
+                }
+            ],
+            "type": "group"
+        }
+    ],
+    "crew": [],
+    "buyer": {
+        "names": [
+            "Jim May"
+        ]
+    },
+    "schedule": [
+        {
+            "event": "Load In",
+            "time": "…:…"
+        },
+        {
+            "event": "Soundcheck",
+            "time": "…:…"
+        },
+        {
+            "event": "Doors",
+            "time": "…:…"
+        },
+        {
+            "event": "My Name Showtime",
+            "time": "…:…"
+        },
+        {
+            "event": "Skid Row Showtime",
+            "time": "…:…"
+        },
+        {
+            "event": "Beat Happening Showtime",
+            "time": "CANCELLED"
+        },
+        {
+            "event": "Killdozer Showtime",
+            "time": "…:…"
+        }
+    ],
+    "soundcheck": [],
+    "soundcheck_incomplete": false,
+    "set": [],
+    "set_incomplete": false,
+    "transmission": {},
+    "rehearsel_circulating_sources": [],
+    "circulating_sources": [],
+    "uncirculated_sources": [],
+    "notes": [
+        "The band played under the name Skid Row.",
+        "According to attendees, Killdozer cancelled this show."
+    ],
+    "press": [],
+    "memorabilia": [
+        {
+            "url": "/concerts/images/1987/1987-06-12/1987-06-12_01.jpg",
+            "caption": "Poster, designed by Neko Case"
+        }
+    ],
+    "images": [],
+    "navigation": {
+        "previous": "87-05-01",
+        "next": "87-06-27"
+    },
+    "graph": {
+        "bleach": "1",
+        "nevermind": "1",
+        "inutero": "1",
+        "non": "1"
+    }
+}

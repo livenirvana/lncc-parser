@@ -1,0 +1,152 @@
+{
+    "year": "1991",
+    "month": "09",
+    "day": "27",
+    "band": [
+        {
+            "NIRVANA": [
+                {
+                    "name": "Kurt Cobain ",
+                    "duty": "vocals, guitar"
+                },
+                {
+                    "name": "Krist Novoselic ",
+                    "duty": "bass"
+                },
+                {
+                    "name": "Dave Grohl ",
+                    "duty": "drums, backing vocals"
+                }
+            ],
+            "type": "group"
+        }
+    ],
+    "crew": [
+        {
+            "name": "Monty Lee Wilkes",
+            "duty": "tour manager & sound engineer"
+        },
+        {
+            "name": "Myles Kennedy",
+            "duty": "monitor engineer & drum technician"
+        },
+        {
+            "name": "Nic Close",
+            "duty": "guitar technician"
+        }
+    ],
+    "buyer": {
+        "names": []
+    },
+    "schedule": [
+        {
+            "event": "Load In",
+            "time": "…:…"
+        },
+        {
+            "event": "Soundcheck",
+            "time": "…:…"
+        },
+        {
+            "event": "Doors",
+            "time": "15:00"
+        },
+        {
+            "event": "NIRVANA Showtime",
+            "time": "…:…"
+        }
+    ],
+    "soundcheck": [],
+    "soundcheck_incomplete": false,
+    "set": [
+        {
+            "type": "song",
+            "text": "Jesus Wants Me For A Sunbeam",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "About A Girl",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "Polly",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "Dumb",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "Pennyroyal Tea",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "Been A Son",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "Something In The Way",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "Negative Creep",
+            "notes": []
+        }
+    ],
+    "set_incomplete": false,
+    "transmission": {},
+    "rehearsel_circulating_sources": [],
+    "circulating_sources": [],
+    "uncirculated_sources": [
+        {
+            "name": "AUD #1",
+            "note": "Kurt supposedly recorded the show himself on a boombox."
+        }
+    ],
+    "notes": [
+        "This was a full-band record store performance with Kurt on acoustic guitar.",
+        "The band made it clear that they were not very interested in performing by deliberately not playing well. This upset some store employees, causing them to yell insults at the band. In response, the band started throwing Oreo cookies from the catering trays at onlookers."
+    ],
+    "press": [],
+    "memorabilia": [
+        {
+            "url": "/concerts/images/1991/1991-09-27a/1991-09-27a_01.jpg",
+            "caption": "Advert"
+        }
+    ],
+    "images": [
+        {
+            "url": "/concerts/images/1991/1991-09-27a/1991-09-27a_001.jpg",
+            "caption": "Photo by Chuck Pulin"
+        },
+        {
+            "url": "/concerts/images/1991/1991-09-27a/1991-09-27a_002.jpg",
+            "caption": "Photo by Max Goldstein"
+        },
+        {
+            "url": "/concerts/images/1991/1991-09-27a/1991-09-27a_003.jpg",
+            "caption": "Photo by Chuck Pulin"
+        },
+        {
+            "url": "/concerts/images/1991/1991-09-27a/1991-09-27a_004.jpg",
+            "caption": "Unknown photographer"
+        }
+    ],
+    "navigation": {
+        "previous": "91-09-26",
+        "next": "91-09-27b"
+    },
+    "graph": {
+        "bleach": "2",
+        "nevermind": "2",
+        "inutero": "2",
+        "non": "2"
+    }
+}

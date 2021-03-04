@@ -1,0 +1,1034 @@
+{
+    "year": "1993",
+    "month": "01",
+    "day": "23",
+    "venue": "January 23",
+    "city": "1993 - Praça da Apoteose (Hollywood Rock Festival)",
+    "state": "Rio de Janeiro",
+    "country": "BR",
+    "band": [
+        {
+            "NIRVANA": [
+                {
+                    "name": "Kurt Cobain ",
+                    "duty": "vocals, guitar"
+                },
+                {
+                    "name": "Krist Novoselic ",
+                    "duty": "bass"
+                },
+                {
+                    "name": "Dave Grohl ",
+                    "duty": "drums, backing vocals"
+                }
+            ],
+            "type": "group"
+        },
+        {
+            "name": "Flea ",
+            "duty": "trumpet",
+            "type": "person"
+        }
+    ],
+    "crew": [
+        {
+            "name": "Alex MacLeod",
+            "duty": "tour manager"
+        },
+        {
+            "name": "Jeff Mason",
+            "duty": "production manager"
+        },
+        {
+            "name": "Susanne Sasic",
+            "duty": "lighting designer"
+        },
+        {
+            "name": "Craig Montgomery",
+            "duty": "sound engineer"
+        },
+        {
+            "name": "Ian Beveridge",
+            "duty": "monitor engineer"
+        },
+        {
+            "name": "Earnie Bailey",
+            "duty": "guitar technician"
+        },
+        {
+            "name": "John Duncan",
+            "duty": "guitar technician"
+        },
+        {
+            "name": "Barrett Jones",
+            "duty": "drum technician"
+        }
+    ],
+    "buyer": {
+        "names": [
+            "Souza Cruz"
+        ]
+    },
+    "schedule": [
+        {
+            "event": "Load In",
+            "time": "12:30"
+        },
+        {
+            "event": "Soundcheck",
+            "time": "14:45"
+        },
+        {
+            "event": "Doors",
+            "time": "15:30"
+        },
+        {
+            "event": "Dr. Sin Showtime",
+            "time": "19:30"
+        },
+        {
+            "event": "Engenheiros do Hawaii Showtime",
+            "time": "20:20"
+        },
+        {
+            "event": "L7 Showtime",
+            "time": "21:50"
+        },
+        {
+            "event": "NIRVANA Showtime",
+            "time": "23:30"
+        }
+    ],
+    "soundcheck": [
+        {
+            "type": "song",
+            "text": "Scentless Apprentice",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "Gallons Of Rubbing Alcohol Flow Through The Strip",
+            "notes": []
+        },
+        {
+            "type": "jam",
+            "text": "jam guitar jam",
+            "notes": [
+                "guitar jam"
+            ]
+        }
+    ],
+    "soundcheck_incomplete": true,
+    "set": [
+        {
+            "type": "banter",
+            "text": "Hello. How are you? Have you been alright? Through all those lonely lonely lonely nights",
+            "person": "Novoselic"
+        },
+        {
+            "type": "banter",
+            "text": "Oh, telephone line, give me some time ????? And now I will do my impression of the Swedish Chef",
+            "person": "Grohl"
+        },
+        {
+            "type": "song",
+            "text": "L'Amour Est Un Oiseau Rebelle",
+            "notes": [
+                "jam"
+            ]
+        },
+        {
+            "type": "banter",
+            "text": "Thank you, thank you very much, thank you, thank you",
+            "person": "Grohl"
+        },
+        {
+            "type": "song",
+            "text": "School",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "Drain You",
+            "notes": []
+        },
+        {
+            "type": "banter",
+            "text": "Obrigado!",
+            "person": "Novoselic"
+        },
+        {
+            "type": "song",
+            "text": "Breed",
+            "notes": []
+        },
+        {
+            "type": "banter",
+            "text": "Thanks",
+            "person": "Grohl"
+        },
+        {
+            "type": "song",
+            "text": "Sliver",
+            "notes": []
+        },
+        {
+            "type": "banter",
+            "text": "One, two, three, four",
+            "person": "Grohl"
+        },
+        {
+            "type": "song",
+            "text": "In Bloom",
+            "notes": []
+        },
+        {
+            "type": "banter",
+            "text": "Huh, what?",
+            "person": "Novoselic"
+        },
+        {
+            "type": "banter",
+            "text": "So I'm supposed to say witty things to get you people all whipped up and get you all cookin' what do you think of that huh? You guys ready for something like that? And that in itself is a kind of a witty thing to say, it's kind of like you know, you know? It is but it isn't!",
+            "person": "Novoselic"
+        },
+        {
+            "type": "song",
+            "text": "Come As You Are",
+            "notes": []
+        },
+        {
+            "type": "banter",
+            "text": "Thank you",
+            "person": "Grohl"
+        },
+        {
+            "type": "banter",
+            "text": "t's yellow smoke coming out of that, that's a giant Hollywood cigarette, with all kinds of nicotine and enough tar to tar a parking lot this size and while we're on the issue of astrology, we'll speak about the zodiac, I wonder if Jesse Helms' sign is Cancer? What do you think happened here ?? ?? venue ??",
+            "person": "Novoselic"
+        },
+        {
+            "type": "banter",
+            "text": "I think \"oho oh\" means shut up Chris!",
+            "person": "Cobain"
+        },
+        {
+            "type": "banter",
+            "text": "?? ?? ??",
+            "person": "Novoselic"
+        },
+        {
+            "type": "song",
+            "text": "Love Buzz",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "Possibilities",
+            "notes": [
+                "jam"
+            ]
+        },
+        {
+            "type": "banter",
+            "text": "Thank you very much, thank you, thank you",
+            "person": "Grohl"
+        },
+        {
+            "type": "banter",
+            "text": "How was that?",
+            "person": "Novoselic"
+        },
+        {
+            "type": "banter",
+            "text": "Thank you",
+            "person": "Grohl"
+        },
+        {
+            "type": "song",
+            "text": "Lithium",
+            "notes": []
+        },
+        {
+            "type": "banter",
+            "text": "Thank you",
+            "person": "Grohl"
+        },
+        {
+            "type": "banter",
+            "text": "?? smoke up!",
+            "person": "Cobain"
+        },
+        {
+            "type": "banter",
+            "text": "Kurt Cobain for Hollywood Rock cigarettes",
+            "person": "Grohl"
+        },
+        {
+            "type": "banter",
+            "text": "A cool refreshing flavour",
+            "person": "Cobain"
+        },
+        {
+            "type": "banter",
+            "text": "A taste you can't deny, Hollywood Rock, the cigarette",
+            "person": "Grohl"
+        },
+        {
+            "type": "banter",
+            "text": "I don't smoke, but if I smoked I'd smoke Hollywood cigarettes, because they're the best!",
+            "person": "Novoselic"
+        },
+        {
+            "type": "banter",
+            "text": "When I'm in diarrhoea de Janeiro, I like to have the freshly cut dried leaves of a palm tree. I just can't get enough of that smoke man, I just gotta smoke all the time, I'm a rock'n'roll star and rock'n'roll stars put their cigarettes right here",
+            "person": "Cobain"
+        },
+        {
+            "type": "song",
+            "text": "Polly",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "About A Girl",
+            "notes": []
+        },
+        {
+            "type": "banter",
+            "text": "Hey, where's Flea?",
+            "person": "Cobain"
+        },
+        {
+            "type": "banter",
+            "text": "Ladies and Gentlemen, please welcome Flea! The one, the only the man with the horn, he was born to play the horn!",
+            "person": "Grohl"
+        },
+        {
+            "type": "banter",
+            "text": "Hey, did you guys see Johnny Carson last night, it was pretty good, erm oh no he's cancelled these were repeats er ... er ... Lola Ferlana (?) with Nipsey Russell, it was really good, did you or or a um, do you know there's a sale down at Safeway, bananas are a ... two dozen for, for er ... three dollars, it's a really good deal!",
+            "person": "Novoselic"
+        },
+        {
+            "type": "jam",
+            "text": "jam",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "Smells Like Teen Spirit",
+            "notes": [
+                "Flea on trumpet"
+            ]
+        },
+        {
+            "type": "banter",
+            "text": "Thanks",
+            "person": "Grohl"
+        },
+        {
+            "type": "song",
+            "text": "On A Plain",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "Negative Creep",
+            "notes": []
+        },
+        {
+            "type": "banter",
+            "text": "Hey, hey there's the guy that gave me the hat, the guy that was jumping up and down. He gave me a hat",
+            "person": "Grohl"
+        },
+        {
+            "type": "banter",
+            "text": "Remember to buy your unauthorised Nirvana head bands from the front gate",
+            "person": "Novoselic"
+        },
+        {
+            "type": "banter",
+            "text": "Hey guy, remember this is the hat that you gave me, right here. That's the hat that you gave me right there, it's that guy jumping up and down, he gave me this hat, well we traded, he didn't really give it to me, we traded!",
+            "person": "Grohl"
+        },
+        {
+            "type": "banter",
+            "text": "That guy in the Slayer shirt fall asleep during that last song",
+            "person": "Novoselic"
+        },
+        {
+            "type": "banter",
+            "text": "Yeah, excellent! This song's called Been A Son, Been A Son",
+            "person": "Grohl"
+        },
+        {
+            "type": "song",
+            "text": "Been A Son",
+            "notes": []
+        },
+        {
+            "type": "banter",
+            "text": "Thank you, don't take it easy, Calma, calma, calma, calma!",
+            "person": "Grohl"
+        },
+        {
+            "type": "song",
+            "text": "Blew",
+            "notes": []
+        },
+        {
+            "type": "banter",
+            "text": "I have a hole in my shorts, look! Actually, I'll make it a little bit ... hey, hey, look at my butt! Gorba la butt! Everybodies getting naked!",
+            "person": "Grohl"
+        },
+        {
+            "type": "banter",
+            "text": "It's easy to play",
+            "person": "Novoselic"
+        },
+        {
+            "type": "song",
+            "text": "Heart-Shaped Box",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "Scentless Apprentice",
+            "notes": []
+        },
+        {
+            "type": "banter",
+            "text": "Thank you, good night",
+            "person": "Cobain"
+        },
+        {
+            "type": "banter",
+            "text": "?? ??",
+            "person": "Novoselic"
+        },
+        {
+            "type": "song",
+            "text": "Sweet Emotion",
+            "notes": [
+                "jam"
+            ]
+        },
+        {
+            "type": "banter",
+            "text": "Kurt looks like the deaf little old lady in Playboy magazine",
+            "person": "Grohl"
+        },
+        {
+            "type": "banter",
+            "text": "In what magazine?",
+            "person": "Cobain"
+        },
+        {
+            "type": "banter",
+            "text": "Playboy",
+            "person": "Grohl"
+        },
+        {
+            "type": "banter",
+            "text": "Oh, the little old lady from Pasadena",
+            "person": "Cobain"
+        },
+        {
+            "type": "banter",
+            "text": "... or Impanema or whatever. I have pubic hair like a Brillo pad!",
+            "person": "Novoselic"
+        },
+        {
+            "type": "banter",
+            "text": "Uh, my water's breaking",
+            "person": "Cobain"
+        },
+        {
+            "type": "banter",
+            "text": "Congratulations",
+            "person": "Grohl"
+        },
+        {
+            "type": "song",
+            "text": "Dive",
+            "notes": []
+        },
+        {
+            "type": "banter",
+            "text": "Thank you",
+            "person": "Grohl"
+        },
+        {
+            "type": "song",
+            "text": "Lounge Act",
+            "notes": []
+        },
+        {
+            "type": "banter",
+            "text": "Tobi, Tobi, Tobi, tummy, tummy, tummy, Tobi, Tobi, Tobi, Tommy, Tommy, Tommy",
+            "person": "Cobain"
+        },
+        {
+            "type": "song",
+            "text": "Aneurysm",
+            "notes": []
+        },
+        {
+            "type": "banter",
+            "text": "This is your head motherfucker, you're gonna die, this is your head motherfucker, I'm gonna kill you, this is your head motherfucker, I'm gonna kill you, you fucker!",
+            "person": "Novoselic"
+        },
+        {
+            "type": "song",
+            "text": "Territorial Pissings",
+            "notes": []
+        },
+        {
+            "type": "banter",
+            "text": "Thank you good night",
+            "person": "Grohl"
+        }
+    ],
+    "set_incomplete": false,
+    "transmission": {},
+    "rehearsel_circulating_sources": [],
+    "circulating_sources": [
+        {
+            "name": "SBD #1a",
+            "complete": false,
+            "equipment": "Soundboard > Unknown",
+            "generation": "FM > ANA(1) > FLAC",
+            "video-generation": null,
+            "audio-generation": null,
+            "length-sound": "20 min / 9.5",
+            "notes": [
+                "Circulated in March 2009.",
+                "Includes only \"In Bloom\", \"Come As You Are\", \"Lithium\", \"Smells Like Teen Spirit\", and \"Polly\".",
+                "\"Come As You Are\", \"Smells Like Teen Spirit\", and \"Polly\" cut in.",
+                "Has a cut in \"Lithium\".",
+                "The source tape has some minor dropouts and choppiness.",
+                "Broadcast on Brazilian FM radio."
+            ]
+        },
+        {
+            "name": "SBD #1b",
+            "complete": false,
+            "equipment": "Soundboard > Unknown",
+            "generation": "FM > ANA(1) > FLAC",
+            "video-generation": null,
+            "audio-generation": null,
+            "length-sound": "27 min / 9.0",
+            "notes": [
+                "Circulated in March 2009.",
+                "Includes only \"Come As You Are\", \"Lithium\", \"Polly\", \"About A Girl\", \"Heart-Shaped Box\", \"Dive\", and \"Smells Like Teen Spirit\".",
+                "\"Come As You Are\" and \"Smells Like Teen Spirit\" cut in.",
+                "The source tape has some minor dropouts and choppiness.",
+                "Broadcast on Brazilian FM radio."
+            ]
+        },
+        {
+            "name": "SBD #1c",
+            "complete": false,
+            "equipment": "Soundboard > Unknown",
+            "generation": "Unknown > MP3",
+            "video-generation": null,
+            "audio-generation": null,
+            "length-sound": "20:27 min / 9.0",
+            "notes": [
+                "Circulated in March 2020.",
+                "Includes only \"In Bloom\", \"Come As You Are\", \"Lithium\", \"Smells Like Teen Spirit\", and \"Polly\".",
+                "\"Lithium\" has a cut and \"Smells Like Teen Spirit\" cut in.",
+                "Broadcast on Brazilian FM radio in 2013."
+            ]
+        },
+        {
+            "name": "AMT #1",
+            "complete": false,
+            "equipment": "Unknown > Unknown",
+            "generation": "S-VHS(M) > VHS(x) > DVDR",
+            "video-generation": null,
+            "audio-generation": null,
+            "length-sound": "11 min / 7.0",
+            "notes": [
+                "Upgraded transfer circulated June 17th 2017. \n                                    Amateur video shot from the back during the soundcheck. \n                                    The circulating audio includes all that was recorded.\nFeature \"Scentless Apprentice\" (cuts in), \"Gallons Of Rubbing Alcohol Flow Through The Strip\" and a \"jam\".\nClips from the soundcheck have been broadcast on MTV Brazil.\n"
+            ]
+        },
+        {
+            "name": "PRO #1",
+            "complete": true,
+            "equipment": "Soundboard > Unknown",
+            "generation": null,
+            "video-generation": "TV > VHS(2) > DVDR",
+            "audio-generation": "TV > VHS(3) > CDR",
+            "length-sound": "97 min / 7.5",
+            "notes": [
+                "PS: TV > VHS(3) > CDR still need to be checked if it's the best audio source.",
+                "Multi-camera video with soundboard audio broadcast on Brazilian \"Multishow\" cable TV (identifiable by the \"VIVO\" logo during \"Heart-Shaped Box\" and by the appearance of a female presenter during \"Possibilities\").",
+                "Has different camera angles from PRO #2a, PRO #2b, PRO #2c, PRO #3a and PRO #3b.",
+                "At least for the two brazilian broadcasts (PRO #1, PRO #3a and PRO #3b), a clean soundboard audio was separately sent with a crowd noise to the video crew. They did mix it together in proportion that they wanted for this broadcast.",
+                "Does not include the soundcheck."
+            ]
+        },
+        {
+            "name": "PRO #2a",
+            "complete": false,
+            "equipment": "Soundboard > Unknown",
+            "generation": "BETA(M) > VHS(2) > DVDR",
+            "video-generation": null,
+            "audio-generation": null,
+            "length-sound": "86 min / 8.5",
+            "notes": [
+                "Multi-camera video with soundboard audio.",
+                "More complete, but lower quality than PRO #2b.",
+                "Same edit and lower quality than PRO #2c, but does not have the timecode box covering part of the screen that PRO #2c has.",
+                "Has a \"Nirvana Hollywood Rock 2º Parte\" caption after \"Blew\".",
+                "Has different camera angles from PRO #1, PRO #3a and PRO #3b.",
+                "Missing the \"Possibilities\" jam.",
+                "\"Smells Like Teen Spirit\" and \"Heart-Shaped Box\" cut in.",
+                "Has many cuts between songs.",
+                "Does not include the soundcheck."
+            ]
+        },
+        {
+            "name": "PRO #2b",
+            "complete": false,
+            "equipment": "Soundboard > Unknown",
+            "generation": "Official DVD/LD [Live! Tonight! Sold Out!!]",
+            "video-generation": null,
+            "audio-generation": null,
+            "length-sound": "07 min / 10",
+            "notes": [
+                "Multi-camera video with soundboard audio.",
+                "Less complete, but higher quality than PRO #2a and PRO #2c.",
+                "Has different camera angles from PRO #1, PRO #3a and PRO #3b.",
+                "Includes only a clip of \"Scentless Apprentice\", the \"Sweet Emotion\" jam, \"Dive\", part of \"Aneurysm\", and various other clips.",
+                "Has a cut in the \"Sweet Emotion\" jam (about 10 seconds were edited out in the middle)."
+            ]
+        },
+        {
+            "name": "PRO #2c",
+            "complete": false,
+            "equipment": "Soundboard > Unknown",
+            "generation": null,
+            "video-generation": "BETA(M) > VHS(2) > DVDR",
+            "audio-generation": "BETA(M) > VHS(2) > FLAC",
+            "length-sound": "86 min / 9.0",
+            "notes": [
+                "The circulating DVDR was remastered.",
+                "Same edit and higher quality then PRO #2a, but has a black timecode box covering part of the screen and an occasional \"PREVIEW ONLY\" tag on the screen.",
+                "More complete, but lower quality than PRO #2b.",
+                "Has different camera angles from PRO #1, PRO #3a and PRO #3b.",
+                "Missing the \"Possibilities\" jam.",
+                "\"Smells Like Teen Spirit\" and \"Heart-Shaped Box\" cut in.",
+                "Has many cuts between songs.",
+                "Does not include the soundcheck."
+            ]
+        },
+        {
+            "name": "PRO #3a",
+            "complete": false,
+            "equipment": "Soundboard > Unknown",
+            "generation": "TV > VHS(1) > DVDR/CDR",
+            "video-generation": null,
+            "audio-generation": null,
+            "length-sound": "54:47 min / 8.5",
+            "notes": [
+                "Incomplete multi camera PRO-shot video, with soundboard audio, broadcasted as a mix of \"pre-recorded and live show\" on open channel of Brazilian TV GLOBO.",
+                "At least for the two brazilian broadcasts (PRO #1, PRO #3a and PRO #3b), a clean soundboard audio was separately sent with a crowd noise to the video crew. They did mix it together in proportion that they wanted for this broadcast.",
+                "Has different camera angles from PRO #1, PRO #2a, PRO #2b, and PRO #2c.",
+                "Less complete at the start than PRO #3b.",
+                "The original order of the brazilian broadcast was edited on this transfer and it's missing \"Breed\" that is present on PRO #3b.",
+                "Includes \"In Bloom\" and \"Come As You Are\" (cuts off), that was pre recorded and broadcasted after \"Scentless Aprentice\" because they had more time to broadcast two more songs.",
+                "\"Lounge Act\" (cuts in, cuts out), was broadcasted live, was used to report the end of the Nirvana broadcast.",
+                "\"Lithium\" (cuts in,cut) (The start of \"Lithium\" was broadcasted live between L7 pre-recorded broadcast), \"Polly\", \"About A Girl\", \"Smells Like Teen Spirit\", \"On A Plain\" (cuts in), \"Negative Creep\", \"Been A Son\", \"Blew\", \"Heart-Shaped Box\" and \"Scentless Aprentice\" that was broadcasted live.",
+                "Does not include the soundcheck."
+            ]
+        },
+        {
+            "name": "PRO #3b",
+            "complete": false,
+            "equipment": "Soundboard > Unknown",
+            "generation": "TV > VHS(1) > DVDR/FLAC",
+            "video-generation": null,
+            "audio-generation": null,
+            "length-sound": "39:25 min / ??",
+            "notes": [
+                "Circulated June 17th 2017.",
+                "Incomplete multi camera PRO-shot video, with soundboard audio, broadcasted as a mix of \"pre-recorded and live show\" on open channel of Brazilian TV GLOBO.",
+                "At least for the two brazilian broadcasts (PRO #1, PRO #3a and PRO #3b), a clean soundboard audio was separately sent with a crowd noise to the video crew. They did mix it together in proportion that they wanted for this broadcast.",
+                "Less complete at the end than PRO #3a but includes \"Breed\" that's missing from this source.",
+                "This is the original order of the brazilian broadcast but this source is missing the end of \"Scentless Aprentice\", \"Lounge Act\" (cuts in, cuts out), \"In Bloom\" and \"Come As You Are\" (cuts off).",
+                "Includes only \"Breed\" (cuts out), \"Lithium\" (cuts in,cut) (\"Breed\" and the start of \"Lithium\" was broadcasted live between L7 pre-recorded broadcast), \"Polly\", \"About A Girl\", \"Smells Like Teen Spirit\", \"On A Plain\" (cuts in), \"Negative Creep\", \"Been A Son\", \"Blew\", \"Heart-Shaped Box\" and \"Scentless Aprentice\" (cut's out) that was was broadcasted live.",
+                "Does not include the soundcheck."
+            ]
+        },
+        {
+            "name": "PRO #4",
+            "complete": false,
+            "equipment": "Unknown > Unknown",
+            "generation": "VHS(2) > DVDR(0)",
+            "video-generation": null,
+            "audio-generation": null,
+            "length-sound": "44 min / 9.0",
+            "notes": [
+                "Surfaced June 17th 2017.",
+                "Incomplete single camera PRO-shot video.",
+                "Includes only \"In Bloom\" (cuts in), \"Come As You Are\" (cuts in) \"Love Buzz\" (cut, cuts out) \"Lithium\" (cuts in) \"Polly\" (cuts in, cut) \"About A Girl\" (cuts in, cut) \"Smells Like Teen Spirit\" (cuts in) \"On A Plain\" (cuts in, cut, cuts out) \"Blew\" (cuts in) \"Scentless Apprentice\" (cuts in, cut) \"Dive\" (cuts in) \"Lounge Act\" (cuts in) \"Aneurysm\" (cut) \"Territorial Pissings\" (cut).",
+                "Does not include the soundcheck."
+            ]
+        },
+        {
+            "name": "PRO CLIP #1",
+            "complete": false,
+            "equipment": "Soundboard > Unknown",
+            "generation": "MASTER > MP4",
+            "video-generation": null,
+            "audio-generation": null,
+            "length-sound": "20 sec / 9.5",
+            "notes": [
+                "Multi camera PRO-shot video, with soundboard audio. \n                                    Includes 20 seconds of clips of \"Scentless Apprentice\" and \"About A Girl\" only.\nHas voice over the audio. Video posted on Globo's webpage.\n"
+            ]
+        }
+    ],
+    "uncirculated_sources": [
+        {
+            "name": "SBD #2",
+            "note": "Soundboard > Unknown (DAT)"
+        },
+        {
+            "name": "SBD #3",
+            "note": "Same mix used in the brazilian broadcasts but with clean soundboard audio taped in DAT, without crowd noise."
+        },
+        {
+            "name": "AMT #2",
+            "note": "In the documentary \"L7: Pretend We're Dead\", you can see some clips of the L7 show. Maybe L7 taped parts of the Nirvana concert as well."
+        },
+        {
+            "name": "AMT #3",
+            "note": "In the documentary \"L7: Pretend We're Dead\", at backstage room you can see a guy of the L7 crew holding another camera. Maybe L7 taped parts of the Nirvana concert as well."
+        },
+        {
+            "name": "AMT #4",
+            "note": "There is a photo where you can see, In the left side of the backstage area, a guy holding a camera. It can be one of the PRO cameras or another AMT angle."
+        }
+    ],
+    "notes": [
+        "The venue is a section of a parade area called Sambódromo da Marquês de Sapucaí.",
+        "According to the local media, Nirvana did 90 minutes of soundcheck, so probably other songs than \"Scentless Apprentice\", \"Gallons Of Rubbing Alcohol Flow Through The Strip\" and the \"jam\" were played.",
+        "The show included many short jams.",
+        "The channel who broadcasted the concert, used 2 micro cameras inside the stage and 9 portable cameras distributed through apoteose, moveables, tower's and in the audience.",
+        "Krist opened the show by singing a few lines from Electric Light Orchestra's \"Telephone Line.\"",
+        "Kurt purposely altered various lyrics during the show, most notably during \"Polly\", which threw off Dave's backup harmonies.",
+        "Flea from the Red Hot Chili Peppers played trumpet on \"Smells Like Teen Spirit\".",
+        "When the band started \"On A Plain\", Kurt mistakenly started playing \"Been A Son\", but quickly switched to the correct song.",
+        "During “Scentless Apprentice”, Earnie Bailey rolled a pineapple onstage like a bowling ball. Kurt picked it up and started smashing it on his guitar strings, playing his guitar with the pineapple. Kurt also put on a performance for one of the professional video cameras, including exposing and touching his genitals.",
+        "During the encore, Kurt came in stage with a melon under the dress pretending to be pregnant and said: \"Uh, my water's breaking\"."
+    ],
+    "press": [],
+    "memorabilia": [
+        {
+            "url": "/concerts/images/1993/1993-01-23/1993-01-23_01.jpg",
+            "caption": "Advert"
+        },
+        {
+            "url": "/concerts/images/1993/1993-01-23/1993-01-23_02.jpg",
+            "caption": "Advert"
+        },
+        {
+            "url": "/concerts/images/1993/1993-01-23/1993-01-23_03.jpg",
+            "caption": "Ticket"
+        },
+        {
+            "url": "/concerts/images/1993/1993-01-23/1993-01-23_04.jpg",
+            "caption": "Handwritten setlist"
+        },
+        {
+            "url": "/concerts/images/1993/1993-01-23/1993-01-23_05.jpg",
+            "caption": "Advert"
+        },
+        {
+            "url": "/concerts/images/1993/1993-01-23/1993-01-23_06.jpg",
+            "caption": "Advert"
+        },
+        {
+            "url": "/concerts/images/1993/1993-01-23/1993-01-23_07.jpg",
+            "caption": "Advert"
+        },
+        {
+            "url": "/concerts/images/1993/1993-01-23/1993-01-23_08.jpg",
+            "caption": "Advert"
+        },
+        {
+            "url": "/concerts/images/1993/1993-01-23/1993-01-23_09.jpg",
+            "caption": "Nirvana's tour itinerary"
+        },
+        {
+            "url": "/concerts/images/1993/1993-01-23/1993-01-23_10.jpg",
+            "caption": "T-shirt merchandise"
+        },
+        {
+            "url": "/concerts/images/1993/1993-01-23/1993-01-23_11.jpg",
+            "caption": "Backstage pass"
+        },
+        {
+            "url": "/concerts/images/1993/1993-01-23/1993-01-23_12.jpg",
+            "caption": "Backstage pass"
+        },
+        {
+            "url": "/concerts/images/1993/1993-01-23/1993-01-23_13.jpg",
+            "caption": "Advert"
+        }
+    ],
+    "images": [
+        {
+            "url": "/concerts/images/1993/1993-01-23/1993-01-23_001.jpg",
+            "caption": "Unknown photographer"
+        },
+        {
+            "url": "/concerts/images/1993/1993-01-23/1993-01-23_002.jpg",
+            "caption": "Photo by César Loureiro"
+        },
+        {
+            "url": "/concerts/images/1993/1993-01-23/1993-01-23_003.jpg",
+            "caption": "Photo by Antonio Luis Francisco"
+        },
+        {
+            "url": "/concerts/images/1993/1993-01-23/1993-01-23_004.jpg",
+            "caption": "Photo by Antonio Luis Francisco"
+        },
+        {
+            "url": "/concerts/images/1993/1993-01-23/1993-01-23_005.jpg",
+            "caption": "Unknown photographer"
+        },
+        {
+            "url": "/concerts/images/1993/1993-01-23/1993-01-23_006.jpg",
+            "caption": "Unknown photographer"
+        },
+        {
+            "url": "/concerts/images/1993/1993-01-23/1993-01-23_007.jpg",
+            "caption": "Unknown photographer"
+        },
+        {
+            "url": "/concerts/images/1993/1993-01-23/1993-01-23_008.jpg",
+            "caption": "Unknown photographer"
+        },
+        {
+            "url": "/concerts/images/1993/1993-01-23/1993-01-23_009.jpg",
+            "caption": "Unknown photographer"
+        },
+        {
+            "url": "/concerts/images/1993/1993-01-23/1993-01-23_010.jpg",
+            "caption": "Photo by Fernando Fedoca Lima"
+        },
+        {
+            "url": "/concerts/images/1993/1993-01-23/1993-01-23_011.jpg",
+            "caption": "Photo by Andre Csillag"
+        },
+        {
+            "url": "/concerts/images/1993/1993-01-23/1993-01-23_012.jpg",
+            "caption": "Photo by Andre Csillag"
+        },
+        {
+            "url": "/concerts/images/1993/1993-01-23/1993-01-23_013.jpg",
+            "caption": "Photo by Andre Csillag"
+        },
+        {
+            "url": "/concerts/images/1993/1993-01-23/1993-01-23_014.jpg",
+            "caption": "Unknown photographer"
+        },
+        {
+            "url": "/concerts/images/1993/1993-01-23/1993-01-23_015.jpg",
+            "caption": "Unknown photographer"
+        },
+        {
+            "url": "/concerts/images/1993/1993-01-23/1993-01-23_016.jpg",
+            "caption": "Unknown photographer"
+        },
+        {
+            "url": "/concerts/images/1993/1993-01-23/1993-01-23_017.jpg",
+            "caption": "Photo by Márcia Foletto"
+        },
+        {
+            "url": "/concerts/images/1993/1993-01-23/1993-01-23_018.jpg",
+            "caption": "Photo by Jonas Cunha"
+        },
+        {
+            "url": "/concerts/images/1993/1993-01-23/1993-01-23_019.jpg",
+            "caption": "Photo by Marcelo Theobald"
+        },
+        {
+            "url": "/concerts/images/1993/1993-01-23/1993-01-23_020.jpg",
+            "caption": "Unknown photographer"
+        },
+        {
+            "url": "/concerts/images/1993/1993-01-23/1993-01-23_021.jpg",
+            "caption": "Photo by Andre Csillag"
+        },
+        {
+            "url": "/concerts/images/1993/1993-01-23/1993-01-23_022.jpg",
+            "caption": "Photo by Andre Csillag"
+        },
+        {
+            "url": "/concerts/images/1993/1993-01-23/1993-01-23_023.jpg",
+            "caption": "Unknown photographer"
+        },
+        {
+            "url": "/concerts/images/1993/1993-01-23/1993-01-23_024.jpg",
+            "caption": "Unknown photographer"
+        },
+        {
+            "url": "/concerts/images/1993/1993-01-23/1993-01-23_025.jpg",
+            "caption": "Unknown photographer"
+        },
+        {
+            "url": "/concerts/images/1993/1993-01-23/1993-01-23_026.jpg",
+            "caption": "Photo by Fernando Quevedo"
+        },
+        {
+            "url": "/concerts/images/1993/1993-01-23/1993-01-23_027.jpg",
+            "caption": "Photo by Marcelo Theobald"
+        },
+        {
+            "url": "/concerts/images/1993/1993-01-23/1993-01-23_028.jpg",
+            "caption": "Photo by Ronaldo Gorini"
+        },
+        {
+            "url": "/concerts/images/1993/1993-01-23/1993-01-23_029.jpg",
+            "caption": "Photo by Sheila Chagas"
+        },
+        {
+            "url": "/concerts/images/1993/1993-01-23/1993-01-23_030.jpg",
+            "caption": "Photo by Zé Maurício de Faria"
+        },
+        {
+            "url": "/concerts/images/1993/1993-01-23/1993-01-23_031.jpg",
+            "caption": "Photo by Zé Maurício de Faria"
+        },
+        {
+            "url": "/concerts/images/1993/1993-01-23/1993-01-23_032.jpg",
+            "caption": "Photo by Márcia Foletto"
+        },
+        {
+            "url": "/concerts/images/1993/1993-01-23/1993-01-23_033.jpg",
+            "caption": "Photo by Márcia Foletto"
+        },
+        {
+            "url": "/concerts/images/1993/1993-01-23/1993-01-23_034.jpg",
+            "caption": "Unknown photographer"
+        },
+        {
+            "url": "/concerts/images/1993/1993-01-23/1993-01-23_035.jpg",
+            "caption": "Photo by Marcelo Theobald"
+        },
+        {
+            "url": "/concerts/images/1993/1993-01-23/1993-01-23_036.jpg",
+            "caption": "Photo by Márcia Foletto"
+        },
+        {
+            "url": "/concerts/images/1993/1993-01-23/1993-01-23_037.jpg",
+            "caption": "Photo by Fernando Quevedo"
+        },
+        {
+            "url": "/concerts/images/1993/1993-01-23/1993-01-23_038.jpg",
+            "caption": "Photo by Fernando Quevedo"
+        },
+        {
+            "url": "/concerts/images/1993/1993-01-23/1993-01-23_039.jpg",
+            "caption": "Photo by Fernando Fedoca Lima"
+        },
+        {
+            "url": "/concerts/images/1993/1993-01-23/1993-01-23_040.jpg",
+            "caption": "Photo by Rosanna Alberti Chaim"
+        },
+        {
+            "url": "/concerts/images/1993/1993-01-23/1993-01-23_041.jpg",
+            "caption": "Photo by Raul Machado"
+        },
+        {
+            "url": "/concerts/images/1993/1993-01-23/1993-01-23_042.jpg",
+            "caption": "Photo by Raul Machado"
+        },
+        {
+            "url": "/concerts/images/1993/1993-01-23/1993-01-23_043.jpg",
+            "caption": "Photo by Raul Machado"
+        },
+        {
+            "url": "/concerts/images/1993/1993-01-23/1993-01-23_044.jpg",
+            "caption": "Photo by Raul Machado"
+        },
+        {
+            "url": "/concerts/images/1993/1993-01-23/1993-01-23_045.jpg",
+            "caption": "Photo by Fábio Bolota"
+        },
+        {
+            "url": "/concerts/images/1993/1993-01-23/1993-01-23_046.jpg",
+            "caption": "Photo by Márcia Foletto"
+        },
+        {
+            "url": "/concerts/images/1993/1993-01-23/1993-01-23_047.jpg",
+            "caption": "Photo by Jonas Cunha"
+        },
+        {
+            "url": "/concerts/images/1993/1993-01-23/1993-01-23_048.jpg",
+            "caption": "Photo by Jonas Cunha"
+        },
+        {
+            "url": "/concerts/images/1993/1993-01-23/1993-01-23_049.jpg",
+            "caption": "Photo by Márcia Foletto"
+        },
+        {
+            "url": "/concerts/images/1993/1993-01-23/1993-01-23_050.jpg",
+            "caption": "Photo by Jonas Cunha"
+        },
+        {
+            "url": "/concerts/images/1993/1993-01-23/1993-01-23_051.jpg",
+            "caption": "Photo by Marcos Hermes"
+        },
+        {
+            "url": "/concerts/images/1993/1993-01-23/1993-01-23_052.jpg",
+            "caption": "Unknown photographer"
+        },
+        {
+            "url": "/concerts/images/1993/1993-01-23/1993-01-23_053.jpg",
+            "caption": "Photo by Márcia Foletto"
+        },
+        {
+            "url": "/concerts/images/1993/1993-01-23/1993-01-23_054.jpg",
+            "caption": "Photo by Márcia Foletto"
+        },
+        {
+            "url": "/concerts/images/1993/1993-01-23/1993-01-23_055.jpg",
+            "caption": "Photo by Márcia Foletto"
+        },
+        {
+            "url": "/concerts/images/1993/1993-01-23/1993-01-23_056.jpg",
+            "caption": "Unknown photographer"
+        },
+        {
+            "url": "/concerts/images/1993/1993-01-23/1993-01-23_057.jpg",
+            "caption": "Unknown photographer"
+        },
+        {
+            "url": "/concerts/images/1993/1993-01-23/1993-01-23_058.jpg",
+            "caption": "Photo by Mirian Fichtner"
+        },
+        {
+            "url": "/concerts/images/1993/1993-01-23/1993-01-23_059.jpg",
+            "caption": "Photo by Márcia Foletto"
+        },
+        {
+            "url": "/concerts/images/1993/1993-01-23/1993-01-23_060.jpg",
+            "caption": "Photo by Mirian Fichtner"
+        }
+    ],
+    "navigation": {
+        "previous": "93-01-16",
+        "next": "93-04-09"
+    },
+    "graph": {
+        "bleach": "5",
+        "nevermind": "10",
+        "inutero": "2",
+        "non": "4"
+    }
+}

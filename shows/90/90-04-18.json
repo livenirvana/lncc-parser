@@ -1,0 +1,235 @@
+{
+    "year": "1990",
+    "month": "04",
+    "day": "18",
+    "band": [
+        {
+            "NIRVANA": [
+                {
+                    "name": "Kurt Cobain ",
+                    "duty": "vocals, guitar"
+                },
+                {
+                    "name": "Krist Novoselic ",
+                    "duty": "bass"
+                },
+                {
+                    "name": "Chad Channing ",
+                    "duty": "drums"
+                }
+            ],
+            "type": "group"
+        }
+    ],
+    "crew": [],
+    "buyer": {
+        "names": []
+    },
+    "schedule": [
+        {
+            "event": "Load In",
+            "time": "…:…"
+        },
+        {
+            "event": "Soundcheck",
+            "time": "…:…"
+        },
+        {
+            "event": "Doors",
+            "time": "…:…"
+        },
+        {
+            "event": "Bags Showtime",
+            "time": "…:…"
+        },
+        {
+            "event": "NIRVANA Showtime",
+            "time": "…:…"
+        }
+    ],
+    "soundcheck": [],
+    "soundcheck_incomplete": false,
+    "set": [
+        {
+            "type": "song",
+            "text": "School",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "Floyd The Barber",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "Love Buzz",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "Dive",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "Scoff",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "About A Girl",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "Spank Thru",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "Breed",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "In Bloom",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "Big Cheese",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "Molly's Lips",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "Been A Son",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "Stain",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "Negative Creep",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "Blew",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "Stay Away",
+            "notes": []
+        }
+    ],
+    "set_incomplete": false,
+    "transmission": {},
+    "rehearsel_circulating_sources": [],
+    "circulating_sources": [
+        {
+            "name": "AUD #1",
+            "complete": true,
+            "equipment": "Unknown > Sony WM-D6",
+            "generation": "ANA(1) > FLAC",
+            "video-generation": null,
+            "audio-generation": null,
+            "length-sound": "56:10 min / 8.0",
+            "notes": [
+                "In December 2020 a 1st generation tape was circulated.",
+                "\"About A Girl\" cut in and \"Stain\" is cut within."
+            ]
+        },
+        {
+            "name": "AUD #2",
+            "complete": true,
+            "equipment": "Unknown > Unknown",
+            "generation": "ANA(x) > FLAC",
+            "video-generation": null,
+            "audio-generation": null,
+            "length-sound": "61:37 min / 7.5",
+            "notes": [
+                "Circulated in September 2007.",
+                "Has some dropouts during \"Molly's Lips\" and \"Blew\"."
+            ]
+        },
+        {
+            "name": "AMT #1",
+            "complete": true,
+            "equipment": "Unknown > Unknown",
+            "generation": "VHS(x) > MP4",
+            "video-generation": null,
+            "audio-generation": null,
+            "length-sound": "62:54 min / ??",
+            "notes": [
+                "Posted in youtube in April 2020.",
+                "Shot from the front left side of the audience, near to Krist Novoselic.",
+                "The audio is distorted and probably in some parts was replaced with AUD #1 or AUD #2.",
+                "Has a dropout during \"Scoff\", \"Breed\" and \"Blew\"."
+            ]
+        }
+    ],
+    "uncirculated_sources": [],
+    "notes": [
+        "Kurt dumped a whole pitcher of ice water on Chad.",
+        "Krist talked about Madonna and sang a little bit of \"Like A Virgin.\""
+    ],
+    "press": [],
+    "memorabilia": [],
+    "images": [
+        {
+            "url": "/concerts/images/1990/1990-04-18/1990-04-18_001.jpg",
+            "caption": "Photo by Christian Campagna"
+        },
+        {
+            "url": "/concerts/images/1990/1990-04-18/1990-04-18_002.jpg",
+            "caption": "Photo by JJ Gonson"
+        },
+        {
+            "url": "/concerts/images/1990/1990-04-18/1990-04-18_003.jpg",
+            "caption": "Photo by JJ Gonson"
+        },
+        {
+            "url": "/concerts/images/1990/1990-04-18/1990-04-18_004.jpg",
+            "caption": "Photo by JJ Gonson"
+        },
+        {
+            "url": "/concerts/images/1990/1990-04-18/1990-04-18_005.jpg",
+            "caption": "Photo by JJ Gonson"
+        },
+        {
+            "url": "/concerts/images/1990/1990-04-18/1990-04-18_006.jpg",
+            "caption": "Photo by JJ Gonson"
+        },
+        {
+            "url": "/concerts/images/1990/1990-04-18/1990-04-18_007.jpg",
+            "caption": "Photo by JJ Gonson"
+        },
+        {
+            "url": "/concerts/images/1990/1990-04-18/1990-04-18_008.jpg",
+            "caption": "Photo by JJ Gonson"
+        },
+        {
+            "url": "/concerts/images/1990/1990-04-18/1990-04-18_009.jpg",
+            "caption": "Photo by JJ Gonson"
+        }
+    ],
+    "navigation": {
+        "previous": "90-04-17",
+        "next": "90-04-20"
+    },
+    "graph": {
+        "bleach": "8",
+        "nevermind": "3",
+        "inutero": "0",
+        "non": "5"
+    }
+}

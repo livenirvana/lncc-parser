@@ -1,0 +1,430 @@
+{
+    "year": "1989",
+    "month": "11",
+    "day": "10",
+    "venue": "November 10",
+    "city": "1989 - Forum Enger",
+    "state": "Enger",
+    "country": "DE",
+    "band": [
+        {
+            "NIRVANA": [
+                {
+                    "name": "Kurt Cobain ",
+                    "duty": "vocals, guitar"
+                },
+                {
+                    "name": "Krist Novoselic ",
+                    "duty": "bass"
+                },
+                {
+                    "name": "Chad Channing ",
+                    "duty": "drums"
+                }
+            ],
+            "type": "group"
+        }
+    ],
+    "crew": [
+        {
+            "name": "Edwin Heath",
+            "duty": "tour manager"
+        },
+        {
+            "name": "Craig Montgomery",
+            "duty": "sound engineer"
+        }
+    ],
+    "buyer": {
+        "names": [
+            "Wolfgang Meinking"
+        ]
+    },
+    "schedule": [
+        {
+            "event": "Load In",
+            "time": "16:30"
+        },
+        {
+            "event": "Soundcheck",
+            "time": "17:00"
+        },
+        {
+            "event": "Doors",
+            "time": "20:00"
+        },
+        {
+            "event": "NIRVANA Showtime",
+            "time": "…:…"
+        },
+        {
+            "event": "TAD Showtime",
+            "time": "…:…"
+        }
+    ],
+    "soundcheck": [],
+    "soundcheck_incomplete": false,
+    "set": [
+        {
+            "type": "jam",
+            "text": "jam bass jam",
+            "notes": [
+                "bass jam"
+            ]
+        },
+        {
+            "type": "banter",
+            "text": "Ch, ch, ch, ch, Check, check, check, check, check, check, check, check",
+            "person": "Cobain"
+        },
+        {
+            "type": "jam",
+            "text": "jam bass jam",
+            "notes": [
+                "bass jam"
+            ]
+        },
+        {
+            "type": "jam",
+            "text": "jam screaming intro",
+            "notes": [
+                "screaming intro"
+            ]
+        },
+        {
+            "type": "song",
+            "text": "School",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "Scoff",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "Love Buzz",
+            "notes": []
+        },
+        {
+            "type": "jam",
+            "text": "jam bass jam",
+            "notes": [
+                "bass jam"
+            ]
+        },
+        {
+            "type": "banter",
+            "text": "Sexy slim stomach, sexy slim waist, sexy slim stomach",
+            "person": "Cobain"
+        },
+        {
+            "type": "jam",
+            "text": "jam bass jam",
+            "notes": [
+                "bass jam"
+            ]
+        },
+        {
+            "type": "song",
+            "text": "Floyd The Barber",
+            "notes": []
+        },
+        {
+            "type": "jam",
+            "text": "jam bass jam",
+            "notes": [
+                "bass jam"
+            ]
+        },
+        {
+            "type": "song",
+            "text": "Dive",
+            "notes": []
+        },
+        {
+            "type": "banter",
+            "text": "Thank you",
+            "person": "Cobain"
+        },
+        {
+            "type": "song",
+            "text": "Polly",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "Big Cheese",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "About A Girl",
+            "notes": []
+        },
+        {
+            "type": "banter",
+            "text": "Hey man, hey man, my guitar man, is not my dick, you should, you should have aimed for my dick, instead of my guitar, 'cos it would have turned me on a lot more, you know and the way you grabbed it man, you were so sure you saw it, it really turned me on",
+            "person": "Novoselic"
+        },
+        {
+            "type": "jam",
+            "text": "jam bass jam",
+            "notes": [
+                "bass jam"
+            ]
+        },
+        {
+            "type": "jam",
+            "text": "Breed guitar line",
+            "notes": [
+                "guitar line"
+            ]
+        },
+        {
+            "type": "song",
+            "text": "Spank Thru",
+            "notes": []
+        },
+        {
+            "type": "banter",
+            "text": "Thank you",
+            "person": "Cobain"
+        },
+        {
+            "type": "song",
+            "text": "Mr. Moustache",
+            "notes": []
+        },
+        {
+            "type": "banter",
+            "text": "Danke",
+            "person": "Novoselic"
+        },
+        {
+            "type": "song",
+            "text": "Breed",
+            "notes": []
+        },
+        {
+            "type": "banter",
+            "text": "Hello darkness my old friend, it's so good to see you again, now our darkness inside us (singing) Has anyone... has anybody ever seen my dog or a cane I could borrow for a while? 'cos I'm really, really need it",
+            "person": "Novoselic"
+        },
+        {
+            "type": "banter",
+            "text": "This song is off of our new EP, it's entitled Blew",
+            "person": "Cobain"
+        },
+        {
+            "type": "banter",
+            "text": "our PP, EP",
+            "person": "Novoselic"
+        },
+        {
+            "type": "banter",
+            "text": "PP, EP",
+            "person": "Cobain"
+        },
+        {
+            "type": "banter",
+            "text": "Quattro ermanos",
+            "person": "Novoselic"
+        },
+        {
+            "type": "jam",
+            "text": "jam bass jam",
+            "notes": [
+                "bass jam"
+            ]
+        },
+        {
+            "type": "banter",
+            "text": "Wait a second, does anyone have our album, let's see a show of hands, does anyone have our album? Nobody has our fucking album?",
+            "person": "Cobain"
+        },
+        {
+            "type": "banter",
+            "text": "I have",
+            "person": "Voice"
+        },
+        {
+            "type": "banter",
+            "text": "aaah",
+            "person": "Cobain"
+        },
+        {
+            "type": "song",
+            "text": "Been A Son",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "Negative Creep",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "Stain",
+            "notes": []
+        },
+        {
+            "type": "banter",
+            "text": "Thank you for coming, this is our last song, we don't have any more songs",
+            "person": "Cobain"
+        },
+        {
+            "type": "banter",
+            "text": "I'm Ozzy Osbourne on drugs, I love you all!",
+            "person": "Novoselic"
+        },
+        {
+            "type": "jam",
+            "text": "Iron Man bass jam",
+            "notes": [
+                "bass jam"
+            ]
+        },
+        {
+            "type": "jam",
+            "text": "jam bass jam",
+            "notes": [
+                "bass jam"
+            ]
+        },
+        {
+            "type": "banter",
+            "text": "Thanks for coming, bye",
+            "person": "Cobain"
+        },
+        {
+            "type": "song",
+            "text": "Blew",
+            "notes": []
+        },
+        {
+            "type": "banter",
+            "text": "Thanks a lot, goodbye! We don't have any more songs, none at all",
+            "person": "Cobain"
+        },
+        {
+            "type": "banter",
+            "text": "D ... danke",
+            "person": "Novoselic"
+        }
+    ],
+    "set_incomplete": false,
+    "transmission": {},
+    "rehearsel_circulating_sources": [],
+    "circulating_sources": [
+        {
+            "name": "AUD #1",
+            "complete": true,
+            "equipment": "Sony PC-62 > Sony WM-D3",
+            "generation": "ANA(M) > FLAC",
+            "video-generation": null,
+            "audio-generation": null,
+            "length-sound": "58 min / 8.0",
+            "notes": [
+                "In September 2008 the master tape was circulated."
+            ]
+        },
+        {
+            "name": "AUD #2",
+            "complete": true,
+            "equipment": "Unknown > Unknown",
+            "generation": "ANA(1) > DAT(1) > FLAC",
+            "video-generation": null,
+            "audio-generation": null,
+            "length-sound": "58 min / 7.5",
+            "notes": [
+                "Surfaced in June 2007."
+            ]
+        }
+    ],
+    "uncirculated_sources": [],
+    "notes": [],
+    "press": [],
+    "memorabilia": [
+        {
+            "url": "/concerts/images/1989/1989-11-10/1989-11-10_01.jpg",
+            "caption": "Advert"
+        },
+        {
+            "url": "/concerts/images/1989/1989-11-10/1989-11-10_02.jpg",
+            "caption": "Advert"
+        },
+        {
+            "url": "/concerts/images/1989/1989-11-10/1989-11-10_03.jpg",
+            "caption": "Advert"
+        },
+        {
+            "url": "/concerts/images/1989/1989-11-10/1989-11-10_04.jpg",
+            "caption": "Nirvana's tour itinerary"
+        },
+        {
+            "url": "/concerts/images/1989/1989-11-10/1989-11-10_05.jpg",
+            "caption": "Nirvana's tour itinerary"
+        },
+        {
+            "url": "/concerts/images/1989/1989-11-10/1989-11-10_06.jpg",
+            "caption": "Nirvana's tour itinerary"
+        },
+        {
+            "url": "/concerts/images/1989/1989-11-10/1989-11-10_07.jpg",
+            "caption": "Advert"
+        },
+        {
+            "url": "/concerts/images/1989/1989-11-10/1989-11-10_08.jpg",
+            "caption": "Advert"
+        },
+        {
+            "url": "/concerts/images/1989/1989-11-10/1989-11-10_09.jpg",
+            "caption": "Advert"
+        },
+        {
+            "url": "/concerts/images/1989/1989-11-10/1989-11-10_10.jpg",
+            "caption": "Advert"
+        },
+        {
+            "url": "/concerts/images/1989/1989-11-10/1989-11-10_11.jpg",
+            "caption": "Advert"
+        }
+    ],
+    "images": [
+        {
+            "url": "/concerts/images/1989/1989-11-10/1989-11-10_001.jpg",
+            "caption": "Photo by Klaus Frensing"
+        },
+        {
+            "url": "/concerts/images/1989/1989-11-10/1989-11-10_002.jpg",
+            "caption": "Photo by Klaus Frensing"
+        },
+        {
+            "url": "/concerts/images/1989/1989-11-10/1989-11-10_003.jpg",
+            "caption": "Photo by Klaus Frensing"
+        },
+        {
+            "url": "/concerts/images/1989/1989-11-10/1989-11-10_004.jpg",
+            "caption": "Photo by Klaus Frensing"
+        },
+        {
+            "url": "/concerts/images/1989/1989-11-10/1989-11-10_005.jpg",
+            "caption": "Photo by Klaus Frensing"
+        },
+        {
+            "url": "/concerts/images/1989/1989-11-10/1989-11-10_006.jpg",
+            "caption": "Photo by Klaus Frensing"
+        }
+    ],
+    "navigation": {
+        "previous": "89-11-09",
+        "next": "89-11-11"
+    },
+    "graph": {
+        "bleach": "9",
+        "nevermind": "2",
+        "inutero": "0",
+        "non": "4"
+    }
+}

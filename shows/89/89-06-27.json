@@ -1,0 +1,178 @@
+{
+    "year": "1989",
+    "month": "06",
+    "day": "27",
+    "band": [
+        {
+            "NIRVANA": [
+                {
+                    "name": "Kurt Cobain ",
+                    "duty": "vocals, guitar"
+                },
+                {
+                    "name": "Krist Novoselic ",
+                    "duty": "bass"
+                },
+                {
+                    "name": "Chad Channing ",
+                    "duty": "drums"
+                },
+                {
+                    "name": "Jason Everman ",
+                    "duty": "guitar"
+                }
+            ],
+            "type": "group"
+        }
+    ],
+    "crew": [],
+    "buyer": {
+        "names": [
+            "Brian Curley"
+        ]
+    },
+    "schedule": [
+        {
+            "event": "Load In",
+            "time": "…:…"
+        },
+        {
+            "event": "Soundcheck",
+            "time": "…:…"
+        },
+        {
+            "event": "Doors",
+            "time": "19:00"
+        },
+        {
+            "event": "Monkey Shines Showtime",
+            "time": "…:…"
+        },
+        {
+            "event": "27 Devils Joking Showtime",
+            "time": "…:…"
+        },
+        {
+            "event": "NIRVANA Showtime",
+            "time": "…:…"
+        }
+    ],
+    "soundcheck": [],
+    "soundcheck_incomplete": false,
+    "set": [
+        {
+            "type": "song",
+            "text": "School",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "Floyd The Barber",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "Big Cheese",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "Spank Thru",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "Dive",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "About A Girl",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "Paper Cuts",
+            "notes": []
+        }
+    ],
+    "set_incomplete": true,
+    "transmission": {},
+    "rehearsel_circulating_sources": [],
+    "circulating_sources": [
+        {
+            "name": "AMT #1",
+            "complete": false,
+            "equipment": "Built-in > RCA",
+            "generation": "VHS(M) > DVDR/FLAC",
+            "video-generation": null,
+            "audio-generation": null,
+            "length-sound": "14:58 min / 7.0",
+            "notes": [
+                "Surfaced in March 2007.",
+                "\"School\", \"Floyd The Barber\", \"Big Cheese\", \"Dive\", \"About A Girl\" and \"Paper Cuts\" are all cut."
+            ]
+        }
+    ],
+    "uncirculated_sources": [],
+    "notes": [],
+    "press": [],
+    "memorabilia": [
+        {
+            "url": "/concerts/images/1989/1989-06-27/1989-06-27_01.jpg",
+            "caption": "Poster, designed by Unknown"
+        },
+        {
+            "url": "/concerts/images/1989/1989-06-27/1989-06-27_02.jpg",
+            "caption": "Poster, designed by Unknown"
+        },
+        {
+            "url": "/concerts/images/1989/1989-06-27/1989-06-27_03.jpg",
+            "caption": "Nirvana's tour itinerary"
+        }
+    ],
+    "images": [
+        {
+            "url": "/concerts/images/1989/1989-06-27/1989-06-27_001.jpg",
+            "caption": "Screencap of AMT #1"
+        },
+        {
+            "url": "/concerts/images/1989/1989-06-27/1989-06-27_002.jpg",
+            "caption": "Screencap of AMT #1"
+        },
+        {
+            "url": "/concerts/images/1989/1989-06-27/1989-06-27_003.jpg",
+            "caption": "Screencap of AMT #1"
+        },
+        {
+            "url": "/concerts/images/1989/1989-06-27/1989-06-27_004.jpg",
+            "caption": "Screencap of AMT #1"
+        },
+        {
+            "url": "/concerts/images/1989/1989-06-27/1989-06-27_005.jpg",
+            "caption": "Screencap of AMT #1"
+        },
+        {
+            "url": "/concerts/images/1989/1989-06-27/1989-06-27_006.jpg",
+            "caption": "Screencap of AMT #1"
+        },
+        {
+            "url": "/concerts/images/1989/1989-06-27/1989-06-27_007.jpg",
+            "caption": "Screencap of AMT #1"
+        },
+        {
+            "url": "/concerts/images/1989/1989-06-27/1989-06-27_008.jpg",
+            "caption": "Screencap of AMT #1"
+        }
+    ],
+    "navigation": {
+        "previous": "89-06-25",
+        "next": "89-06-30"
+    },
+    "graph": {
+        "bleach": "5",
+        "nevermind": "0",
+        "inutero": "0",
+        "non": "2"
+    }
+}

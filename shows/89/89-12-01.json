@@ -1,0 +1,468 @@
+{
+    "year": "1989",
+    "month": "12",
+    "day": "01",
+    "band": [
+        {
+            "NIRVANA": [
+                {
+                    "name": "Kurt Cobain ",
+                    "duty": "vocals, guitar"
+                },
+                {
+                    "name": "Krist Novoselic ",
+                    "duty": "bass"
+                },
+                {
+                    "name": "Chad Channing ",
+                    "duty": "drums"
+                }
+            ],
+            "type": "group"
+        }
+    ],
+    "crew": [
+        {
+            "name": "Edwin Heath",
+            "duty": "tour manager"
+        },
+        {
+            "name": "Craig Montgomery",
+            "duty": "sound engineer"
+        }
+    ],
+    "buyer": {
+        "names": [
+            "Radical Production",
+            "Christophe Davy",
+            "Fahrenheit Association",
+            "Philippe Renaud"
+        ]
+    },
+    "schedule": [
+        {
+            "event": "Load In",
+            "time": "16:00"
+        },
+        {
+            "event": "Soundcheck",
+            "time": "16:30"
+        },
+        {
+            "event": "Doors",
+            "time": "20:00"
+        },
+        {
+            "event": "Bloody And Heavy Showtime",
+            "time": "…:…"
+        },
+        {
+            "event": "NIRVANA Showtime",
+            "time": "…:…"
+        },
+        {
+            "event": "TAD Showtime",
+            "time": "…:…"
+        }
+    ],
+    "soundcheck": [
+        {
+            "type": "song",
+            "text": "Planet Claire jam",
+            "notes": [
+                "jam"
+            ]
+        },
+        {
+            "type": "banter",
+            "text": "?? ?? ?? ??",
+            "person": "Novoselic"
+        }
+    ],
+    "soundcheck_incomplete": true,
+    "set": [
+        {
+            "type": "song",
+            "text": "jam",
+            "notes": []
+        },
+        {
+            "type": "jam",
+            "text": "jam screaming intro",
+            "notes": [
+                "screaming intro"
+            ]
+        },
+        {
+            "type": "banter",
+            "text": "We're Nirvana",
+            "person": "Cobain"
+        },
+        {
+            "type": "song",
+            "text": "School",
+            "notes": []
+        },
+        {
+            "type": "banter",
+            "text": "Thanks a lot",
+            "person": "Cobain"
+        },
+        {
+            "type": "song",
+            "text": "Scoff",
+            "notes": []
+        },
+        {
+            "type": "banter",
+            "text": "Kurt, Kurt",
+            "person": "Voice"
+        },
+        {
+            "type": "banter",
+            "text": "Louder",
+            "person": "Voice"
+        },
+        {
+            "type": "banter",
+            "text": "Louder?",
+            "person": "Cobain"
+        },
+        {
+            "type": "banter",
+            "text": "??",
+            "person": "Novoselic"
+        },
+        {
+            "type": "banter",
+            "text": "No",
+            "person": "Cobain"
+        },
+        {
+            "type": "jam",
+            "text": "jam bass jam",
+            "notes": [
+                "bass jam"
+            ]
+        },
+        {
+            "type": "song",
+            "text": "Love Buzz",
+            "notes": []
+        },
+        {
+            "type": "banter",
+            "text": "We want some French toast right now! We haven't had a decent breakfast the whole time we've been here",
+            "person": "Cobain"
+        },
+        {
+            "type": "song",
+            "text": "Floyd The Barber",
+            "notes": []
+        },
+        {
+            "type": "banter",
+            "text": "Thank you",
+            "person": "Cobain"
+        },
+        {
+            "type": "song",
+            "text": "Dive",
+            "notes": []
+        },
+        {
+            "type": "banter",
+            "text": "More guitar",
+            "person": "Voice"
+        },
+        {
+            "type": "banter",
+            "text": "More guitar? I can't turn it up",
+            "person": "Cobain"
+        },
+        {
+            "type": "banter",
+            "text": "Tell them to shut the fuck up",
+            "person": "Craig"
+        },
+        {
+            "type": "banter",
+            "text": "Shut the fuck up",
+            "person": "Cobain"
+        },
+        {
+            "type": "banter",
+            "text": "more guitar man",
+            "person": "Voice"
+        },
+        {
+            "type": "banter",
+            "text": "What?'You want us to do Johnny Be Goode?",
+            "person": "Cobain"
+        },
+        {
+            "type": "jam",
+            "text": "Johnny B. Goode bass jam",
+            "notes": [
+                "bass jam"
+            ]
+        },
+        {
+            "type": "banter",
+            "text": "Well, there you have it",
+            "person": "Cobain"
+        },
+        {
+            "type": "song",
+            "text": "Polly",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "Big Cheese",
+            "notes": []
+        },
+        {
+            "type": "banter",
+            "text": "Thank you",
+            "person": "Cobain"
+        },
+        {
+            "type": "jam",
+            "text": "jam bass jam",
+            "notes": [
+                "bass jam"
+            ]
+        },
+        {
+            "type": "banter",
+            "text": "Hello French' French people, y'all from France? Y'all from France, ever been there? It's really weird!",
+            "person": "Novoselic"
+        },
+        {
+            "type": "song",
+            "text": "Spank Thru",
+            "notes": []
+        },
+        {
+            "type": "banter",
+            "text": "?? ??",
+            "person": "Channing"
+        },
+        {
+            "type": "song",
+            "text": "About A Girl",
+            "notes": []
+        },
+        {
+            "type": "banter",
+            "text": "Donkey show",
+            "person": "Cobain"
+        },
+        {
+            "type": "song",
+            "text": "Breed",
+            "notes": []
+        },
+        {
+            "type": "banter",
+            "text": "Thanks",
+            "person": "Cobain"
+        },
+        {
+            "type": "song",
+            "text": "Been A Son",
+            "notes": []
+        },
+        {
+            "type": "banter",
+            "text": "This is another song off of our EP",
+            "person": "Cobain"
+        },
+        {
+            "type": "song",
+            "text": "Stain",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "Negative Creep",
+            "notes": []
+        },
+        {
+            "type": "banter",
+            "text": "Thank you for coming this evening",
+            "person": "Cobain"
+        },
+        {
+            "type": "banter",
+            "text": "You have been good boys and girls!",
+            "person": "Channing"
+        },
+        {
+            "type": "banter",
+            "text": "Good night and god bless",
+            "person": "Cobain"
+        },
+        {
+            "type": "song",
+            "text": "Blew",
+            "notes": []
+        },
+        {
+            "type": "banter",
+            "text": "Well thank you and good night",
+            "person": "Cobain"
+        },
+        {
+            "type": "banter",
+            "text": "?? boys and girls",
+            "person": "Novoselic"
+        }
+    ],
+    "set_incomplete": false,
+    "transmission": {},
+    "rehearsel_circulating_sources": [],
+    "circulating_sources": [
+        {
+            "name": "AUD #1",
+            "complete": false,
+            "equipment": "Unknown > Unknown",
+            "generation": "ANA(M) > FLAC",
+            "video-generation": null,
+            "audio-generation": null,
+            "length-sound": "44 min / 9.0",
+            "notes": [
+                "First surfaced in March 2001 and in February 2012 the master tape was retransferred and circulated.",
+                "Does not include the soundcheck.",
+                "The opening jam, \"Dive\", \"Been A Son\" and \"Blew\" cuts in and has some cuts between songs.",
+                "\"About A Girl\" is missing due to tape flip.",
+                "Used for a broadcast on the French FM radio station Aligre."
+            ]
+        },
+        {
+            "name": "SBD #1",
+            "complete": false,
+            "equipment": "Soundboard > Unknown",
+            "generation": "ANA(M) > FLAC",
+            "video-generation": null,
+            "audio-generation": null,
+            "length-sound": "38 min / 9.0",
+            "notes": [
+                "Surfaced in November 2001.",
+                "Features 'About A Girl' and the 'Johnny B. Goode' jam which are not present on the AUD sources.",
+                "Does not include the soundcheck.",
+                "Missing the opening jam, \"Been A Son\" and \"Stain\".",
+                "\"School\", \"Floyd The Barber\", \"About A Girl\", \"Negative Creep\" cuts in slightly and \"Breed\" cuts out."
+            ]
+        },
+        {
+            "name": "AMT #1a",
+            "complete": true,
+            "equipment": "Unknown > Unknown",
+            "generation": "VHS(1) > AVI/FLAC",
+            "video-generation": null,
+            "audio-generation": null,
+            "length-sound": "45 min / 8.5",
+            "notes": [
+                "Amateur video, shot from Kurt's side of the stage.",
+                "More complete and of higher quality than AMT #1b but has digital errors in \"Planet Claire\" (jam), \"Love Buzz\", \"Scoff\", \"Dive\", \"About A Girl\" and \"Breed\".",
+                "The opening jam cuts in, \"School\" has a cut, \"Scoff\" cut's in, \"Stain\" has a cut and \"Blew\" cut's in.",
+                "Includes all of what is circulating from the soundcheck."
+            ]
+        },
+        {
+            "name": "AMT #1b",
+            "complete": false,
+            "equipment": "Unknown > Unknown",
+            "generation": "VHS(1) > MOV/FLAC",
+            "video-generation": null,
+            "audio-generation": null,
+            "length-sound": "10 min / 8.0",
+            "notes": [
+                "Amateur video, shot from Kurt's side of the stage.",
+                "Less complete and of lower quality than AMT #1a but without digital errors in \"Love Buzz\" and \"Dive\".",
+                "Released by the venue on their website as two MOV files.",
+                "Includes only \"Love Buzz\" and \"Dive\"."
+            ]
+        }
+    ],
+    "uncirculated_sources": [
+        {
+            "name": "AMT #2",
+            "note": "In the circulating amateur video, someone in the front row of the audience can be seen using what may be a video recorder (possibly Super 8)."
+        }
+    ],
+    "notes": [
+        "During soundcheck, Krist jammed on The B-52's \"Planet Claire,\" which sounds very similar to Henry Mancini's \"Peter Gunn Theme.\" During the jam, both Mancini and \"Planet Claire\" were mentioned, but it appears that Krist was intending to play \"Planet Claire\" due to the show being recorded for a radio show called Planet Claire on Aligre FM and his own clarification after someone whistled the melody to the \"Peter Gunn Theme.\"",
+        "The band started the show with a more structured jam than the usual opening noise.",
+        "Before \"Polly\", Krist and Chad jammed briefly on Chuck Berry's \"Johnny B. Goode\" and George Thorogood and the Destroyers' \"Bad To The Bone.\""
+    ],
+    "press": [],
+    "memorabilia": [
+        {
+            "url": "/concerts/images/1989/1989-12-01/1989-12-01_01.jpg",
+            "caption": "Handbill/Flyer, designed by unknown"
+        },
+        {
+            "url": "/concerts/images/1989/1989-12-01/1989-12-01_02.jpg",
+            "caption": "Handbill/Flyer, designed by unknown"
+        },
+        {
+            "url": "/concerts/images/1989/1989-12-01/1989-12-01_03.jpg",
+            "caption": "Ticket"
+        },
+        {
+            "url": "/concerts/images/1989/1989-12-01/1989-12-01_04.jpg",
+            "caption": "Nirvana's tour itinerary"
+        },
+        {
+            "url": "/concerts/images/1989/1989-12-01/1989-12-01_05.jpg",
+            "caption": "Nirvana's tour itinerary"
+        },
+        {
+            "url": "/concerts/images/1989/1989-12-01/1989-12-01_06.jpg",
+            "caption": "Nirvana's tour itinerary"
+        }
+    ],
+    "images": [
+        {
+            "url": "/concerts/images/1989/1989-12-01/1989-12-01_001.jpg",
+            "caption": "Photo by Catherine Charles"
+        },
+        {
+            "url": "/concerts/images/1989/1989-12-01/1989-12-01_002.jpg",
+            "caption": "Photo by Catherine Charles"
+        },
+        {
+            "url": "/concerts/images/1989/1989-12-01/1989-12-01_003.jpg",
+            "caption": "Screencap of AMT #1"
+        },
+        {
+            "url": "/concerts/images/1989/1989-12-01/1989-12-01_004.jpg",
+            "caption": "Screencap of AMT #1"
+        },
+        {
+            "url": "/concerts/images/1989/1989-12-01/1989-12-01_005.jpg",
+            "caption": "Screencap of AMT #1"
+        },
+        {
+            "url": "/concerts/images/1989/1989-12-01/1989-12-01_006.jpg",
+            "caption": "Screencap of AMT #1"
+        },
+        {
+            "url": "/concerts/images/1989/1989-12-01/1989-12-01_007.jpg",
+            "caption": "Screencap of AMT #1"
+        }
+    ],
+    "navigation": {
+        "previous": "89-11-30",
+        "next": "89-12-02"
+    },
+    "graph": {
+        "bleach": "8",
+        "nevermind": "2",
+        "inutero": "0",
+        "non": "6"
+    }
+}

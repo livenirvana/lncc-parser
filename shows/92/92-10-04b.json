@@ -1,0 +1,159 @@
+{
+    "year": "1992",
+    "month": "10",
+    "day": "04",
+    "band": [
+        {
+            "Mudhoney": [
+                {
+                    "name": "Mark Arm ",
+                    "duty": "vocals"
+                },
+                {
+                    "name": "Steve Turner ",
+                    "duty": "guitar"
+                },
+                {
+                    "name": "Matt Lukin ",
+                    "duty": "bass"
+                },
+                {
+                    "name": "Dan Peters ",
+                    "duty": "drums"
+                }
+            ],
+            "type": "group"
+        },
+        {
+            "name": "Kurt Cobain ",
+            "duty": "guitar",
+            "type": "person"
+        }
+    ],
+    "crew": [
+        {
+            "name": "Bob Whittaker",
+            "duty": "tour manager"
+        },
+        {
+            "name": "Craig Montgomery",
+            "duty": "sound engineer"
+        },
+        {
+            "name": "Jim Anderson",
+            "duty": "monitor engineer"
+        }
+    ],
+    "buyer": {
+        "names": [
+            "Stephanie Dorgan"
+        ]
+    },
+    "schedule": [
+        {
+            "event": "Load In",
+            "time": "…:…"
+        },
+        {
+            "event": "Soundcheck",
+            "time": "…:…"
+        },
+        {
+            "event": "Doors",
+            "time": "…:…"
+        },
+        {
+            "event": "NIRVANA Showtime",
+            "time": "…:…"
+        },
+        {
+            "event": "Mudhoney Showtime",
+            "time": "…:…"
+        }
+    ],
+    "soundcheck": [],
+    "soundcheck_incomplete": false,
+    "set": [
+        {
+            "type": "song",
+            "text": "The Money Will Roll Right In",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "Fix Me",
+            "notes": []
+        }
+    ],
+    "set_incomplete": true,
+    "transmission": {},
+    "rehearsel_circulating_sources": [],
+    "circulating_sources": [],
+    "uncirculated_sources": [
+        {
+            "name": "AMT #1",
+            "note": "It is rumored that MTV has the entire show."
+        },
+        {
+            "name": "AMT #2",
+            "note": "Shot by Shelli Novoselic."
+        }
+    ],
+    "notes": [
+        "During Mudhoney's encore, Kurt came onstage and played guitar on some punk covers, including Fang's \"The Money Will Roll Right In\" and Black Flag's \"Fix Me.\""
+    ],
+    "press": [],
+    "memorabilia": [],
+    "images": [
+        {
+            "url": "/concerts/images/1992/1992-10-04r/1992-10-04r_001.jpg",
+            "caption": "Photo by Charles Peterson"
+        },
+        {
+            "url": "/concerts/images/1992/1992-10-04r/1992-10-04r_002.jpg",
+            "caption": "Unknown photographer"
+        },
+        {
+            "url": "/concerts/images/1992/1992-10-04r/1992-10-04r_003.jpg",
+            "caption": "Photo by Charles Peterson"
+        },
+        {
+            "url": "/concerts/images/1992/1992-10-04r/1992-10-04r_004.jpg",
+            "caption": "Photo by Charles Peterson"
+        },
+        {
+            "url": "/concerts/images/1992/1992-10-04r/1992-10-04r_005.jpg",
+            "caption": "Photo by Charles Peterson"
+        },
+        {
+            "url": "/concerts/images/1992/1992-10-04r/1992-10-04r_006.jpg",
+            "caption": "Photo by Charles Peterson"
+        },
+        {
+            "url": "/concerts/images/1992/1992-10-04r/1992-10-04r_007.jpg",
+            "caption": "Photo by Charles Peterson"
+        },
+        {
+            "url": "/concerts/images/1992/1992-10-04r/1992-10-04r_008.jpg",
+            "caption": "Photo by Charles Peterson"
+        },
+        {
+            "url": "/concerts/images/1992/1992-10-04r/1992-10-04r_009.jpg",
+            "caption": "Unknown photographer"
+        },
+        {
+            "url": "/concerts/images/1992/1992-10-04r/1992-10-04r_010.jpg",
+            "caption": "Photo by Eric Reynolds"
+        }
+    ],
+    "navigation": {
+        "previous": "92-10-04a",
+        "next": "92-10-29"
+    },
+    "graph": {
+        "bleach": "0",
+        "nevermind": "0",
+        "inutero": "0",
+        "non": "2"
+    }
+}

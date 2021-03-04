@@ -1,0 +1,633 @@
+{
+    "year": "1991",
+    "month": "12",
+    "day": "27",
+    "band": [
+        {
+            "NIRVANA": [
+                {
+                    "name": "Kurt Cobain ",
+                    "duty": "vocals, guitar"
+                },
+                {
+                    "name": "Krist Novoselic ",
+                    "duty": "bass"
+                },
+                {
+                    "name": "Dave Grohl ",
+                    "duty": "drums, backing vocals"
+                }
+            ],
+            "type": "group"
+        }
+    ],
+    "crew": [
+        {
+            "name": "Alex MacLeod",
+            "duty": "tour manager"
+        },
+        {
+            "name": "Susanne Sasic",
+            "duty": "lighting designer"
+        },
+        {
+            "name": "Craig Montgomery",
+            "duty": "sound engineer"
+        },
+        {
+            "name": "Barrett Jones",
+            "duty": "monitor engineer & drum technician"
+        },
+        {
+            "name": "Nic Close",
+            "duty": "guitar technician"
+        }
+    ],
+    "buyer": {
+        "names": [
+            "No Info"
+        ],
+        "company": "Goldenvoice"
+    },
+    "schedule": [
+        {
+            "event": "Load In",
+            "time": "…:…"
+        },
+        {
+            "event": "Soundcheck",
+            "time": "…:…"
+        },
+        {
+            "event": "Doors",
+            "time": "20:00"
+        },
+        {
+            "event": "Pearl Jam Showtime",
+            "time": "…:…"
+        },
+        {
+            "event": "NIRVANA Showtime",
+            "time": "…:…"
+        },
+        {
+            "event": "Red Hot Chili Peppers Showtime",
+            "time": "…:…"
+        }
+    ],
+    "soundcheck": [],
+    "soundcheck_incomplete": false,
+    "set": [
+        {
+            "type": "song",
+            "text": "Baba O'Riley",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "Smells Like Teen Spirit",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "Lithium",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "Come As You Are",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "Breed",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "Territorial Pissings",
+            "notes": []
+        }
+    ],
+    "set_incomplete": true,
+    "transmission": {},
+    "rehearsel_circulating_sources": [],
+    "circulating_sources": [],
+    "uncirculated_sources": [],
+    "notes": [
+        "Review from Los Angeles Times newspaper published in 1991.",
+        "Review from Los Angeles Times newspaper published in 1991."
+    ],
+    "press": [
+        {
+            "text": "Review from Los Angeles Times newspaper published in 1991.",
+            "url": "/concerts/images/1991/1991-12-27/1991-12-27_01_review.jpg"
+        },
+        {
+            "text": "Review from Los Angeles Times newspaper published in 1991.",
+            "url": "/concerts/images/1991/1991-12-27/1991-12-27_02_review.jpg"
+        }
+    ],
+    "memorabilia": [
+        {
+            "url": "/concerts/images/1991/1991-12-27/1991-12-27_01.jpg",
+            "caption": "Handbill/Flyer, designed by unknown"
+        },
+        {
+            "url": "/concerts/images/1991/1991-12-27/1991-12-27_02.jpg",
+            "caption": "Ticket"
+        },
+        {
+            "url": "/concerts/images/1991/1991-12-27/1991-12-27_03.jpg",
+            "caption": "Ticket"
+        },
+        {
+            "url": "/concerts/images/1991/1991-12-27/1991-12-27_04.jpg",
+            "caption": "Advert"
+        }
+    ],
+    "images": [
+        {
+            "url": "/concerts/images/1991/1991-12-27/1991-12-27_001.jpg",
+            "caption": "Photo by Lisa Johnson"
+        },
+        {
+            "url": "/concerts/images/1991/1991-12-27/1991-12-27_002.jpg",
+            "caption": "Photo by Neil Zlozower"
+        },
+        {
+            "url": "/concerts/images/1991/1991-12-27/1991-12-27_003.jpg",
+            "caption": "Photo by Neil Zlozower"
+        },
+        {
+            "url": "/concerts/images/1991/1991-12-27/1991-12-27_004.jpg",
+            "caption": "Photo by Lynn McAfee"
+        },
+        {
+            "url": "/concerts/images/1991/1991-12-27/1991-12-27_005.jpg",
+            "caption": "Photo by Jeffrey Mayer"
+        },
+        {
+            "url": "/concerts/images/1991/1991-12-27/1991-12-27_006.jpg",
+            "caption": "Photo by Jeffrey Mayer"
+        },
+        {
+            "url": "/concerts/images/1991/1991-12-27/1991-12-27_007.jpg",
+            "caption": "Photo by Neil Zlozower"
+        },
+        {
+            "url": "/concerts/images/1991/1991-12-27/1991-12-27_008.jpg",
+            "caption": "Unknown photographer"
+        },
+        {
+            "url": "/concerts/images/1991/1991-12-27/1991-12-27_009.jpg",
+            "caption": "Photo by Lynn McAfee"
+        },
+        {
+            "url": "/concerts/images/1991/1991-12-27/1991-12-27_010.jpg",
+            "caption": "Unknown photographer"
+        },
+        {
+            "url": "/concerts/images/1991/1991-12-27/1991-12-27_011.jpg",
+            "caption": "Photo by Bertrand Alary"
+        },
+        {
+            "url": "/concerts/images/1991/1991-12-27/1991-12-27_012.jpg",
+            "caption": "Photo by Annamaria Disanto"
+        },
+        {
+            "url": "/concerts/images/1991/1991-12-27/1991-12-27_013.jpg",
+            "caption": "Photo by Jeffrey Mayer"
+        },
+        {
+            "url": "/concerts/images/1991/1991-12-27/1991-12-27_014.jpg",
+            "caption": "Photo by Neil Zlozower"
+        },
+        {
+            "url": "/concerts/images/1991/1991-12-27/1991-12-27_015.jpg",
+            "caption": "Photo by Neil Zlozower"
+        },
+        {
+            "url": "/concerts/images/1991/1991-12-27/1991-12-27_016.jpg",
+            "caption": "Photo by J.Connard"
+        },
+        {
+            "url": "/concerts/images/1991/1991-12-27/1991-12-27_017.jpg",
+            "caption": "Unknown photographer"
+        },
+        {
+            "url": "/concerts/images/1991/1991-12-27/1991-12-27_018.jpg",
+            "caption": "Unknown photographer"
+        },
+        {
+            "url": "/concerts/images/1991/1991-12-27/1991-12-27_019.jpg",
+            "caption": "Unknown photographer"
+        },
+        {
+            "url": "/concerts/images/1991/1991-12-27/1991-12-27_020.jpg",
+            "caption": "Photo by Mike Hashimoto"
+        },
+        {
+            "url": "/concerts/images/1991/1991-12-27/1991-12-27_021.jpg",
+            "caption": "Unknown photographer"
+        },
+        {
+            "url": "/concerts/images/1991/1991-12-27/1991-12-27_022.jpg",
+            "caption": "Photo by Jeffrey Mayer"
+        },
+        {
+            "url": "/concerts/images/1991/1991-12-27/1991-12-27_023.jpg",
+            "caption": "Photo by Jeffrey Mayer"
+        },
+        {
+            "url": "/concerts/images/1991/1991-12-27/1991-12-27_024.jpg",
+            "caption": "Photo by Michael Hashimoto"
+        },
+        {
+            "url": "/concerts/images/1991/1991-12-27/1991-12-27_025.jpg",
+            "caption": "Photo by Barry King"
+        },
+        {
+            "url": "/concerts/images/1991/1991-12-27/1991-12-27_026.jpg",
+            "caption": "Photo by Annamaria DiSanto"
+        },
+        {
+            "url": "/concerts/images/1991/1991-12-27/1991-12-27_027.jpg",
+            "caption": "Photo by Lisa Johnson"
+        },
+        {
+            "url": "/concerts/images/1991/1991-12-27/1991-12-27_028.jpg",
+            "caption": "Photo by Neil Zlozower"
+        },
+        {
+            "url": "/concerts/images/1991/1991-12-27/1991-12-27_029.jpg",
+            "caption": "Unknown photographer"
+        },
+        {
+            "url": "/concerts/images/1991/1991-12-27/1991-12-27_030.jpg",
+            "caption": "Photo by Jeffrey Mayer"
+        },
+        {
+            "url": "/concerts/images/1991/1991-12-27/1991-12-27_031.jpg",
+            "caption": "Photo by Jeffrey Mayer"
+        },
+        {
+            "url": "/concerts/images/1991/1991-12-27/1991-12-27_032.jpg",
+            "caption": "Photo by Barry King"
+        },
+        {
+            "url": "/concerts/images/1991/1991-12-27/1991-12-27_033.jpg",
+            "caption": "Photo by Jeffrey Mayer"
+        },
+        {
+            "url": "/concerts/images/1991/1991-12-27/1991-12-27_034.jpg",
+            "caption": "Photo by Jeffrey Mayer"
+        },
+        {
+            "url": "/concerts/images/1991/1991-12-27/1991-12-27_035.jpg",
+            "caption": "Photo by Jeffrey Mayer"
+        },
+        {
+            "url": "/concerts/images/1991/1991-12-27/1991-12-27_036.jpg",
+            "caption": "Photo by Jeffrey Mayer"
+        },
+        {
+            "url": "/concerts/images/1991/1991-12-27/1991-12-27_037.jpg",
+            "caption": "Photo by Jeffrey Mayer"
+        },
+        {
+            "url": "/concerts/images/1991/1991-12-27/1991-12-27_038.jpg",
+            "caption": "Unknown photographer"
+        },
+        {
+            "url": "/concerts/images/1991/1991-12-27/1991-12-27_039.jpg",
+            "caption": "Photo by Nancie Hemminger"
+        },
+        {
+            "url": "/concerts/images/1991/1991-12-27/1991-12-27_040.jpg",
+            "caption": "Photo by Nancie Hemminger"
+        },
+        {
+            "url": "/concerts/images/1991/1991-12-27/1991-12-27_041.jpg",
+            "caption": "Photo by Bertrand Alary"
+        },
+        {
+            "url": "/concerts/images/1991/1991-12-27/1991-12-27_042.jpg",
+            "caption": "Photo by Bertrand Alary"
+        },
+        {
+            "url": "/concerts/images/1991/1991-12-27/1991-12-27_043.jpg",
+            "caption": "Photo by Bertrand Alary"
+        },
+        {
+            "url": "/concerts/images/1991/1991-12-27/1991-12-27_044.jpg",
+            "caption": "Photo by Mike Hashimoto"
+        },
+        {
+            "url": "/concerts/images/1991/1991-12-27/1991-12-27_045.jpg",
+            "caption": "Photo by Jeffrey Mayer"
+        },
+        {
+            "url": "/concerts/images/1991/1991-12-27/1991-12-27_046.jpg",
+            "caption": "Photo by Jeffrey Mayer"
+        },
+        {
+            "url": "/concerts/images/1991/1991-12-27/1991-12-27_047.jpg",
+            "caption": "Unknown photographer"
+        },
+        {
+            "url": "/concerts/images/1991/1991-12-27/1991-12-27_048.jpg",
+            "caption": "Photo by Jeffrey Mayer"
+        },
+        {
+            "url": "/concerts/images/1991/1991-12-27/1991-12-27_049.jpg",
+            "caption": "Photo by Jeffrey Mayer"
+        },
+        {
+            "url": "/concerts/images/1991/1991-12-27/1991-12-27_050.jpg",
+            "caption": "Photo by Jeffrey Mayer"
+        },
+        {
+            "url": "/concerts/images/1991/1991-12-27/1991-12-27_051.jpg",
+            "caption": "Photo by Jeffrey Mayer"
+        },
+        {
+            "url": "/concerts/images/1991/1991-12-27/1991-12-27_052.jpg",
+            "caption": "Unknown photographer"
+        },
+        {
+            "url": "/concerts/images/1991/1991-12-27/1991-12-27_053.jpg",
+            "caption": "Unknown photographer"
+        },
+        {
+            "url": "/concerts/images/1991/1991-12-27/1991-12-27_054.jpg",
+            "caption": "Unknown photographer"
+        },
+        {
+            "url": "/concerts/images/1991/1991-12-27/1991-12-27_055.jpg",
+            "caption": "Unknown photographer"
+        },
+        {
+            "url": "/concerts/images/1991/1991-12-27/1991-12-27_056.jpg",
+            "caption": "Unknown photographer"
+        },
+        {
+            "url": "/concerts/images/1991/1991-12-27/1991-12-27_057.jpg",
+            "caption": "Unknown photographer"
+        },
+        {
+            "url": "/concerts/images/1991/1991-12-27/1991-12-27_058.jpg",
+            "caption": "Unknown photographer"
+        },
+        {
+            "url": "/concerts/images/1991/1991-12-27/1991-12-27_059.jpg",
+            "caption": "Unknown photographer"
+        },
+        {
+            "url": "/concerts/images/1991/1991-12-27/1991-12-27_060.jpg",
+            "caption": "Unknown photographer"
+        },
+        {
+            "url": "/concerts/images/1991/1991-12-27/1991-12-27_061.jpg",
+            "caption": "Unknown photographer"
+        },
+        {
+            "url": "/concerts/images/1991/1991-12-27/1991-12-27_062.jpg",
+            "caption": "Unknown photographer"
+        },
+        {
+            "url": "/concerts/images/1991/1991-12-27/1991-12-27_063.jpg",
+            "caption": "Unknown photographer"
+        },
+        {
+            "url": "/concerts/images/1991/1991-12-27/1991-12-27_064.jpg",
+            "caption": "Unknown photographer"
+        },
+        {
+            "url": "/concerts/images/1991/1991-12-27/1991-12-27_065.jpg",
+            "caption": "Unknown photographer"
+        },
+        {
+            "url": "/concerts/images/1991/1991-12-27/1991-12-27_066.jpg",
+            "caption": "Unknown photographer"
+        },
+        {
+            "url": "/concerts/images/1991/1991-12-27/1991-12-27_067.jpg",
+            "caption": "Unknown photographer"
+        },
+        {
+            "url": "/concerts/images/1991/1991-12-27/1991-12-27_068.jpg",
+            "caption": "Unknown photographer"
+        },
+        {
+            "url": "/concerts/images/1991/1991-12-27/1991-12-27_069.jpg",
+            "caption": "Unknown photographer"
+        },
+        {
+            "url": "/concerts/images/1991/1991-12-27/1991-12-27_070.jpg",
+            "caption": "Photo by Bertrand Alary"
+        },
+        {
+            "url": "/concerts/images/1991/1991-12-27/1991-12-27_071.jpg",
+            "caption": "Photo by Bertrand Alary"
+        },
+        {
+            "url": "/concerts/images/1991/1991-12-27/1991-12-27_072.jpg",
+            "caption": "Photo by Bertrand Alary"
+        },
+        {
+            "url": "/concerts/images/1991/1991-12-27/1991-12-27_073.jpg",
+            "caption": "Photo by Nancie Hemminger"
+        },
+        {
+            "url": "/concerts/images/1991/1991-12-27/1991-12-27_074.jpg",
+            "caption": "Photo by Jeffrey Mayer"
+        },
+        {
+            "url": "/concerts/images/1991/1991-12-27/1991-12-27_075.jpg",
+            "caption": "Photo by Jeffrey Mayer"
+        },
+        {
+            "url": "/concerts/images/1991/1991-12-27/1991-12-27_076.jpg",
+            "caption": "Photo by Lynn McAfee"
+        },
+        {
+            "url": "/concerts/images/1991/1991-12-27/1991-12-27_077.jpg",
+            "caption": "Photo by Jeffrey Mayer"
+        },
+        {
+            "url": "/concerts/images/1991/1991-12-27/1991-12-27_078.jpg",
+            "caption": "Photo by Lori Shepler"
+        },
+        {
+            "url": "/concerts/images/1991/1991-12-27/1991-12-27_079.jpg",
+            "caption": "Unknown photographer"
+        },
+        {
+            "url": "/concerts/images/1991/1991-12-27/1991-12-27_080.jpg",
+            "caption": "Unknown photographer"
+        },
+        {
+            "url": "/concerts/images/1991/1991-12-27/1991-12-27_081.jpg",
+            "caption": "Photo by Jeffrey Mayer"
+        },
+        {
+            "url": "/concerts/images/1991/1991-12-27/1991-12-27_082.jpg",
+            "caption": "Photo by Jeffrey Mayer"
+        },
+        {
+            "url": "/concerts/images/1991/1991-12-27/1991-12-27_083.jpg",
+            "caption": "Photo by Mike Hashimoto"
+        },
+        {
+            "url": "/concerts/images/1991/1991-12-27/1991-12-27_084.jpg",
+            "caption": "Unknown photographer"
+        },
+        {
+            "url": "/concerts/images/1991/1991-12-27/1991-12-27_085.jpg",
+            "caption": "Photo by Jeffrey Mayer"
+        },
+        {
+            "url": "/concerts/images/1991/1991-12-27/1991-12-27_086.jpg",
+            "caption": "Photo by Barry King"
+        },
+        {
+            "url": "/concerts/images/1991/1991-12-27/1991-12-27_087.jpg",
+            "caption": "Photo by Barry King"
+        },
+        {
+            "url": "/concerts/images/1991/1991-12-27/1991-12-27_088.jpg",
+            "caption": "Photo by Barry King"
+        },
+        {
+            "url": "/concerts/images/1991/1991-12-27/1991-12-27_089.jpg",
+            "caption": "Photo by Barry King"
+        },
+        {
+            "url": "/concerts/images/1991/1991-12-27/1991-12-27_090.jpg",
+            "caption": "Photo by Barry King"
+        },
+        {
+            "url": "/concerts/images/1991/1991-12-27/1991-12-27_091.jpg",
+            "caption": "Photo by Barry King"
+        },
+        {
+            "url": "/concerts/images/1991/1991-12-27/1991-12-27_092.jpg",
+            "caption": "Photo by Barry King"
+        },
+        {
+            "url": "/concerts/images/1991/1991-12-27/1991-12-27_093.jpg",
+            "caption": "Photo by Barry King"
+        },
+        {
+            "url": "/concerts/images/1991/1991-12-27/1991-12-27_094.jpg",
+            "caption": "Photo by Barry King"
+        },
+        {
+            "url": "/concerts/images/1991/1991-12-27/1991-12-27_095.jpg",
+            "caption": "Photo by Barry King"
+        },
+        {
+            "url": "/concerts/images/1991/1991-12-27/1991-12-27_096.jpg",
+            "caption": "Photo by Barry King"
+        },
+        {
+            "url": "/concerts/images/1991/1991-12-27/1991-12-27_097.jpg",
+            "caption": "Photo by Barry King"
+        },
+        {
+            "url": "/concerts/images/1991/1991-12-27/1991-12-27_098.jpg",
+            "caption": "Photo by Barry King"
+        },
+        {
+            "url": "/concerts/images/1991/1991-12-27/1991-12-27_099.jpg",
+            "caption": "Photo by Barry King"
+        },
+        {
+            "url": "/concerts/images/1991/1991-12-27/1991-12-27_100.jpg",
+            "caption": "Photo by Barry King"
+        },
+        {
+            "url": "/concerts/images/1991/1991-12-27/1991-12-27_101.jpg",
+            "caption": "Photo by Barry King"
+        },
+        {
+            "url": "/concerts/images/1991/1991-12-27/1991-12-27_102.jpg",
+            "caption": "Photo by Barry King"
+        },
+        {
+            "url": "/concerts/images/1991/1991-12-27/1991-12-27_103.jpg",
+            "caption": "Photo by Barry King"
+        },
+        {
+            "url": "/concerts/images/1991/1991-12-27/1991-12-27_104.jpg",
+            "caption": "Photo by Barry King"
+        },
+        {
+            "url": "/concerts/images/1991/1991-12-27/1991-12-27_105.jpg",
+            "caption": "Photo by Barry King"
+        },
+        {
+            "url": "/concerts/images/1991/1991-12-27/1991-12-27_106.jpg",
+            "caption": "Photo by Barry King"
+        },
+        {
+            "url": "/concerts/images/1991/1991-12-27/1991-12-27_107.jpg",
+            "caption": "Photo by Barry King"
+        },
+        {
+            "url": "/concerts/images/1991/1991-12-27/1991-12-27_108.jpg",
+            "caption": "Photo by Barry King"
+        },
+        {
+            "url": "/concerts/images/1991/1991-12-27/1991-12-27_109.jpg",
+            "caption": "Photo by Barry King"
+        },
+        {
+            "url": "/concerts/images/1991/1991-12-27/1991-12-27_110.jpg",
+            "caption": "Photo by Barry King"
+        },
+        {
+            "url": "/concerts/images/1991/1991-12-27/1991-12-27_111.jpg",
+            "caption": "Photo by Barry King"
+        },
+        {
+            "url": "/concerts/images/1991/1991-12-27/1991-12-27_112.jpg",
+            "caption": "Photo by Barry King"
+        },
+        {
+            "url": "/concerts/images/1991/1991-12-27/1991-12-27_113.jpg",
+            "caption": "Photo by Jeffrey Mayer"
+        },
+        {
+            "url": "/concerts/images/1991/1991-12-27/1991-12-27_114.jpg",
+            "caption": "Photo by Jeffrey Mayer"
+        },
+        {
+            "url": "/concerts/images/1991/1991-12-27/1991-12-27_115.jpg",
+            "caption": "Unknown photographer"
+        },
+        {
+            "url": "/concerts/images/1991/1991-12-27/1991-12-27_116.jpg",
+            "caption": "Photo by Jeffrey Mayer"
+        },
+        {
+            "url": "/concerts/images/1991/1991-12-27/1991-12-27_117.jpg",
+            "caption": "Photo by Jeffrey Mayer"
+        },
+        {
+            "url": "/concerts/images/1991/1991-12-27/1991-12-27_118.jpg",
+            "caption": "Photo by Lynn McAfee"
+        }
+    ],
+    "navigation": {
+        "previous": "91-12-07",
+        "next": "91-12-28"
+    },
+    "graph": {
+        "bleach": "0",
+        "nevermind": "5",
+        "inutero": "0",
+        "non": "1"
+    }
+}

@@ -1,0 +1,409 @@
+{
+    "year": "1993",
+    "month": "11",
+    "day": "05",
+    "band": [
+        {
+            "NIRVANA": [
+                {
+                    "name": "Kurt Cobain ",
+                    "duty": "vocals, guitar"
+                },
+                {
+                    "name": "Krist Novoselic ",
+                    "duty": "bass"
+                },
+                {
+                    "name": "Dave Grohl ",
+                    "duty": "drums, backing vocals"
+                },
+                {
+                    "name": "Pat Smear ",
+                    "duty": "guitar"
+                },
+                {
+                    "name": "Lori Goldston ",
+                    "duty": "cello"
+                }
+            ],
+            "type": "group"
+        },
+        {
+            "name": "John Duncan ",
+            "duty": "guitar",
+            "type": "person"
+        },
+        {
+            "name": "Seiichi Yamamoto ",
+            "duty": "guitar",
+            "type": "person"
+        },
+        {
+            "name": "Yamatsuka Eye ",
+            "duty": "guitar",
+            "type": "person"
+        },
+        {
+            "name": "Yoshimi P-WE ",
+            "duty": "trumpet",
+            "type": "person"
+        }
+    ],
+    "crew": [
+        {
+            "name": "Alex MacLeod",
+            "duty": "tour manager"
+        },
+        {
+            "name": "Jeff Mason",
+            "duty": "production manager"
+        },
+        {
+            "name": "Kelly Nase",
+            "duty": "tour accountant"
+        },
+        {
+            "name": "Susanne Sasic",
+            "duty": "lighting designer"
+        },
+        {
+            "name": "Craig Overbay",
+            "duty": "sound engineer"
+        },
+        {
+            "name": "Ian Beveridge",
+            "duty": "monitor engineer"
+        },
+        {
+            "name": "Jim Vincent",
+            "duty": "guitar technician"
+        },
+        {
+            "name": "John Duncan",
+            "duty": "guitar technician"
+        },
+        {
+            "name": "Mike Dalke",
+            "duty": "drum technician"
+        },
+        {
+            "name": "Ed Swink",
+            "duty": "stage manager"
+        },
+        {
+            "name": "Dave Stevens",
+            "duty": "Pro Show sound crew"
+        },
+        {
+            "name": "Allan Bagley",
+            "duty": "Pro Show sound crew"
+        },
+        {
+            "name": "Tom Pfaeffle",
+            "duty": "Pro Show sound crew"
+        },
+        {
+            "name": "Spike Brant",
+            "duty": "LSD lighting crew"
+        },
+        {
+            "name": "Mike Lamb",
+            "duty": "LSD lighting crew"
+        },
+        {
+            "name": "Pat Connolly",
+            "duty": "LSD lighting crew"
+        },
+        {
+            "name": "Gary Vaspol",
+            "duty": "LSD lighting crew"
+        }
+    ],
+    "buyer": {
+        "names": []
+    },
+    "schedule": [
+        {
+            "event": "Load In",
+            "time": "09:00"
+        },
+        {
+            "event": "Soundcheck",
+            "time": "15:30"
+        },
+        {
+            "event": "Doors",
+            "time": "18:00"
+        },
+        {
+            "event": "Boredoms Showtime",
+            "time": "19:30"
+        },
+        {
+            "event": "Meat Puppets Showtime",
+            "time": "20:15"
+        },
+        {
+            "event": "NIRVANA Showtime",
+            "time": "21:15"
+        }
+    ],
+    "soundcheck": [
+        {
+            "type": "song",
+            "text": "Radio Friendly Unit Shifter",
+            "notes": [
+                "Duncan on guitar and Yamamoto on guitar"
+            ]
+        }
+    ],
+    "soundcheck_incomplete": true,
+    "set": [
+        {
+            "type": "song",
+            "text": "Radio Friendly Unit Shifter",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "Drain You",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "Breed",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "Serve The Servants",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "About A Girl",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "Heart-Shaped Box",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "Sliver",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "Dumb",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "In Bloom",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "Come As You Are",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "Lithium",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "Pennyroyal Tea",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "School",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "Polly",
+            "notes": [
+                "acoustic"
+            ]
+        },
+        {
+            "type": "song",
+            "text": "Milk It",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "Rape Me",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "Territorial Pissings",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "All Apologies",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "Blew",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "On A Plain",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "Smells Like Teen Spirit",
+            "notes": [
+                "jam",
+                "Yamatsuka Eye on vocals and Yoshimi P-WE on trumpet"
+            ]
+        }
+    ],
+    "set_incomplete": false,
+    "transmission": {},
+    "rehearsel_circulating_sources": [],
+    "circulating_sources": [
+        {
+            "name": "AUD #1",
+            "complete": true,
+            "equipment": "Unknown > Unknown",
+            "generation": "ANA(x) > DAT(x) > FLAC",
+            "video-generation": null,
+            "audio-generation": null,
+            "length-sound": "90 min / 7.0",
+            "notes": [
+                "In June 2016 an unknown generation tape was circuladed. Although it is unknown generation, it's lower than previous \"ANA(2)\" versions.",
+                "Those were 2nd generation cassette copies of this DAT, processed with studio EQ and effects at the DAT to cassette dubbing stage.",
+                "There are short dropouts during \"In Bloom\" and just before \"Blew\"."
+            ]
+        },
+        {
+            "name": "AMT CLIP #1",
+            "complete": false,
+            "equipment": "Unknown > Unknown",
+            "generation": "TV > VHS(x)",
+            "video-generation": null,
+            "audio-generation": null,
+            "length-sound": "44 sec / ??",
+            "notes": [
+                "Broadcasted in the Japanese TV documentary Music For Psychological Liberation.",
+                "Short clip of \"Radio Friendly Unit Shifter\" from the soundcheck and \"Smells Like Teen Spirit\" jam.",
+                "Not circulating widely."
+            ]
+        }
+    ],
+    "uncirculated_sources": [
+        {
+            "name": "SBD #1",
+            "note": "It is rumored that the show was recorded."
+        },
+        {
+            "name": "AMT #2",
+            "note": "It is rumored that the show was recorded."
+        },
+        {
+            "name": "AMT #3",
+            "note": "It is rumored that the show was recorded."
+        }
+    ],
+    "notes": [
+        "According to a newspaper review, Nirvana played for a crowd of about 7,500.",
+        "During the soundcheck, Krist, Pat, \"Big\" John Duncan, and the Boredoms' Yamamoto Seiichi jammed on \"Radio Friendly Unit Shifter.\"",
+        "Kurt stopped \"In Bloom\" to yell at the security staff for being rough with people in the front of the crowd.",
+        "Joined by the Boredoms, the Meat Puppets, and Cali DeWitt, the band jammed on \"Smells Like Teen Spirit\" at the end of the show, featuring horns and the Boredoms' Yamatsuka Eye on vocals."
+    ],
+    "press": [],
+    "memorabilia": [
+        {
+            "url": "/concerts/images/1993/1993-11-05/1993-11-05_01.jpg",
+            "caption": "Ticket"
+        },
+        {
+            "url": "/concerts/images/1993/1993-11-05/1993-11-05_02.jpg",
+            "caption": "Ticket"
+        },
+        {
+            "url": "/concerts/images/1993/1993-11-05/1993-11-05_03.jpg",
+            "caption": "Advert"
+        },
+        {
+            "url": "/concerts/images/1993/1993-11-05/1993-11-05_04.jpg",
+            "caption": "Advert"
+        },
+        {
+            "url": "concerts/images/1993/1993-11-05/1993-11-05_05.jpg",
+            "caption": "Nirvana's tour itinerary"
+        }
+    ],
+    "images": [
+        {
+            "url": "/concerts/images/1993/1993-11-05/1993-11-05_001.jpg",
+            "caption": "Photo by Nancy J. Parisi"
+        },
+        {
+            "url": "/concerts/images/1993/1993-11-05/1993-11-05_002.jpg",
+            "caption": "Unknown photographer"
+        },
+        {
+            "url": "/concerts/images/1993/1993-11-05/1993-11-05_003.jpg",
+            "caption": "Unknown photographer"
+        },
+        {
+            "url": "/concerts/images/1993/1993-11-05/1993-11-05_004.jpg",
+            "caption": "Unknown photographer"
+        },
+        {
+            "url": "/concerts/images/1993/1993-11-05/1993-11-05_005.jpg",
+            "caption": "Photo by Seiji Matsumoto"
+        },
+        {
+            "url": "/concerts/images/1993/1993-11-05/1993-11-05_006.jpg",
+            "caption": "Photo by Seiji Matsumoto"
+        },
+        {
+            "url": "/concerts/images/1993/1993-11-05/1993-11-05_007.jpg",
+            "caption": "Photo by Nancy J. Parisi"
+        },
+        {
+            "url": "/concerts/images/1993/1993-11-05/1993-11-05_008.jpg",
+            "caption": "Photo by Nancy J. Parisi"
+        },
+        {
+            "url": "/concerts/images/1993/1993-11-05/1993-11-05_009.jpg",
+            "caption": "Photo by Brad Edwards"
+        },
+        {
+            "url": "/concerts/images/1993/1993-11-05/1993-11-05_010.jpg",
+            "caption": "Photo by Matt Kopin"
+        },
+        {
+            "url": "/concerts/images/1993/1993-11-05/1993-11-05_011.jpg",
+            "caption": "Photo by Matt Kopin"
+        },
+        {
+            "url": "/concerts/images/1993/1993-11-05/1993-11-05_012.jpg",
+            "caption": "Photo by Matt Kopin"
+        }
+    ],
+    "navigation": {
+        "previous": "93-11-04",
+        "next": "93-11-07"
+    },
+    "graph": {
+        "bleach": "1",
+        "nevermind": "1",
+        "inutero": "1",
+        "non": "1"
+    }
+}

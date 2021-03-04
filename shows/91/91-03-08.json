@@ -1,0 +1,329 @@
+{
+    "year": "1991",
+    "month": "03",
+    "day": "08",
+    "band": [
+        {
+            "NIRVANA": [
+                {
+                    "name": "Kurt Cobain ",
+                    "duty": "vocals, guitar"
+                },
+                {
+                    "name": "Krist Novoselic ",
+                    "duty": "bass, vocals"
+                },
+                {
+                    "name": "Dave Grohl ",
+                    "duty": "drums"
+                }
+            ],
+            "type": "group"
+        }
+    ],
+    "crew": [],
+    "buyer": {
+        "names": [
+            "Grant Lawrence"
+        ],
+        "company": "CiTR"
+    },
+    "schedule": [
+        {
+            "event": "Load In",
+            "time": "…:…"
+        },
+        {
+            "event": "Soundcheck",
+            "time": "…:…"
+        },
+        {
+            "event": "Doors",
+            "time": "20:00"
+        },
+        {
+            "event": "Wongs Showtime",
+            "time": "…:…"
+        },
+        {
+            "event": "Doughboys Showtime",
+            "time": "…:…"
+        },
+        {
+            "event": "NIRVANA Showtime",
+            "time": "…:…"
+        },
+        {
+            "event": "Screaming Trees Showtime",
+            "time": "…:…"
+        }
+    ],
+    "soundcheck": [],
+    "soundcheck_incomplete": false,
+    "set": [
+        {
+            "type": "song",
+            "text": "Love Buzz",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "Sliver",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "Dive",
+            "notes": [
+                "Novoselic briefly on vocals"
+            ]
+        },
+        {
+            "type": "song",
+            "text": "Floyd The Barber",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "Breed",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "Scoff",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "About A Girl",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "School",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "Been A Son",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "Negative Creep",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "Blew",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "Lithium",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "Molly's Lips",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "Spank Thru",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "Territorial Pissings",
+            "notes": []
+        }
+    ],
+    "set_incomplete": false,
+    "transmission": {},
+    "rehearsel_circulating_sources": [],
+    "circulating_sources": [
+        {
+            "name": "AUD #1",
+            "complete": true,
+            "equipment": "Sony PC-62 > Sony WM-D3",
+            "generation": "ANA(M) > DAT(2) > FLAC",
+            "video-generation": null,
+            "audio-generation": null,
+            "length-sound": "46 min / 9.0",
+            "notes": [
+                "\"Love Buzz\" cuts in on all copies.",
+                "Older ANA(M) > DAT > ANA(1) versions of this source are also in circulation."
+            ]
+        },
+        {
+            "name": "AMT #1",
+            "complete": false,
+            "equipment": "Unknown > Unknown",
+            "generation": "Official Blu-ray Disc [Live At The Paramount]",
+            "video-generation": null,
+            "audio-generation": null,
+            "length-sound": "5 min / 8.5",
+            "notes": [
+                "Hidden tracks on the official Blu-ray and DVD releases.",
+                "Feature \"Breed\" which cuts in and is cut within, \"Scoff\", which cuts out after only a few seconds and \"Territorial Pissings\", which also cuts in.",
+                "The master tape is believed to have more songs."
+            ]
+        }
+    ],
+    "uncirculated_sources": [],
+    "notes": [
+        "Krist sang part of \"Dive.\""
+    ],
+    "press": [],
+    "memorabilia": [
+        {
+            "url": "/concerts/images/1991/1991-03-08/1991-03-08_01.jpg",
+            "caption": "Handbill/Flyer, designed by unknown"
+        },
+        {
+            "url": "/concerts/images/1991/1991-03-08/1991-03-08_02.jpg",
+            "caption": "Handbill/Flyer, designed by unknown"
+        },
+        {
+            "url": "/concerts/images/1991/1991-03-08/1991-03-08_03.jpg",
+            "caption": "Ticket"
+        },
+        {
+            "url": "/concerts/images/1991/1991-03-08/1991-03-08_04.jpg",
+            "caption": "Advert"
+        },
+        {
+            "url": "/concerts/images/1991/1991-03-08/1991-03-08_05.jpg",
+            "caption": "Advert"
+        },
+        {
+            "url": "/concerts/images/1991/1991-03-08/1991-03-08_06.jpg",
+            "caption": "Advert"
+        },
+        {
+            "url": "/concerts/images/1991/1991-03-08/1991-03-08_07.jpg",
+            "caption": "Handwritten setlist"
+        }
+    ],
+    "images": [
+        {
+            "url": "/concerts/images/1991/1991-03-08/1991-03-08_001.jpg",
+            "caption": "Photo by Charles Peterson"
+        },
+        {
+            "url": "/concerts/images/1991/1991-03-08/1991-03-08_002.jpg",
+            "caption": "Photo by Charles Peterson"
+        },
+        {
+            "url": "/concerts/images/1991/1991-03-08/1991-03-08_003.jpg",
+            "caption": "Photo by Charles Peterson"
+        },
+        {
+            "url": "/concerts/images/1991/1991-03-08/1991-03-08_004.jpg",
+            "caption": "Photo by Charles Peterson"
+        },
+        {
+            "url": "/concerts/images/1991/1991-03-08/1991-03-08_005.jpg",
+            "caption": "Photo by Charles Peterson"
+        },
+        {
+            "url": "/concerts/images/1991/1991-03-08/1991-03-08_006.jpg",
+            "caption": "Photo by Charles Peterson"
+        },
+        {
+            "url": "/concerts/images/1991/1991-03-08/1991-03-08_007.jpg",
+            "caption": "Photo by Charles Peterson"
+        },
+        {
+            "url": "/concerts/images/1991/1991-03-08/1991-03-08_008.jpg",
+            "caption": "Photo by Rebecca R."
+        },
+        {
+            "url": "/concerts/images/1991/1991-03-08/1991-03-08_009.jpg",
+            "caption": "Photo by Charles Peterson"
+        },
+        {
+            "url": "/concerts/images/1991/1991-03-08/1991-03-08_010.jpg",
+            "caption": "Photo by Charles Peterson"
+        },
+        {
+            "url": "/concerts/images/1991/1991-03-08/1991-03-08_011.jpg",
+            "caption": "Photo by Charles Peterson"
+        },
+        {
+            "url": "/concerts/images/1991/1991-03-08/1991-03-08_012.jpg",
+            "caption": "Photo by Charles Peterson"
+        },
+        {
+            "url": "/concerts/images/1991/1991-03-08/1991-03-08_013.jpg",
+            "caption": "Photo by Charles Peterson"
+        },
+        {
+            "url": "/concerts/images/1991/1991-03-08/1991-03-08_014.jpg",
+            "caption": "Photo by Charles Peterson"
+        },
+        {
+            "url": "/concerts/images/1991/1991-03-08/1991-03-08_015.jpg",
+            "caption": "Photo by Charles Peterson"
+        },
+        {
+            "url": "/concerts/images/1991/1991-03-08/1991-03-08_016.jpg",
+            "caption": "Photo by Charles Peterson"
+        },
+        {
+            "url": "/concerts/images/1991/1991-03-08/1991-03-08_017.jpg",
+            "caption": "Photo by Charles Peterson"
+        },
+        {
+            "url": "/concerts/images/1991/1991-03-08/1991-03-08_018.jpg",
+            "caption": "Photo by Charles Peterson"
+        },
+        {
+            "url": "/concerts/images/1991/1991-03-08/1991-03-08_019.jpg",
+            "caption": "Photo by Charles Peterson"
+        },
+        {
+            "url": "/concerts/images/1991/1991-03-08/1991-03-08_020.jpg",
+            "caption": "Photo by Charles Peterson"
+        },
+        {
+            "url": "/concerts/images/1991/1991-03-08/1991-03-08_021.jpg",
+            "caption": "Photo by Charles Peterson"
+        },
+        {
+            "url": "/concerts/images/1991/1991-03-08/1991-03-08_022.jpg",
+            "caption": "Photo by Charles Peterson"
+        },
+        {
+            "url": "/concerts/images/1991/1991-03-08/1991-03-08_023.jpg",
+            "caption": "Photo by Charles Peterson"
+        },
+        {
+            "url": "/concerts/images/1991/1991-03-08/1991-03-08_024.jpg",
+            "caption": "Photo by Charles Peterson"
+        },
+        {
+            "url": "/concerts/images/1991/1991-03-08/1991-03-08_025.jpg",
+            "caption": "Photo by Charles Peterson"
+        },
+        {
+            "url": "/concerts/images/1991/1991-03-08/1991-03-08_026.jpg",
+            "caption": "Photo by Charles Peterson"
+        },
+        {
+            "url": "/concerts/images/1991/1991-03-08/1991-03-08_027.jpg",
+            "caption": "Photo by Charles Peterson"
+        }
+    ],
+    "navigation": {
+        "previous": "91-03-07",
+        "next": "91-04-13"
+    },
+    "graph": {
+        "bleach": "7",
+        "nevermind": "3",
+        "inutero": "0",
+        "non": "5"
+    }
+}

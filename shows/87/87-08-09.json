@@ -1,0 +1,99 @@
+{
+    "year": "1987",
+    "month": "08",
+    "day": "09",
+    "band": [
+        {
+            "Bliss": [
+                {
+                    "name": "Kurt Cobain ",
+                    "duty": "vocals, guitar"
+                },
+                {
+                    "name": "Krist Novoselic ",
+                    "duty": "bass"
+                },
+                {
+                    "name": "Aaron Burckhard ",
+                    "duty": "drums"
+                }
+            ],
+            "type": "group"
+        }
+    ],
+    "crew": [],
+    "buyer": {
+        "names": [
+            "Jim May"
+        ]
+    },
+    "schedule": [
+        {
+            "event": "Load In",
+            "time": "…:…"
+        },
+        {
+            "event": "Soundcheck",
+            "time": "…:…"
+        },
+        {
+            "event": "Doors",
+            "time": "19:00"
+        },
+        {
+            "event": "Inspector Luv and the Ride Me Babies Showtime",
+            "time": "…:…"
+        },
+        {
+            "event": "Magnet Men Showtime",
+            "time": "…:…"
+        },
+        {
+            "event": "Bliss",
+            "time": "…:…"
+        },
+        {
+            "event": "Sons Of Ishmael Showtime",
+            "time": "…:…"
+        }
+    ],
+    "soundcheck": [],
+    "soundcheck_incomplete": false,
+    "set": [],
+    "set_incomplete": false,
+    "transmission": {},
+    "rehearsel_circulating_sources": [],
+    "circulating_sources": [],
+    "uncirculated_sources": [],
+    "notes": [
+        "The band played under the name Bliss.",
+        "The band borrowed Chad Channing's (then of Magnet Men) drum kit for the show."
+    ],
+    "press": [],
+    "memorabilia": [
+        {
+            "url": "/concerts/images/1987/1987-08-09/1987-08-09_01.jpg",
+            "caption": "Handbill/Flyer, designed by unknown"
+        }
+    ],
+    "images": [
+        {
+            "url": "/concerts/images/1987/1987-08-09/1987-08-09_001.jpg",
+            "caption": "Photo by Tracy Marander"
+        },
+        {
+            "url": "/concerts/images/1987/1987-08-09/1987-08-09_002.jpg",
+            "caption": "Photo by Tracy Marander"
+        }
+    ],
+    "navigation": {
+        "previous": "87-xx-xxb",
+        "next": "/concerts/88/88-01-23"
+    },
+    "graph": {
+        "bleach": "0",
+        "nevermind": "0",
+        "inutero": "0",
+        "non": "0"
+    }
+}

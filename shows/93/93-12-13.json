@@ -1,0 +1,769 @@
+{
+    "year": "1993",
+    "month": "12",
+    "day": "13",
+    "band": [
+        {
+            "NIRVANA": [
+                {
+                    "name": "Kurt Cobain ",
+                    "duty": "vocals, guitar"
+                },
+                {
+                    "name": "Krist Novoselic ",
+                    "duty": "bass"
+                },
+                {
+                    "name": "Dave Grohl ",
+                    "duty": "drums, backing vocals"
+                },
+                {
+                    "name": "Pat Smear ",
+                    "duty": "guitar"
+                },
+                {
+                    "name": "Lori Goldston ",
+                    "duty": "cello"
+                }
+            ],
+            "type": "group"
+        }
+    ],
+    "crew": [
+        {
+            "name": "Alex MacLeod",
+            "duty": "tour manager"
+        },
+        {
+            "name": "Jeff Mason",
+            "duty": "production manager"
+        },
+        {
+            "name": "Kelly Nase",
+            "duty": "tour accountant"
+        },
+        {
+            "name": "Susanne Sasic",
+            "duty": "lighting designer"
+        },
+        {
+            "name": "Craig Overbay",
+            "duty": "sound engineer"
+        },
+        {
+            "name": "Ian Beveridge",
+            "duty": "monitor engineer"
+        },
+        {
+            "name": "Jim Vincent",
+            "duty": "guitar technician"
+        },
+        {
+            "name": "John Duncan",
+            "duty": "guitar technician"
+        },
+        {
+            "name": "Earnie Bailey",
+            "duty": "guitar technician"
+        },
+        {
+            "name": "Mike Dalke",
+            "duty": "drum technician"
+        },
+        {
+            "name": "Ed Swink",
+            "duty": "stage manager"
+        },
+        {
+            "name": "Allan Bagley",
+            "duty": "Pro Show sound crew"
+        },
+        {
+            "name": "Tom Pfaeffle",
+            "duty": "Pro Show sound crew"
+        },
+        {
+            "name": "Niko Vonk",
+            "duty": "Pro Show sound crew"
+        },
+        {
+            "name": "Mike Lamb",
+            "duty": "LSD lighting crew"
+        },
+        {
+            "name": "Pat Connolly",
+            "duty": "LSD lighting crew"
+        },
+        {
+            "name": "Gary Vaspol",
+            "duty": "LSD lighting crew"
+        }
+    ],
+    "buyer": {
+        "names": []
+    },
+    "schedule": [
+        {
+            "event": "Load In",
+            "time": "…:…"
+        },
+        {
+            "event": "Soundcheck",
+            "time": "12:30"
+        },
+        {
+            "event": "Doors",
+            "time": "16:00"
+        },
+        {
+            "event": "Cypress Hill Showtime",
+            "time": "…:…"
+        },
+        {
+            "event": "The Breeders Showtime",
+            "time": "…:…"
+        },
+        {
+            "event": "NIRVANA Showtime",
+            "time": "…:…"
+        }
+    ],
+    "soundcheck": [
+        {
+            "type": "song",
+            "text": "jam",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "Very Ape",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "Radio Friendly Unit Shifter",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "Drain You",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "Breed",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "Serve The Servants",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "Serve The Servants",
+            "notes": [
+                "part of"
+            ]
+        },
+        {
+            "type": "song",
+            "text": "Serve The Servants",
+            "notes": [
+                "part of"
+            ]
+        },
+        {
+            "type": "song",
+            "text": "Rape Me",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "Sliver",
+            "notes": [
+                "part of"
+            ]
+        },
+        {
+            "type": "song",
+            "text": "Sliver",
+            "notes": [
+                "part of"
+            ]
+        },
+        {
+            "type": "song",
+            "text": "Sliver",
+            "notes": [
+                "part of"
+            ]
+        },
+        {
+            "type": "song",
+            "text": "Sliver",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "Pennyroyal Tea",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "Scentless Apprentice",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "All Apologies",
+            "notes": []
+        }
+    ],
+    "soundcheck_incomplete": true,
+    "set": [
+        {
+            "type": "song",
+            "text": "Radio Friendly Unit Shifter",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "Drain You",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "Breed",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "Serve The Servants",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "Rape Me",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "Sliver",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "Pennyroyal Tea",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "Scentless Apprentice",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "All Apologies",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "Heart-Shaped Box",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "Blew",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "The Man Who Sold The World",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "School",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "Come As You Are",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "Lithium",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "About A Girl",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "Endless, Nameless",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "jam",
+            "notes": []
+        }
+    ],
+    "set_incomplete": false,
+    "transmission": {},
+    "rehearsel_circulating_sources": [
+        {
+            "name": "PRO #1a",
+            "complete": false,
+            "equipment": "Unknown > Unknown",
+            "generation": "VHS(2) > DVDR/FLAC",
+            "video-generation": null,
+            "audio-generation": null,
+            "length-sound": "34 min / 8.5",
+            "notes": [
+                "This video is sourced from one camera of a multi-camera professional video, with open mic audio.",
+                "More complete, but lower quality than PRO #1b.",
+                "Missing the first partial \"Serve The Servants\" and everything after \"Pennyroyal Tea\".",
+                "Has cuts in the jam, \"Very Ape\", \"Radio Friendly Unit Shifter\" (has 1 cut), \"Drain You\" (has 3 cuts), \"Breed\", and \"Serve The Servants\" (has 1 cut) (both the full song and second partial performance).",
+                "Shot partially from the stage and partially from the floor with a single camera and open mic audio.",
+                "The taper moves around throughout the rehearsal."
+            ]
+        },
+        {
+            "name": "PRO #1b",
+            "complete": false,
+            "equipment": "Unknown > Unknown",
+            "generation": "Official DVD [Live And Loud]",
+            "video-generation": null,
+            "audio-generation": null,
+            "length-sound": "17 min / 9.5",
+            "notes": [
+                "This video is sourced from one camera of a multi-camera professional video, with open mic audio.",
+                "Less complete, but higher quality than PRO #1a.",
+                "Includes \"Very Ape\" (cuts in), \"Radio Friendly Unit Shifter\", \"Pennyroyal Tea\" and \"Rape Me\"."
+            ]
+        },
+        {
+            "name": "PRO #2",
+            "complete": false,
+            "equipment": "Unknown > Unknown",
+            "generation": "VHS(1) > DVDR/FLAC",
+            "video-generation": null,
+            "audio-generation": null,
+            "length-sound": "32 min / 9.0",
+            "notes": [
+                "Surfaced in July 2006.",
+                "Shot from the floor with a single camera and open mic audio.",
+                "Missing the jam and everything after \"All Apologies\".",
+                "Has cuts in all fully-performed songs.",
+                "\"Radio Friendly Unit Shifter\" and \"Drain You\" have short volume drops.",
+                "Several minutes of the video are footage of a TV monitor showing the live mix of the uncirculated professional video.",
+                "Clips of \"Breed\", \"Serve The Servants\", \"Rape Me\", \"Sliver\", \"Pennyroyal Tea\", and \"All Apologies\" have been broadcast on TV."
+            ]
+        },
+        {
+            "name": "PRO #3",
+            "complete": false,
+            "equipment": "Soundboard > Unknown",
+            "generation": "MASTER > MP4",
+            "video-generation": null,
+            "audio-generation": null,
+            "length-sound": "11 min / 9.5",
+            "notes": [
+                "Includes \"Very Ape\" and \"Radio Friendly Unit Shifter\" only.",
+                "\"Very Ape\" uses video footage and open mic audio sourced from PRO #1a/PRO #1b.",
+                "\"Radio Friendly Unit Shifter\" uses video footage sourced from PRO #1a/PRO #1b and PRO #2, with soundboard audio.",
+                "\"Very Ape\" cuts in.\n                                    Circulating copies are sourced from MP4 video files posted on MTV's webpage.\n                                "
+            ]
+        },
+        {
+            "name": "AUD #1",
+            "complete": true,
+            "equipment": "Sonic Studios DSM-6P > Sony TCD-D3",
+            "generation": "DAT(M) > FLAC",
+            "video-generation": null,
+            "audio-generation": null,
+            "length-sound": "77 min / 8.5",
+            "notes": [
+                "Surfaced in July 2005."
+            ]
+        },
+        {
+            "name": "SBD #1",
+            "complete": false,
+            "equipment": "Soundboard > Unknown",
+            "generation": "Official CD [From The Muddy Banks Of The Wishkah]",
+            "video-generation": null,
+            "audio-generation": null,
+            "length-sound": "04 min / 10",
+            "notes": [
+                "Includes only \"Scentless Apprentice\".",
+                "Professionally mixed by Andy Wallace."
+            ]
+        },
+        {
+            "name": "AMT #1",
+            "complete": true,
+            "equipment": "Unknown > Unknown",
+            "generation": "VHS(1) > MiniDV(1) > DVDR/FLAC",
+            "video-generation": null,
+            "audio-generation": null,
+            "length-sound": "71 min / 7.0",
+            "notes": [
+                "Amateur video, believed to have been shot by Eric Erlandson.",
+                "Commences with backstage footage not present on any of the other sources.",
+                "Has cuts in \"Radio Friendly Unit Shifter\" (intro cuts in), \"Sliver\" (cuts in, \"School\" (cuts off), \"Come As You Are\" (cuts in & off, and has a cut within it), \"Lithium\" (cuts in), and \"About A Girl\"."
+            ]
+        },
+        {
+            "name": "PRO #1a",
+            "complete": false,
+            "equipment": "Soundboard > Unknown",
+            "generation": "TV > SVHS(1) > DVDR",
+            "video-generation": null,
+            "audio-generation": null,
+            "length-sound": "38 min / 9.5",
+            "notes": [
+                "The circulating DVDR was remastered.",
+                "Multi camera PRO-shot video, with soundboard audio, broadcast by MTV.",
+                "Less complete and lower quality audio, but higher quality video than PRO #1b.",
+                "Includes the angel decapitation during the jam.",
+                "Missing the end feedback that occurs during the credits on PRO #1b.",
+                "Missing \"Sliver\", \"All Apologies\", \"Blew\", \"The Man Who Sold The World\", \"School\", \"Come As You Are\", \"About A Girl', and \"Endless, Nameless\" and some feedback at the end.",
+                "The placement of \"Heart-Shaped Box\" was changed to after \"Rape Me\" on the broadcast.",
+                "The broadcast mix omits the echoed said's during \"Breed\" chorus and has some fake crowd noise added between the songs.",
+                "Clips of \"Blew\", \"Come As You Are\", and \"About A Girl\" have been broadcast on MTV."
+            ]
+        },
+        {
+            "name": "PRO #1b",
+            "complete": false,
+            "equipment": "Soundboard > Unknown",
+            "generation": "TV > VHS(1) > DVDR/FLAC",
+            "video-generation": null,
+            "audio-generation": null,
+            "length-sound": "41 min / 9.5",
+            "notes": [
+                "Multi camera PRO-shot video, with soundboard audio, broadcast by MTV Europe.",
+                "More complete and higher quality audio, but lower quality video than PRO #1a.",
+                "Includes the angel decapitation during the jam.",
+                "Includes the end feedback that occurs during the credits.",
+                "Missing \"Sliver\", \"All Apologies\", \"Blew\", \"The Man Who Sold The World\", \"School\", \"Come As You Are\", \"About A Girl\", and \"Endless, Nameless\".",
+                "The placement of \"Heart-Shaped Box\" was changed to after \"Rape Me\" on the broadcast.",
+                "The broadcast mix omits the echoed said's during \"Breed\" chorus and has some fake crowd noise added between the songs.",
+                "Clips of \"Blew\", \"Come As You Are\", and \"About A Girl\" have been broadcast on MTV."
+            ]
+        },
+        {
+            "name": "PRO #2a",
+            "complete": false,
+            "equipment": "Soundboard > Unknown",
+            "generation": "DBS > DVDR",
+            "video-generation": null,
+            "audio-generation": null,
+            "length-sound": "39 min / 10;",
+            "notes": [
+                "Multi camera PRO-shot video, with soundboard audio, broadcast by MTV Europe.",
+                "Has a short cut due to the editing out of the angel decapitation during the jam.",
+                "Has alternate camera angles during some parts of the jam and credits to avoid showing close-up footage related to the decapitated angel.",
+                "Includes the end feedback that occurs during the credits.",
+                "Circulating on DVD from a mono digital satellite broadcast.",
+                "Missing \"Sliver', \"All Apologies\", \"Blew\", \"The Man Who Sold The World\", \"School\", \"Come As You Are\", \"About A Girl\", and \"Endless, Nameless\".",
+                "The placement of \"Heart-Shaped Box\" was changed to after \"Rape Me\" on the broadcast.",
+                "The broadcast mix omits the echoed said's during \"Breed\" chorus and has some fake crowd noise added between the songs.",
+                "Clips of \"Blew\", \"Come As You Are\", and \"About A Girl\" have been broadcast on MTV."
+            ]
+        },
+        {
+            "name": "PRO #2b [soundboard audio from professional video]",
+            "complete": false,
+            "equipment": "Soundboard > Unknown",
+            "generation": "DBS > FLAC",
+            "video-generation": null,
+            "audio-generation": null,
+            "length-sound": "39 min / 10",
+            "notes": [
+                "Has stereo audio, unlike circulating copies of PRO #2a, but includes only the audio from the video,  broadcast by MTV Europe.",
+                "Has a short cut due to the editing out of the angel decapitation during the jam.",
+                "Includes the end feedback that occurs during the credits.",
+                "Missing \"Sliver\", \"All Apologies\", \"Blew\", \"The Man Who Sold The World\", \"School\", \"Come As You Are', \"About A Girl\", and \"Endless, Nameless\".",
+                "The placement of \"Heart-Shaped Box\" was changed to after \"Rape Me\" on the broadcast.",
+                "The broadcast mix omits the echoed said's during \"Breed\" chorus and has some fake crowd noise added between the songs."
+            ]
+        },
+        {
+            "name": "PRO #3a",
+            "complete": true,
+            "equipment": "Soundboard > Unknown",
+            "generation": "Official DVD [Live And Loud DVD]",
+            "video-generation": null,
+            "audio-generation": null,
+            "length-sound": "77 min / 10",
+            "notes": [
+                "Multi camera PRO-shot video, with soundboard audio.",
+                "Has different camera angles than PRO #1a, PRO #1b and PRO #2a.",
+                "The broadcast mix omits the echoed said's during \"Breed\" chorus."
+            ]
+        },
+        {
+            "name": "PRO #3b [soundboard audio from professional video]",
+            "complete": true,
+            "equipment": "Soundboard > Unknown",
+            "generation": "Official AIFF/WAV [In Utero - 20th Anniversary Deluxe Edition (96kHz/24bit)]",
+            "video-generation": null,
+            "audio-generation": null,
+            "length-sound": "71 min / 10",
+            "notes": [
+                "Audio portion of the multi camera PRO-shot video, with soundboard audio. ",
+                "Higer quality, but less complete than PRO #3a.",
+                "Includes professionally remixed stereo audio and 5.1-channel audio.",
+                "The broadcast mix omits the echoed said's during \"Breed\" chorus."
+            ]
+        },
+        {
+            "name": "PRO CLIP #1",
+            "complete": false,
+            "equipment": "Unknown > Unknown",
+            "generation": "TV > VHS(x)",
+            "video-generation": null,
+            "audio-generation": null,
+            "length-sound": "10 sec / 8.5",
+            "notes": [
+                "Multi camera PRO-shot video, with soundboard audio, broadcast by MTV Europe broadcast.",
+                "Feature a clip of \"The Man Who Sold The World\" only.",
+                "Han an interview over most of the audio."
+            ]
+        }
+    ],
+    "circulating_sources": [
+        {
+            "name": "AUD #1",
+            "complete": true,
+            "equipment": "Sonic Studios DSM-6P > Sony TCD-D3",
+            "generation": "DAT(M) > FLAC",
+            "video-generation": null,
+            "audio-generation": null,
+            "length-sound": "77 min / 8.5",
+            "notes": [
+                "Surfaced in July 2005."
+            ]
+        },
+        {
+            "name": "SBD #1",
+            "complete": false,
+            "equipment": "Soundboard > Unknown",
+            "generation": "Official CD [From The Muddy Banks Of The Wishkah]",
+            "video-generation": null,
+            "audio-generation": null,
+            "length-sound": "04 min / 10",
+            "notes": [
+                "Includes only \"Scentless Apprentice\".",
+                "Professionally mixed by Andy Wallace."
+            ]
+        },
+        {
+            "name": "AMT #1",
+            "complete": true,
+            "equipment": "Unknown > Unknown",
+            "generation": "VHS(1) > MiniDV(1) > DVDR/FLAC",
+            "video-generation": null,
+            "audio-generation": null,
+            "length-sound": "71 min / 7.0",
+            "notes": [
+                "Amateur video, believed to have been shot by Eric Erlandson.",
+                "Commences with backstage footage not present on any of the other sources.",
+                "Has cuts in \"Radio Friendly Unit Shifter\" (intro cuts in), \"Sliver\" (cuts in, \"School\" (cuts off), \"Come As You Are\" (cuts in & off, and has a cut within it), \"Lithium\" (cuts in), and \"About A Girl\"."
+            ]
+        },
+        {
+            "name": "PRO #1a",
+            "complete": false,
+            "equipment": "Soundboard > Unknown",
+            "generation": "TV > SVHS(1) > DVDR",
+            "video-generation": null,
+            "audio-generation": null,
+            "length-sound": "38 min / 9.5",
+            "notes": [
+                "The circulating DVDR was remastered.",
+                "Multi camera PRO-shot video, with soundboard audio, broadcast by MTV.",
+                "Less complete and lower quality audio, but higher quality video than PRO #1b.",
+                "Includes the angel decapitation during the jam.",
+                "Missing the end feedback that occurs during the credits on PRO #1b.",
+                "Missing \"Sliver\", \"All Apologies\", \"Blew\", \"The Man Who Sold The World\", \"School\", \"Come As You Are\", \"About A Girl', and \"Endless, Nameless\" and some feedback at the end.",
+                "The placement of \"Heart-Shaped Box\" was changed to after \"Rape Me\" on the broadcast.",
+                "The broadcast mix omits the echoed said's during \"Breed\" chorus and has some fake crowd noise added between the songs.",
+                "Clips of \"Blew\", \"Come As You Are\", and \"About A Girl\" have been broadcast on MTV."
+            ]
+        },
+        {
+            "name": "PRO #1b",
+            "complete": false,
+            "equipment": "Soundboard > Unknown",
+            "generation": "TV > VHS(1) > DVDR/FLAC",
+            "video-generation": null,
+            "audio-generation": null,
+            "length-sound": "41 min / 9.5",
+            "notes": [
+                "Multi camera PRO-shot video, with soundboard audio, broadcast by MTV Europe.",
+                "More complete and higher quality audio, but lower quality video than PRO #1a.",
+                "Includes the angel decapitation during the jam.",
+                "Includes the end feedback that occurs during the credits.",
+                "Missing \"Sliver\", \"All Apologies\", \"Blew\", \"The Man Who Sold The World\", \"School\", \"Come As You Are\", \"About A Girl\", and \"Endless, Nameless\".",
+                "The placement of \"Heart-Shaped Box\" was changed to after \"Rape Me\" on the broadcast.",
+                "The broadcast mix omits the echoed said's during \"Breed\" chorus and has some fake crowd noise added between the songs.",
+                "Clips of \"Blew\", \"Come As You Are\", and \"About A Girl\" have been broadcast on MTV."
+            ]
+        },
+        {
+            "name": "PRO #2a",
+            "complete": false,
+            "equipment": "Soundboard > Unknown",
+            "generation": "DBS > DVDR",
+            "video-generation": null,
+            "audio-generation": null,
+            "length-sound": "39 min / 10;",
+            "notes": [
+                "Multi camera PRO-shot video, with soundboard audio, broadcast by MTV Europe.",
+                "Has a short cut due to the editing out of the angel decapitation during the jam.",
+                "Has alternate camera angles during some parts of the jam and credits to avoid showing close-up footage related to the decapitated angel.",
+                "Includes the end feedback that occurs during the credits.",
+                "Circulating on DVD from a mono digital satellite broadcast.",
+                "Missing \"Sliver', \"All Apologies\", \"Blew\", \"The Man Who Sold The World\", \"School\", \"Come As You Are\", \"About A Girl\", and \"Endless, Nameless\".",
+                "The placement of \"Heart-Shaped Box\" was changed to after \"Rape Me\" on the broadcast.",
+                "The broadcast mix omits the echoed said's during \"Breed\" chorus and has some fake crowd noise added between the songs.",
+                "Clips of \"Blew\", \"Come As You Are\", and \"About A Girl\" have been broadcast on MTV."
+            ]
+        },
+        {
+            "name": "PRO #2b [soundboard audio from professional video]",
+            "complete": false,
+            "equipment": "Soundboard > Unknown",
+            "generation": "DBS > FLAC",
+            "video-generation": null,
+            "audio-generation": null,
+            "length-sound": "39 min / 10",
+            "notes": [
+                "Has stereo audio, unlike circulating copies of PRO #2a, but includes only the audio from the video,  broadcast by MTV Europe.",
+                "Has a short cut due to the editing out of the angel decapitation during the jam.",
+                "Includes the end feedback that occurs during the credits.",
+                "Missing \"Sliver\", \"All Apologies\", \"Blew\", \"The Man Who Sold The World\", \"School\", \"Come As You Are', \"About A Girl\", and \"Endless, Nameless\".",
+                "The placement of \"Heart-Shaped Box\" was changed to after \"Rape Me\" on the broadcast.",
+                "The broadcast mix omits the echoed said's during \"Breed\" chorus and has some fake crowd noise added between the songs."
+            ]
+        },
+        {
+            "name": "PRO #3a",
+            "complete": true,
+            "equipment": "Soundboard > Unknown",
+            "generation": "Official DVD [Live And Loud DVD]",
+            "video-generation": null,
+            "audio-generation": null,
+            "length-sound": "77 min / 10",
+            "notes": [
+                "Multi camera PRO-shot video, with soundboard audio.",
+                "Has different camera angles than PRO #1a, PRO #1b and PRO #2a.",
+                "The broadcast mix omits the echoed said's during \"Breed\" chorus."
+            ]
+        },
+        {
+            "name": "PRO #3b [soundboard audio from professional video]",
+            "complete": true,
+            "equipment": "Soundboard > Unknown",
+            "generation": "Official AIFF/WAV [In Utero - 20th Anniversary Deluxe Edition (96kHz/24bit)]",
+            "video-generation": null,
+            "audio-generation": null,
+            "length-sound": "71 min / 10",
+            "notes": [
+                "Audio portion of the multi camera PRO-shot video, with soundboard audio. ",
+                "Higer quality, but less complete than PRO #3a.",
+                "Includes professionally remixed stereo audio and 5.1-channel audio.",
+                "The broadcast mix omits the echoed said's during \"Breed\" chorus."
+            ]
+        },
+        {
+            "name": "PRO CLIP #1",
+            "complete": false,
+            "equipment": "Unknown > Unknown",
+            "generation": "TV > VHS(x)",
+            "video-generation": null,
+            "audio-generation": null,
+            "length-sound": "10 sec / 8.5",
+            "notes": [
+                "Multi camera PRO-shot video, with soundboard audio, broadcast by MTV Europe broadcast.",
+                "Feature a clip of \"The Man Who Sold The World\" only.",
+                "Han an interview over most of the audio."
+            ]
+        }
+    ],
+    "uncirculated_sources": [
+        {
+            "name": "PRO #4",
+            "note": "Several minutes of the video can be seen in PRO #2 (Soundcheck/Dress Rehearsal), which includes footage of a TV monitor showing the live mix of this video."
+        }
+    ],
+    "notes": [
+        "The soundcheck/dress rehearsal was originally scheduled for the prior day.",
+        "It is not known how much of the set the band rehearsed.",
+        "During the soundcheck/dress rehearsal the band played the last chorus of \"Serve The Servants\" two additional times, once partially and once in full, after finishing the song the first time to rehearse with an added vocal harmony from Pat.",
+        "During the soundcheck/dress rehearsal the band restarted \"Sliver\" three times.",
+        "During the night show, after the defined version of \"Endless, Nameless\", the band stopped and played a noisy jam similar to \"Endless, Nameless\"."
+    ],
+    "press": [],
+    "memorabilia": [
+        {
+            "url": "/concerts/images/1993/1993-12-13a/1993-12-13a_01.jpg",
+            "caption": "Soundcheck/Dress Rehearsal backstage pass"
+        },
+        {
+            "url": "/concerts/images/1993/1993-12-13b/1993-12-13b_01.jpg",
+            "caption": "Backstage pass"
+        },
+        {
+            "url": "/concerts/images/1993/1993-12-13b/1993-12-13b_02.jpg",
+            "caption": "Ticket"
+        },
+        {
+            "url": "/concerts/images/1993/1993-12-13b/1993-12-13b_03.jpg",
+            "caption": "Handwritten setlist"
+        },
+        {
+            "url": "/concerts/images/1993/1993-12-13b/1993-12-13b_04.jpg",
+            "caption": "Backstage pass"
+        },
+        {
+            "url": "/concerts/images/1993/1993-12-13b/1993-12-13b_05.jpg",
+            "caption": "Backstage pass"
+        },
+        {
+            "url": "/concerts/images/1993/1993-12-13b/1993-12-13b_06.jpg",
+            "caption": "Invitation"
+        },
+        {
+            "url": "/concerts/images/1993/1993-12-13b/1993-12-13b_07.jpg",
+            "caption": "Invitation"
+        },
+        {
+            "url": "/concerts/images/1993/1993-12-13b/1993-12-13b_08.jpg",
+            "caption": "Event chronogram"
+        },
+        {
+            "url": "/concerts/images/1993/1993-12-13b/1993-12-13b_09.jpg",
+            "caption": "Nirvana's tour itinerary"
+        }
+    ],
+    "images": [],
+    "navigation": {
+        "previous": "93-12-10",
+        "next": "93-12-14"
+    },
+    "graph": {
+        "bleach": "3",
+        "nevermind": "5",
+        "inutero": "7",
+        "non": "2"
+    }
+}

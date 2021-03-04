@@ -1,0 +1,288 @@
+{
+    "year": "1989",
+    "month": "10",
+    "day": "25",
+    "venue": "October 25",
+    "city": "1989 - Duchess of York",
+    "state": "Leeds",
+    "country": "UK",
+    "band": [
+        {
+            "NIRVANA": [
+                {
+                    "name": "Kurt Cobain ",
+                    "duty": "vocals, guitar"
+                },
+                {
+                    "name": "Krist Novoselic ",
+                    "duty": "bass"
+                },
+                {
+                    "name": "Chad Channing ",
+                    "duty": "drums"
+                }
+            ],
+            "type": "group"
+        }
+    ],
+    "crew": [
+        {
+            "name": "Edwin Heath",
+            "duty": "tour manager"
+        },
+        {
+            "name": "Craig Montgomery",
+            "duty": "sound engineer"
+        }
+    ],
+    "buyer": {
+        "names": [
+            "John Keenan"
+        ]
+    },
+    "schedule": [
+        {
+            "event": "Load In",
+            "time": "16:00"
+        },
+        {
+            "event": "Soundcheck",
+            "time": "…:…"
+        },
+        {
+            "event": "Doors",
+            "time": "19:30"
+        },
+        {
+            "event": "The Cateran Showtime",
+            "time": "…:…"
+        },
+        {
+            "event": "NIRVANA Showtime",
+            "time": "…:…"
+        },
+        {
+            "event": "TAD Showtime",
+            "time": "…:…"
+        }
+    ],
+    "soundcheck": [],
+    "soundcheck_incomplete": false,
+    "set": [
+        {
+            "type": "banter",
+            "text": "Check, check etc ... We're gonna need the vocals up more in the monitors ... monitors ... vocals ... up, up! Cheeeeeeeck!",
+            "person": "Cobain"
+        },
+        {
+            "type": "banter",
+            "text": "We're Nirvana",
+            "person": "Novoselic"
+        },
+        {
+            "type": "banter",
+            "text": "Hooray!",
+            "person": "Voice"
+        },
+        {
+            "type": "banter",
+            "text": "Yippee ai ey!",
+            "person": "Novoselic"
+        },
+        {
+            "type": "song",
+            "text": "School",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "Scoff",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "Love Buzz",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "Floyd The Barber",
+            "notes": []
+        },
+        {
+            "type": "banter",
+            "text": "This a new song",
+            "person": "Cobain"
+        },
+        {
+            "type": "song",
+            "text": "Dive",
+            "notes": []
+        },
+        {
+            "type": "banter",
+            "text": "Umm ... maybe, ?? my love ...",
+            "person": "Cobain"
+        },
+        {
+            "type": "song",
+            "text": "Polly",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "Big Cheese",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "Spank Thru",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "About A Girl",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "Token Eastern Song",
+            "notes": []
+        },
+        {
+            "type": "jam",
+            "text": "jam bass jam",
+            "notes": [
+                "bass jam"
+            ]
+        },
+        {
+            "type": "song",
+            "text": "Negative Creep",
+            "notes": []
+        },
+        {
+            "type": "banter",
+            "text": "OK, well thanks a lot for coming ... to this place. What's that? Where?",
+            "person": "Novoselic"
+        },
+        {
+            "type": "song",
+            "text": "Blew",
+            "notes": []
+        }
+    ],
+    "set_incomplete": false,
+    "transmission": {},
+    "rehearsel_circulating_sources": [],
+    "circulating_sources": [
+        {
+            "name": "AUD #1",
+            "complete": true,
+            "equipment": "Unknown > Unknown",
+            "generation": "Unnofficial CD [Where Were You In '89?] > FLAC",
+            "video-generation": null,
+            "audio-generation": null,
+            "length-sound": "43 min / 9.0",
+            "notes": [
+                "This source is only available on commercial releases."
+            ]
+        },
+        {
+            "name": "AUD #2",
+            "complete": true,
+            "equipment": "Aiwa > Aiwa",
+            "generation": "ANA(M) > FLAC",
+            "video-generation": null,
+            "audio-generation": null,
+            "length-sound": "44 min / 7.5",
+            "notes": [
+                "Surfaced in April 2004.",
+                "Recorded about three rows from the stage, in front of the right PA stack."
+            ]
+        },
+        {
+            "name": "AUD #3",
+            "complete": true,
+            "equipment": "Unknown > Unknown",
+            "generation": "ANA(1) > FLAC",
+            "video-generation": null,
+            "audio-generation": null,
+            "length-sound": "41 min / 7.0",
+            "notes": [
+                "Surfaced in April 2005.",
+                "\"Token Eastern Song\" cuts in.\""
+            ]
+        }
+    ],
+    "uncirculated_sources": [
+        {
+            "name": "AMT #1",
+            "note": "It is rumored that the show was recorded."
+        }
+    ],
+    "notes": [],
+    "press": [],
+    "memorabilia": [
+        {
+            "url": "/concerts/images/1989/1989-10-25/1989-10-25_01.jpg",
+            "caption": "Advert"
+        },
+        {
+            "url": "/concerts/images/1989/1989-10-25/1989-10-25_02.jpg",
+            "caption": "Venue events calendar"
+        },
+        {
+            "url": "/concerts/images/1989/1989-10-25/1989-10-25_03.jpg",
+            "caption": "Venue events calendar"
+        },
+        {
+            "url": "/concerts/images/1989/1989-10-25/1989-10-25_04.jpg",
+            "caption": "Advert"
+        },
+        {
+            "url": "/concerts/images/1989/1989-10-25/1989-10-25_05.jpg",
+            "caption": "Nirvana's tour itinerary"
+        },
+        {
+            "url": "/concerts/images/1989/1989-10-25/1989-10-25_06.jpg",
+            "caption": "Nirvana's tour itinerary"
+        },
+        {
+            "url": "/concerts/images/1989/1989-10-25/1989-10-25_07.jpg",
+            "caption": "Nirvana's tour itinerary"
+        },
+        {
+            "url": "/concerts/images/1989/1989-10-25/1989-10-25_08.jpg",
+            "caption": "Advert"
+        }
+    ],
+    "images": [
+        {
+            "url": "/concerts/images/1989/1989-10-25/1989-10-25_001.jpg",
+            "caption": "Photo by Ian Lawton"
+        },
+        {
+            "url": "/concerts/images/1989/1989-10-25/1989-10-25_002.jpg",
+            "caption": "Photo by Ian Lawton"
+        },
+        {
+            "url": "/concerts/images/1989/1989-10-25/1989-10-25_003.jpg",
+            "caption": "Photo by Ian Lawton"
+        },
+        {
+            "url": "/concerts/images/1989/1989-10-25/1989-10-25_004.jpg",
+            "caption": "Photo by Ian Lawton"
+        }
+    ],
+    "navigation": {
+        "previous": "89-10-24",
+        "next": "89-10-27"
+    },
+    "graph": {
+        "bleach": "8",
+        "nevermind": "1",
+        "inutero": "0",
+        "non": "3"
+    }
+}

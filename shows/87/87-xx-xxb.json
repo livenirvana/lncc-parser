@@ -1,0 +1,992 @@
+{
+    "year": "1987",
+    "month": "xx",
+    "day": "xx",
+    "band": [
+        {
+            "Pen Cap Chew/Bliss ??": [
+                {
+                    "name": "Kurt Cobain ",
+                    "duty": "vocals, guitar"
+                },
+                {
+                    "name": "Krist Novoselic ",
+                    "duty": "bass"
+                },
+                {
+                    "name": "Aaron Burckhard ",
+                    "duty": "drums"
+                }
+            ],
+            "type": "group"
+        },
+        {
+            "name": "Tony Poukkula ",
+            "duty": "guitar",
+            "type": "person"
+        },
+        {
+            "name": "Ryan Aigner ",
+            "duty": "guitar",
+            "type": "person"
+        }
+    ],
+    "crew": [
+        {
+            "name": "Ryan Aigner",
+            "duty": "manager"
+        }
+    ],
+    "buyer": {
+        "names": [
+            "Tony Poukkula",
+            "Duke Harner"
+        ]
+    },
+    "schedule": [
+        {
+            "event": "Equipment:",
+            "time": "Unknown > Sony"
+        },
+        {
+            "event": "Lowest Generation:",
+            "time": "ANA(1) > CDR(1) > FLAC"
+        },
+        {
+            "event": "Length / Sound Quality:",
+            "time": "47:05 min / 8.0"
+        },
+        {
+            "event": "Notes:",
+            "time": "Includes \"Downer\" from the soundcheck, which cuts in."
+        }
+    ],
+    "soundcheck": [
+        {
+            "type": "song",
+            "text": "Downer",
+            "notes": []
+        },
+        {
+            "type": "banter",
+            "text": "That's enough for now, man! Or, like, 'til more people show up. It sounds- sounds pretty good from, like, right about here. Is that all you hear the guitar, though?",
+            "person": "Novoselic"
+        },
+        {
+            "type": "banter",
+            "text": "I think it sounds a helluva lot better than usual.",
+            "person": "Male voice"
+        },
+        {
+            "type": "banter",
+            "text": "...'cos all I hear is bass.",
+            "person": "Novoselic"
+        },
+        {
+            "type": "banter",
+            "text": "Get the fuck out! Get the fuck outta here",
+            "person": "Male voice"
+        },
+        {
+            "type": "banter",
+            "text": "I think you guys should, like, buy a decent PA",
+            "person": "Male voice"
+        },
+        {
+            "type": "banter",
+            "text": "We do have a decent PA, it just keeps blowing up!",
+            "person": "Male voice"
+        },
+        {
+            "type": "banter",
+            "text": "You just need decent speakers, that's it",
+            "person": "Male voice"
+        },
+        {
+            "type": "banter",
+            "text": "Fridge, beer",
+            "person": "Male voice"
+        }
+    ],
+    "soundcheck_incomplete": true,
+    "set": [
+        {
+            "type": "banter",
+            "text": "Test",
+            "person": "Male Voice"
+        },
+        {
+            "type": "banter",
+            "text": "Hey, Cobain!",
+            "person": "Male voice"
+        },
+        {
+            "type": "jam",
+            "text": "Hairspray Queen bass line",
+            "notes": [
+                "bass line"
+            ]
+        },
+        {
+            "type": "banter",
+            "text": "Michelle, how's the wife and kids?",
+            "person": "Male voice:"
+        },
+        {
+            "type": "banter",
+            "text": "Fine, he's doing fine, I got him in the Elementary school, he's getting all As, oh, ...oh, ha ha, oh",
+            "person": "Female voice"
+        },
+        {
+            "type": "banter",
+            "text": "Jeffrey got some new Levis",
+            "person": "Female voice"
+        },
+        {
+            "type": "banter",
+            "text": "Chris, keep your pants on!",
+            "person": "Female voice"
+        },
+        {
+            "type": "banter",
+            "text": "There's a Soupy Sales in my fly",
+            "person": "Cobain"
+        },
+        {
+            "type": "banter",
+            "text": "There's some snakes over there",
+            "person": "Female voice"
+        },
+        {
+            "type": "banter",
+            "text": "Snakes?",
+            "person": "Male voice"
+        },
+        {
+            "type": "banter",
+            "text": "Yes, together on the microphone. BEASTIE BOYS.",
+            "person": "Female voice"
+        },
+        {
+            "type": "banter",
+            "text": "B... Beastiality Boys. Hey, that'd be cool to jam, but I'd like to play for ourselves. I really don't know how the ??? songs are. Anyway. It's cool to improvise, but I really only like to improvise when I'm drunk that way ???",
+            "person": "Cobain"
+        },
+        {
+            "type": "banter",
+            "text": "We went to a party on Wishkah at Jerry Spargo's. Went out there for ???",
+            "person": "Male voice"
+        },
+        {
+            "type": "banter",
+            "text": "Let's just ride this one, let's just figure it out how we're gonna play it",
+            "person": "Cobain"
+        },
+        {
+            "type": "banter",
+            "text": "We'll just play it by ear",
+            "person": "Novoselic"
+        },
+        {
+            "type": "banter",
+            "text": "Well, we'll just figure out the timing and then decide on how we play it. Well, I mean there's only so many times we can do it ???",
+            "person": "Cobain"
+        },
+        {
+            "type": "song",
+            "text": "Aero Zeppelin",
+            "notes": []
+        },
+        {
+            "type": "banter",
+            "text": "Pen Cap Chew. Pen Cap Chew",
+            "person": "Male voice [Burckhard?]"
+        },
+        {
+            "type": "banter",
+            "text": "Well, let's just play it just like that. Except for ???",
+            "person": "Cobain"
+        },
+        {
+            "type": "banter",
+            "text": "Pen Cap Chew, ready?",
+            "person": "Male voice"
+        },
+        {
+            "type": "banter",
+            "text": "That's a good song",
+            "person": "Female voice"
+        },
+        {
+            "type": "banter",
+            "text": "We'll just wait a while",
+            "person": "Novoselic"
+        },
+        {
+            "type": "banter",
+            "text": "Pen Cap Chew",
+            "person": "Male voice"
+        },
+        {
+            "type": "banter",
+            "text": "Let's play it up!",
+            "person": "Novoselic"
+        },
+        {
+            "type": "banter",
+            "text": "Pen Cap Chew!",
+            "person": "Male Voice"
+        },
+        {
+            "type": "banter",
+            "text": "Gypsys, Tramps & Cheese. Play that one",
+            "person": "Female voice"
+        },
+        {
+            "type": "banter",
+            "text": "No... ok",
+            "person": "Novoselic"
+        },
+        {
+            "type": "jam",
+            "text": "How Many More Times bass line",
+            "notes": [
+                "bass line"
+            ]
+        },
+        {
+            "type": "banter",
+            "text": "Pen Cap Chew, Pen Cap Chew",
+            "person": "Male voice"
+        },
+        {
+            "type": "banter",
+            "text": "if I haven't... ok",
+            "person": "Novoselic"
+        },
+        {
+            "type": "banter",
+            "text": "Ready?",
+            "person": "Male voice"
+        },
+        {
+            "type": "jam",
+            "text": "Aero Zeppelin bass line",
+            "notes": [
+                "bass line"
+            ]
+        },
+        {
+            "type": "jam",
+            "text": "Heartbreaker bass line",
+            "notes": [
+                "bass line"
+            ]
+        },
+        {
+            "type": "banter",
+            "text": "No, ugh uh. Play that song",
+            "person": "Cobain"
+        },
+        {
+            "type": "banter",
+            "text": "Our new song?",
+            "person": "Novoselic"
+        },
+        {
+            "type": "banter",
+            "text": "That new one",
+            "person": "Cobain"
+        },
+        {
+            "type": "banter",
+            "text": "You want to wait a while? Except that Pen Cap Chew and that song are just kind of the same. Like the chord E, you know what I mean?",
+            "person": "Novoselic"
+        },
+        {
+            "type": "banter",
+            "text": "Yeah",
+            "person": "Cobain"
+        },
+        {
+            "type": "banter",
+            "text": "It's just kinda the same",
+            "person": "Novoselic"
+        },
+        {
+            "type": "song",
+            "text": "If You Must",
+            "notes": []
+        },
+        {
+            "type": "banter",
+            "text": "Well, that's it",
+            "person": "Cobain"
+        },
+        {
+            "type": "banter",
+            "text": "Do your set. Let them do their set",
+            "person": "Aigner"
+        },
+        {
+            "type": "banter",
+            "text": "Have you got anything... Have you got anything to put in this? haha",
+            "person": "Male voice"
+        },
+        {
+            "type": "banter",
+            "text": "You don't need anything",
+            "person": "Aigner"
+        },
+        {
+            "type": "banter",
+            "text": "Hey, who's got all the pot?",
+            "person": "Novoselic"
+        },
+        {
+            "type": "banter",
+            "text": "Alcohol all night long, it's all you need. You should drink alcohol, right?",
+            "person": "Aigner"
+        },
+        {
+            "type": "banter",
+            "text": "Where's all the pot?",
+            "person": "Novoselic"
+        },
+        {
+            "type": "banter",
+            "text": "Acid acid, acid, acid",
+            "person": "Female voice"
+        },
+        {
+            "type": "banter",
+            "text": "All I... all I want is pot",
+            "person": "Novoselic"
+        },
+        {
+            "type": "banter",
+            "text": "I'm gonna pot you in about five minutes, Christo. You see, I was a mellow man manager back in them thar days! You know who's hanging out with Nyko now? Brett Walker is hanging out with Nyko rather than Sam ???",
+            "person": "Aigner"
+        },
+        {
+            "type": "banter",
+            "text": "Totally. I told him, I said, Matt, you've gotta listen to this band Scratch Acid, yeaaaaah! He was like... his eyes were about this big, you know, he goes... Scraaatch Acid. They must be... reeeealy cool!",
+            "person": "Male voice"
+        },
+        {
+            "type": "banter",
+            "text": "Maybe start at the next...",
+            "person": "Cobain"
+        },
+        {
+            "type": "jam",
+            "text": "How Many More Times bass line",
+            "notes": [
+                "bass line"
+            ]
+        },
+        {
+            "type": "banter",
+            "text": "This song's a soundcheck song",
+            "person": "Novoselic"
+        },
+        {
+            "type": "banter",
+            "text": "What's that?",
+            "person": "Cobain"
+        },
+        {
+            "type": "banter",
+            "text": "Huh?",
+            "person": "Novoselic"
+        },
+        {
+            "type": "banter",
+            "text": "What's that?",
+            "person": "Cobain"
+        },
+        {
+            "type": "banter",
+            "text": "Yeah man, they're great, you gotta buy their album, I'm serious c'mon Brett let's go to the store. I'm like yeah yeah, yeah I'll be there tomorrow, leave me alone, poor guy. I think that shocked him",
+            "person": "Male voice"
+        },
+        {
+            "type": "banter",
+            "text": "What else?",
+            "person": "Male voice"
+        },
+        {
+            "type": "banter",
+            "text": "Play some covers, play anything, just play, I'm sick of you guys acting dumb",
+            "person": "Male voice"
+        },
+        {
+            "type": "banter",
+            "text": "acting what?",
+            "person": "Cobain"
+        },
+        {
+            "type": "banter",
+            "text": "Let's play Heartbreaker",
+            "person": "Novoselic"
+        },
+        {
+            "type": "banter",
+            "text": "Dumb, dumb!",
+            "person": "Male voice"
+        },
+        {
+            "type": "banter",
+            "text": "Like ???",
+            "person": "Cobain"
+        },
+        {
+            "type": "banter",
+            "text": "Retarded, you fuckers are worse than our brother in Western State, I'm almost as bad as you guys",
+            "person": "Male voice"
+        },
+        {
+            "type": "banter",
+            "text": "Let's play Heartbreaker",
+            "person": "Burckhard"
+        },
+        {
+            "type": "banter",
+            "text": "I have spina bifida",
+            "person": "Cobain"
+        },
+        {
+            "type": "banter",
+            "text": "Break out that... play Heartbreaker with em",
+            "person": "Male voice"
+        },
+        {
+            "type": "banter",
+            "text": "That's my guitar right there",
+            "person": "Male voice"
+        },
+        {
+            "type": "banter",
+            "text": "Turn the PA on!",
+            "person": "Novoselic"
+        },
+        {
+            "type": "banter",
+            "text": "Play Heartbreaker, Heartbreaker",
+            "person": "Male voice"
+        },
+        {
+            "type": "banter",
+            "text": "A friend of mine is gonna play with you guys, he's a nice guy",
+            "person": "Male voice"
+        },
+        {
+            "type": "banter",
+            "text": "OK",
+            "person": "Novoselic"
+        },
+        {
+            "type": "banter",
+            "text": "Play, play White Room",
+            "person": "Female voice"
+        },
+        {
+            "type": "banter",
+            "text": "Heartbreaker, Heartbreaker, let's go",
+            "person": "Male voice"
+        },
+        {
+            "type": "banter",
+            "text": "Play White Room",
+            "person": "Female voice"
+        },
+        {
+            "type": "banter",
+            "text": "Shelli, Shelli. Heartbreaker featuring Tony Poukkula. Come on let's go",
+            "person": "Novoselic"
+        },
+        {
+            "type": "banter",
+            "text": "Featuring Tony Iommi",
+            "person": "Male voice"
+        },
+        {
+            "type": "banter",
+            "text": "Do some Black Sabbath",
+            "person": "Male voice"
+        },
+        {
+            "type": "banter",
+            "text": "Hey Ryan, Ryan can you give me a strap please? ??? no, I got one in my keys",
+            "person": "Poukkula"
+        },
+        {
+            "type": "banter",
+            "text": "Heartbreaker, Heartbreaker",
+            "person": "Male voice"
+        },
+        {
+            "type": "banter",
+            "text": "Fartbreaker",
+            "person": "Female voice"
+        },
+        {
+            "type": "banter",
+            "text": "Follow him, just follow him",
+            "person": "Cobain"
+        },
+        {
+            "type": "song",
+            "text": "Heartbreaker",
+            "notes": [
+                "jam",
+                "Poukkula on second guitar"
+            ]
+        },
+        {
+            "type": "song",
+            "text": "How Many More Times",
+            "notes": [
+                "jam",
+                "Poukkula on second guitar"
+            ]
+        },
+        {
+            "type": "song",
+            "text": "Mexican Seafood",
+            "notes": []
+        },
+        {
+            "type": "banter",
+            "text": "Floyd The Barber, Floyd The Barber... Floyd The Barber... c'mon, c'mon, c'mon, c'mon",
+            "person": "Male voice"
+        },
+        {
+            "type": "banter",
+            "text": "Lets tune up",
+            "person": "Novoselic"
+        },
+        {
+            "type": "banter",
+            "text": "You've got major reverb going on",
+            "person": "Cobain"
+        },
+        {
+            "type": "banter",
+            "text": "Look, look, remember that in Olympia? What's the next song?",
+            "person": "Novoselic"
+        },
+        {
+            "type": "banter",
+            "text": "Pen Cap",
+            "person": "Cobain"
+        },
+        {
+            "type": "banter",
+            "text": "Chew!",
+            "person": "Male voice"
+        },
+        {
+            "type": "banter",
+            "text": "Look at that drum set, wait, look at it!",
+            "person": "Novoselic"
+        },
+        {
+            "type": "banter",
+            "text": "Pen Cap Chew, ready?",
+            "person": "Male voice"
+        },
+        {
+            "type": "banter",
+            "text": "One two three four",
+            "person": "Burckhard"
+        },
+        {
+            "type": "song",
+            "text": "Pen Cap Chew",
+            "notes": []
+        },
+        {
+            "type": "banter",
+            "text": "Floyd The Barber real quick ???",
+            "person": "Male voice"
+        },
+        {
+            "type": "banter",
+            "text": "Chris",
+            "person": "Female voice"
+        },
+        {
+            "type": "banter",
+            "text": "Huh?",
+            "person": "Novoselic"
+        },
+        {
+            "type": "banter",
+            "text": "More and more. Hey Chris, do you wanna tune? This next song's called Breaking the Law!",
+            "person": "Cobain"
+        },
+        {
+            "type": "song",
+            "text": "Spank Thru",
+            "notes": []
+        },
+        {
+            "type": "banter",
+            "text": "They fucked up!, you guys are getting drunk!",
+            "person": "Male voice"
+        },
+        {
+            "type": "banter",
+            "text": "Wait, wait",
+            "person": "Male voice"
+        },
+        {
+            "type": "banter",
+            "text": "Do something... cool!",
+            "person": "Male voice"
+        },
+        {
+            "type": "banter",
+            "text": "Tony!",
+            "person": "Female voice"
+        },
+        {
+            "type": "banter",
+            "text": "Bass is a killer!",
+            "person": "Female voice"
+        },
+        {
+            "type": "banter",
+            "text": "What?",
+            "person": "Novoselic"
+        },
+        {
+            "type": "banter",
+            "text": "Yeah!",
+            "person": "Voice"
+        },
+        {
+            "type": "banter",
+            "text": "You wanna play that one?",
+            "person": "Burckhard"
+        },
+        {
+            "type": "jam",
+            "text": "Floyd The Barber bass line",
+            "notes": [
+                "bass line"
+            ]
+        },
+        {
+            "type": "banter",
+            "text": "Yeah",
+            "person": "Novoselic"
+        },
+        {
+            "type": "banter",
+            "text": "Wait a second, wait a second, no Hairspray Queen",
+            "person": "Cobain"
+        },
+        {
+            "type": "banter",
+            "text": "Hairspray, OK",
+            "person": "Novoselic"
+        },
+        {
+            "type": "banter",
+            "text": "Yeah",
+            "person": "Female voice"
+        },
+        {
+            "type": "jam",
+            "text": "Hairspray Queen false start",
+            "notes": [
+                "false start"
+            ]
+        },
+        {
+            "type": "banter",
+            "text": "Oh, c'mon",
+            "person": "Female voice"
+        },
+        {
+            "type": "banter",
+            "text": "That was a fake",
+            "person": "Male voice"
+        },
+        {
+            "type": "banter",
+            "text": "I need a coffee table! This is a prime time ??",
+            "person": "Novoselic"
+        },
+        {
+            "type": "jam",
+            "text": "unknown song guitar line",
+            "notes": [
+                "guitar line"
+            ]
+        },
+        {
+            "type": "banter",
+            "text": "C'mon",
+            "person": "Male voice"
+        },
+        {
+            "type": "jam",
+            "text": "Wild Thing bass line",
+            "notes": [
+                "bass line"
+            ]
+        },
+        {
+            "type": "banter",
+            "text": "What the fuck?",
+            "person": "Novoselic"
+        },
+        {
+            "type": "banter",
+            "text": "Do it, do it, do it! Do Hairspray Queen",
+            "person": "Voice"
+        },
+        {
+            "type": "jam",
+            "text": "Ring Around The Rosie guitar line",
+            "notes": [
+                "guitar line"
+            ]
+        },
+        {
+            "type": "jam",
+            "text": "Wild Thing bass line",
+            "notes": [
+                "bass line"
+            ]
+        },
+        {
+            "type": "banter",
+            "text": "Sorry",
+            "person": "Cobain"
+        },
+        {
+            "type": "banter",
+            "text": "Do Hairspray Queen",
+            "person": "Voice"
+        },
+        {
+            "type": "banter",
+            "text": "????? hold ????",
+            "person": "Voice"
+        },
+        {
+            "type": "jam",
+            "text": "unknown song guitar line",
+            "notes": [
+                "guitar line"
+            ]
+        },
+        {
+            "type": "banter",
+            "text": "Play My War",
+            "person": "Female voice"
+        },
+        {
+            "type": "jam",
+            "text": "The Sound Of Silence jam cobain acappella",
+            "notes": [
+                "jam",
+                "cobain acappella"
+            ]
+        },
+        {
+            "type": "banter",
+            "text": "Hello darkness, my old friend. I've come to talk to you again, because a vision softly creeping left its seeds while I was sleeping and the vision",
+            "person": "Cobain"
+        },
+        {
+            "type": "jam",
+            "text": "unknown song bass line",
+            "notes": [
+                "bass line"
+            ]
+        },
+        {
+            "type": "song",
+            "text": "Hairspray Queen",
+            "notes": []
+        },
+        {
+            "type": "banter",
+            "text": "Thank you, thank you, thank you. Here we go",
+            "person": "Novoselic"
+        },
+        {
+            "type": "banter",
+            "text": "Chris",
+            "person": "Female voice"
+        },
+        {
+            "type": "banter",
+            "text": "Get out of my underwear drawer!",
+            "person": "Male voice"
+        },
+        {
+            "type": "banter",
+            "text": "Huh?",
+            "person": "Male voice"
+        },
+        {
+            "type": "banter",
+            "text": "What?",
+            "person": "Female voice"
+        },
+        {
+            "type": "banter",
+            "text": "Get out of my underwear drawer!",
+            "person": "Male voice"
+        },
+        {
+            "type": "banter",
+            "text": "Oh, OK",
+            "person": "Female voice"
+        },
+        {
+            "type": "banter",
+            "text": "Yeah, Chris",
+            "person": "Female voice"
+        },
+        {
+            "type": "banter",
+            "text": "Wait, oh wait. I got an idea. Let's tune up",
+            "person": "Cobain"
+        },
+        {
+            "type": "banter",
+            "text": "She Sells Sanctuary!",
+            "person": "Male voice"
+        },
+        {
+            "type": "banter",
+            "text": "Tune up?",
+            "person": "Male voice"
+        },
+        {
+            "type": "banter",
+            "text": "Are you guys in tune?",
+            "person": "Male voice"
+        },
+        {
+            "type": "banter",
+            "text": "Hey",
+            "person": "Female voice"
+        },
+        {
+            "type": "banter",
+            "text": "What?",
+            "person": "Male voice"
+        },
+        {
+            "type": "banter",
+            "text": "I got an idea",
+            "person": "Male voice"
+        },
+        {
+            "type": "banter",
+            "text": "Chris",
+            "person": "Female voice"
+        },
+        {
+            "type": "banter",
+            "text": "They have a list that they play for...",
+            "person": "Cobain"
+        },
+        {
+            "type": "banter",
+            "text": "Censor",
+            "person": "Novoselic"
+        },
+        {
+            "type": "banter",
+            "text": "OK, where are we at?",
+            "person": "Female voice"
+        },
+        {
+            "type": "jam",
+            "text": "House of the Rising Sun guitar line",
+            "notes": [
+                "guitar line"
+            ]
+        },
+        {
+            "type": "banter",
+            "text": "Um? Stairway To Heaven. Play Stairway to Heaven",
+            "person": "Female voice"
+        },
+        {
+            "type": "song",
+            "text": "Sex Bomb",
+            "notes": [
+                "jam"
+            ]
+        }
+    ],
+    "set_incomplete": true,
+    "transmission": {},
+    "rehearsel_circulating_sources": [],
+    "circulating_sources": [
+        {
+            "name": "AUD #1",
+            "complete": false,
+            "equipment": "Unknown > Sony",
+            "generation": "ANA(1) > CDR(1) > FLAC",
+            "video-generation": null,
+            "audio-generation": null,
+            "length-sound": "47:05 min / 8.0",
+            "notes": [
+                "Includes \"Downer\" from the soundcheck, which cuts in.",
+                "It remains uncertain if any more songs were played/recorded after the last song \"Hairspray Queen\" on the surfaced version - at around 47 minutes this could be the point of the tape flip.\nDoes not include \"Sex Bomb\".\nANA(1) circulated December 2020. In September 2015 a lossless version of this source was circulated, replacing the old MP3 sourced version.\n"
+            ]
+        }
+    ],
+    "uncirculated_sources": [],
+    "notes": [
+        "Multiple friends of the band have all stated the band only played at \"17 Nussbaum Road\" once.\n                                    The show took place on a Saturday night.\nThe band borrowed the house owner's drum kit for the show.\nTony Poukkula played second guitar on Led Zeppelin's \"Heartbreaker\" and \"How Many More Times.\"\nBefore \"Heartbreaker\" (jam) Krist start to play some chords of \"How Many More Times\" ans says \"...This song's a soundcheck song\", probably they played it during the soundcheck as always.\nMore songs may have been played.\nKurt reported that the band played Flipper's \"Sex Bomb\" for 30 to 60 minutes.\nRyan Aigner said he played guitar during \"Sex Bomb\" and Kurt did not play guitar at all.\nThe audio recording and photographs were thought to be from the their first show in 1987, but after close investigation it doesn't appear to be the case; song structures, lyrics and playing are much more refined than on the 05/06/87 KAOS recording.\nAccording to early flyers hanging on Kurt's wall, his guitar was full of stickers, at least, between September 1986 to April 1987.\nThere are stickers on Kurt's guitar that aren't on earlier performance photos. \nKurt and Krist's hair length is longer than 05/01/87 and closer in length to 08/09/87.\n",
+        "The show took place on a Saturday night.",
+        "The band borrowed the house owner's drum kit for the show.",
+        "Tony Poukkula played second guitar on Led Zeppelin's \"Heartbreaker\" and \"How Many More Times.\"",
+        "Before \"Heartbreaker\" (jam) Krist start to play some chords of \"How Many More Times\" ans says \"...This song's a soundcheck song\", probably they played it during the soundcheck as always.",
+        "More songs may have been played.",
+        "Kurt reported that the band played Flipper's \"Sex Bomb\" for 30 to 60 minutes.",
+        "Ryan Aigner said he played guitar during \"Sex Bomb\" and Kurt did not play guitar at all.",
+        "The audio recording and photographs were thought to be from the their first show in 1987, but after close investigation it doesn't appear to be the case; song structures, lyrics and playing are much more refined than on the 05/06/87 KAOS recording.",
+        "According to early flyers hanging on Kurt's wall, his guitar was full of stickers, at least, between September 1986 to April 1987.",
+        "There are stickers on Kurt's guitar that aren't on earlier performance photos. ",
+        "Kurt and Krist's hair length is longer than 05/01/87 and closer in length to 08/09/87."
+    ],
+    "press": [],
+    "memorabilia": [],
+    "images": [
+        {
+            "url": "/concerts/images/1987/1987-00-00b/1987-00-00b_001.jpg",
+            "caption": "Photo by Jeff Franks"
+        },
+        {
+            "url": "/concerts/images/1987/1987-00-00b/1987-00-00b_002.jpg",
+            "caption": "Photo by Jeff Franks"
+        },
+        {
+            "url": "/concerts/images/1987/1987-00-00b/1987-00-00b_003.jpg",
+            "caption": "Photo by Jeff Franks"
+        }
+    ],
+    "navigation": {
+        "previous": "87-06-27",
+        "next": "87-08-09"
+    },
+    "graph": {
+        "bleach": "1",
+        "nevermind": "0",
+        "inutero": "0",
+        "non": "9"
+    }
+}

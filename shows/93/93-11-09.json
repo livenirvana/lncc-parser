@@ -1,0 +1,465 @@
+{
+    "year": "1993",
+    "month": "11",
+    "day": "09",
+    "band": [
+        {
+            "NIRVANA": [
+                {
+                    "name": "Kurt Cobain ",
+                    "duty": "vocals, guitar"
+                },
+                {
+                    "name": "Krist Novoselic ",
+                    "duty": "bass"
+                },
+                {
+                    "name": "Dave Grohl ",
+                    "duty": "drums, backing vocals"
+                },
+                {
+                    "name": "Pat Smear ",
+                    "duty": "guitar"
+                },
+                {
+                    "name": "Lori Goldston ",
+                    "duty": "cello"
+                }
+            ],
+            "type": "group"
+        }
+    ],
+    "crew": [
+        {
+            "name": "Alex MacLeod",
+            "duty": "tour manager"
+        },
+        {
+            "name": "Jeff Mason",
+            "duty": "production manager"
+        },
+        {
+            "name": "Kelly Nase",
+            "duty": "tour accountant"
+        },
+        {
+            "name": "Susanne Sasic",
+            "duty": "lighting designer"
+        },
+        {
+            "name": "Craig Overbay",
+            "duty": "sound engineer"
+        },
+        {
+            "name": "Ian Beveridge",
+            "duty": "monitor engineer"
+        },
+        {
+            "name": "Jim Vincent",
+            "duty": "guitar technician"
+        },
+        {
+            "name": "John Duncan",
+            "duty": "guitar technician"
+        },
+        {
+            "name": "Mike Dalke",
+            "duty": "drum technician"
+        },
+        {
+            "name": "Ed Swink",
+            "duty": "stage manager"
+        },
+        {
+            "name": "Dave Stevens",
+            "duty": "Pro Show sound crew"
+        },
+        {
+            "name": "Allan Bagley",
+            "duty": "Pro Show sound crew"
+        },
+        {
+            "name": "Tom Pfaeffle",
+            "duty": "Pro Show sound crew"
+        },
+        {
+            "name": "Spike Brant",
+            "duty": "LSD lighting crew"
+        },
+        {
+            "name": "Mike Lamb",
+            "duty": "LSD lighting crew"
+        },
+        {
+            "name": "Pat Connolly",
+            "duty": "LSD lighting crew"
+        },
+        {
+            "name": "Gary Vaspol",
+            "duty": "LSD lighting crew"
+        }
+    ],
+    "buyer": {
+        "names": [
+            "Bill Rogers"
+        ],
+        "company": "Electric Factory Concerts"
+    },
+    "schedule": [
+        {
+            "event": "Load In",
+            "time": "09:00"
+        },
+        {
+            "event": "Soundcheck",
+            "time": "15:30"
+        },
+        {
+            "event": "Doors",
+            "time": "19:00"
+        },
+        {
+            "event": "Half Japanese Showtime",
+            "time": "20:00"
+        },
+        {
+            "event": "Breeders Showtime",
+            "time": "20:45"
+        },
+        {
+            "event": "NIRVANA Showtime",
+            "time": "21:45"
+        }
+    ],
+    "soundcheck": [],
+    "soundcheck_incomplete": false,
+    "set": [
+        {
+            "type": "song",
+            "text": "Radio Friendly Unit Shifter",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "Drain You",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "Breed",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "Serve The Servants",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "About A Girl",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "Heart-Shaped Box",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "Sliver",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "Dumb",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "Come As You Are",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "Lithium",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "Pennyroyal Tea",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "School",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "Polly",
+            "notes": [
+                "acoustic"
+            ]
+        },
+        {
+            "type": "song",
+            "text": "Milk It",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "Rape Me",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "Territorial Pissings",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "Smells Like Teen Spirit",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "All Apologies",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "Jesus Wants Me For A Sunbeam",
+            "notes": [
+                "acoustic"
+            ]
+        },
+        {
+            "type": "song",
+            "text": "In Bloom",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "On A Plain",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "Scentless Apprentice",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "Blew",
+            "notes": []
+        }
+    ],
+    "set_incomplete": false,
+    "transmission": {},
+    "rehearsel_circulating_sources": [],
+    "circulating_sources": [
+        {
+            "name": "AUD #1",
+            "complete": true,
+            "equipment": "Sonic Studios DSM-6 > Sony TCD-D7",
+            "generation": "DAT(1) > FLAC",
+            "video-generation": null,
+            "audio-generation": null,
+            "length-sound": "89 min / 9.0",
+            "notes": [
+                "This upgrade was circulated in July 2007.",
+                "The DAT has sound fluctuations due to the taper moving around during the first two songs."
+            ]
+        },
+        {
+            "name": "AUD #2",
+            "complete": false,
+            "equipment": "Unknown > Unknown",
+            "generation": "Unofficial CD [Legacy Of Noise]",
+            "video-generation": null,
+            "audio-generation": null,
+            "length-sound": "76:33 min / 9.0",
+            "notes": [
+                "The \"intro noise\" fades in and the recording fades out after \"On A Plain\".",
+                "Missing \"Scentless Apprentice\" and \"Blew\"."
+            ]
+        },
+        {
+            "name": "AMT #1",
+            "complete": true,
+            "equipment": "Unknown > Unknown",
+            "generation": "HI8(M) > VHS(1) > DVDR/CDR",
+            "video-generation": null,
+            "audio-generation": null,
+            "length-sound": "88 min / 9.0",
+            "notes": [
+                "The circulating DVDR was remastered.",
+                "mateur video, Cobain-focussed, shot from an elevated position at the back centre of the venue.",
+                "\"Radio Friendly Unit Shifter\" has two dropouts in the first verse."
+            ]
+        },
+        {
+            "name": "AMT #2",
+            "complete": true,
+            "equipment": "Unknown > Unknown",
+            "generation": "8MM(M) > MiniDV(2) > DVDR/FLAC",
+            "video-generation": null,
+            "audio-generation": null,
+            "length-sound": "85 min / 8.5",
+            "notes": [
+                "Amateur video, band-focussed angle, shot from back centre of the venue.",
+                "\"Radio Friendly Unit Shifter\" cuts in and is cut within."
+            ]
+        },
+        {
+            "name": "AMT #3",
+            "complete": true,
+            "equipment": "Realistic > Canon",
+            "generation": "8MM(M) > DVDR/FLAC",
+            "video-generation": null,
+            "audio-generation": null,
+            "length-sound": "85 min / 8.5",
+            "notes": [
+                "In February 2015 a transfer of the master tape was circulated.",
+                "Amateur video, shot from the right.",
+                "This source has special effects during parts of several songs."
+            ]
+        }
+    ],
+    "uncirculated_sources": [],
+    "notes": [
+        "It is rumored that \"You Know You're Right\" was played at soundcheck.",
+        "During \"Milk It,\" feedback from the stage monitors evidently hurt Kurt's ears, prompting him to alter his singing and playing for part of the song."
+    ],
+    "press": [],
+    "memorabilia": [
+        {
+            "url": "/concerts/images/1993/1993-11-09/1993-11-09_01.jpg",
+            "caption": "Ticket"
+        },
+        {
+            "url": "/concerts/images/1993/1993-11-09/1993-11-09_02.jpg",
+            "caption": "Ticket"
+        },
+        {
+            "url": "/concerts/images/1993/1993-11-09/1993-11-09_03.jpg",
+            "caption": "T-shirt merchandise"
+        },
+        {
+            "url": "/concerts/images/1993/1993-11-09/1993-11-09_04.jpg",
+            "caption": "Backstage pass"
+        },
+        {
+            "url": "/concerts/images/1993/1993-11-09/1993-11-09_05.jpg",
+            "caption": "Advert"
+        },
+        {
+            "url": "/concerts/images/1993/1993-11-09/1993-11-09_06.jpg",
+            "caption": "Ticket"
+        },
+        {
+            "url": "concerts/images/1993/1993-11-09/1993-11-09_07.jpg",
+            "caption": "Nirvana's tour itinerary"
+        }
+    ],
+    "images": [
+        {
+            "url": "/concerts/images/1993/1993-11-09/1993-11-09_001.jpg",
+            "caption": "Photo by Steve Gullick"
+        },
+        {
+            "url": "/concerts/images/1993/1993-11-09/1993-11-09_002.jpg",
+            "caption": "Unknown photographer"
+        },
+        {
+            "url": "/concerts/images/1993/1993-11-09/1993-11-09_003.jpg",
+            "caption": "Photo by Steve Gullick"
+        },
+        {
+            "url": "/concerts/images/1993/1993-11-09/1993-11-09_004.jpg",
+            "caption": "Photo by Steve Gullick"
+        },
+        {
+            "url": "/concerts/images/1993/1993-11-09/1993-11-09_005.jpg",
+            "caption": "Unknown photographer"
+        },
+        {
+            "url": "/concerts/images/1993/1993-11-09/1993-11-09_006.jpg",
+            "caption": "Photo by Steve Gullick"
+        },
+        {
+            "url": "/concerts/images/1993/1993-11-09/1993-11-09_007.jpg",
+            "caption": "Photo by Steve Gullick"
+        },
+        {
+            "url": "/concerts/images/1993/1993-11-09/1993-11-09_008.jpg",
+            "caption": "Unknown photographer"
+        },
+        {
+            "url": "/concerts/images/1993/1993-11-09/1993-11-09_009.jpg",
+            "caption": "Unknown photographer"
+        },
+        {
+            "url": "/concerts/images/1993/1993-11-09/1993-11-09_010.jpg",
+            "caption": "Photo by Lisa Lake"
+        },
+        {
+            "url": "/concerts/images/1993/1993-11-09/1993-11-09_011.jpg",
+            "caption": "Photo by Lisa Lake"
+        },
+        {
+            "url": "/concerts/images/1993/1993-11-09/1993-11-09_012.jpg",
+            "caption": "Photo by Steve Gullick"
+        },
+        {
+            "url": "/concerts/images/1993/1993-11-09/1993-11-09_013.jpg",
+            "caption": "Photo by Steve Gullick"
+        },
+        {
+            "url": "/concerts/images/1993/1993-11-09/1993-11-09_014.jpg",
+            "caption": "Photo by Lisa Lake"
+        },
+        {
+            "url": "/concerts/images/1993/1993-11-09/1993-11-09_015.jpg",
+            "caption": "Photo by Lisa Lake"
+        },
+        {
+            "url": "/concerts/images/1993/1993-11-09/1993-11-09_016.jpg",
+            "caption": "Unknown photographer"
+        },
+        {
+            "url": "/concerts/images/1993/1993-11-09/1993-11-09_017.jpg",
+            "caption": "Photo by Steve Gullick"
+        },
+        {
+            "url": "/concerts/images/1993/1993-11-09/1993-11-09_018.jpg",
+            "caption": "Photo by Steve Gullick"
+        },
+        {
+            "url": "/concerts/images/1993/1993-11-09/1993-11-09_019.jpg",
+            "caption": "Photo by Steve Gullick"
+        },
+        {
+            "url": "/concerts/images/1993/1993-11-09/1993-11-09_020.jpg",
+            "caption": "Photo by Steve Gullick"
+        },
+        {
+            "url": "/concerts/images/1993/1993-11-09/1993-11-09_021.jpg",
+            "caption": "Photo by Steve Gullick"
+        },
+        {
+            "url": "/concerts/images/1993/1993-11-09/1993-11-09_022.jpg",
+            "caption": "Photo by Steve Gullick"
+        }
+    ],
+    "navigation": {
+        "previous": "93-11-08",
+        "next": "93-11-10"
+    },
+    "graph": {
+        "bleach": "3",
+        "nevermind": "9",
+        "inutero": "9",
+        "non": "2"
+    }
+}

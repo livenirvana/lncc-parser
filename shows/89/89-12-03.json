@@ -1,0 +1,660 @@
+{
+    "year": "1989",
+    "month": "12",
+    "day": "03",
+    "venue": "December 3",
+    "city": "1989 - Astoria Theatre (Lame Fest UK '89)",
+    "state": "London",
+    "country": "UK",
+    "band": [
+        {
+            "NIRVANA": [
+                {
+                    "name": "Kurt Cobain ",
+                    "duty": "vocals, guitar"
+                },
+                {
+                    "name": "Krist Novoselic ",
+                    "duty": "bass"
+                },
+                {
+                    "name": "Chad Channing ",
+                    "duty": "drums"
+                }
+            ],
+            "type": "group"
+        }
+    ],
+    "crew": [
+        {
+            "name": "Edwin Heath",
+            "duty": "tour manager"
+        },
+        {
+            "name": "Craig Montgomery",
+            "duty": "sound engineer"
+        }
+    ],
+    "buyer": {
+        "names": [
+            "Dave Mclean",
+            "Alex Weston"
+        ],
+        "company": "Riverman"
+    },
+    "schedule": [
+        {
+            "event": "Load In",
+            "time": "…:…"
+        },
+        {
+            "event": "Soundcheck",
+            "time": "…:…"
+        },
+        {
+            "event": "Doors",
+            "time": "19:30"
+        },
+        {
+            "event": "NIRVANA Showtime",
+            "time": "…:…"
+        },
+        {
+            "event": "TAD Showtime",
+            "time": "…:…"
+        },
+        {
+            "event": "Mudhoney Showtime",
+            "time": "…:…"
+        }
+    ],
+    "soundcheck": [],
+    "soundcheck_incomplete": false,
+    "set": [
+        {
+            "type": "jam",
+            "text": "jam  bass jam",
+            "notes": [
+                "bass jam"
+            ]
+        },
+        {
+            "type": "banter",
+            "text": "Hello, we're one of the three official representatives of the Seattle Sub Pop scene, from Washington state. Is that the red light district up there?",
+            "person": "Cobain"
+        },
+        {
+            "type": "banter",
+            "text": "?? ??",
+            "person": "Voice"
+        },
+        {
+            "type": "banter",
+            "text": "??",
+            "person": "Cobain"
+        },
+        {
+            "type": "banter",
+            "text": "?? ??",
+            "person": "Voice"
+        },
+        {
+            "type": "jam",
+            "text": "jam  bass jam",
+            "notes": [
+                "bass jam"
+            ]
+        },
+        {
+            "type": "jam",
+            "text": "jam  screaming intro",
+            "notes": [
+                "screaming intro"
+            ]
+        },
+        {
+            "type": "song",
+            "text": "School",
+            "notes": []
+        },
+        {
+            "type": "banter",
+            "text": "?? ??",
+            "person": "Channing"
+        },
+        {
+            "type": "song",
+            "text": "jam",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "Hand Of Doom",
+            "notes": [
+                "jam"
+            ]
+        },
+        {
+            "type": "song",
+            "text": "I Wanna Be Your Dog",
+            "notes": [
+                "jam"
+            ]
+        },
+        {
+            "type": "song",
+            "text": "Fascists Eat Donuts",
+            "notes": [
+                "jam"
+            ]
+        },
+        {
+            "type": "banter",
+            "text": "?? ??",
+            "person": "Channing"
+        },
+        {
+            "type": "banter",
+            "text": "This is the last show of our tour, so we can do whatever the fuck we want!",
+            "person": "Novoselic"
+        },
+        {
+            "type": "song",
+            "text": "Scoff",
+            "notes": []
+        },
+        {
+            "type": "jam",
+            "text": "jam  bass jam",
+            "notes": [
+                "bass jam"
+            ]
+        },
+        {
+            "type": "song",
+            "text": "Love Buzz",
+            "notes": []
+        },
+        {
+            "type": "banter",
+            "text": "Donkey show",
+            "person": "Novoselic"
+        },
+        {
+            "type": "jam",
+            "text": "jam  bass jam",
+            "notes": [
+                "bass jam"
+            ]
+        },
+        {
+            "type": "song",
+            "text": "Floyd The Barber",
+            "notes": []
+        },
+        {
+            "type": "jam",
+            "text": "jam  guitar jam",
+            "notes": [
+                "guitar jam"
+            ]
+        },
+        {
+            "type": "song",
+            "text": "Dive",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "Big Cheese",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "Polly",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "Spank Thru",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "About A Girl",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "Breed",
+            "notes": []
+        },
+        {
+            "type": "jam",
+            "text": "jam  bass jam",
+            "notes": [
+                "bass jam"
+            ]
+        },
+        {
+            "type": "banter",
+            "text": "This song was written by a band called the Vaselines, they're the best band in the world simply put",
+            "person": "Cobain"
+        },
+        {
+            "type": "banter",
+            "text": "Thank God",
+            "person": "Channing"
+        },
+        {
+            "type": "song",
+            "text": "Molly's Lips",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "Sappy",
+            "notes": []
+        },
+        {
+            "type": "banter",
+            "text": "Thank you",
+            "person": "Cobain"
+        },
+        {
+            "type": "song",
+            "text": "Negative Creep",
+            "notes": []
+        },
+        {
+            "type": "banter",
+            "text": "Good night and God bless",
+            "person": "Cobain"
+        },
+        {
+            "type": "song",
+            "text": "Blew",
+            "notes": []
+        }
+    ],
+    "set_incomplete": false,
+    "transmission": {},
+    "rehearsel_circulating_sources": [],
+    "circulating_sources": [
+        {
+            "name": "AUD #1",
+            "complete": true,
+            "equipment": "Sony PC-62 > Sony WM-D3",
+            "generation": "ANA(1) > FLAC",
+            "video-generation": null,
+            "audio-generation": null,
+            "length-sound": "52 min / 8.5",
+            "notes": [
+                "In July 2013 a much clear and natural sounding 1st generation copy of this source was circulated."
+            ]
+        },
+        {
+            "name": "AUD #2",
+            "complete": false,
+            "equipment": "Unknown > Unknown",
+            "generation": "ANA(1) > FLAC",
+            "video-generation": null,
+            "audio-generation": null,
+            "length-sound": "50 min / 9.0",
+            "notes": [
+                "In November 2008 a 1st generation tape was circulated.",
+                "Missing \"Negative Creep\".\n                                "
+            ]
+        },
+        {
+            "name": "AUD #3",
+            "complete": false,
+            "equipment": "Unknown > Unknown",
+            "generation": "ANA(x) > youtube",
+            "video-generation": null,
+            "audio-generation": null,
+            "length-sound": "49:32 min / ??",
+            "notes": [
+                "Posted in youtube September 2020.",
+                "\"Blew\" cuts in.\n                                "
+            ]
+        },
+        {
+            "name": "SBD #1",
+            "complete": false,
+            "equipment": "Soundboard > Unknown",
+            "generation": "Official CD [From The Muddy Banks Of The Wishkah] > FLAC",
+            "video-generation": null,
+            "audio-generation": null,
+            "length-sound": "07 min / 10",
+            "notes": [
+                "Includes only part of the intro, \"Polly\" and \"Breed\"."
+            ]
+        }
+    ],
+    "uncirculated_sources": [
+        {
+            "name": "AUD #4",
+            "note": "It is rumored that the show was recorded."
+        },
+        {
+            "name": "AMT #1",
+            "note": "A video of the show is mentioned in a French book by Youri Lenquette."
+        }
+    ],
+    "notes": [
+        "The Tad and Nirvana tour connected with Mudhoney's tour on this date for Sub Pop's Lame Fest UK '89.",
+        "After \"School\" Kurt Cobain needed to replace a broken string and at the concert he smashed his Washburn guitar beyond repair."
+    ],
+    "press": [],
+    "memorabilia": [
+        {
+            "url": "/concerts/images/1989/1989-12-03/1989-12-03_01.jpg",
+            "caption": "Ticket"
+        },
+        {
+            "url": "/concerts/images/1989/1989-12-03/1989-12-03_02.jpg",
+            "caption": "Handwritten setlist"
+        },
+        {
+            "url": "/concerts/images/1989/1989-12-03/1989-12-03_03.jpg",
+            "caption": "Advert"
+        },
+        {
+            "url": "/concerts/images/1989/1989-12-03/1989-12-03_04.jpg",
+            "caption": "Advert"
+        },
+        {
+            "url": "/concerts/images/1989/1989-12-03/1989-12-03_05.jpg",
+            "caption": "Handbill/Flyer, designed by unknown"
+        },
+        {
+            "url": "/concerts/images/1989/1989-12-03/1989-12-03_06.jpg",
+            "caption": "Advert"
+        },
+        {
+            "url": "/concerts/images/1989/1989-12-03/1989-12-03_07.jpg",
+            "caption": "Nirvana's tour itinerary"
+        },
+        {
+            "url": "/concerts/images/1989/1989-12-03/1989-12-03_08.jpg",
+            "caption": "Nirvana's tour itinerary"
+        },
+        {
+            "url": "/concerts/images/1989/1989-12-03/1989-12-03_09.jpg",
+            "caption": "Nirvana's tour itinerary"
+        }
+    ],
+    "images": [
+        {
+            "url": "/concerts/images/1989/1989-12-03/1989-12-03_001.jpg",
+            "caption": "Photo by Tim Paton"
+        },
+        {
+            "url": "/concerts/images/1989/1989-12-03/1989-12-03_002.jpg",
+            "caption": "Photo by Steve Double"
+        },
+        {
+            "url": "/concerts/images/1989/1989-12-03/1989-12-03_003.jpg",
+            "caption": "Photo by Tim Paton"
+        },
+        {
+            "url": "/concerts/images/1989/1989-12-03/1989-12-03_004.jpg",
+            "caption": "Photo by Stephen Sweet"
+        },
+        {
+            "url": "/concerts/images/1989/1989-12-03/1989-12-03_005.jpg",
+            "caption": "Photo by Stephen Sweet"
+        },
+        {
+            "url": "/concerts/images/1989/1989-12-03/1989-12-03_006.jpg",
+            "caption": "Photo by Stephen Sweet"
+        },
+        {
+            "url": "/concerts/images/1989/1989-12-03/1989-12-03_007.jpg",
+            "caption": "Photo by Stephen Sweet"
+        },
+        {
+            "url": "/concerts/images/1989/1989-12-03/1989-12-03_008.jpg",
+            "caption": "Photo by Stephen Sweet"
+        },
+        {
+            "url": "/concerts/images/1989/1989-12-03/1989-12-03_009.jpg",
+            "caption": "Photo by Stephen Sweet"
+        },
+        {
+            "url": "/concerts/images/1989/1989-12-03/1989-12-03_010.jpg",
+            "caption": "Photo by Stephen Sweet"
+        },
+        {
+            "url": "/concerts/images/1989/1989-12-03/1989-12-03_011.jpg",
+            "caption": "Photo by Tim Paton"
+        },
+        {
+            "url": "/concerts/images/1989/1989-12-03/1989-12-03_012.jpg",
+            "caption": "Photo by Tim Paton"
+        },
+        {
+            "url": "/concerts/images/1989/1989-12-03/1989-12-03_013.jpg",
+            "caption": "Photo by Steve Double"
+        },
+        {
+            "url": "/concerts/images/1989/1989-12-03/1989-12-03_014.jpg",
+            "caption": "Photo by Steve Double"
+        },
+        {
+            "url": "/concerts/images/1989/1989-12-03/1989-12-03_015.jpg",
+            "caption": "Photo by Steve Double"
+        },
+        {
+            "url": "/concerts/images/1989/1989-12-03/1989-12-03_016.jpg",
+            "caption": "Photo by Steve Double"
+        },
+        {
+            "url": "/concerts/images/1989/1989-12-03/1989-12-03_017.jpg",
+            "caption": "Photo by Steve Double"
+        },
+        {
+            "url": "/concerts/images/1989/1989-12-03/1989-12-03_018.jpg",
+            "caption": "Photo by Steve Double"
+        },
+        {
+            "url": "/concerts/images/1989/1989-12-03/1989-12-03_019.jpg",
+            "caption": "Photo by Steve Double"
+        },
+        {
+            "url": "/concerts/images/1989/1989-12-03/1989-12-03_020.jpg",
+            "caption": "Photo by Steve Double"
+        },
+        {
+            "url": "/concerts/images/1989/1989-12-03/1989-12-03_021.jpg",
+            "caption": "Photo by Steve Double"
+        },
+        {
+            "url": "/concerts/images/1989/1989-12-03/1989-12-03_022.jpg",
+            "caption": "Photo by Steve Double"
+        },
+        {
+            "url": "/concerts/images/1989/1989-12-03/1989-12-03_023.jpg",
+            "caption": "Photo by Steve Double"
+        },
+        {
+            "url": "/concerts/images/1989/1989-12-03/1989-12-03_024.jpg",
+            "caption": "Photo by Tim Paton"
+        },
+        {
+            "url": "/concerts/images/1989/1989-12-03/1989-12-03_025.jpg",
+            "caption": "Photo by Bruce Pavitt"
+        },
+        {
+            "url": "/concerts/images/1989/1989-12-03/1989-12-03_026.jpg",
+            "caption": "Photo by Bruce Pavitt"
+        },
+        {
+            "url": "/concerts/images/1989/1989-12-03/1989-12-03_027.jpg",
+            "caption": "Photo by Bruce Pavitt"
+        },
+        {
+            "url": "/concerts/images/1989/1989-12-03/1989-12-03_028.jpg",
+            "caption": "Photo by Bruce Pavitt"
+        },
+        {
+            "url": "/concerts/images/1989/1989-12-03/1989-12-03_029.jpg",
+            "caption": "Photo by Bruce Pavitt"
+        },
+        {
+            "url": "/concerts/images/1989/1989-12-03/1989-12-03_030.jpg",
+            "caption": "Photo by Bruce Pavitt"
+        },
+        {
+            "url": "/concerts/images/1989/1989-12-03/1989-12-03_031.jpg",
+            "caption": "Photo by Bruce Pavitt"
+        },
+        {
+            "url": "/concerts/images/1989/1989-12-03/1989-12-03_032.jpg",
+            "caption": "Photo by Bruce Pavitt"
+        },
+        {
+            "url": "/concerts/images/1989/1989-12-03/1989-12-03_033.jpg",
+            "caption": "Photo by Bruce Pavitt"
+        },
+        {
+            "url": "/concerts/images/1989/1989-12-03/1989-12-03_034.jpg",
+            "caption": "Photo by Bruce Pavitt"
+        },
+        {
+            "url": "/concerts/images/1989/1989-12-03/1989-12-03_035.jpg",
+            "caption": "Photo by Bruce Pavitt"
+        },
+        {
+            "url": "/concerts/images/1989/1989-12-03/1989-12-03_036.jpg",
+            "caption": "Photo by Bruce Pavitt"
+        },
+        {
+            "url": "/concerts/images/1989/1989-12-03/1989-12-03_037.jpg",
+            "caption": "Photo by Bruce Pavitt"
+        },
+        {
+            "url": "/concerts/images/1989/1989-12-03/1989-12-03_038.jpg",
+            "caption": "Unknown photographer"
+        },
+        {
+            "url": "/concerts/images/1989/1989-12-03/1989-12-03_039.jpg",
+            "caption": "Photo by Bruce Pavitt"
+        },
+        {
+            "url": "/concerts/images/1989/1989-12-03/1989-12-03_040.jpg",
+            "caption": "Photo by Bruce Pavitt"
+        },
+        {
+            "url": "/concerts/images/1989/1989-12-03/1989-12-03_041.jpg",
+            "caption": "Photo by Steve Double"
+        },
+        {
+            "url": "/concerts/images/1989/1989-12-03/1989-12-03_042.jpg",
+            "caption": "Photo by Steve Double"
+        },
+        {
+            "url": "/concerts/images/1989/1989-12-03/1989-12-03_043.jpg",
+            "caption": "Photo by Steve Double"
+        },
+        {
+            "url": "/concerts/images/1989/1989-12-03/1989-12-03_044.jpg",
+            "caption": "Photo by Steve Double"
+        },
+        {
+            "url": "/concerts/images/1989/1989-12-03/1989-12-03_045.jpg",
+            "caption": "Photo by Steve Double"
+        },
+        {
+            "url": "/concerts/images/1989/1989-12-03/1989-12-03_046.jpg",
+            "caption": "Photo by Steve Double"
+        },
+        {
+            "url": "/concerts/images/1989/1989-12-03/1989-12-03_047.jpg",
+            "caption": "Photo by Steve Double"
+        },
+        {
+            "url": "/concerts/images/1989/1989-12-03/1989-12-03_048.jpg",
+            "caption": "Photo by Steve Double"
+        },
+        {
+            "url": "/concerts/images/1989/1989-12-03/1989-12-03_049.jpg",
+            "caption": "Photo by Steve Double"
+        },
+        {
+            "url": "/concerts/images/1989/1989-12-03/1989-12-03_050.jpg",
+            "caption": "Photo by Steve Double"
+        },
+        {
+            "url": "/concerts/images/1989/1989-12-03/1989-12-03_051.jpg",
+            "caption": "Photo by Steve Double"
+        },
+        {
+            "url": "/concerts/images/1989/1989-12-03/1989-12-03_052.jpg",
+            "caption": "Photo by Steve Double"
+        },
+        {
+            "url": "/concerts/images/1989/1989-12-03/1989-12-03_053.jpg",
+            "caption": "Photo by Steve Double"
+        },
+        {
+            "url": "/concerts/images/1989/1989-12-03/1989-12-03_054.jpg",
+            "caption": "Photo by Steve Double"
+        },
+        {
+            "url": "/concerts/images/1989/1989-12-03/1989-12-03_055.jpg",
+            "caption": "Photo by Steve Double"
+        },
+        {
+            "url": "/concerts/images/1989/1989-12-03/1989-12-03_056.jpg",
+            "caption": "Photo by Steve Double"
+        },
+        {
+            "url": "/concerts/images/1989/1989-12-03/1989-12-03_057.jpg",
+            "caption": "Photo by Steve Double"
+        },
+        {
+            "url": "/concerts/images/1989/1989-12-03/1989-12-03_058.jpg",
+            "caption": "Photo by Steve Double"
+        },
+        {
+            "url": "/concerts/images/1989/1989-12-03/1989-12-03_059.jpg",
+            "caption": "Photo by Steve Double"
+        },
+        {
+            "url": "/concerts/images/1989/1989-12-03/1989-12-03_060.jpg",
+            "caption": "Photo by Steve Double"
+        },
+        {
+            "url": "/concerts/images/1989/1989-12-03/1989-12-03_061.jpg",
+            "caption": "Photo by Steve Double"
+        },
+        {
+            "url": "/concerts/images/1989/1989-12-03/1989-12-03_062.jpg",
+            "caption": "Photo by Steve Double"
+        },
+        {
+            "url": "/concerts/images/1989/1989-12-03/1989-12-03_063.jpg",
+            "caption": "Photo by Stephen Sweet"
+        },
+        {
+            "url": "/concerts/images/1989/1989-12-03/1989-12-03_064.jpg",
+            "caption": "Photo by Stephen Sweet"
+        },
+        {
+            "url": "/concerts/images/1989/1989-12-03/1989-12-03_065.jpg",
+            "caption": "Photo by Erik Mans"
+        }
+    ],
+    "navigation": {
+        "previous": "89-12-02",
+        "next": "/concerts/90/90-01-06"
+    },
+    "graph": {
+        "bleach": "8",
+        "nevermind": "2",
+        "inutero": "0",
+        "non": "7"
+    }
+}

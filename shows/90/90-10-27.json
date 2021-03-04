@@ -1,0 +1,297 @@
+{
+    "year": "1990",
+    "month": "10",
+    "day": "27",
+    "band": [
+        {
+            "NIRVANA": [
+                {
+                    "name": "Kurt Cobain ",
+                    "duty": "vocals, guitar, drums"
+                },
+                {
+                    "name": "Krist Novoselic ",
+                    "duty": "bass, drums"
+                },
+                {
+                    "name": "Dave Grohl ",
+                    "duty": "drums"
+                }
+            ],
+            "type": "group"
+        },
+        {
+            "name": "Everett True ",
+            "duty": "vocals, guitar",
+            "type": "person"
+        },
+        {
+            "name": "Antony Hodgkinson ",
+            "duty": "dancer",
+            "type": "person"
+        }
+    ],
+    "crew": [
+        {
+            "name": "Alex MacLeod",
+            "duty": "tour manager"
+        },
+        {
+            "name": "Craig Montgomery",
+            "duty": "sound engineer"
+        },
+        {
+            "name": "Ian Beveridge",
+            "duty": "monitor engineer"
+        }
+    ],
+    "buyer": {
+        "names": []
+    },
+    "schedule": [
+        {
+            "event": "Load In",
+            "time": "…:…"
+        },
+        {
+            "event": "Soundcheck",
+            "time": "…:…"
+        },
+        {
+            "event": "Doors",
+            "time": "20:00"
+        },
+        {
+            "event": "Shonen Knife Showtime",
+            "time": "…:…"
+        },
+        {
+            "event": "NIRVANA Showtime",
+            "time": "…:…"
+        },
+        {
+            "event": "L7 Showtime",
+            "time": "…:…"
+        }
+    ],
+    "soundcheck": [],
+    "soundcheck_incomplete": false,
+    "set": [
+        {
+            "type": "song",
+            "text": "Blew",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "Been A Son",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "Negative Creep",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "Stain",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "Lithium",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "Spank Thru",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "Breed",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "About A Girl",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "Dive",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "Sliver",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "Big Cheese",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "Floyd The Barber",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "Polly",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "Scoff",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "Love Buzz",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "D-7",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "Son Of A Gun",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "Molly's Lips",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "In Bloom",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "School",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "Paper Cuts",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "Stay Away",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "Do Nuts",
+            "notes": [
+                "True on vocals and guitar, Cobain and Novoselic on drums"
+            ]
+        }
+    ],
+    "set_incomplete": false,
+    "transmission": {},
+    "rehearsel_circulating_sources": [],
+    "circulating_sources": [
+        {
+            "name": "AUD #1",
+            "complete": true,
+            "equipment": "Unknown > Unknown",
+            "generation": "ANA(2) > FLAC",
+            "video-generation": null,
+            "audio-generation": null,
+            "length-sound": "75 min / 7.5",
+            "notes": [
+                "\"Love Buzz\" cuts in."
+            ]
+        },
+        {
+            "name": "AUD #2",
+            "complete": false,
+            "equipment": "Unknown > Unknown",
+            "generation": "ANA(X) > FLAC",
+            "video-generation": null,
+            "audio-generation": null,
+            "length-sound": "72 min / ?",
+            "notes": [
+                "Circulated February 2021. Missing \"Do Nuts\""
+            ]
+        },
+        {
+            "name": "AMT CLIP #1",
+            "complete": false,
+            "equipment": "Unknown > Unknown",
+            "generation": "VHS(x) > DVDR/FLAC",
+            "video-generation": null,
+            "audio-generation": null,
+            "length-sound": "01 min / 6.5",
+            "notes": [
+                "Amateur video, shot from the balcony.",
+                "The circulating video includes brief clips of \"Negative Creep\" and \"Lithium\" only.",
+                "It is unknown if more footage was shot."
+            ]
+        }
+    ],
+    "uncirculated_sources": [
+        {
+            "name": "AMT #2",
+            "note": "Clips (with no audio) appear on the official DVD With The Lights Out."
+        }
+    ],
+    "notes": [
+        "At the end of the set, as the crowd was beginning to leave, Kurt came back onstage to announce a special guest, Everett True. Kurt and Krist then got behind the drum kit and started banging away while Everett did vocals on \"Do Nuts.\""
+    ],
+    "press": [],
+    "memorabilia": [
+        {
+            "url": "/concerts/images/1990/1990-10-27/1990-10-27_01.jpg",
+            "caption": "Ticket"
+        },
+        {
+            "url": "/concerts/images/1990/1990-10-27/1990-10-27_02.jpg",
+            "caption": "Backstage pass"
+        },
+        {
+            "url": "/concerts/images/1990/1990-10-27/1990-10-27_03.jpg",
+            "caption": "Handbill/Flyer, designed by unknown"
+        },
+        {
+            "url": "/concerts/images/1990/1990-10-27/1990-10-27_04.jpg",
+            "caption": "Nirvana's tour itinerary"
+        },
+        {
+            "url": "/concerts/images/1990/1990-10-27/1990-10-27_05.jpg",
+            "caption": "Advert"
+        },
+        {
+            "url": "/concerts/images/1990/1990-10-27/1990-10-27_06.jpg",
+            "caption": "Advert"
+        }
+    ],
+    "images": [
+        {
+            "url": "/concerts/images/1990/1990-10-27/1990-10-27_001.jpg",
+            "caption": "Photo by Stephen Sweet"
+        },
+        {
+            "url": "/concerts/images/1990/1990-10-27/1990-10-27_002.jpg",
+            "caption": "Unknown photographer"
+        }
+    ],
+    "navigation": {
+        "previous": "90-10-26",
+        "next": "90-10-29"
+    },
+    "graph": {
+        "bleach": "9",
+        "nevermind": "5",
+        "inutero": "0",
+        "non": "9"
+    }
+}

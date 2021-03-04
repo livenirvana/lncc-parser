@@ -1,0 +1,822 @@
+{
+    "year": "1994",
+    "month": "02",
+    "day": "14",
+    "venue": "February 14",
+    "city": "1994 - Le Zénith",
+    "state": "Paris",
+    "country": "FR",
+    "band": [
+        {
+            "NIRVANA": [
+                {
+                    "name": "Kurt Cobain ",
+                    "duty": "vocals, guitar"
+                },
+                {
+                    "name": "Krist Novoselic ",
+                    "duty": "bass"
+                },
+                {
+                    "name": "Dave Grohl ",
+                    "duty": "drums, backing vocals"
+                },
+                {
+                    "name": "Pat Smear ",
+                    "duty": "guitar"
+                },
+                {
+                    "name": "Melora Creager ",
+                    "duty": "cello"
+                }
+            ],
+            "type": "group"
+        }
+    ],
+    "crew": [
+        {
+            "name": "Alex MacLeod",
+            "duty": "tour manager"
+        },
+        {
+            "name": "Jeff Mason",
+            "duty": "production manager"
+        },
+        {
+            "name": "Kelly Nase",
+            "duty": "tour accountant"
+        },
+        {
+            "name": "Susanne Sasic",
+            "duty": "lighting designer"
+        },
+        {
+            "name": "Craig Overbay",
+            "duty": "sound engineer"
+        },
+        {
+            "name": "Ian Beveridge",
+            "duty": "monitor engineer"
+        },
+        {
+            "name": "Jim Vincent",
+            "duty": "guitar technician"
+        },
+        {
+            "name": "John Duncan",
+            "duty": "guitar technician"
+        },
+        {
+            "name": "Garry Mackenzie",
+            "duty": "drum technician"
+        },
+        {
+            "name": "Ed Swink",
+            "duty": "stage manager"
+        },
+        {
+            "name": "Pete Currier",
+            "duty": "rigger"
+        },
+        {
+            "name": "Appy Thörig",
+            "duty": "mojo barrier"
+        },
+        {
+            "name": "Allan Bagley",
+            "duty": "Pro Show sound crew"
+        },
+        {
+            "name": "Niko Vonk",
+            "duty": "Pro Show sound crew"
+        },
+        {
+            "name": "John Evans",
+            "duty": "SSE sound crew"
+        },
+        {
+            "name": "Mike Lamb",
+            "duty": "LSD lighting crew"
+        },
+        {
+            "name": "Pat Connolly",
+            "duty": "LSD lighting crew"
+        },
+        {
+            "name": "Gary Vaspol",
+            "duty": "LSD lighting crew"
+        }
+    ],
+    "buyer": {
+        "names": [
+            "Gérard Drouot"
+        ],
+        "company": "Gérard Drouot Productions"
+    },
+    "schedule": [
+        {
+            "event": "Load In",
+            "time": "21:00"
+        },
+        {
+            "event": "Soundcheck",
+            "time": "…:…"
+        },
+        {
+            "event": "Doors",
+            "time": "18:30"
+        },
+        {
+            "event": "Buzzcocks Showtime",
+            "time": "20:00"
+        },
+        {
+            "event": "NIRVANA Showtime",
+            "time": "21:05"
+        }
+    ],
+    "soundcheck": [],
+    "soundcheck_incomplete": false,
+    "set": [
+        {
+            "type": "song",
+            "text": "Radio Friendly Unit Shifter",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "Drain You",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "Breed",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "Serve the Servants",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "Come As You Are",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "Smells Like Teen Spirit",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "Sliver",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "Dumb",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "In Bloom",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "About A Girl",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "Lithium",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "Pennyroyal Tea",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "School",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "Polly",
+            "notes": [
+                "acoustic"
+            ]
+        },
+        {
+            "type": "song",
+            "text": "Very Ape",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "Lounge Act",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "Rape Me",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "Territorial Pissings",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "The Man Who Sold The World",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "All Apologies",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "On A Plain",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "Heart-Shaped Box",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "Where Did You Sleep Last Night?",
+            "notes": [
+                "acoustic"
+            ]
+        }
+    ],
+    "set_incomplete": false,
+    "transmission": {},
+    "rehearsel_circulating_sources": [],
+    "circulating_sources": [
+        {
+            "name": "AUD #1",
+            "complete": true,
+            "equipment": "Aiwa CM-30A > Sony TCD-D7",
+            "generation": "DAT(M) > FLAC",
+            "video-generation": null,
+            "audio-generation": null,
+            "length-sound": "93 min / 9.0",
+            "notes": [
+                "In September 2010 the master tape was circulated."
+            ]
+        },
+        {
+            "name": "AUD #2a",
+            "complete": true,
+            "equipment": "Sony PC-62 > Sony TCD-D3",
+            "generation": "DAT(2) > FLAC",
+            "video-generation": null,
+            "audio-generation": null,
+            "length-sound": "92 min / 9.5",
+            "notes": [
+                "Less complete, but higher quality than AUD #2b."
+            ]
+        },
+        {
+            "name": "AUD #2b",
+            "complete": true,
+            "equipment": "Sony PC-62 -> Sony TCD-D3",
+            "generation": "DAT(M) > FLAC",
+            "video-generation": null,
+            "audio-generation": null,
+            "length-sound": "93 min / ??",
+            "notes": [
+                "In July 23, 2017 the master tape was transferred and circulated, but was found to be of worse quality because of transfer issues.",
+                "More complete, but lower quality than AUD #2a.     \n                                "
+            ]
+        },
+        {
+            "name": "AUD #3",
+            "complete": true,
+            "equipment": "Sony PC-62 > Sony WM-D3",
+            "generation": "ANA(1) > FLAC",
+            "video-generation": null,
+            "audio-generation": null,
+            "length-sound": "86 min / 8.0",
+            "notes": [
+                "No Infos."
+            ]
+        },
+        {
+            "name": "AUD #4",
+            "complete": true,
+            "equipment": "Unknown > Unknown",
+            "generation": "ANA(x) > FLAC",
+            "video-generation": null,
+            "audio-generation": null,
+            "length-sound": "87 min / 7.5",
+            "notes": [
+                "Circulated in August 2007."
+            ]
+        },
+        {
+            "name": "PRO #1a",
+            "complete": false,
+            "equipment": "Soundboard > Unknown",
+            "generation": "TV > VHS(1) > MiniDV(1) > DVDR/FLAC",
+            "video-generation": null,
+            "audio-generation": null,
+            "length-sound": "05 min / 9.5",
+            "notes": [
+                "Lower quality and higher generation, but more complete than PRO #1b.",
+                "Single camera PRO-shot video with soundboard audio, broadcast on French TV (MCM).",
+                "Different camera angle from PRO #2a and PRO #2b.",
+                "Includes only \"Lithium\" and \"Rape Me\".",
+                "\"Lithium\" cuts out.",
+                "Clips of \"Very Ape\" may have been broadcast on TV."
+            ]
+        },
+        {
+            "name": "PRO #1b",
+            "complete": false,
+            "equipment": "Soundboard > Unknown",
+            "generation": "DTV > TS/FLAC",
+            "video-generation": null,
+            "audio-generation": null,
+            "length-sound": "03 min / 10",
+            "notes": [
+                "Higher quality and lower generation, but less complete than PRO #1a.",
+                "Single camera PRO-shot video with soundboard audio, broadcast on the French TV channel Virgin 17 on November 23, 2008.",
+                "Different camera angle from PRO #2a and PRO #2b.",
+                "Includes only \"Rape Me\".",
+                "Clips of \"Very Ape\" may have been broadcast on TV."
+            ]
+        },
+        {
+            "name": "PRO #2a",
+            "complete": false,
+            "equipment": "Unknown > Unknown",
+            "generation": "TV > VHS(1) > MiniDV(1) > DVDR",
+            "video-generation": null,
+            "audio-generation": null,
+            "length-sound": "05 min / 10",
+            "notes": [
+                "Different camera angle from PRO #1a and PRO #1b.",
+                "Single camera PRO-shot video with open mic audio, broadcast on French TV (M6).",
+                "Includes only \"Lithium\"."
+            ]
+        },
+        {
+            "name": "PRO #2b",
+            "complete": false,
+            "equipment": "Unknown > Unknown",
+            "generation": "Unknown Format > MP4",
+            "video-generation": null,
+            "audio-generation": null,
+            "length-sound": "17:34 min / ??",
+            "notes": [
+                "Different camera angle from PRO #1a and PRO #1b.",
+                "Single camera PRO-shot video. Left channel of the audio is open mic and the right channel is soundboard.",
+                "Includes only \"Radio Friendly Unit Shifter\", \"Drain You\" (cuts in and cut), \"Breed\" (cuts out), \"Smells Like Teen Spirit\" (cuts in), \"Sliver\" (cuts out), \"Lithium\", \"Rape Me\" and \"Territorial Pissings\" (cuts out). "
+            ]
+        }
+    ],
+    "uncirculated_sources": [
+        {
+            "name": "AMT #1",
+            "note": "It is rumored that the show was recorded."
+        }
+    ],
+    "notes": [],
+    "press": [],
+    "memorabilia": [
+        {
+            "url": "/concerts/images/1994/1994-02-14/1994-02-14_01.jpg",
+            "caption": "Ticket"
+        },
+        {
+            "url": "/concerts/images/1994/1994-02-14/1994-02-14_02.jpg",
+            "caption": "Advert"
+        },
+        {
+            "url": "/concerts/images/1994/1994-02-14/1994-02-14_03.jpg",
+            "caption": "Advert"
+        },
+        {
+            "url": "/concerts/images/1994/1994-02-14/1994-02-14_04.jpg",
+            "caption": "Backstage pass"
+        },
+        {
+            "url": "/concerts/images/1994/1994-02-14/1994-02-14_05.jpg",
+            "caption": "Backstage pass"
+        },
+        {
+            "url": "/concerts/images/1994/1994-02-14/1994-02-14_06.jpg",
+            "caption": "Advert"
+        },
+        {
+            "url": "/concerts/images/1994/1994-02-14/1994-02-14_07.jpg",
+            "caption": "Backstage pass"
+        },
+        {
+            "url": "/concerts/images/1994/1994-02-14/1994-02-14_08.jpg",
+            "caption": "Advert"
+        },
+        {
+            "url": "/concerts/images/1994/1994-02-14/1994-02-14_09.jpg",
+            "caption": "Nirvana's tour itinerary"
+        }
+    ],
+    "images": [
+        {
+            "url": "/concerts/images/1994/1994-02-14/1994-02-14_001.jpg",
+            "caption": "Photo by Justin Thomas"
+        },
+        {
+            "url": "/concerts/images/1994/1994-02-14/1994-02-14_002.jpg",
+            "caption": "Photo by Justin Thomas"
+        },
+        {
+            "url": "/concerts/images/1994/1994-02-14/1994-02-14_003.jpg",
+            "caption": "Unknown photographer"
+        },
+        {
+            "url": "/concerts/images/1994/1994-02-14/1994-02-14_004.jpg",
+            "caption": "Photo by Justin Thomas"
+        },
+        {
+            "url": "/concerts/images/1994/1994-02-14/1994-02-14_005.jpg",
+            "caption": "Photo by Justin Thomas"
+        },
+        {
+            "url": "/concerts/images/1994/1994-02-14/1994-02-14_006.jpg",
+            "caption": "Photo by Gil Giuglio"
+        },
+        {
+            "url": "/concerts/images/1994/1994-02-14/1994-02-14_007.jpg",
+            "caption": "Photo by Paul Harries"
+        },
+        {
+            "url": "/concerts/images/1994/1994-02-14/1994-02-14_008.jpg",
+            "caption": "Photo by Jean Marie Siaud"
+        },
+        {
+            "url": "/concerts/images/1994/1994-02-14/1994-02-14_009.jpg",
+            "caption": "Photo by Jean Marie Siaud"
+        },
+        {
+            "url": "/concerts/images/1994/1994-02-14/1994-02-14_010.jpg",
+            "caption": "Photo by Justin Thomas"
+        },
+        {
+            "url": "/concerts/images/1994/1994-02-14/1994-02-14_011.jpg",
+            "caption": "Photo by Justin Thomas"
+        },
+        {
+            "url": "/concerts/images/1994/1994-02-14/1994-02-14_012.jpg",
+            "caption": "Photo by Paul Harries"
+        },
+        {
+            "url": "/concerts/images/1994/1994-02-14/1994-02-14_013.jpg",
+            "caption": "Photo by Jean Marie Siaud"
+        },
+        {
+            "url": "/concerts/images/1994/1994-02-14/1994-02-14_014.jpg",
+            "caption": "Photo by Nicolas Kontos"
+        },
+        {
+            "url": "/concerts/images/1994/1994-02-14/1994-02-14_015.jpg",
+            "caption": "Photo by Dukas"
+        },
+        {
+            "url": "/concerts/images/1994/1994-02-14/1994-02-14_016.jpg",
+            "caption": "Photo by Justin Thomas"
+        },
+        {
+            "url": "/concerts/images/1994/1994-02-14/1994-02-14_017.jpg",
+            "caption": "Photo by Paul Harries"
+        },
+        {
+            "url": "/concerts/images/1994/1994-02-14/1994-02-14_018.jpg",
+            "caption": "Photo by Grzesiek Kszczotek"
+        },
+        {
+            "url": "/concerts/images/1994/1994-02-14/1994-02-14_019.jpg",
+            "caption": "Photo by Justin Thomas"
+        },
+        {
+            "url": "/concerts/images/1994/1994-02-14/1994-02-14_020.jpg",
+            "caption": "Photo by Bruno Marzi"
+        },
+        {
+            "url": "/concerts/images/1994/1994-02-14/1994-02-14_021.jpg",
+            "caption": "Unknown photographer"
+        },
+        {
+            "url": "/concerts/images/1994/1994-02-14/1994-02-14_022.jpg",
+            "caption": "Photo by Phil Nicholls"
+        },
+        {
+            "url": "/concerts/images/1994/1994-02-14/1994-02-14_023.jpg",
+            "caption": "Photo by Phil Nicholls"
+        },
+        {
+            "url": "/concerts/images/1994/1994-02-14/1994-02-14_024.jpg",
+            "caption": "Photo by Phil Nicholls"
+        },
+        {
+            "url": "/concerts/images/1994/1994-02-14/1994-02-14_025.jpg",
+            "caption": "Photo by Justin Thomas"
+        },
+        {
+            "url": "/concerts/images/1994/1994-02-14/1994-02-14_026.jpg",
+            "caption": "Unknown photographer"
+        },
+        {
+            "url": "/concerts/images/1994/1994-02-14/1994-02-14_027.jpg",
+            "caption": "Photo by Nicolas Kontos"
+        },
+        {
+            "url": "/concerts/images/1994/1994-02-14/1994-02-14_028.jpg",
+            "caption": "Photo by Gil Giuglio"
+        },
+        {
+            "url": "/concerts/images/1994/1994-02-14/1994-02-14_029.jpg",
+            "caption": "Unknown photographer"
+        },
+        {
+            "url": "/concerts/images/1994/1994-02-14/1994-02-14_030.jpg",
+            "caption": "Photo by Grzesiek Kszczotek"
+        },
+        {
+            "url": "/concerts/images/1994/1994-02-14/1994-02-14_031.jpg",
+            "caption": "Photo by Paul Harries"
+        },
+        {
+            "url": "/concerts/images/1994/1994-02-14/1994-02-14_032.jpg",
+            "caption": "Photo by Grzesiek Kszczotek"
+        },
+        {
+            "url": "/concerts/images/1994/1994-02-14/1994-02-14_033.jpg",
+            "caption": "Unknown photographer"
+        },
+        {
+            "url": "/concerts/images/1994/1994-02-14/1994-02-14_034.jpg",
+            "caption": "Unknown photographer"
+        },
+        {
+            "url": "/concerts/images/1994/1994-02-14/1994-02-14_035.jpg",
+            "caption": "Unknown photographer"
+        },
+        {
+            "url": "/concerts/images/1994/1994-02-14/1994-02-14_036.jpg",
+            "caption": "Photo by Nicolas Kontos"
+        },
+        {
+            "url": "/concerts/images/1994/1994-02-14/1994-02-14_037.jpg",
+            "caption": "Photo by Gil Giuglio"
+        },
+        {
+            "url": "/concerts/images/1994/1994-02-14/1994-02-14_038.jpg",
+            "caption": "Photo by Jean Marie Siaud"
+        },
+        {
+            "url": "/concerts/images/1994/1994-02-14/1994-02-14_039.jpg",
+            "caption": "Unknown photographer"
+        },
+        {
+            "url": "/concerts/images/1994/1994-02-14/1994-02-14_040.jpg",
+            "caption": "Photo by Grzesiek Kszczotek"
+        },
+        {
+            "url": "/concerts/images/1994/1994-02-14/1994-02-14_041.jpg",
+            "caption": "Photo by Grzesiek Kszczotek"
+        },
+        {
+            "url": "/concerts/images/1994/1994-02-14/1994-02-14_042.jpg",
+            "caption": "Photo by Grzesiek Kszczotek"
+        },
+        {
+            "url": "/concerts/images/1994/1994-02-14/1994-02-14_043.jpg",
+            "caption": "Unknown photographer"
+        },
+        {
+            "url": "/concerts/images/1994/1994-02-14/1994-02-14_044.jpg",
+            "caption": "Photo by Nicolas Kontos"
+        },
+        {
+            "url": "/concerts/images/1994/1994-02-14/1994-02-14_045.jpg",
+            "caption": "Photo by Nicolas Kontos"
+        },
+        {
+            "url": "/concerts/images/1994/1994-02-14/1994-02-14_046.jpg",
+            "caption": "Photo by Nicolas Kontos"
+        },
+        {
+            "url": "/concerts/images/1994/1994-02-14/1994-02-14_047.jpg",
+            "caption": "Photo by Justin Thomas"
+        },
+        {
+            "url": "/concerts/images/1994/1994-02-14/1994-02-14_048.jpg",
+            "caption": "Photo by Robin François"
+        },
+        {
+            "url": "/concerts/images/1994/1994-02-14/1994-02-14_049.jpg",
+            "caption": "Photo by Grzesiek Kszczotek"
+        },
+        {
+            "url": "/concerts/images/1994/1994-02-14/1994-02-14_050.jpg",
+            "caption": "Photo by Claire Flak"
+        },
+        {
+            "url": "/concerts/images/1994/1994-02-14/1994-02-14_051.jpg",
+            "caption": "Photo by Bruno Marzi"
+        },
+        {
+            "url": "/concerts/images/1994/1994-02-14/1994-02-14_052.jpg",
+            "caption": "Photo by Bruno Marzi"
+        },
+        {
+            "url": "/concerts/images/1994/1994-02-14/1994-02-14_053.jpg",
+            "caption": "Photo by Bruno Marzi"
+        },
+        {
+            "url": "/concerts/images/1994/1994-02-14/1994-02-14_054.jpg",
+            "caption": "Photo by Patrick M."
+        },
+        {
+            "url": "/concerts/images/1994/1994-02-14/1994-02-14_055.jpg",
+            "caption": "Photo by Patrick M."
+        },
+        {
+            "url": "/concerts/images/1994/1994-02-14/1994-02-14_056.jpg",
+            "caption": "Photo by Patrick M."
+        },
+        {
+            "url": "/concerts/images/1994/1994-02-14/1994-02-14_057.jpg",
+            "caption": "Photo by Justin Thomas"
+        },
+        {
+            "url": "/concerts/images/1994/1994-02-14/1994-02-14_058.jpg",
+            "caption": "Photo by Justin Thomas"
+        },
+        {
+            "url": "/concerts/images/1994/1994-02-14/1994-02-14_059.jpg",
+            "caption": "Photo by Bruno Marzi"
+        },
+        {
+            "url": "/concerts/images/1994/1994-02-14/1994-02-14_060.jpg",
+            "caption": "Photo by Bruno Marzi"
+        },
+        {
+            "url": "/concerts/images/1994/1994-02-14/1994-02-14_061.jpg",
+            "caption": "Photo by Bruno Marzi"
+        },
+        {
+            "url": "/concerts/images/1994/1994-02-14/1994-02-14_062.jpg",
+            "caption": "Photo by Bruno Marzi"
+        },
+        {
+            "url": "/concerts/images/1994/1994-02-14/1994-02-14_063.jpg",
+            "caption": "Photo by Paul Harries"
+        },
+        {
+            "url": "/concerts/images/1994/1994-02-14/1994-02-14_064.jpg",
+            "caption": "Photo by Bruno Marzi"
+        },
+        {
+            "url": "/concerts/images/1994/1994-02-14/1994-02-14_065.jpg",
+            "caption": "Photo by Justin Thomas"
+        },
+        {
+            "url": "/concerts/images/1994/1994-02-14/1994-02-14_066.jpg",
+            "caption": "Photo by Justin Thomas"
+        },
+        {
+            "url": "/concerts/images/1994/1994-02-14/1994-02-14_067.jpg",
+            "caption": "Photo by Justin Thomas"
+        },
+        {
+            "url": "/concerts/images/1994/1994-02-14/1994-02-14_068.jpg",
+            "caption": "Photo by Justin Thomas"
+        },
+        {
+            "url": "/concerts/images/1994/1994-02-14/1994-02-14_069.jpg",
+            "caption": "Photo by Justin Thomas"
+        },
+        {
+            "url": "/concerts/images/1994/1994-02-14/1994-02-14_070.jpg",
+            "caption": "Photo by Justin Thomas"
+        },
+        {
+            "url": "/concerts/images/1994/1994-02-14/1994-02-14_071.jpg",
+            "caption": "Photo by Justin Thomas"
+        },
+        {
+            "url": "/concerts/images/1994/1994-02-14/1994-02-14_072.jpg",
+            "caption": "Photo by Justin Thomas"
+        },
+        {
+            "url": "/concerts/images/1994/1994-02-14/1994-02-14_073.jpg",
+            "caption": "Photo by Justin Thomas"
+        },
+        {
+            "url": "/concerts/images/1994/1994-02-14/1994-02-14_074.jpg",
+            "caption": "Photo by Justin Thomas"
+        },
+        {
+            "url": "/concerts/images/1994/1994-02-14/1994-02-14_075.jpg",
+            "caption": "Photo by Nicolas Kontos"
+        },
+        {
+            "url": "/concerts/images/1994/1994-02-14/1994-02-14_076.jpg",
+            "caption": "Photo by Bruno Marzi"
+        },
+        {
+            "url": "/concerts/images/1994/1994-02-14/1994-02-14_077.jpg",
+            "caption": "Photo by Bruno Marzi"
+        },
+        {
+            "url": "/concerts/images/1994/1994-02-14/1994-02-14_078.jpg",
+            "caption": "Photo by Justin Thomas"
+        },
+        {
+            "url": "/concerts/images/1994/1994-02-14/1994-02-14_079.jpg",
+            "caption": "Photo by Justin Thomas"
+        },
+        {
+            "url": "/concerts/images/1994/1994-02-14/1994-02-14_080.jpg",
+            "caption": "Photo by Justin Thomas"
+        },
+        {
+            "url": "/concerts/images/1994/1994-02-14/1994-02-14_081.jpg",
+            "caption": "Photo by Carline Goedefroit"
+        },
+        {
+            "url": "/concerts/images/1994/1994-02-14/1994-02-14_082.jpg",
+            "caption": "Unknown photographer"
+        },
+        {
+            "url": "/concerts/images/1994/1994-02-14/1994-02-14_083.jpg",
+            "caption": "Unknown photographer"
+        },
+        {
+            "url": "/concerts/images/1994/1994-02-14/1994-02-14_084.jpg",
+            "caption": "Photo by Bruno Marzi"
+        },
+        {
+            "url": "/concerts/images/1994/1994-02-14/1994-02-14_085.jpg",
+            "caption": "Photo by Carline Goedefroit"
+        },
+        {
+            "url": "/concerts/images/1994/1994-02-14/1994-02-14_086.jpg",
+            "caption": "Photo by Carline Goedefroit"
+        },
+        {
+            "url": "/concerts/images/1994/1994-02-14/1994-02-14_087.jpg",
+            "caption": "Photo by Justin Thomas"
+        },
+        {
+            "url": "/concerts/images/1994/1994-02-14/1994-02-14_088.jpg",
+            "caption": "Unknown photographer"
+        },
+        {
+            "url": "/concerts/images/1994/1994-02-14/1994-02-14_089.jpg",
+            "caption": "Photo by Anne-Sophie Prevot"
+        },
+        {
+            "url": "/concerts/images/1994/1994-02-14/1994-02-14_090.jpg",
+            "caption": "Photo by Anne-Sophie Prevot"
+        },
+        {
+            "url": "/concerts/images/1994/1994-02-14/1994-02-14_091.jpg",
+            "caption": "Photo by Anne-Sophie Prevot"
+        },
+        {
+            "url": "/concerts/images/1994/1994-02-14/1994-02-14_092.jpg",
+            "caption": "Photo by Carline Goedefroit"
+        },
+        {
+            "url": "/concerts/images/1994/1994-02-14/1994-02-14_093.jpg",
+            "caption": "Photo by Bruno Marzi"
+        },
+        {
+            "url": "/concerts/images/1994/1994-02-14/1994-02-14_094.jpg",
+            "caption": "Photo by Bruno Marzi"
+        }
+    ],
+    "navigation": {
+        "previous": "94-02-12",
+        "next": "94-02-16"
+    },
+    "graph": {
+        "bleach": "2",
+        "nevermind": "10",
+        "inutero": "8",
+        "non": "3"
+    }
+}

@@ -1,0 +1,191 @@
+{
+    "year": "1989",
+    "month": "11",
+    "day": "04",
+    "venue": "November 4",
+    "city": "1989 - Gigant",
+    "state": "Apeldoorn",
+    "country": "NL",
+    "band": [
+        {
+            "NIRVANA": [
+                {
+                    "name": "Kurt Cobain ",
+                    "duty": "vocals, guitar"
+                },
+                {
+                    "name": "Krist Novoselic ",
+                    "duty": "bass"
+                },
+                {
+                    "name": "Chad Channing ",
+                    "duty": "drums"
+                }
+            ],
+            "type": "group"
+        }
+    ],
+    "crew": [
+        {
+            "name": "Edwin Heath",
+            "duty": "tour manager"
+        },
+        {
+            "name": "Craig Montgomery",
+            "duty": "sound engineer"
+        }
+    ],
+    "buyer": {
+        "names": [
+            "Jaap de Ridder"
+        ]
+    },
+    "schedule": [
+        {
+            "event": "Load In",
+            "time": "17:00"
+        },
+        {
+            "event": "Soundcheck",
+            "time": "17:30"
+        },
+        {
+            "event": "Doors",
+            "time": "21:00"
+        },
+        {
+            "event": "NIRVANA Showtime",
+            "time": "22:00"
+        },
+        {
+            "event": "TAD Showtime",
+            "time": "…:…"
+        }
+    ],
+    "soundcheck": [],
+    "soundcheck_incomplete": false,
+    "set": [
+        {
+            "type": "song",
+            "text": "School",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "Scoff",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "Love Buzz",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "Floyd The Barber",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "Dive",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "Polly",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "Big Cheese",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "About A Girl",
+            "notes": [
+                "part of"
+            ]
+        }
+    ],
+    "set_incomplete": true,
+    "transmission": {},
+    "rehearsel_circulating_sources": [],
+    "circulating_sources": [],
+    "uncirculated_sources": [],
+    "notes": [
+        "There were no more than 50 people at the show, according to attendees.",
+        "The show was very bad, according to reviews.",
+        "Kurt was upset by guitar problems throughout the show, prompting him to thrown his guitar over the amps ending the show early. According to an attendee, the band only played for about 25 minutes before this.\nAccording to a review, maybe during the last song \"About A Girl\" (or during another part of the concert), Kurt layed on stage, did some stunts and started/finished the song/jam without playing guitar at all. Kurt also sang/played a song sitting/jumping while on Krist's shoulders, destroyed the strings of his bass and threw it away.\n",
+        "\nAccording to a review, maybe during the last song \"About A Girl\" (or during another part of the concert), Kurt layed on stage, did some stunts and started/finished the song/jam without playing guitar at all. Kurt also sang/played a song sitting/jumping while on Krist's shoulders, destroyed the strings of his bass and threw it away.",
+        "According to a review, maybe during the last song \"About A Girl\" (or during another part of the concert), Kurt layed on stage, did some stunts and started/finished the song/jam without playing guitar at all. Kurt also sang/played a song sitting/jumping while on Krist's shoulders, destroyed the strings of his bass and threw it away."
+    ],
+    "press": [
+        {
+            "text": "Review from a Dutch newspaper called \"Nieuwe Apeldoornse Courant\", published in 11/06/1989.",
+            "url": "/concerts/images/1989/1989-11-04/1989-11-04-01_review.jpg"
+        }
+    ],
+    "memorabilia": [
+        {
+            "url": "/concerts/images/1989/1989-11-04/1989-11-04-01.jpg",
+            "caption": "Handbill/Flyer, designed by unknown"
+        },
+        {
+            "url": "/concerts/images/1989/1989-11-04/1989-11-04-02.jpg",
+            "caption": "Nirvana's contract"
+        },
+        {
+            "url": "/concerts/images/1989/1989-11-04/1989-11-04-03.jpg",
+            "caption": "Advert"
+        },
+        {
+            "url": "/concerts/images/1989/1989-11-04/1989-11-04-04.jpg",
+            "caption": "Advert"
+        },
+        {
+            "url": "/concerts/images/1989/1989-11-04/1989-11-04-05.jpg",
+            "caption": "Nirvana's tour itinerary"
+        },
+        {
+            "url": "/concerts/images/1989/1989-11-04/1989-11-04-06.jpg",
+            "caption": "Nirvana's tour itinerary"
+        },
+        {
+            "url": "/concerts/images/1989/1989-11-04/1989-11-04-07.jpg",
+            "caption": "Nirvana's tour itinerary"
+        },
+        {
+            "url": "/concerts/images/1989/1989-11-04/1989-11-04-08.jpg",
+            "caption": "Advert"
+        },
+        {
+            "url": "/concerts/images/1989/1989-11-04/1989-11-04-09.jpg",
+            "caption": "Venue events calendar"
+        }
+    ],
+    "images": [
+        {
+            "url": "/concerts/images/1989/1989-11-04/1989-11-04-001.jpg",
+            "caption": "Photo by Richard Bosker"
+        },
+        {
+            "url": "/concerts/images/1989/1989-11-04/1989-11-04-002.jpg",
+            "caption": "Photo by Richard Bosker"
+        },
+        {
+            "url": "/concerts/images/1989/1989-11-04/1989-11-04-003.jpg",
+            "caption": "Photo by Richard Bosker"
+        }
+    ],
+    "navigation": {
+        "previous": "89-11-03",
+        "next": "89-11-05"
+    },
+    "graph": {
+        "bleach": "6",
+        "nevermind": "1",
+        "inutero": "0",
+        "non": "1"
+    }
+}

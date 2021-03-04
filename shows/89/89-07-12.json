@@ -1,0 +1,281 @@
+{
+    "year": "1989",
+    "month": "07",
+    "day": "12",
+    "band": [
+        {
+            "NIRVANA": [
+                {
+                    "name": "Kurt Cobain ",
+                    "duty": "vocals, guitar"
+                },
+                {
+                    "name": "Krist Novoselic ",
+                    "duty": "bass"
+                },
+                {
+                    "name": "Chad Channing ",
+                    "duty": "drums"
+                },
+                {
+                    "name": "Jason Everman ",
+                    "duty": "guitar"
+                }
+            ],
+            "type": "group"
+        }
+    ],
+    "crew": [],
+    "buyer": {
+        "names": [
+            "Kathy James"
+        ]
+    },
+    "schedule": [
+        {
+            "event": "Load In",
+            "time": "…:…"
+        },
+        {
+            "event": "Soundcheck",
+            "time": "…:…"
+        },
+        {
+            "event": "Doors",
+            "time": "…:…"
+        },
+        {
+            "event": "Napalm Sunday Showtime",
+            "time": "…:…"
+        },
+        {
+            "event": "NIRVANA Showtime",
+            "time": "…:…"
+        }
+    ],
+    "soundcheck": [],
+    "soundcheck_incomplete": false,
+    "set": [
+        {
+            "type": "banter",
+            "text": "Me, me, me, me, ??",
+            "person": "Cobain"
+        },
+        {
+            "type": "banter",
+            "text": "How the fuck are you doing? Hi, we're Tad from Seattle!",
+            "person": "Everman"
+        },
+        {
+            "type": "song",
+            "text": "School",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "Floyd The Barber",
+            "notes": []
+        },
+        {
+            "type": "banter",
+            "text": "Crap PA!",
+            "person": "Novoselic"
+        },
+        {
+            "type": "song",
+            "text": "Love Buzz",
+            "notes": []
+        },
+        {
+            "type": "banter",
+            "text": "Can you put some bass in the monitors please? Thanks. Hey man is that free rock! Well, turn it up man!",
+            "person": "Novoselic"
+        },
+        {
+            "type": "song",
+            "text": "Scoff",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "About A Girl",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "Spank Thru",
+            "notes": []
+        },
+        {
+            "type": "banter",
+            "text": "This is a slow, scary one!",
+            "person": "Cobain"
+        },
+        {
+            "type": "song",
+            "text": "Paper Cuts",
+            "notes": []
+        },
+        {
+            "type": "banter",
+            "text": "Can I have a bottle of Rolling Rock up here. Yo, custinetto (?) can you get me a bottle of Rolling Rock up here. Rock 'n' rolling rock. Punk rock!",
+            "person": "Novoselic"
+        },
+        {
+            "type": "song",
+            "text": "Mr. Moustache",
+            "notes": []
+        },
+        {
+            "type": "banter",
+            "text": "?? ??",
+            "person": "Novoselic"
+        },
+        {
+            "type": "song",
+            "text": "Big Cheese",
+            "notes": []
+        },
+        {
+            "type": "banter",
+            "text": "Honour ?? hall of fame here",
+            "person": "Novoselic"
+        },
+        {
+            "type": "song",
+            "text": "Polly",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "Sifting",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "Blandest",
+            "notes": []
+        },
+        {
+            "type": "banter",
+            "text": "Is there a vocal monitor ??",
+            "person": "Novoselic"
+        },
+        {
+            "type": "song",
+            "text": "Dive",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "Negative Creep",
+            "notes": []
+        },
+        {
+            "type": "banter",
+            "text": "It looks like we haven't any more songs, thanks for coming everybody",
+            "person": "Cobain"
+        },
+        {
+            "type": "song",
+            "text": "Blew",
+            "notes": []
+        },
+        {
+            "type": "banter",
+            "text": "Hey, that's Kurt man, right here",
+            "person": "Everman"
+        }
+    ],
+    "set_incomplete": false,
+    "transmission": {},
+    "rehearsel_circulating_sources": [],
+    "circulating_sources": [
+        {
+            "name": "AMT #1",
+            "complete": true,
+            "equipment": "Unknown > Unknown",
+            "generation": "VHS(x) > DVDR/FLAC",
+            "video-generation": null,
+            "audio-generation": null,
+            "length-sound": "56:40 min / 7.5",
+            "notes": [
+                "\"Scoff\", \"About A Girl\", \"Spank Thru\", \"Polly\", \"Sifting\" and \"Dive\" all cut in."
+            ]
+        }
+    ],
+    "uncirculated_sources": [
+        {
+            "name": "SBD #1",
+            "note": "The owner of the venue made a point of taping every show there."
+        },
+        {
+            "name": "AUD #1",
+            "note": "It is rumored that the show was recorded."
+        },
+        {
+            "name": "AMT #2",
+            "note": "A video screen showing an alternate shot can be seen in the circulating amateur video, but it is not known if this shot was recorded."
+        }
+    ],
+    "notes": [],
+    "press": [],
+    "memorabilia": [
+        {
+            "url": "/concerts/images/1989/1989-07-12/1989-07-12_01.jpg",
+            "caption": "Venue events calendar"
+        },
+        {
+            "url": "/concerts/images/1989/1989-07-12/1989-07-12_02.jpg",
+            "caption": "Advert"
+        },
+        {
+            "url": "/concerts/images/1989/1989-07-12/1989-07-12_03.jpg",
+            "caption": "Handwritten setlist"
+        },
+        {
+            "url": "/concerts/images/1989/1989-07-12/1989-07-12_04.jpg",
+            "caption": "Nirvana's tour itinerary"
+        },
+        {
+            "url": "/concerts/images/1989/1989-07-12/1989-07-12_05.jpg",
+            "caption": "Nirvana's tour itinerary"
+        },
+        {
+            "url": "/concerts/images/1989/1989-07-12/1989-07-12_06.jpg",
+            "caption": "Venue events calendar"
+        },
+        {
+            "url": "/concerts/images/1989/1989-07-12/1989-07-12_07.jpg",
+            "caption": "Venue events calendar"
+        }
+    ],
+    "images": [
+        {
+            "url": "/concerts/images/1989/1989-07-12/1989-07-12_001.jpg",
+            "caption": "Unknown photographer"
+        },
+        {
+            "url": "/concerts/images/1989/1989-07-12/1989-07-12_002.jpg",
+            "caption": "Unknown photographer"
+        },
+        {
+            "url": "/concerts/images/1989/1989-07-12/1989-07-12_003.jpg",
+            "caption": "Screencap of AMT #1"
+        },
+        {
+            "url": "/concerts/images/1989/1989-07-12/1989-07-12_004.jpg",
+            "caption": "Screencap of AMT #1"
+        }
+    ],
+    "navigation": {
+        "previous": "89-07-09",
+        "next": "89-07-13"
+    },
+    "graph": {
+        "bleach": "11",
+        "nevermind": "1",
+        "inutero": "0",
+        "non": "3"
+    }
+}

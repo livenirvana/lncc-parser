@@ -1,0 +1,256 @@
+{
+    "year": "1989",
+    "month": "07",
+    "day": "18",
+    "band": [
+        {
+            "NIRVANA": [
+                {
+                    "name": "Kurt Cobain ",
+                    "duty": "vocals, guitar"
+                },
+                {
+                    "name": "Krist Novoselic ",
+                    "duty": "bass"
+                },
+                {
+                    "name": "Chad Channing ",
+                    "duty": "drums"
+                },
+                {
+                    "name": "Jason Everman ",
+                    "duty": "guitar"
+                }
+            ],
+            "type": "group"
+        }
+    ],
+    "crew": [],
+    "buyer": {
+        "names": [
+            "Jody Kurilla"
+        ]
+    },
+    "schedule": [
+        {
+            "event": "Load In",
+            "time": "…:…"
+        },
+        {
+            "event": "Soundcheck",
+            "time": "…:…"
+        },
+        {
+            "event": "Doors",
+            "time": "21:30"
+        },
+        {
+            "event": "God Bullies Showtime",
+            "time": "…:…"
+        },
+        {
+            "event": "NIRVANA Showtime",
+            "time": "…:…"
+        },
+        {
+            "event": "Lonely Moans Showtime",
+            "time": "…:…"
+        },
+        {
+            "event": "Surgery Showtime",
+            "time": "…:…"
+        },
+        {
+            "event": "Cows Showtime",
+            "time": "…:…"
+        }
+    ],
+    "soundcheck": [],
+    "soundcheck_incomplete": false,
+    "set": [
+        {
+            "type": "banter",
+            "text": "It's the New Music Seminar, did you attend that one in er ... opportunism in the 80's, that's a good one. All to take advantage of the talent 101, that's another one, that to go see ... but I forgot. OK, there's a few things of this band I want you to notice, first of all that hair rules! OK, that hair rules, secondly, second thing ?? secondly these guys got these fucking plastic drums and the ?? rules, secondly this guy has amp ?? it says Nash all, and certainly they're ready to play on time, which means my stage manager spot is ... please welcome Sub Pop artists Nirvana!",
+            "person": "MC"
+        },
+        {
+            "type": "song",
+            "text": "School",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "Floyd The Barber",
+            "notes": [
+                "part of"
+            ]
+        },
+        {
+            "type": "banter",
+            "text": "?? ??",
+            "person": "Novoselic"
+        },
+        {
+            "type": "song",
+            "text": "Love Buzz",
+            "notes": []
+        },
+        {
+            "type": "banter",
+            "text": "One ??",
+            "person": "Novoselic"
+        },
+        {
+            "type": "song",
+            "text": "Dive",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "Polly",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "Big Cheese",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "Spank Thru",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "Scoff",
+            "notes": []
+        },
+        {
+            "type": "banter",
+            "text": "Keep that disco ball lit",
+            "person": "Novoselic"
+        },
+        {
+            "type": "song",
+            "text": "About A Girl",
+            "notes": []
+        },
+        {
+            "type": "banter",
+            "text": "Sub Pop song, from Washington",
+            "person": "Cobain"
+        },
+        {
+            "type": "banter",
+            "text": "Hah, hah, hah, hah haa ... hairball",
+            "person": "Novoselic"
+        },
+        {
+            "type": "song",
+            "text": "Mr. Moustache",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "Paper Cuts",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "Negative Creep",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "Blew",
+            "notes": []
+        },
+        {
+            "type": "banter",
+            "text": "?? ??",
+            "person": "Novoselic"
+        },
+        {
+            "type": "banter",
+            "text": "?? ??",
+            "person": "Novoselic"
+        },
+        {
+            "type": "banter",
+            "text": "?? ??",
+            "person": "Novoselic"
+        }
+    ],
+    "set_incomplete": false,
+    "transmission": {},
+    "rehearsel_circulating_sources": [],
+    "circulating_sources": [
+        {
+            "name": "AMT #1",
+            "complete": false,
+            "equipment": "Unknown > Unknown",
+            "generation": "Video8(M) > MKV",
+            "video-generation": null,
+            "audio-generation": null,
+            "length-sound": "32:10 min / 8",
+            "notes": [
+                "A master transfer was circulated October 2020, replacing all previous split sources.",
+                "Amateur video, shot towards the front of the audience, centre right.",
+                "Includes: \"School\", \"Floyd The Barber\", \"Love Buzz\", \"Dive\" (cuts in), \"Polly\", \"Big Cheese\", \"Scoff\" (cuts in), \"About A Girl\" (cuts in), \"Blew\""
+            ]
+        }
+    ],
+    "uncirculated_sources": [],
+    "notes": [
+        "This was the last show with Jason Everman on second guitar.",
+        "During \"Floyd The Barber,\" a drunk got onstage and yelled \"fucking shit\" into the microphone before being thrown off the stage. Jason followed him down.",
+        "After the show, the band cancelled the remaining six or seven shows of the tour."
+    ],
+    "press": [],
+    "memorabilia": [
+        {
+            "url": "/concerts/images/1989/1989-07-18/1989-07-18_01.jpg",
+            "caption": "Advert"
+        },
+        {
+            "url": "/concerts/images/1989/1989-07-18/1989-07-18_02.jpg",
+            "caption": "Handwritten setlist"
+        },
+        {
+            "url": "/concerts/images/1989/1989-07-18/1989-07-18_03.jpg",
+            "caption": "Venue events calendar"
+        },
+        {
+            "url": "/concerts/images/1989/1989-07-18/1989-07-18_04.jpg",
+            "caption": "Nirvana's tour itinerary"
+        },
+        {
+            "url": "/concerts/images/1989/1989-07-18/1989-07-18_05.jpg",
+            "caption": "Nirvana's tour itinerary"
+        }
+    ],
+    "images": [
+        {
+            "url": "/concerts/images/1989/1989-07-18/1989-07-18_001.jpg",
+            "caption": "Photo by Toby Weiss"
+        },
+        {
+            "url": "/concerts/images/1989/1989-07-18/1989-07-18_002.jpg",
+            "caption": "Photo by Toby Weiss"
+        },
+        {
+            "url": "/concerts/images/1989/1989-07-18/1989-07-18_003.jpg",
+            "caption": "Photo by Toby Weiss"
+        }
+    ],
+    "navigation": {
+        "previous": "89-07-15",
+        "next": "89-08-26"
+    },
+    "graph": {
+        "bleach": "10",
+        "nevermind": "1",
+        "inutero": "0",
+        "non": "2"
+    }
+}

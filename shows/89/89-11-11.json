@@ -1,0 +1,279 @@
+{
+    "year": "1989",
+    "month": "11",
+    "day": "11",
+    "venue": "November 11",
+    "city": "1989 - Ecstasy",
+    "state": "Berlin",
+    "country": "DE",
+    "band": [
+        {
+            "NIRVANA": [
+                {
+                    "name": "Kurt Cobain ",
+                    "duty": "vocals, guitar"
+                },
+                {
+                    "name": "Krist Novoselic ",
+                    "duty": "bass"
+                },
+                {
+                    "name": "Chad Channing ",
+                    "duty": "drums"
+                }
+            ],
+            "type": "group"
+        }
+    ],
+    "crew": [
+        {
+            "name": "Edwin Heath",
+            "duty": "tour manager"
+        },
+        {
+            "name": "Craig Montgomery",
+            "duty": "sound engineer"
+        }
+    ],
+    "buyer": {
+        "names": [
+            "Thomas Spindler"
+        ]
+    },
+    "schedule": [
+        {
+            "event": "Load In",
+            "time": "17:30"
+        },
+        {
+            "event": "Soundcheck",
+            "time": "18:00"
+        },
+        {
+            "event": "Doors",
+            "time": "21:00"
+        },
+        {
+            "event": "Walking Seeds Showtime",
+            "time": "…:…"
+        },
+        {
+            "event": "NIRVANA Showtime",
+            "time": "…:…"
+        },
+        {
+            "event": "TAD Showtime",
+            "time": "…:…"
+        }
+    ],
+    "soundcheck": [],
+    "soundcheck_incomplete": false,
+    "set": [
+        {
+            "type": "jam",
+            "text": "jam screaming intro",
+            "notes": [
+                "screaming intro"
+            ]
+        },
+        {
+            "type": "song",
+            "text": "School",
+            "notes": []
+        },
+        {
+            "type": "banter",
+            "text": "?? ?? ?? ??",
+            "person": "Voice"
+        },
+        {
+            "type": "song",
+            "text": "Scoff",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "Love Buzz",
+            "notes": []
+        },
+        {
+            "type": "banter",
+            "text": "Hey Edwin! ?? ?? ??",
+            "person": "Novoselic"
+        },
+        {
+            "type": "song",
+            "text": "Floyd The Barber",
+            "notes": []
+        },
+        {
+            "type": "banter",
+            "text": "Danke",
+            "person": "Novoselic"
+        },
+        {
+            "type": "banter",
+            "text": "Donkey show",
+            "person": "Cobain"
+        },
+        {
+            "type": "song",
+            "text": "Dive",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "Polly",
+            "notes": []
+        },
+        {
+            "type": "jam",
+            "text": "jam bass jam",
+            "notes": [
+                "bass jam"
+            ]
+        },
+        {
+            "type": "song",
+            "text": "Big Cheese",
+            "notes": [
+                "part of"
+            ]
+        },
+        {
+            "type": "song",
+            "text": "jam",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "About A Girl",
+            "notes": []
+        },
+        {
+            "type": "banter",
+            "text": "Donkey show",
+            "person": "Cobain"
+        },
+        {
+            "type": "song",
+            "text": "Mr. Moustache",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "Spank Thru",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "Breed",
+            "notes": [
+                "part of"
+            ]
+        }
+    ],
+    "set_incomplete": false,
+    "transmission": {},
+    "rehearsel_circulating_sources": [],
+    "circulating_sources": [
+        {
+            "name": "AUD #1a",
+            "complete": true,
+            "equipment": "Unknown > Unknown",
+            "generation": "ANA(2) > FLAC",
+            "video-generation": null,
+            "audio-generation": null,
+            "length-sound": "40 min / 7.5",
+            "notes": [
+                "Circulated in March 2006.",
+                "Lower quality and higher generation, but does not have the digital glitches that are on AUD #1b.",
+                "There are many cuts, but the the tape is believed to be complete, with Cobain curtailing the show part-way through \"Breed\" due to equipment problems."
+            ]
+        },
+        {
+            "name": "AUD #1b",
+            "complete": true,
+            "equipment": "Unknown > Unknown",
+            "generation": "ANA(1) > DAT(1) > FLAC",
+            "video-generation": null,
+            "audio-generation": null,
+            "length-sound": "38 min / 8.5",
+            "notes": [
+                "Surfaced in January 2006.",
+                "Higher quality and lower generation, but has frequent digital glitches that are not on AUD #1a.",
+                "There are many cuts, but the the tape is believed to be complete, with Cobain curtailing the show part-way through \"Breed\" due to equipment problems."
+            ]
+        },
+        {
+            "name": "AUD #2",
+            "complete": true,
+            "equipment": "Unknown > Unknown",
+            "generation": "ANA(x) > FLAC",
+            "video-generation": null,
+            "audio-generation": null,
+            "length-sound": "43 min / 9.0",
+            "notes": [
+                "Circulated in April 2013 and is sourced from a commercial bootleg cassette tape.",
+                "Has lots of between-song cuts."
+            ]
+        }
+    ],
+    "uncirculated_sources": [
+        {
+            "name": "AMT #1",
+            "note": "It is rumored that the show was recorded."
+        }
+    ],
+    "notes": [
+        "During \"Big Cheese,\" Kurt stopped playing, and Krist and Chad jammed.",
+        "About a minute into \"Mr. Moustache,\" Krist's bass stopped working, so Kurt and Chad finished the song without him.",
+        "During \"Breed\" Kurt Cobain smashed his white Univox Hi-flier beyond repair in disgust due to the equipment problems, ending the show early."
+    ],
+    "press": [],
+    "memorabilia": [
+        {
+            "url": "/concerts/images/1989/1989-11-11/1989-11-11_01.jpg",
+            "caption": "Nirvana's tour itinerary"
+        },
+        {
+            "url": "/concerts/images/1989/1989-11-11/1989-11-11_02.jpg",
+            "caption": "Nirvana's tour itinerary"
+        },
+        {
+            "url": "/concerts/images/1989/1989-11-11/1989-11-11_03.jpg",
+            "caption": "Nirvana's tour itinerary"
+        },
+        {
+            "url": "/concerts/images/1989/1989-11-11/1989-11-11_04.jpg",
+            "caption": "Advert"
+        },
+        {
+            "url": "/concerts/images/1989/1989-11-11/1989-11-11_05.jpg",
+            "caption": "Advert"
+        },
+        {
+            "url": "/concerts/images/1989/1989-11-11/1989-11-11_06.jpg",
+            "caption": "Advert"
+        },
+        {
+            "url": "/concerts/images/1989/1989-11-11/1989-11-11_07.jpg",
+            "caption": "Advert"
+        },
+        {
+            "url": "/concerts/images/1989/1989-11-11/1989-11-11_08.jpg",
+            "caption": "Advert"
+        }
+    ],
+    "images": [],
+    "navigation": {
+        "previous": "89-11-10",
+        "next": "89-11-12"
+    },
+    "graph": {
+        "bleach": "7",
+        "nevermind": "2",
+        "inutero": "0",
+        "non": "3"
+    }
+}

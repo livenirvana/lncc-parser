@@ -1,0 +1,534 @@
+{
+    "year": "1994",
+    "month": "02",
+    "day": "24",
+    "venue": "February 24",
+    "city": "1994 - Palatrussardi",
+    "state": "Milan",
+    "country": "IT",
+    "band": [
+        {
+            "NIRVANA": [
+                {
+                    "name": "Kurt Cobain ",
+                    "duty": "vocals, guitar"
+                },
+                {
+                    "name": "Krist Novoselic ",
+                    "duty": "bass"
+                },
+                {
+                    "name": "Dave Grohl ",
+                    "duty": "drums, backing vocals"
+                },
+                {
+                    "name": "Pat Smear ",
+                    "duty": "guitar"
+                },
+                {
+                    "name": "Melora Creager ",
+                    "duty": "cello"
+                }
+            ],
+            "type": "group"
+        }
+    ],
+    "crew": [
+        {
+            "name": "Alex MacLeod",
+            "duty": "tour manager"
+        },
+        {
+            "name": "Jeff Mason",
+            "duty": "production manager"
+        },
+        {
+            "name": "Kelly Nase",
+            "duty": "tour accountant"
+        },
+        {
+            "name": "Susanne Sasic",
+            "duty": "lighting designer"
+        },
+        {
+            "name": "Craig Overbay",
+            "duty": "sound engineer"
+        },
+        {
+            "name": "Ian Beveridge",
+            "duty": "monitor engineer"
+        },
+        {
+            "name": "Jim Vincent",
+            "duty": "guitar technician"
+        },
+        {
+            "name": "John Duncan",
+            "duty": "guitar technician"
+        },
+        {
+            "name": "Garry Mackenzie",
+            "duty": "drum technician"
+        },
+        {
+            "name": "Ed Swink",
+            "duty": "stage manager"
+        },
+        {
+            "name": "Pete Currier",
+            "duty": "rigger"
+        },
+        {
+            "name": "Appy Thörig",
+            "duty": "mojo barrier"
+        },
+        {
+            "name": "Allan Bagley",
+            "duty": "Pro Show sound crew"
+        },
+        {
+            "name": "Niko Vonk",
+            "duty": "Pro Show sound crew"
+        },
+        {
+            "name": "John Evans",
+            "duty": "SSE sound crew"
+        },
+        {
+            "name": "Mike Lamb",
+            "duty": "LSD lighting crew"
+        },
+        {
+            "name": "Pat Connolly",
+            "duty": "LSD lighting crew"
+        },
+        {
+            "name": "Gary Vaspol",
+            "duty": "LSD lighting crew"
+        }
+    ],
+    "buyer": {
+        "names": [
+            "Roberto De Luca"
+        ],
+        "company": "Bonnechance"
+    },
+    "schedule": [
+        {
+            "event": "Load In",
+            "time": "09:00"
+        },
+        {
+            "event": "Soundcheck",
+            "time": "…:…"
+        },
+        {
+            "event": "Doors",
+            "time": "18:30"
+        },
+        {
+            "event": "Melvins Showtime",
+            "time": "…:…"
+        },
+        {
+            "event": "NIRVANA Showtime",
+            "time": "…:…"
+        }
+    ],
+    "soundcheck": [],
+    "soundcheck_incomplete": false,
+    "set": [
+        {
+            "type": "song",
+            "text": "Radio Friendly Unit Shifter",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "Drain You",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "Breed",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "Serve The Servants",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "Come As You Are",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "Smells Like Teen Spirit",
+            "notes": [
+                "incl. \"More Than A Feeling\" intro"
+            ]
+        },
+        {
+            "type": "song",
+            "text": "Sliver",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "Dumb",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "In Bloom",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "About A Girl",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "Lithium",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "Pennyroyal Tea",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "School",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "Polly",
+            "notes": [
+                "acoustic"
+            ]
+        },
+        {
+            "type": "song",
+            "text": "Very Ape",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "Lounge Act",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "Rape Me",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "Territorial Pissings",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "All Apologies",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "On A Plain",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "Blew",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "Heart-Shaped Box",
+            "notes": []
+        }
+    ],
+    "set_incomplete": false,
+    "transmission": {},
+    "rehearsel_circulating_sources": [],
+    "circulating_sources": [
+        {
+            "name": "AUD #1",
+            "complete": false,
+            "equipment": "Unknown > Sony WM-D6",
+            "generation": "Unofficial CD [Sliver And Dumb]",
+            "video-generation": null,
+            "audio-generation": null,
+            "length-sound": "53 min / 8.5",
+            "notes": [
+                "Missing everything before \"Sliver\"."
+            ]
+        },
+        {
+            "name": "AMT #1",
+            "complete": true,
+            "equipment": "Built in > Sony CCD-F55E",
+            "generation": "8MM(M) > DVDR/FLAC",
+            "video-generation": null,
+            "audio-generation": null,
+            "length-sound": "77 min / 7.5",
+            "notes": [
+                "Amateur video, shot from the back right of the venue.",
+                "Cuts off during the end noise."
+            ]
+        },
+        {
+            "name": "AMT #2",
+            "complete": true,
+            "equipment": "Unknown > Unknown",
+            "generation": "Source Videos > Mixdown VHS(M) > VHS(1) > DVDR/FLAC",
+            "video-generation": null,
+            "audio-generation": null,
+            "length-sound": "82 min / 8.0",
+            "notes": [
+                "Multi-camera video comprised of the two amateur shots of this show. (The complete videos still remain uncirculated)",
+                "Most of the video was shot from the right side of the back of the audience.",
+                "Has some clips of another amateur video, shot from the left side of the back of the audience.",
+                "Has some occasional clips of AMT #2 from 02/25/94."
+            ]
+        }
+    ],
+    "uncirculated_sources": [],
+    "notes": [],
+    "press": [],
+    "memorabilia": [
+        {
+            "url": "/concerts/images/1994/1994-02-24/1994-02-24_01.jpg",
+            "caption": "Advert"
+        },
+        {
+            "url": "/concerts/images/1994/1994-02-24/1994-02-24_02.jpg",
+            "caption": "Ticket"
+        },
+        {
+            "url": "/concerts/images/1994/1994-02-24/1994-02-24_03.jpg",
+            "caption": "Backstage pass"
+        },
+        {
+            "url": "/concerts/images/1994/1994-02-24/1994-02-24_04.jpg",
+            "caption": "Advert"
+        },
+        {
+            "url": "/concerts/images/1994/1994-02-24/1994-02-24_05.jpg",
+            "caption": "Handwritten setlist"
+        },
+        {
+            "url": "/concerts/images/1994/1994-02-24/1994-02-24_06.jpg",
+            "caption": "Advert"
+        },
+        {
+            "url": "/concerts/images/1994/1994-02-24/1994-02-24_07.jpg",
+            "caption": "Backstage pass"
+        },
+        {
+            "url": "/concerts/images/1994/1994-02-24/1994-02-24_08.jpg",
+            "caption": "Nirvana's tour itinerary"
+        },
+        {
+            "url": "/concerts/images/1994/1994-02-24/1994-02-24_09.jpg",
+            "caption": "Backstage pass"
+        }
+    ],
+    "images": [
+        {
+            "url": "/concerts/images/1994/1994-02-24/1994-02-24_001.jpg",
+            "caption": "Unknown photographer"
+        },
+        {
+            "url": "/concerts/images/1994/1994-02-24/1994-02-24_002.jpg",
+            "caption": "Unknown photographer"
+        },
+        {
+            "url": "/concerts/images/1994/1994-02-24/1994-02-24_003.jpg",
+            "caption": "Unknown photographer"
+        },
+        {
+            "url": "/concerts/images/1994/1994-02-24/1994-02-24_004.jpg",
+            "caption": "Unknown photographer"
+        },
+        {
+            "url": "/concerts/images/1994/1994-02-24/1994-02-24_005.jpg",
+            "caption": "Photo by Barbara Caserta"
+        },
+        {
+            "url": "/concerts/images/1994/1994-02-24/1994-02-24_006.jpg",
+            "caption": "Photo by Paolo Pulga"
+        },
+        {
+            "url": "/concerts/images/1994/1994-02-24/1994-02-24_007.jpg",
+            "caption": "Unknown photographer"
+        },
+        {
+            "url": "/concerts/images/1994/1994-02-24/1994-02-24_008.jpg",
+            "caption": "Unknown photographer"
+        },
+        {
+            "url": "/concerts/images/1994/1994-02-24/1994-02-24_009.jpg",
+            "caption": "Unknown photographer"
+        },
+        {
+            "url": "/concerts/images/1994/1994-02-24/1994-02-24_010.jpg",
+            "caption": "Unknown photographer"
+        },
+        {
+            "url": "/concerts/images/1994/1994-02-24/1994-02-24_011.jpg",
+            "caption": "Unknown photographer"
+        },
+        {
+            "url": "/concerts/images/1994/1994-02-24/1994-02-24_012.jpg",
+            "caption": "Photo by Barbara Caserta"
+        },
+        {
+            "url": "/concerts/images/1994/1994-02-24/1994-02-24_013.jpg",
+            "caption": "Unknown photographer"
+        },
+        {
+            "url": "/concerts/images/1994/1994-02-24/1994-02-24_014.jpg",
+            "caption": "Unknown photographer"
+        },
+        {
+            "url": "/concerts/images/1994/1994-02-24/1994-02-24_015.jpg",
+            "caption": "Photo by Barbara Caserta"
+        },
+        {
+            "url": "/concerts/images/1994/1994-02-24/1994-02-24_016.jpg",
+            "caption": "Photo by Paolo Pulga"
+        },
+        {
+            "url": "/concerts/images/1994/1994-02-24/1994-02-24_017.jpg",
+            "caption": "Photo by Barbara Caserta"
+        },
+        {
+            "url": "/concerts/images/1994/1994-02-24/1994-02-24_018.jpg",
+            "caption": "Photo by Paolo Pulga"
+        },
+        {
+            "url": "/concerts/images/1994/1994-02-24/1994-02-24_019.jpg",
+            "caption": "Photo by Barbara Caserta"
+        },
+        {
+            "url": "/concerts/images/1994/1994-02-24/1994-02-24_020.jpg",
+            "caption": "Photo by Barbara Caserta"
+        },
+        {
+            "url": "/concerts/images/1994/1994-02-24/1994-02-24_021.jpg",
+            "caption": "Photo by Barbara Caserta"
+        },
+        {
+            "url": "/concerts/images/1994/1994-02-24/1994-02-24_022.jpg",
+            "caption": "Unknown photographer"
+        },
+        {
+            "url": "/concerts/images/1994/1994-02-24/1994-02-24_023.jpg",
+            "caption": "Photo by Barbara Caserta"
+        },
+        {
+            "url": "/concerts/images/1994/1994-02-24/1994-02-24_024.jpg",
+            "caption": "Photo by Barbara Caserta"
+        },
+        {
+            "url": "/concerts/images/1994/1994-02-24/1994-02-24_025.jpg",
+            "caption": "Photo by Paolo Pulga"
+        },
+        {
+            "url": "/concerts/images/1994/1994-02-24/1994-02-24_026.jpg",
+            "caption": "Photo by Paolo Pulga"
+        },
+        {
+            "url": "/concerts/images/1994/1994-02-24/1994-02-24_027.jpg",
+            "caption": "Unknown photographer"
+        },
+        {
+            "url": "/concerts/images/1994/1994-02-24/1994-02-24_028.jpg",
+            "caption": "Photo by Cecilia Fortina"
+        },
+        {
+            "url": "/concerts/images/1994/1994-02-24/1994-02-24_029.jpg",
+            "caption": "Photo by Barbara Caserta"
+        },
+        {
+            "url": "/concerts/images/1994/1994-02-24/1994-02-24_030.jpg",
+            "caption": "Photo by Paolo Pulga"
+        },
+        {
+            "url": "/concerts/images/1994/1994-02-24/1994-02-24_031.jpg",
+            "caption": "Photo by Massimo Rana"
+        },
+        {
+            "url": "/concerts/images/1994/1994-02-24/1994-02-24_032.jpg",
+            "caption": "Photo by Massimo Rana"
+        },
+        {
+            "url": "/concerts/images/1994/1994-02-24/1994-02-24_033.jpg",
+            "caption": "Photo by Massimo Rana"
+        },
+        {
+            "url": "/concerts/images/1994/1994-02-24/1994-02-24_034.jpg",
+            "caption": "Photo by Massimo Rana"
+        },
+        {
+            "url": "/concerts/images/1994/1994-02-24/1994-02-24_035.jpg",
+            "caption": "Photo by Massimo Rana"
+        },
+        {
+            "url": "/concerts/images/1994/1994-02-24/1994-02-24_036.jpg",
+            "caption": "Photo by Massimo Rana"
+        },
+        {
+            "url": "/concerts/images/1994/1994-02-24/1994-02-24_037.jpg",
+            "caption": "Photo by Massimo Rana"
+        },
+        {
+            "url": "/concerts/images/1994/1994-02-24/1994-02-24_038.jpg",
+            "caption": "Photo by Massimo Rana"
+        },
+        {
+            "url": "/concerts/images/1994/1994-02-24/1994-02-24_039.jpg",
+            "caption": "Photo by Massimo Rana"
+        },
+        {
+            "url": "/concerts/images/1994/1994-02-24/1994-02-24_040.jpg",
+            "caption": "Photo by Massimo Rana"
+        },
+        {
+            "url": "/concerts/images/1994/1994-02-24/1994-02-24_041.jpg",
+            "caption": "Photo by Massimo Rana"
+        },
+        {
+            "url": "/concerts/images/1994/1994-02-24/1994-02-24_042.jpg",
+            "caption": "Photo by Massimo Rana"
+        },
+        {
+            "url": "/concerts/images/1994/1994-02-24/1994-02-24_043.jpg",
+            "caption": "Photo by Massimo Rana"
+        },
+        {
+            "url": "/concerts/images/1994/1994-02-24/1994-02-24_044.jpg",
+            "caption": "Unknown photographer"
+        },
+        {
+            "url": "/concerts/images/1994/1994-02-24/1994-02-24_045.jpg",
+            "caption": "Photo by Paolo Pulga"
+        }
+    ],
+    "navigation": {
+        "previous": "94-02-23",
+        "next": "94-02-25"
+    },
+    "graph": {
+        "bleach": "3",
+        "nevermind": "10",
+        "inutero": "8",
+        "non": "1"
+    }
+}

@@ -1,0 +1,228 @@
+{
+    "year": "1989",
+    "month": "06",
+    "day": "23",
+    "band": [
+        {
+            "NIRVANA": [
+                {
+                    "name": "Kurt Cobain ",
+                    "duty": "vocals, guitar"
+                },
+                {
+                    "name": "Krist Novoselic ",
+                    "duty": "bass"
+                },
+                {
+                    "name": "Chad Channing ",
+                    "duty": "drums"
+                },
+                {
+                    "name": "Jason Everman ",
+                    "duty": "guitar"
+                }
+            ],
+            "type": "group"
+        }
+    ],
+    "crew": [],
+    "buyer": {
+        "names": [
+            "Jon Liu"
+        ]
+    },
+    "schedule": [
+        {
+            "event": "Load In",
+            "time": "…:…"
+        },
+        {
+            "event": "Soundcheck",
+            "time": "…:…"
+        },
+        {
+            "event": "Doors",
+            "time": "…:…"
+        },
+        {
+            "event": "NIRVANA Showtime",
+            "time": "18:00"
+        }
+    ],
+    "soundcheck": [],
+    "soundcheck_incomplete": false,
+    "set": [
+        {
+            "type": "song",
+            "text": "School",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "Floyd The Barber",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "Love Buzz",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "Big Cheese",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "About A Girl",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "Sifting",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "Spank Thru",
+            "notes": []
+        },
+        {
+            "type": "banter",
+            "text": "?? ??",
+            "person": "Novoselic"
+        },
+        {
+            "type": "song",
+            "text": "Dive",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "Polly",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "Negative Creep",
+            "notes": []
+        },
+        {
+            "type": "banter",
+            "text": "Well hey, thanks everybody for coming, it's been nice!",
+            "person": "Cobain"
+        },
+        {
+            "type": "song",
+            "text": "Blew",
+            "notes": []
+        },
+        {
+            "type": "banter",
+            "text": "I'd really like to thank you for coming",
+            "person": "Channing"
+        },
+        {
+            "type": "banter",
+            "text": "... with er ... Claw Hammer and Stone by Stone. Thanks. No autographs and no encores!",
+            "person": "Cobain"
+        }
+    ],
+    "set_incomplete": false,
+    "transmission": {},
+    "rehearsel_circulating_sources": [],
+    "circulating_sources": [
+        {
+            "name": "AMT #1",
+            "complete": true,
+            "equipment": "Unknown > Unknown",
+            "generation": "VHS(1) > DVDR/FLAC",
+            "video-generation": null,
+            "audio-generation": null,
+            "length-sound": "34:46 min / 7.5",
+            "notes": [
+                "Amateur video, partially shot standing on a chair in the middle of the store.",
+                "\"School\", \"Floyd The Barber\", \"About A Girl\", and \"Sifting' are all slightly cut in."
+            ]
+        },
+        {
+            "name": "AMT #2",
+            "complete": false,
+            "equipment": "Unknown > Unknown",
+            "generation": "VHS(1) > DVDR/FLAC",
+            "video-generation": null,
+            "audio-generation": null,
+            "length-sound": "27:48 min / 8.0",
+            "notes": [
+                "Circulated April 14th 2018.",
+                "Amateur video, shot standing from further back in the store.",
+                "The video includes a pre show footage and all the songs played but has many cuts throughout and the view of the taper is obstructed by heads on many occassions."
+            ]
+        },
+        {
+            "name": "AMT CLIP #2",
+            "complete": false,
+            "equipment": "Unknown > Unknown",
+            "generation": "TV > VHS(1) > DVDR",
+            "video-generation": null,
+            "audio-generation": null,
+            "length-sound": "18 sec / 8.5",
+            "notes": [
+                "Appear on MTV Tribute To Nirvana.",
+                "\"Sifting\" only. Same source but of higher quality than AMT #2. "
+            ]
+        }
+    ],
+    "uncirculated_sources": [
+        {
+            "name": "AUD #1",
+            "note": "It is rumored that the show was recorded."
+        }
+    ],
+    "notes": [
+        "This was a full-band record store performance."
+    ],
+    "press": [],
+    "memorabilia": [
+        {
+            "url": "/concerts/images/1989/1989-06-23/1989-06-23_01.jpg",
+            "caption": "Poster, designed by unknown"
+        },
+        {
+            "url": "/concerts/images/1989/1989-06-23/1989-06-23_02.jpg",
+            "caption": "Nirvana's tour itinerary"
+        }
+    ],
+    "images": [
+        {
+            "url": "/concerts/images/1989/1989-06-23/1989-06-23_001.jpg",
+            "caption": "Screencap of AMT #1"
+        },
+        {
+            "url": "/concerts/images/1989/1989-06-23/1989-06-23_002.jpg",
+            "caption": "Screencap of AMT #1"
+        },
+        {
+            "url": "/concerts/images/1989/1989-06-23/1989-06-23_003.jpg",
+            "caption": "Screencap of AMT #1"
+        },
+        {
+            "url": "/concerts/images/1989/1989-06-23/1989-06-23_004.jpg",
+            "caption": "Screencap of AMT #1"
+        },
+        {
+            "url": "/concerts/images/1989/1989-06-23/1989-06-23_005.jpg",
+            "caption": "Screencap of AMT #1"
+        }
+    ],
+    "navigation": {
+        "previous": "89-06-22",
+        "next": "89-06-24"
+    },
+    "graph": {
+        "bleach": "8",
+        "nevermind": "1",
+        "inutero": "0",
+        "non": "2"
+    }
+}

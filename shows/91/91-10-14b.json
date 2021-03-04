@@ -1,0 +1,420 @@
+{
+    "year": "1991",
+    "month": "10",
+    "day": "14",
+    "band": [
+        {
+            "NIRVANA": [
+                {
+                    "name": "Kurt Cobain ",
+                    "duty": "vocals, guitar"
+                },
+                {
+                    "name": "Krist Novoselic ",
+                    "duty": "bass"
+                },
+                {
+                    "name": "Dave Grohl ",
+                    "duty": "drums, backing vocals"
+                }
+            ],
+            "type": "group"
+        }
+    ],
+    "crew": [
+        {
+            "name": "Monty Lee Wilkes",
+            "duty": "tour manager"
+        },
+        {
+            "name": "Craig Montgomery",
+            "duty": "sound engineer"
+        },
+        {
+            "name": "Myles Kennedy",
+            "duty": "monitor engineer & drum technician"
+        },
+        {
+            "name": "Nic Close",
+            "duty": "guitar technician"
+        }
+    ],
+    "buyer": {
+        "names": [
+            "Stephen McClellan",
+            "Rich Best"
+        ]
+    },
+    "schedule": [
+        {
+            "event": "Load In",
+            "time": "…:…"
+        },
+        {
+            "event": "Soundcheck",
+            "time": "…:…"
+        },
+        {
+            "event": "Doors",
+            "time": "19:00"
+        },
+        {
+            "event": "The Libido Boyz Showtime",
+            "time": "…:…"
+        },
+        {
+            "event": "Urge Overkill Showtime",
+            "time": "…:…"
+        },
+        {
+            "event": "NIRVANA Showtime",
+            "time": "…:…"
+        }
+    ],
+    "soundcheck": [],
+    "soundcheck_incomplete": false,
+    "set": [
+        {
+            "type": "song",
+            "text": "L'Amour Est Un Oiseau Rebelle",
+            "notes": [
+                "jam"
+            ]
+        },
+        {
+            "type": "song",
+            "text": "Jesus Wants Me For A Sunbeam",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "Aneurysm",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "Drain You",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "School",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "Floyd The Barber",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "Smells Like Teen Spirit",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "Polly",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "About A Girl",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "Lithium",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "Come As You Are",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "Breed",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "Love Buzz",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "Sliver",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "Territorial Pissings",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "Been A Son",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "Negative Creep",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "Blew",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "On A Plain",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "Endless, Nameless",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "Something In The Way",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "Rape Me",
+            "notes": []
+        }
+    ],
+    "set_incomplete": false,
+    "transmission": {},
+    "rehearsel_circulating_sources": [],
+    "circulating_sources": [
+        {
+            "name": "AUD #1",
+            "complete": true,
+            "equipment": "Unknown > Unknown",
+            "generation": "ANA(1) > DAT(1) > FLAC",
+            "video-generation": null,
+            "audio-generation": null,
+            "length-sound": "77 min / 8.5",
+            "notes": [
+                "Circulated in 2007.",
+                "In January 2011 it was discovered that the generation of this recording actually are ANA(1) > DAT(1) and not ANA(M) > DAT(1) as thought before.",
+                "\"L'Amour Est Un Oiseau Rebelle\" cuts in and the last few seconds of \"Endless, Nameless\" fade out.",
+                "There are also many cuts between songs."
+            ]
+        },
+        {
+            "name": "AUD #2",
+            "complete": false,
+            "equipment": "Sonic Studios DSM-6 > Sony TCD-D3",
+            "generation": "DAT(1) > FLAC",
+            "video-generation": null,
+            "audio-generation": null,
+            "length-sound": "77 min / 9.0",
+            "notes": [
+                "This source is missing the \"L'Amour Est Un Oiseau Rebelle\" jam and the last few seconds of \"Endless, Nameless\" are cut."
+            ]
+        }
+    ],
+    "uncirculated_sources": [
+        {
+            "name": "SBD #1",
+            "note": "It is rumored that the show was recorded."
+        }
+    ],
+    "notes": [
+        "According to a newspaper review, Nirvana played for a crowd of about 1,893.",
+        "Nirvana had destroyed some of their equipment, including Dave's drums, two nights prior in Chicago, so they borrowed some of opening band Urge Overkill's equipment for this show.",
+        "At the end of the show, someone in the band took photos of the audience, and then Kurt jumped on Dave's back as he was walking offstage."
+    ],
+    "press": [],
+    "memorabilia": [
+        {
+            "url": "/concerts/images/1991/1991-10-14b/1991-10-14b_01.jpg",
+            "caption": "Ticket"
+        },
+        {
+            "url": "/concerts/images/1991/1991-10-14b/1991-10-14b_02.jpg",
+            "caption": "Venue events calendar"
+        },
+        {
+            "url": "/concerts/images/1991/1991-10-14b/1991-10-14b_03.jpg",
+            "caption": "Venue events calendar"
+        },
+        {
+            "url": "/concerts/images/1991/1991-10-14b/1991-10-14b_04.jpg",
+            "caption": "Handwritten setlist"
+        },
+        {
+            "url": "/concerts/images/1991/1991-10-14b/1991-10-14b_05.jpg",
+            "caption": "Handbill/Flyer, designed by unknown"
+        },
+        {
+            "url": "/concerts/images/1991/1991-10-14b/1991-10-14b_06.jpg",
+            "caption": "Nirvana's tour itinerary"
+        },
+        {
+            "url": "/concerts/images/1991/1991-10-14b/1991-10-14b_07.jpg",
+            "caption": "Nirvana's tour itinerary"
+        },
+        {
+            "url": "/concerts/images/1991/1991-10-14b/1991-10-14b_08.jpg",
+            "caption": "Nirvana's tour itinerary"
+        },
+        {
+            "url": "/concerts/images/1991/1991-10-14b/1991-10-14b_09.jpg",
+            "caption": "Advert"
+        }
+    ],
+    "images": [
+        {
+            "url": "/concerts/images/1991/1991-10-14b/1991-10-14b_001.jpg",
+            "caption": "Photo by Brian Garrity"
+        },
+        {
+            "url": "/concerts/images/1991/1991-10-14b/1991-10-14b_002.jpg",
+            "caption": "Photo by Brian Garrity"
+        },
+        {
+            "url": "/concerts/images/1991/1991-10-14b/1991-10-14b_003.jpg",
+            "caption": "Photo by Brian Garrity"
+        },
+        {
+            "url": "/concerts/images/1991/1991-10-14b/1991-10-14b_004.jpg",
+            "caption": "Photo by Brian Garrity"
+        },
+        {
+            "url": "/concerts/images/1991/1991-10-14b/1991-10-14b_005.jpg",
+            "caption": "Photo by Brian Garrity"
+        },
+        {
+            "url": "/concerts/images/1991/1991-10-14b/1991-10-14b_006.jpg",
+            "caption": "Unknown photographer"
+        },
+        {
+            "url": "/concerts/images/1991/1991-10-14b/1991-10-14b_007.jpg",
+            "caption": "Unknown photographer"
+        },
+        {
+            "url": "/concerts/images/1991/1991-10-14b/1991-10-14b_008.jpg",
+            "caption": "Unknown photographer"
+        },
+        {
+            "url": "/concerts/images/1991/1991-10-14b/1991-10-14b_009.jpg",
+            "caption": "Unknown photographer"
+        },
+        {
+            "url": "/concerts/images/1991/1991-10-14b/1991-10-14b_010.jpg",
+            "caption": "Unknown photographer"
+        },
+        {
+            "url": "/concerts/images/1991/1991-10-14b/1991-10-14b_011.jpg",
+            "caption": "Unknown photographer"
+        },
+        {
+            "url": "/concerts/images/1991/1991-10-14b/1991-10-14b_012.jpg",
+            "caption": "Unknown photographer"
+        },
+        {
+            "url": "/concerts/images/1991/1991-10-14b/1991-10-14b_013.jpg",
+            "caption": "Unknown photographer"
+        },
+        {
+            "url": "/concerts/images/1991/1991-10-14b/1991-10-14b_014.jpg",
+            "caption": "Unknown photographer"
+        },
+        {
+            "url": "/concerts/images/1991/1991-10-14b/1991-10-14b_015.jpg",
+            "caption": "Unknown photographer"
+        },
+        {
+            "url": "/concerts/images/1991/1991-10-14b/1991-10-14b_016.jpg",
+            "caption": "Unknown photographer"
+        },
+        {
+            "url": "/concerts/images/1991/1991-10-14b/1991-10-14b_017.jpg",
+            "caption": "Unknown photographer"
+        },
+        {
+            "url": "/concerts/images/1991/1991-10-14b/1991-10-14b_018.jpg",
+            "caption": "Unknown photographer"
+        },
+        {
+            "url": "/concerts/images/1991/1991-10-14b/1991-10-14b_019.jpg",
+            "caption": "Unknown photographer"
+        },
+        {
+            "url": "/concerts/images/1991/1991-10-14b/1991-10-14b_020.jpg",
+            "caption": "Unknown photographer"
+        },
+        {
+            "url": "/concerts/images/1991/1991-10-14b/1991-10-14b_021.jpg",
+            "caption": "Unknown photographer"
+        },
+        {
+            "url": "/concerts/images/1991/1991-10-14b/1991-10-14b_022.jpg",
+            "caption": "Unknown photographer"
+        },
+        {
+            "url": "/concerts/images/1991/1991-10-14b/1991-10-14b_023.jpg",
+            "caption": "Unknown photographer"
+        },
+        {
+            "url": "/concerts/images/1991/1991-10-14b/1991-10-14b_024.jpg",
+            "caption": "Unknown photographer"
+        },
+        {
+            "url": "/concerts/images/1991/1991-10-14b/1991-10-14b_025.jpg",
+            "caption": "Unknown photographer"
+        },
+        {
+            "url": "/concerts/images/1991/1991-10-14b/1991-10-14b_026.jpg",
+            "caption": "Unknown photographer"
+        },
+        {
+            "url": "/concerts/images/1991/1991-10-14b/1991-10-14b_027.jpg",
+            "caption": "Unknown photographer"
+        },
+        {
+            "url": "/concerts/images/1991/1991-10-14b/1991-10-14b_028.jpg",
+            "caption": "Unknown photographer"
+        },
+        {
+            "url": "/concerts/images/1991/1991-10-14b/1991-10-14b_029.jpg",
+            "caption": "Unknown photographer"
+        },
+        {
+            "url": "/concerts/images/1991/1991-10-14b/1991-10-14b_030.jpg",
+            "caption": "Photo by Jay Smiley"
+        },
+        {
+            "url": "/concerts/images/1991/1991-10-14b/1991-10-14b_031.jpg",
+            "caption": "Photo by Brian Garrity"
+        },
+        {
+            "url": "/concerts/images/1991/1991-10-14b/1991-10-14b_032.jpg",
+            "caption": "Photo by Jay Smiley"
+        },
+        {
+            "url": "/concerts/images/1991/1991-10-14b/1991-10-14b_033.jpg",
+            "caption": "Photo by Jay Smiley"
+        },
+        {
+            "url": "/concerts/images/1991/1991-10-14b/1991-10-14b_034.jpg",
+            "caption": "Photo by Brian Garrity"
+        }
+    ],
+    "navigation": {
+        "previous": "91-10-14a",
+        "next": "91-10-16"
+    },
+    "graph": {
+        "bleach": "6",
+        "nevermind": "10",
+        "inutero": "1",
+        "non": "4"
+    }
+}

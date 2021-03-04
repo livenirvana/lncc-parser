@@ -1,0 +1,233 @@
+{
+    "year": "1992",
+    "month": "09",
+    "day": "09",
+    "band": [
+        {
+            "NIRVANA": [
+                {
+                    "name": "Kurt Cobain ",
+                    "duty": "vocals, guitar"
+                },
+                {
+                    "name": "Krist Novoselic ",
+                    "duty": "bass"
+                },
+                {
+                    "name": "Dave Grohl ",
+                    "duty": "drums"
+                }
+            ],
+            "type": "group"
+        }
+    ],
+    "crew": [
+        {
+            "name": "Alex MacLeod",
+            "duty": "tour manager"
+        },
+        {
+            "name": "Earnie Bailey",
+            "duty": "guitar technician"
+        },
+        {
+            "name": "Barrett Jones",
+            "duty": "drum technician"
+        },
+        {
+            "name": "Joel Gallen",
+            "duty": "producer"
+        },
+        {
+            "name": "Bruce Gowers",
+            "duty": "director"
+        },
+        {
+            "name": "Dana Carvey",
+            "duty": "host"
+        }
+    ],
+    "buyer": {
+        "names": []
+    },
+    "schedule": [
+        {
+            "event": "Load In",
+            "time": "…:…"
+        },
+        {
+            "event": "Soundcheck",
+            "time": "…:…"
+        },
+        {
+            "event": "Doors",
+            "time": "16:15"
+        },
+        {
+            "event": "Black Crows Showtime",
+            "time": "…:…"
+        },
+        {
+            "event": "Bobby Brown Showtime",
+            "time": "…:…"
+        },
+        {
+            "event": "Def Leppard Showtime",
+            "time": "…:…"
+        },
+        {
+            "event": "NIRVANA Showtime",
+            "time": "…:…"
+        },
+        {
+            "event": "Elton John Showtime",
+            "time": "…:…"
+        },
+        {
+            "event": "Pearl Jam Showtime",
+            "time": "…:…"
+        },
+        {
+            "event": "Red Hot Chili Peppers Showtime",
+            "time": "…:…"
+        },
+        {
+            "event": "Bryan Adams Showtime",
+            "time": "…:…"
+        },
+        {
+            "event": "En Vogue Showtime",
+            "time": "…:…"
+        },
+        {
+            "event": "Eric Clapton Showtime",
+            "time": "…:…"
+        },
+        {
+            "event": "Guns N' Roses and Elton John Showtime",
+            "time": "…:…"
+        }
+    ],
+    "soundcheck": [
+        {
+            "type": "song",
+            "text": "Lithium",
+            "notes": []
+        }
+    ],
+    "soundcheck_incomplete": true,
+    "set": [
+        {
+            "type": "song",
+            "text": "Rape Me",
+            "notes": [
+                "part of"
+            ]
+        },
+        {
+            "type": "song",
+            "text": "Lithium",
+            "notes": []
+        }
+    ],
+    "set_incomplete": false,
+    "transmission": {},
+    "rehearsel_circulating_sources": [],
+    "circulating_sources": [
+        {
+            "name": "PRO #1",
+            "complete": true,
+            "equipment": "Soundboard > Unknown",
+            "generation": "TV > SVHS(1) > DVDR/FLAC",
+            "video-generation": null,
+            "audio-generation": null,
+            "length-sound": "05 min / 10",
+            "notes": [
+                "Multi camera PRO-shot video, with soundboard audio, broadcast by MTV.",
+                "Has different camera angles from PRO #2."
+            ]
+        },
+        {
+            "name": "PRO #2",
+            "complete": true,
+            "equipment": "Soundboard > Unknown",
+            "generation": "TV > VHS(2) > DVDR",
+            "video-generation": null,
+            "audio-generation": null,
+            "length-sound": "05 min / 10",
+            "notes": [
+                "Multi camera PRO-shot video, with soundboard audio, broadcast on Channel 4 in the United Kingdom.",
+                "Has different camera angles from PRO #1."
+            ]
+        },
+        {
+            "name": "PRO CLIP #1",
+            "complete": false,
+            "equipment": "Soundboard > Unknown",
+            "generation": "TBC",
+            "video-generation": null,
+            "audio-generation": null,
+            "length-sound": "01 min / 10",
+            "notes": [
+                "Multi camera PRO-shot video, with soundboard audio, broadcast during the intro of NIRVANA's induction into the Rock 'N Roll Hall Of Fame on April 10, 2014. \n                                    Have different camera angles than PRO #1 and PRO #2.\n"
+            ]
+        }
+    ],
+    "uncirculated_sources": [
+        {
+            "name": "PRO #3",
+            "note": "The soundcheck was taped."
+        }
+    ],
+    "notes": [
+        "Against MTV's wishes, Kurt started to play \"Rape Me,\" but stopped and went right into \"Lithium.\"",
+        "Just before the end of \"Lithium\", Krist's bass cut out, so he tossed it up in the air and attempted to catch it. He missed, and the bass hit him in the head. He fell to the ground, then stumbled offstage, just as the song was ending.",
+        "The performance ended with the band destroying the stage and Dave yelling into the microphone, \"Where's Axl? Hi Axl! Hi Axl!\" Dave was referring to Axl Rose of Guns N' Roses, with whom the band had had a confrontation earlier in the day."
+    ],
+    "press": [],
+    "memorabilia": [],
+    "images": [
+        {
+            "url": "/concerts/images/1992/1992-09-09b/1992-09-09b_01.jpg",
+            "caption": "Backstage pass"
+        },
+        {
+            "url": "/concerts/images/1992/1992-09-09b/1992-09-09b_02.jpg",
+            "caption": "Ticket"
+        },
+        {
+            "url": "/concerts/images/1992/1992-09-09b/1992-09-09b_03.jpg",
+            "caption": "Ticket bracelet"
+        },
+        {
+            "url": "/concerts/images/1992/1992-09-09b/1992-09-09b_04.jpg",
+            "caption": "Ticket bracelet"
+        },
+        {
+            "url": "/concerts/images/1992/1992-09-09b/1992-09-09b_05.jpg",
+            "caption": "Backstage pass"
+        },
+        {
+            "url": "/concerts/images/1992/1992-09-09b/1992-09-09b_06.jpg",
+            "caption": "Backstage pass"
+        },
+        {
+            "url": "/concerts/images/1992/1992-09-09b/1992-09-09b_07.jpg",
+            "caption": "Advert"
+        },
+        {
+            "url": "/concerts/images/1992/1992-09-09b/1992-09-09b_08.jpg",
+            "caption": "Advert"
+        }
+    ],
+    "navigation": {
+        "previous": "92-08-30",
+        "next": "92-09-10"
+    },
+    "graph": {
+        "bleach": "0",
+        "nevermind": "1",
+        "inutero": "1",
+        "non": "0"
+    }
+}

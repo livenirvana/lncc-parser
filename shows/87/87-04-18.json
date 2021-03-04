@@ -1,0 +1,163 @@
+{
+    "year": "1987",
+    "month": "04",
+    "day": "18",
+    "band": [
+        {
+            "Skid Row": [
+                {
+                    "name": "Kurt Cobain ",
+                    "duty": "vocals, guitar"
+                },
+                {
+                    "name": "Krist Novoselic ",
+                    "duty": "bass"
+                },
+                {
+                    "name": "Aaron Burckhard ",
+                    "duty": "drums"
+                }
+            ],
+            "type": "group"
+        }
+    ],
+    "crew": [],
+    "buyer": {
+        "names": []
+    },
+    "schedule": [
+        {
+            "event": "Load In",
+            "time": "…:…"
+        },
+        {
+            "event": "Soundcheck",
+            "time": "…:…"
+        },
+        {
+            "event": "Doors",
+            "time": "20:00"
+        },
+        {
+            "event": "Yellow Snow Showtime",
+            "time": "…:…"
+        },
+        {
+            "event": "Skid Row Showtime",
+            "time": "…:…"
+        },
+        {
+            "event": "Nisqually Delta Podunk Nightmare Showtime",
+            "time": "…:…"
+        },
+        {
+            "event": "Soylent Green Showtime",
+            "time": "…:…"
+        }
+    ],
+    "soundcheck": [],
+    "soundcheck_incomplete": false,
+    "set": [
+        {
+            "type": "song",
+            "text": "Love Buzz",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "Floyd The Barber",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "Downer",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "Mexican Seafood",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "White Lace And Strange",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "Spank Thru",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "Annorexorcist",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "Dope Hippie",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "Vendetagainst",
+            "notes": []
+        }
+    ],
+    "set_incomplete": true,
+    "transmission": {},
+    "rehearsel_circulating_sources": [],
+    "circulating_sources": [],
+    "uncirculated_sources": [],
+    "notes": [
+        "The band played under the name Skid Row.",
+        "The set above comes from the band's handwritten setlist."
+    ],
+    "press": [],
+    "memorabilia": [
+        {
+            "url": "/concerts/images/1987/1987-04-18/1987-04-18_01.jpg",
+            "caption": "Handbill/Flyer, designed by Bruce Purkey"
+        },
+        {
+            "url": "/concerts/images/1987/1987-04-18/1987-04-18_02.jpg",
+            "caption": "Handbill/Flyer, designed by Bruce Purkey"
+        },
+        {
+            "url": "/concerts/images/1987/1987-04-18/1987-04-18_03.jpg",
+            "caption": "Poster, designed by unknown"
+        },
+        {
+            "url": "/concerts/images/1987/1987-04-18/1987-04-18_04.jpg",
+            "caption": "Handwritten setlist"
+        },
+        {
+            "url": "/concerts/images/1987/1987-04-18/1987-04-18_05.jpg",
+            "caption": "Poster, designed by unknown"
+        }
+    ],
+    "images": [
+        {
+            "url": "/concerts/images/1987/1987-04-18/1987-04-18_001.jpg",
+            "caption": "Photo by Tracy Marander"
+        },
+        {
+            "url": "/concerts/images/1987/1987-04-18/1987-04-18_002.jpg",
+            "caption": "Photo by Tracy Marander"
+        },
+        {
+            "url": "/concerts/images/1987/1987-04-18/1987-04-18_003.jpg",
+            "caption": "Photo by Tracy Marander"
+        }
+    ],
+    "navigation": {
+        "previous": "87-34-xxa",
+        "next": "87-05-01"
+    },
+    "graph": {
+        "bleach": "3",
+        "nevermind": "0",
+        "inutero": "0",
+        "non": "6"
+    }
+}

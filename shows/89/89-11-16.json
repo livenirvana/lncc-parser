@@ -1,0 +1,363 @@
+{
+    "year": "1989",
+    "month": "11",
+    "day": "16",
+    "venue": "November 16",
+    "city": "1989 - Trust",
+    "state": "Nuremberg",
+    "country": "DE",
+    "band": [
+        {
+            "NIRVANA": [
+                {
+                    "name": "Kurt Cobain ",
+                    "duty": "vocals, guitar"
+                },
+                {
+                    "name": "Krist Novoselic ",
+                    "duty": "bass"
+                },
+                {
+                    "name": "Chad Channing ",
+                    "duty": "drums"
+                }
+            ],
+            "type": "group"
+        }
+    ],
+    "crew": [
+        {
+            "name": "Edwin Heath",
+            "duty": "tour manager"
+        },
+        {
+            "name": "Craig Montgomery",
+            "duty": "sound engineer"
+        }
+    ],
+    "buyer": {
+        "names": [
+            "Michael Demmler"
+        ]
+    },
+    "schedule": [
+        {
+            "event": "Load In",
+            "time": "17:00"
+        },
+        {
+            "event": "Soundcheck",
+            "time": "17:30"
+        },
+        {
+            "event": "Doors",
+            "time": "20:30"
+        },
+        {
+            "event": "NIRVANA Showtime",
+            "time": "…:…"
+        },
+        {
+            "event": "TAD Showtime",
+            "time": "…:…"
+        }
+    ],
+    "soundcheck": [],
+    "soundcheck_incomplete": false,
+    "set": [
+        {
+            "type": "jam",
+            "text": "jam guitar jam",
+            "notes": [
+                "guitar jam"
+            ]
+        },
+        {
+            "type": "jam",
+            "text": "jam screaming intro",
+            "notes": [
+                "screaming intro"
+            ]
+        },
+        {
+            "type": "song",
+            "text": "School",
+            "notes": []
+        },
+        {
+            "type": "jam",
+            "text": "jam bass jam",
+            "notes": [
+                "bass jam"
+            ]
+        },
+        {
+            "type": "song",
+            "text": "Scoff",
+            "notes": []
+        },
+        {
+            "type": "banter",
+            "text": "Thank you",
+            "person": "Cobain"
+        },
+        {
+            "type": "song",
+            "text": "Love Buzz",
+            "notes": []
+        },
+        {
+            "type": "banter",
+            "text": "Danke",
+            "person": "Novoselic"
+        },
+        {
+            "type": "song",
+            "text": "Floyd The Barber",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "Dive",
+            "notes": []
+        },
+        {
+            "type": "banter",
+            "text": "Thank you",
+            "person": "Cobain"
+        },
+        {
+            "type": "song",
+            "text": "Sappy",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "Big Cheese",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "jam",
+            "notes": []
+        },
+        {
+            "type": "jam",
+            "text": "jam bass jam",
+            "notes": [
+                "bass jam"
+            ]
+        },
+        {
+            "type": "banter",
+            "text": "And now we've got these great T-shirts for sale here, get 'em while they're hot! Yeah buy 'em up folks, limited supply special offer only ...",
+            "person": "Novoselic"
+        },
+        {
+            "type": "song",
+            "text": "About A Girl",
+            "notes": []
+        },
+        {
+            "type": "banter",
+            "text": "Donkey show",
+            "person": "Cobain"
+        },
+        {
+            "type": "banter",
+            "text": "You're very patient",
+            "person": "Novoselic"
+        },
+        {
+            "type": "song",
+            "text": "Mr. Moustache",
+            "notes": []
+        },
+        {
+            "type": "jam",
+            "text": "jam bass jam",
+            "notes": [
+                "bass jam"
+            ]
+        },
+        {
+            "type": "song",
+            "text": "Breed",
+            "notes": []
+        },
+        {
+            "type": "banter",
+            "text": "Chad wants the vocals turned down",
+            "person": "Novoselic"
+        },
+        {
+            "type": "banter",
+            "text": "This is off our new EP",
+            "person": "Cobain"
+        },
+        {
+            "type": "song",
+            "text": "Been A Son",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "Negative Creep",
+            "notes": []
+        },
+        {
+            "type": "banter",
+            "text": "Thanks a lot",
+            "person": "Novoselic"
+        },
+        {
+            "type": "song",
+            "text": "Blew",
+            "notes": []
+        },
+        {
+            "type": "banter",
+            "text": "Thank you, good night",
+            "person": "Cobain"
+        },
+        {
+            "type": "banter",
+            "text": "?? ?? ??",
+            "person": "Novoselic"
+        }
+    ],
+    "set_incomplete": false,
+    "transmission": {},
+    "rehearsel_circulating_sources": [],
+    "circulating_sources": [
+        {
+            "name": "AUD #1",
+            "complete": true,
+            "equipment": "Unknown > Unknown",
+            "generation": "ANA(1) > FLAC",
+            "video-generation": null,
+            "audio-generation": null,
+            "length-sound": "45 min / 8.0",
+            "notes": [
+                "Surfaced in November 2001. Missing everyting before \"Scoff\".",
+                "Has a cut in the jam and \"Blew\" cuts out."
+            ]
+        },
+        {
+            "name": "AUD #2a",
+            "complete": true,
+            "equipment": "Aiwa CM-30A > Sony WM-D6",
+            "generation": "ANA(M) > FLAC",
+            "video-generation": null,
+            "audio-generation": null,
+            "length-sound": "51 min / 8.5",
+            "notes": [
+                "Circulated in September 2008.",
+                "\"Negative Creep\" cuts in due to a tape flip.",
+                "This tape has deteriorated over the years, resulting in problems with the right channel, especially noticeable during \"About A Girl\", which sounds muffled nearly all the way through."
+            ]
+        },
+        {
+            "name": "AUD #2b",
+            "complete": true,
+            "equipment": "Aiwa CM-30A > Sony WM-D6",
+            "generation": "ANA(1) > FLAC",
+            "video-generation": null,
+            "audio-generation": null,
+            "length-sound": "51 min / 8.5",
+            "notes": [
+                "Circulated in April 2013.",
+                "\"Negative Creep\" cuts in due to a tape flip.",
+                "This tape does not have errors like the master tape."
+            ]
+        },
+        {
+            "name": "AUD #3",
+            "complete": true,
+            "equipment": "Unknown > Unknown",
+            "generation": "ANA(X) > CDR(x) > FLAC",
+            "video-generation": null,
+            "audio-generation": null,
+            "length-sound": "55 min / 8.0",
+            "notes": [
+                "Circulated in October 2008.",
+                "Has a cut in \"Negative Creep.\""
+            ]
+        }
+    ],
+    "uncirculated_sources": [],
+    "notes": [
+        "Kurt screamed half of \"Mr. Moustache.\""
+    ],
+    "press": [],
+    "memorabilia": [
+        {
+            "url": "/concerts/images/1989/1989-11-16/1989-11-16_01.jpg",
+            "caption": "Advert"
+        },
+        {
+            "url": "/concerts/images/1989/1989-11-16/1989-11-16_02.jpg",
+            "caption": "Ticket"
+        },
+        {
+            "url": "/concerts/images/1989/1989-11-16/1989-11-16_03.jpg",
+            "caption": "Handbill/Flyer, designed by Sonja Knecht"
+        },
+        {
+            "url": "/concerts/images/1989/1989-11-16/1989-11-16_04.jpg",
+            "caption": "Nirvana's tour itinerary"
+        },
+        {
+            "url": "/concerts/images/1989/1989-11-16/1989-11-16_05.jpg",
+            "caption": "Nirvana's tour itinerary"
+        },
+        {
+            "url": "/concerts/images/1989/1989-11-16/1989-11-16_06.jpg",
+            "caption": "Nirvana's tour itinerary"
+        },
+        {
+            "url": "/concerts/images/1989/1989-11-16/1989-11-16_07.jpg",
+            "caption": "Advert"
+        },
+        {
+            "url": "/concerts/images/1989/1989-11-16/1989-11-16_08.jpg",
+            "caption": "Advert"
+        },
+        {
+            "url": "/concerts/images/1989/1989-11-16/1989-11-16_09.jpg",
+            "caption": "Advert"
+        },
+        {
+            "url": "/concerts/images/1989/1989-11-16/1989-11-16_10.jpg",
+            "caption": "Advert"
+        },
+        {
+            "url": "/concerts/images/1989/1989-11-16/1989-11-16_11.jpg",
+            "caption": "Advert"
+        }
+    ],
+    "images": [
+        {
+            "url": "/concerts/images/1989/1989-11-16/1989-11-16_001.jpg",
+            "caption": "Photo by Thorsten Koch"
+        },
+        {
+            "url": "/concerts/images/1989/1989-11-16/1989-11-16_002.jpg",
+            "caption": "Photo by Thorsten Koch"
+        },
+        {
+            "url": "/concerts/images/1989/1989-11-16/1989-11-16_003.jpg",
+            "caption": "Photo by Thorsten Koch"
+        }
+    ],
+    "navigation": {
+        "previous": "89-11-15",
+        "next": "89-11-17"
+    },
+    "graph": {
+        "bleach": "9",
+        "nevermind": "1",
+        "inutero": "0",
+        "non": "4"
+    }
+}

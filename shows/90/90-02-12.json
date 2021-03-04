@@ -1,0 +1,236 @@
+{
+    "year": "1990",
+    "month": "02",
+    "day": "12",
+    "band": [
+        {
+            "NIRVANA": [
+                {
+                    "name": "Kurt Cobain ",
+                    "duty": "vocals, guitar"
+                },
+                {
+                    "name": "Krist Novoselic ",
+                    "duty": "bass"
+                },
+                {
+                    "name": "Chad Channing ",
+                    "duty": "drums"
+                }
+            ],
+            "type": "group"
+        }
+    ],
+    "crew": [],
+    "buyer": {
+        "names": [
+            "Brian McKenna",
+            "Jerry Perry"
+        ],
+        "company": "New View Music Productions"
+    },
+    "schedule": [
+        {
+            "event": "Load In",
+            "time": "…:…"
+        },
+        {
+            "event": "Soundcheck",
+            "time": "…:…"
+        },
+        {
+            "event": "Doors",
+            "time": "20:30"
+        },
+        {
+            "event": "Thornucopia Showtime",
+            "time": "…:…"
+        },
+        {
+            "event": "TAD Showtime",
+            "time": "…:…"
+        },
+        {
+            "event": "NIRVANA Showtime",
+            "time": "…:…"
+        }
+    ],
+    "soundcheck": [],
+    "soundcheck_incomplete": false,
+    "set": [
+        {
+            "type": "song",
+            "text": "California Über Alles",
+            "notes": [
+                "jam"
+            ]
+        },
+        {
+            "type": "song",
+            "text": "Love Buzz",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "Floyd The Barber",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "School",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "About A Girl",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "Dive",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "Polly",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "Molly's Lips",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "Sappy",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "Scoff",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "Breed",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "Been A Son",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "Stain",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "Negative Creep",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "Blew",
+            "notes": []
+        }
+    ],
+    "set_incomplete": false,
+    "transmission": {},
+    "rehearsel_circulating_sources": [],
+    "circulating_sources": [
+        {
+            "name": "AUD #1",
+            "complete": false,
+            "equipment": "Sony ECM-909 > Sony WM-D6",
+            "generation": "ANA(M) > FLAC",
+            "video-generation": null,
+            "audio-generation": null,
+            "length-sound": "49 min / 7.0",
+            "notes": [
+                "Missing the \"California Über Alles\" jam.",
+                "\"Love Buzz\" cuts in."
+            ]
+        },
+        {
+            "name": "AMT #1",
+            "complete": false,
+            "equipment": "Sony ECM-909 > Aiwa CV-80",
+            "generation": null,
+            "video-generation": "8MM(M) > MiniDV(2) > DVDR",
+            "audio-generation": "8MM(M) > VHS(1) > CDR",
+            "length-sound": "45 min / 9.0",
+            "notes": [
+                "The circulating DVDR was remastered.",
+                "Amateur video, shot from the right-hand side of the stage.",
+                "The \"California Über Alles\" jam and \"Negative Creep\" cuts in, \"Blew\" cuts out."
+            ]
+        },
+        {
+            "name": "AMT #2",
+            "complete": true,
+            "equipment": "Unknown > Unknown",
+            "generation": "VHS(M) > DVDR(1)/FLAC",
+            "video-generation": null,
+            "audio-generation": null,
+            "length-sound": "62 min / 8.5",
+            "notes": [
+                "Amateur video circulated in April 2012.",
+                "Stationary shot from the top of a PA speaker.",
+                "Has a cut in \"Love Buzz\"."
+            ]
+        }
+    ],
+    "uncirculated_sources": [],
+    "notes": [
+        "At the beginning of the show, Krist and Chad jammed on \"California Über Alles\" by the Dead Kennedys."
+    ],
+    "press": [],
+    "memorabilia": [
+        {
+            "url": "/concerts/images/1990/1990-02-12/1990-02-12_01.jpg",
+            "caption": "Handbill/Flyer, designed by unknown"
+        },
+        {
+            "url": "/concerts/images/1990/1990-02-12/1990-02-12_02.jpg",
+            "caption": "SUB POP Fax"
+        },
+        {
+            "url": "/concerts/images/1990/1990-02-12/1990-02-12_03.jpg",
+            "caption": "Advert"
+        },
+        {
+            "url": "/concerts/images/1990/1990-02-12/1990-02-12_04.jpg",
+            "caption": "Advert"
+        }
+    ],
+    "images": [
+        {
+            "url": "/concerts/images/1990/1990-02-12/1990-02-12_001.jpg",
+            "caption": "Screencap of AMT #1"
+        },
+        {
+            "url": "/concerts/images/1990/1990-02-12/1990-02-12_002.jpg",
+            "caption": "Screencap of AMT #1"
+        },
+        {
+            "url": "/concerts/images/1990/1990-02-12/1990-02-12_003.jpg",
+            "caption": "Screencap of AMT #1"
+        },
+        {
+            "url": "/concerts/images/1990/1990-02-12/1990-02-12_004.jpg",
+            "caption": "Screencap of AMT #1"
+        }
+    ],
+    "navigation": {
+        "previous": "90-02-11",
+        "next": "90-02-14a"
+    },
+    "graph": {
+        "bleach": "7",
+        "nevermind": "2",
+        "inutero": "0",
+        "non": "5"
+    }
+}

@@ -1,0 +1,554 @@
+{
+    "year": "1990",
+    "month": "09",
+    "day": "22",
+    "band": [
+        {
+            "NIRVANA": [
+                {
+                    "name": "Kurt Cobain ",
+                    "duty": "vocals, guitar"
+                },
+                {
+                    "name": "Krist Novoselic ",
+                    "duty": "bass"
+                },
+                {
+                    "name": "Dan Peters ",
+                    "duty": "drums"
+                }
+            ],
+            "type": "group"
+        }
+    ],
+    "crew": [],
+    "buyer": {
+        "names": []
+    },
+    "schedule": [
+        {
+            "event": "Load In",
+            "time": "…:…"
+        },
+        {
+            "event": "Soundcheck",
+            "time": "…:…"
+        },
+        {
+            "event": "Doors",
+            "time": "20:00"
+        },
+        {
+            "event": "Derelicts Showtime",
+            "time": "…:…"
+        },
+        {
+            "event": "Dwarves Showtime",
+            "time": "…:…"
+        },
+        {
+            "event": "Melvins Showtime",
+            "time": "…:…"
+        },
+        {
+            "event": "NIRVANA Showtime",
+            "time": "…:…"
+        }
+    ],
+    "soundcheck": [],
+    "soundcheck_incomplete": false,
+    "set": [
+        {
+            "type": "song",
+            "text": "Stay Away",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "Blew",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "Been A Son",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "Negative Creep",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "Floyd The Barber",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "About A Girl",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "School",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "Love Buzz",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "Breed",
+            "notes": [
+                "part of"
+            ]
+        },
+        {
+            "type": "song",
+            "text": "In Bloom",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "Scoff",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "Spank Thru",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "Sliver",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "Dive",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "jam",
+            "notes": []
+        }
+    ],
+    "set_incomplete": false,
+    "transmission": {},
+    "rehearsel_circulating_sources": [],
+    "circulating_sources": [
+        {
+            "name": "AUD #1",
+            "complete": true,
+            "equipment": "Unknown > Unknown",
+            "generation": "ANA(1) > FLAC",
+            "video-generation": null,
+            "audio-generation": null,
+            "length-sound": "50 min / 9.0",
+            "notes": [
+                "Surfaced April 22nd 2017.",
+                "Cut in \"About A Girl\" and after \"Sliver\".",
+                "It remains a matter of perennial debate whether AUD #1 is an audience or soundboard recording. It originally surfaced labelled as an soundboard recording but we are skeptical."
+            ]
+        },
+        {
+            "name": "AMT #1a",
+            "complete": false,
+            "equipment": "Unknown > Unknown",
+            "generation": "Official DVD [With The Lights Out]",
+            "video-generation": null,
+            "audio-generation": null,
+            "length-sound": "10 min / 8.0",
+            "notes": [
+                "Includes only \"School\" and the end-of-show jam."
+            ]
+        },
+        {
+            "name": "AMT #1b",
+            "complete": true,
+            "equipment": "Unknown > Unknown",
+            "generation": "VHS(1) > MKV",
+            "video-generation": null,
+            "audio-generation": null,
+            "length-sound": "51 min / 7.5",
+            "notes": [
+                "A complete transfer was circulated April 2018.",
+                "Amateur video, stage shot."
+            ]
+        }
+    ],
+    "uncirculated_sources": [
+        {
+            "name": "AMT #2 Incomplete",
+            "note": "A clip, Super 8, of the end-of-show  jam from a different angle appears in the edited 03/20/90 \"Lithium\" music video."
+        },
+        {
+            "name": "AUD #2",
+            "note": "It is rumored that the show was recorded."
+        },
+        {
+            "name": "AUD #3",
+            "note": "The taper lost the tape many years ago and doesn't remember making any copies."
+        },
+        {
+            "name": "SBD #1",
+            "note": "It is rumored that the show was recorded."
+        }
+    ],
+    "notes": [
+        "This was the only show with Dan Peters on drums.",
+        "Dave Grohl was in the audience.",
+        "At the end of the concert Kurt Cobain smashed his Aria Pro II beyond repair.",
+        "Some sources report more songs were played, but this seems unlikely. Cobain can be seen in AMT #1 smashing his kit at the end of the show.\n"
+    ],
+    "press": [],
+    "memorabilia": [
+        {
+            "url": "/concerts/images/1990/1990-09-22/1990-09-22_01.jpg",
+            "caption": "Poster, designed by Jim Blanchard"
+        },
+        {
+            "url": "/concerts/images/1990/1990-09-22/1990-09-22_02.jpg",
+            "caption": "Advert"
+        },
+        {
+            "url": "/concerts/images/1990/1990-09-22/1990-09-22_03.jpg",
+            "caption": "Advert"
+        },
+        {
+            "url": "/concerts/images/1990/1990-09-22/1990-09-22_04.jpg",
+            "caption": "Handwritten setlist"
+        },
+        {
+            "url": "/concerts/images/1990/1990-09-22/1990-09-22_05.jpg",
+            "caption": "Ticket"
+        },
+        {
+            "url": "/concerts/images/1990/1990-09-22/1990-09-22_06.jpg",
+            "caption": "Backstage Pass"
+        }
+    ],
+    "images": [
+        {
+            "url": "/concerts/images/1990/1990-09-22/1990-09-22_001.jpg",
+            "caption": "Photo by Alice Wheeler"
+        },
+        {
+            "url": "/concerts/images/1990/1990-09-22/1990-09-22_002.jpg",
+            "caption": "Photo by Charles Peterson"
+        },
+        {
+            "url": "/concerts/images/1990/1990-09-22/1990-09-22_003.jpg",
+            "caption": "Photo by Charles Peterson"
+        },
+        {
+            "url": "/concerts/images/1990/1990-09-22/1990-09-22_004.jpg",
+            "caption": "Photo by Charles Peterson"
+        },
+        {
+            "url": "/concerts/images/1990/1990-09-22/1990-09-22_005.jpg",
+            "caption": "Photo by Ian Tilton"
+        },
+        {
+            "url": "/concerts/images/1990/1990-09-22/1990-09-22_006.jpg",
+            "caption": "Photo by Ian Tilton"
+        },
+        {
+            "url": "/concerts/images/1990/1990-09-22/1990-09-22_007.jpg",
+            "caption": "Photo by Ian Tilton"
+        },
+        {
+            "url": "/concerts/images/1990/1990-09-22/1990-09-22_008.jpg",
+            "caption": "Photo by Ian Tilton"
+        },
+        {
+            "url": "/concerts/images/1990/1990-09-22/1990-09-22_009.jpg",
+            "caption": "Unknown photographer"
+        },
+        {
+            "url": "/concerts/images/1990/1990-09-22/1990-09-22_010.jpg",
+            "caption": "Photo by Ian Tilton"
+        },
+        {
+            "url": "/concerts/images/1990/1990-09-22/1990-09-22_011.jpg",
+            "caption": "Photo by Ian Tilton"
+        },
+        {
+            "url": "/concerts/images/1990/1990-09-22/1990-09-22_012.jpg",
+            "caption": "Unknown photographer"
+        },
+        {
+            "url": "/concerts/images/1990/1990-09-22/1990-09-22_013.jpg",
+            "caption": "Photo by Ian Tilton"
+        },
+        {
+            "url": "/concerts/images/1990/1990-09-22/1990-09-22_014.jpg",
+            "caption": "Photo by Ian Tilton"
+        },
+        {
+            "url": "/concerts/images/1990/1990-09-22/1990-09-22_015.jpg",
+            "caption": "Photo by Ian Tilton"
+        },
+        {
+            "url": "/concerts/images/1990/1990-09-22/1990-09-22_016.jpg",
+            "caption": "Photo by Ian Tilton"
+        },
+        {
+            "url": "/concerts/images/1990/1990-09-22/1990-09-22_017.jpg",
+            "caption": "Photo by Charles Peterson"
+        },
+        {
+            "url": "/concerts/images/1990/1990-09-22/1990-09-22_018.jpg",
+            "caption": "Photo by Charles Peterson"
+        },
+        {
+            "url": "/concerts/images/1990/1990-09-22/1990-09-22_019.jpg",
+            "caption": "Photo by Alice Wheeler"
+        },
+        {
+            "url": "/concerts/images/1990/1990-09-22/1990-09-22_020.jpg",
+            "caption": "Photo by Alice Wheeler"
+        },
+        {
+            "url": "/concerts/images/1990/1990-09-22/1990-09-22_021.jpg",
+            "caption": "Photo by Alice Wheeler"
+        },
+        {
+            "url": "/concerts/images/1990/1990-09-22/1990-09-22_022.jpg",
+            "caption": "Photo by Charles Peterson"
+        },
+        {
+            "url": "/concerts/images/1990/1990-09-22/1990-09-22_023.jpg",
+            "caption": "Photo by Charles Peterson"
+        },
+        {
+            "url": "/concerts/images/1990/1990-09-22/1990-09-22_024.jpg",
+            "caption": "Photo by Alice Wheeler"
+        },
+        {
+            "url": "/concerts/images/1990/1990-09-22/1990-09-22_025.jpg",
+            "caption": "Photo by Alice Wheeler"
+        },
+        {
+            "url": "/concerts/images/1990/1990-09-22/1990-09-22_026.jpg",
+            "caption": "Photo by Ian Tilton"
+        },
+        {
+            "url": "/concerts/images/1990/1990-09-22/1990-09-22_027.jpg",
+            "caption": "Photo by Ian Tilton"
+        },
+        {
+            "url": "/concerts/images/1990/1990-09-22/1990-09-22_028.jpg",
+            "caption": "Unknown photographer"
+        },
+        {
+            "url": "/concerts/images/1990/1990-09-22/1990-09-22_029.jpg",
+            "caption": "Photo by Alice Wheeler"
+        },
+        {
+            "url": "/concerts/images/1990/1990-09-22/1990-09-22_030.jpg",
+            "caption": "Photo by Alice Wheeler"
+        },
+        {
+            "url": "/concerts/images/1990/1990-09-22/1990-09-22_031.jpg",
+            "caption": "Photo by Alice Wheeler"
+        },
+        {
+            "url": "/concerts/images/1990/1990-09-22/1990-09-22_032.jpg",
+            "caption": "Photo by Alice Wheeler"
+        },
+        {
+            "url": "/concerts/images/1990/1990-09-22/1990-09-22_033.jpg",
+            "caption": "Photo by Alice Wheeler"
+        },
+        {
+            "url": "/concerts/images/1990/1990-09-22/1990-09-22_034.jpg",
+            "caption": "Photo by Ian Tilton"
+        },
+        {
+            "url": "/concerts/images/1990/1990-09-22/1990-09-22_035.jpg",
+            "caption": "Photo by Ian Tilton"
+        },
+        {
+            "url": "/concerts/images/1990/1990-09-22/1990-09-22_036.jpg",
+            "caption": "Photo by Ian Tilton"
+        },
+        {
+            "url": "/concerts/images/1990/1990-09-22/1990-09-22_037.jpg",
+            "caption": "Photo by Ian Tilton"
+        },
+        {
+            "url": "/concerts/images/1990/1990-09-22/1990-09-22_038.jpg",
+            "caption": "Photo by Ian Tilton"
+        },
+        {
+            "url": "/concerts/images/1990/1990-09-22/1990-09-22_039.jpg",
+            "caption": "Photo by Ian Tilton"
+        },
+        {
+            "url": "/concerts/images/1990/1990-09-22/1990-09-22_040.jpg",
+            "caption": "Photo by Ian Tilton"
+        },
+        {
+            "url": "/concerts/images/1990/1990-09-22/1990-09-22_041.jpg",
+            "caption": "Unknown photographer"
+        },
+        {
+            "url": "/concerts/images/1990/1990-09-22/1990-09-22_042.jpg",
+            "caption": "Unknown photographer"
+        },
+        {
+            "url": "/concerts/images/1990/1990-09-22/1990-09-22_043.jpg",
+            "caption": "Photo by Charles Peterson"
+        },
+        {
+            "url": "/concerts/images/1990/1990-09-22/1990-09-22_044.jpg",
+            "caption": "Photo by Charles Peterson"
+        },
+        {
+            "url": "/concerts/images/1990/1990-09-22/1990-09-22_045.jpg",
+            "caption": "Photo by Alice Wheeler"
+        },
+        {
+            "url": "/concerts/images/1990/1990-09-22/1990-09-22_046.jpg",
+            "caption": "Photo by Charles Peterson"
+        },
+        {
+            "url": "/concerts/images/1990/1990-09-22/1990-09-22_047.jpg",
+            "caption": "Photo by Charles Peterson"
+        },
+        {
+            "url": "/concerts/images/1990/1990-09-22/1990-09-22_048.jpg",
+            "caption": "Photo by Ian Tilton"
+        },
+        {
+            "url": "/concerts/images/1990/1990-09-22/1990-09-22_049.jpg",
+            "caption": "Photo by Charles Peterson"
+        },
+        {
+            "url": "/concerts/images/1990/1990-09-22/1990-09-22_050.jpg",
+            "caption": "Photo by Ian Tilton"
+        },
+        {
+            "url": "/concerts/images/1990/1990-09-22/1990-09-22_051.jpg",
+            "caption": "Photo by Charles Peterson"
+        },
+        {
+            "url": "/concerts/images/1990/1990-09-22/1990-09-22_052.jpg",
+            "caption": "Photo by Charles Peterson"
+        },
+        {
+            "url": "/concerts/images/1990/1990-09-22/1990-09-22_053.jpg",
+            "caption": "Photo by Charles Peterson"
+        },
+        {
+            "url": "/concerts/images/1990/1990-09-22/1990-09-22_054.jpg",
+            "caption": "Photo by Ian Tilton"
+        },
+        {
+            "url": "/concerts/images/1990/1990-09-22/1990-09-22_055.jpg",
+            "caption": "Photo by Ian Tilton"
+        },
+        {
+            "url": "/concerts/images/1990/1990-09-22/1990-09-22_056.jpg",
+            "caption": "Photo by Ian Tilton"
+        },
+        {
+            "url": "/concerts/images/1990/1990-09-22/1990-09-22_057.jpg",
+            "caption": "Photo by Ian Tilton"
+        },
+        {
+            "url": "/concerts/images/1990/1990-09-22/1990-09-22_058.jpg",
+            "caption": "Photo by Ian Tilton"
+        },
+        {
+            "url": "/concerts/images/1990/1990-09-22/1990-09-22_059.jpg",
+            "caption": "Photo by Ian Tilton"
+        },
+        {
+            "url": "/concerts/images/1990/1990-09-22/1990-09-22_060.jpg",
+            "caption": "Photo by Charles Peterson"
+        },
+        {
+            "url": "/concerts/images/1990/1990-09-22/1990-09-22_061.jpg",
+            "caption": "Photo by Charles Peterson"
+        },
+        {
+            "url": "/concerts/images/1990/1990-09-22/1990-09-22_062.jpg",
+            "caption": "Photo by Charles Peterson"
+        },
+        {
+            "url": "/concerts/images/1990/1990-09-22/1990-09-22_063.jpg",
+            "caption": "Photo by Alice Wheeler"
+        },
+        {
+            "url": "/concerts/images/1990/1990-09-22/1990-09-22_064.jpg",
+            "caption": "Photo by Charles Peterson"
+        },
+        {
+            "url": "/concerts/images/1990/1990-09-22/1990-09-22_065.jpg",
+            "caption": "Photo by Alice Wheeler"
+        },
+        {
+            "url": "/concerts/images/1990/1990-09-22/1990-09-22_066.jpg",
+            "caption": "Photo by Alice Wheeler"
+        },
+        {
+            "url": "/concerts/images/1990/1990-09-22/1990-09-22_067.jpg",
+            "caption": "Photo by Charles Peterson"
+        },
+        {
+            "url": "/concerts/images/1990/1990-09-22/1990-09-22_068.jpg",
+            "caption": "Photo by Charles Peterson"
+        },
+        {
+            "url": "/concerts/images/1990/1990-09-22/1990-09-22_069.jpg",
+            "caption": "Photo by Charles Peterson"
+        },
+        {
+            "url": "/concerts/images/1990/1990-09-22/1990-09-22_070.jpg",
+            "caption": "Photo by Charles Peterson"
+        },
+        {
+            "url": "/concerts/images/1990/1990-09-22/1990-09-22_071.jpg",
+            "caption": "Photo by Charles Peterson"
+        },
+        {
+            "url": "/concerts/images/1990/1990-09-22/1990-09-22_072.jpg",
+            "caption": "Photo by Charles Peterson"
+        },
+        {
+            "url": "/concerts/images/1990/1990-09-22/1990-09-22_073.jpg",
+            "caption": "Photo by Charles Peterson"
+        },
+        {
+            "url": "/concerts/images/1990/1990-09-22/1990-09-22_074.jpg",
+            "caption": "Photo by Charles Peterson"
+        },
+        {
+            "url": "/concerts/images/1990/1990-09-22/1990-09-22_075.jpg",
+            "caption": "Photo by Charles Peterson"
+        },
+        {
+            "url": "/concerts/images/1990/1990-09-22/1990-09-22_076.jpg",
+            "caption": "Photo by Charles Peterson"
+        },
+        {
+            "url": "/concerts/images/1990/1990-09-22/1990-09-22_077.jpg",
+            "caption": "Unknown photographer"
+        }
+    ],
+    "navigation": {
+        "previous": "90-08-25",
+        "next": "90-10-11"
+    },
+    "graph": {
+        "bleach": "7",
+        "nevermind": "3",
+        "inutero": "0",
+        "non": "4"
+    }
+}

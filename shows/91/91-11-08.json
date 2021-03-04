@@ -1,0 +1,222 @@
+{
+    "year": "1991",
+    "month": "11",
+    "day": "08",
+    "venue": "November 8",
+    "city": "1991 - Limehouse Studios (The Word)",
+    "state": "London",
+    "country": "UK",
+    "band": [
+        {
+            "NIRVANA": [
+                {
+                    "name": "Kurt Cobain ",
+                    "duty": "vocals, guitar"
+                },
+                {
+                    "name": "Krist Novoselic ",
+                    "duty": "bass"
+                },
+                {
+                    "name": "Dave Grohl ",
+                    "duty": "drums, backing vocals"
+                }
+            ],
+            "type": "group"
+        }
+    ],
+    "crew": [
+        {
+            "name": "Alex MacLeod",
+            "duty": "tour manager"
+        },
+        {
+            "name": "Craig Montgomery",
+            "duty": "assistant sound engineer"
+        },
+        {
+            "name": "Nic Close",
+            "duty": "guitar technician"
+        },
+        {
+            "name": "David Taylor",
+            "duty": "sound engineer"
+        },
+        {
+            "name": "Andy Margetson",
+            "duty": "director, producer"
+        },
+        {
+            "name": "Charlie Parsons",
+            "duty": "executive producer"
+        },
+        {
+            "name": "Jo Whiley",
+            "duty": "researcher"
+        }
+    ],
+    "buyer": {
+        "names": [
+            "…"
+        ]
+    },
+    "schedule": [
+        {
+            "event": "Load In",
+            "time": "…:…"
+        },
+        {
+            "event": "Soundcheck",
+            "time": "…:…"
+        },
+        {
+            "event": "Doors",
+            "time": "…:…"
+        },
+        {
+            "event": "NIRVANA Showtime",
+            "time": "…:…"
+        }
+    ],
+    "soundcheck": [
+        {
+            "type": "song",
+            "text": "Smells Like Teen Spirit",
+            "notes": []
+        }
+    ],
+    "soundcheck_incomplete": false,
+    "set": [
+        {
+            "type": "song",
+            "text": "Smells Like Teen Spirit",
+            "notes": []
+        }
+    ],
+    "set_incomplete": false,
+    "transmission": {},
+    "rehearsel_circulating_sources": [],
+    "circulating_sources": [
+        {
+            "name": "PRO #1a",
+            "complete": false,
+            "equipment": "Soundboard > Unknown",
+            "generation": "TV > VHS(3)",
+            "video-generation": null,
+            "audio-generation": null,
+            "length-sound": "03 min / 9.0",
+            "notes": [
+                "Has different camera angles from PRO #2, PRO #3, and PRO #4.",
+                "Multi camera PRO-shot video, with soundboard audio, original broadcast live on Channel 4.",
+                "Cuts out at the end of the second chorus.",
+                "Clips, including post-song footage not broadcast on TV, appear on the unofficial video release Kurt Cobain: All Apologies.",
+                "Not circulating widely."
+            ]
+        },
+        {
+            "name": "PRO #1b [soundboard audio from professional video]",
+            "complete": false,
+            "equipment": "Soundboard > Unknown",
+            "generation": "Unofficial CD [Outcesticide II - The Needle & The Damage Done]",
+            "video-generation": null,
+            "audio-generation": null,
+            "length-sound": "03 min / 9.5",
+            "notes": [
+                "Higher quality audio, but less complete than PRO #1a and includes only the audio from the video.",
+                "Audio portion from the multi camera PRO-shot video, original broadcast live on Channel 4.",
+                "Cuts out at the end of the second chorus."
+            ]
+        },
+        {
+            "name": "PRO #2",
+            "complete": false,
+            "equipment": "Soundboard > Unknown",
+            "generation": "TV > VHS(2) > DVDR",
+            "video-generation": null,
+            "audio-generation": null,
+            "length-sound": "05 min / 9.0",
+            "notes": [
+                "Has different camera angles from PRO #1a, PRO #3, and PRO #4.",
+                "Multi camera PRO-shot video, with soundboard audio, rebroadcast on Channel 4 in 1991.",
+                "Cuts out during the last chorus.",
+                "Clips, including post-song footage not broadcast on TV, appear on the unofficial video release Kurt Cobain: All Apologies."
+            ]
+        },
+        {
+            "name": "PRO #3",
+            "complete": false,
+            "equipment": "Soundboard > Unknown",
+            "generation": "TV > VHS(2) > DVDR",
+            "video-generation": null,
+            "audio-generation": null,
+            "length-sound": "04 min / 9.0",
+            "notes": [
+                "Has different camera angles from PRO #1a, PRO #2, and PRO #4.",
+                "Multi camera PRO-shot video, with soundboard audio, rebroadcast on Channel 4 in 1992.",
+                "Cuts in at the beginning of the first verse and has three cuts in the last half of the song.",
+                "Clips, including post-song footage not broadcast on TV, appear on the unofficial video release Kurt Cobain: All Apologies."
+            ]
+        },
+        {
+            "name": "PRO #4",
+            "complete": false,
+            "equipment": "Soundboard > Unknown",
+            "generation": "TV > VHS(x)",
+            "video-generation": null,
+            "audio-generation": null,
+            "length-sound": "05 min / 9.0",
+            "notes": [
+                "Has different camera angles from PRO #1a, PRO #2, and PRO #3.",
+                "Multi camera PRO-shot video, with soundboard audio, rebroadcast on the show The Best of the Word on Channel 4",
+                "Missing the guitar solo, the beginning of the last verse and has voice-over on the outro.",
+                "Has talking over the end of the song.",
+                "Clips, including post-song footage not broadcast on TV, appear on the unofficial video release Kurt Cobain: All Apologies.",
+                "Not circulating widely."
+            ]
+        }
+    ],
+    "uncirculated_sources": [],
+    "notes": [],
+    "press": [],
+    "memorabilia": [],
+    "images": [
+        {
+            "url": "/concerts/images/1991/1991-11-08/1991-11-08_001.jpg",
+            "caption": "Unknown photographer"
+        },
+        {
+            "url": "/concerts/images/1991/1991-11-08/1991-11-08_002.jpg",
+            "caption": "Unknown photographer"
+        },
+        {
+            "url": "/concerts/images/1991/1991-11-08/1991-11-08_003.jpg",
+            "caption": "Unknown photographer"
+        },
+        {
+            "url": "/concerts/images/1991/1991-11-08/1991-11-08_004.jpg",
+            "caption": "Unknown photographer"
+        },
+        {
+            "url": "/concerts/images/1991/1991-11-08/1991-11-08_005.jpg",
+            "caption": "Unknown photographer"
+        },
+        {
+            "url": "/concerts/images/1991/1991-11-08/1991-11-08_006.jpg",
+            "caption": "Photo by Shelli Hyrkas"
+        },
+        {
+            "url": "/concerts/images/1991/1991-11-08/1991-11-08_007.jpg",
+            "caption": "Unknown photographer"
+        }
+    ],
+    "navigation": {
+        "previous": "91-11-06",
+        "next": "91-11-10"
+    },
+    "graph": {
+        "bleach": "0",
+        "nevermind": "1",
+        "inutero": "0",
+        "non": "0"
+    }
+}

@@ -1,0 +1,567 @@
+{
+    "year": "1992",
+    "month": "10",
+    "day": "30",
+    "venue": "October 30",
+    "city": "1992 - Estadio José Amalfitani",
+    "state": "Buenos Aires",
+    "country": "AR",
+    "band": [
+        {
+            "NIRVANA": [
+                {
+                    "name": "Kurt Cobain ",
+                    "duty": "vocals, guitar"
+                },
+                {
+                    "name": "Krist Novoselic ",
+                    "duty": "bass"
+                },
+                {
+                    "name": "Dave Grohl ",
+                    "duty": "drums, backing vocals"
+                }
+            ],
+            "type": "group"
+        }
+    ],
+    "crew": [
+        {
+            "name": "Alex MacLeod",
+            "duty": "tour manager"
+        },
+        {
+            "name": "Jeff Mason",
+            "duty": "production manager"
+        },
+        {
+            "name": "Susanne Sasic",
+            "duty": "lighting designer"
+        },
+        {
+            "name": "Craig Montgomery",
+            "duty": "sound engineer"
+        },
+        {
+            "name": "Ian Beveridge",
+            "duty": "monitor engineer"
+        },
+        {
+            "name": "Earnie Bailey",
+            "duty": "guitar technician"
+        },
+        {
+            "name": "John Duncan",
+            "duty": "guitar technician"
+        },
+        {
+            "name": "Barrett Jones",
+            "duty": "drum technician"
+        }
+    ],
+    "buyer": {
+        "names": [
+            "Daniel Grinbank",
+            "Roberta Costa",
+            "Nora Koblinc"
+        ],
+        "company": "Rock & Pop Producciones"
+    },
+    "schedule": [
+        {
+            "event": "Load In (Lights)",
+            "time": "7:00 (Done Oct 29)"
+        },
+        {
+            "event": "Load In (Sound)",
+            "time": "9:00 (Done Oct 29)"
+        },
+        {
+            "event": "Soundcheck",
+            "time": "20:00 - 22:00 (Done Oct 29)"
+        },
+        {
+            "event": "Doors",
+            "time": "16:00"
+        },
+        {
+            "event": "Los Brujos Showtime",
+            "time": "20:30"
+        },
+        {
+            "event": "Calamity Jane Showtime",
+            "time": "21:30"
+        },
+        {
+            "event": "NIRVANA Showtime",
+            "time": "23:00"
+        }
+    ],
+    "soundcheck": [],
+    "soundcheck_incomplete": false,
+    "set": [
+        {
+            "type": "song",
+            "text": "unknown song",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "Aneurysm",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "Smells Like Teen Spirit",
+            "notes": [
+                "part of"
+            ]
+        },
+        {
+            "type": "song",
+            "text": "Breed",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "Smells Like Teen Spirit",
+            "notes": [
+                "part of"
+            ]
+        },
+        {
+            "type": "song",
+            "text": "Drain You",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "Beeswax",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "Spank Thru",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "School",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "Come As You Are",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "Lithium",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "Lounge Act",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "Sliver",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "About A Girl",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "Polly",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "jam",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "In Bloom",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "Territorial Pissings",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "Been A Son",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "On A Plain",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "Negative Creep",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "Blew",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "All Apologies",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "Endless, Nameless",
+            "notes": []
+        }
+    ],
+    "set_incomplete": false,
+    "transmission": {},
+    "rehearsel_circulating_sources": [],
+    "circulating_sources": [
+        {
+            "name": "SBD #1a",
+            "complete": false,
+            "equipment": "Soundboard > Unknown",
+            "generation": "Unofficial CD [Kurko]",
+            "video-generation": null,
+            "audio-generation": null,
+            "length-sound": "57:01 min / 9.5",
+            "notes": [
+                "Includes songs that are missing from SBD #1b, SBD #1c, and SBD #1d, but is also missing songs that are on SBD #1b, SBD #1c, and SBD #1d.",
+                "Missing everything before \"Breed\" (fades in), which cuts in, and everything after \"Blew\".",
+                "Spectrum frequently analysis, carried out in January 2003, suggests the source is pre-FM."
+            ]
+        },
+        {
+            "name": "SBD #1b",
+            "complete": false,
+            "equipment": "Soundboard > Unknown",
+            "generation": "FM > ANA(3) > DAT(1) > FLAC",
+            "video-generation": null,
+            "audio-generation": null,
+            "length-sound": "61:59 min / 7.5",
+            "notes": [
+                "Includes songs that are missing from SBD #1a, SBD #1c, and SBD #1d, but is also missing songs that are on SBD #1a and SBD #1c and has a cut in \"All Apologies\" that is not present on SBD #1d.",
+                "Broadcast on the Argentine FM radio station Rock & Pop.",
+                "Missing everything before \"Drain You\".",
+                "Has cuts in \"Come As You Are\", \"Lounge Act\", \"Sliver\", \"About A Girl\", the jam, \"Territorial Pissings\", \"Been A Son\", \"Blew\", \"All Apologies\", and \"Endless, Nameless\"."
+            ]
+        },
+        {
+            "name": "SBD #1c",
+            "complete": false,
+            "equipment": "Soundboard > Unknown",
+            "generation": "FM > ANA(1) > DAT(1) > FLAC",
+            "video-generation": null,
+            "audio-generation": null,
+            "length-sound": "05:02 min / 9.0",
+            "notes": [
+                "Includes a song that is missing from SBD #1a, SBD #1b, and SBD #1d, but is also missing all other songs that are on SBD #1a, SBD #1b, and SBD #1d.",
+                "Broadcast on the Argentine FM radio station Rock & Pop.",
+                "Includes only \"Aneurysm\",  which cuts in, and brief clips of \"Come As You Are\", \"Polly\", and \"In Bloom\" with DJ talk over most of the clips.",
+                "The broadcast included all of \"Aneurysm\", \"Come As You Are\", \"Sliver', \"Polly\", and \"In Bloom', but they were cut when taping the show from the radio."
+            ]
+        },
+        {
+            "name": "SBD #1d",
+            "complete": false,
+            "equipment": "Soundboard > Unknown",
+            "generation": "FM > ANA(x) > FLAC",
+            "video-generation": null,
+            "audio-generation": null,
+            "length-sound": "51:42 min / 6.5",
+            "notes": [
+                "Surfaced in December 2005.\n                                    \nIncludes songs that are missing from SBD #1a and SBD #1c and does not have the cut in \"All Apologies\" that is on SBD #1b, but is also missing songs that are on SBD #1a, SBD #1b, and SBD #1c.\nBroadcast on the Argentine FM radio station Rock & Pop.\nMissing everything before \"Drain You\", \"Lounge Act\", \"Sliver', and \"Territorial Pissings\".\n\"About A Girl\" and \"Endless, Nameless\" cut out.\n"
+            ]
+        },
+        {
+            "name": "PRO #1a",
+            "complete": false,
+            "equipment": "Soundboard > Unknown",
+            "generation": "VHS(x) > DVDR/CDR",
+            "video-generation": null,
+            "audio-generation": null,
+            "length-sound": "85 min / TBC",
+            "notes": [
+                "Surfaced in January 2003.",
+                "Multi camera PRO-shot video with soundboard audio.",
+                "More complete, but lower quality than PRO #1c.",
+                "Missing some between-song banter.",
+                "Has cuts in the unknown song and \"Negative Creep\" and some between-song banter is missing.",
+                "The show was video taped to be broadcast on the Argentine TV channel Telefé a week later, but they decided that the show wasn't good enough to broadcast.",
+                "Some or all of the show was broadcast on TV at a later date."
+            ]
+        },
+        {
+            "name": "PRO #1b [soundboard audio from professional video]",
+            "complete": false,
+            "equipment": "Soundboard > Unknown",
+            "generation": "VHS(1) > ANA(1) > CDR",
+            "video-generation": null,
+            "audio-generation": null,
+            "length-sound": "86 min / 8.5",
+            "notes": [
+                "Known generation and more complete, but lower quality than PRO #1a, PRO #1b and includes only the audio from the video.",
+                "Missing some between-song banter.",
+                "Has a cut in \"Negative Creep\"."
+            ]
+        },
+        {
+            "name": "PRO #1c",
+            "complete": false,
+            "equipment": "Soundboard > Unknown",
+            "generation": "VHS(1) > MKV",
+            "video-generation": null,
+            "audio-generation": null,
+            "length-sound": "60 min / 9.0",
+            "notes": [
+                "October 31st 2018 this upgrade was circulated.",
+                "Multi camera PRO-shot video with soundboard audio.",
+                "Less complete, but higher quality than PRO #1a and PRO #1b.",
+                "Missing everything after \"On A Plain\".",
+                "The show was video taped to be broadcast on the Argentine TV channel Telefé a week later, but they decided that the show wasn't good enough to broadcast.",
+                "Some or all of the show was broadcast on TV at a later date.",
+                "There is some uncertainty as to whether this is a different (promo) source to the near-complete video (PRO #1a)."
+            ]
+        },
+        {
+            "name": "PRO CLIP #1",
+            "complete": false,
+            "equipment": "Unknown > Unknown",
+            "generation": "TV > VHS(x) > MP4",
+            "video-generation": null,
+            "audio-generation": null,
+            "length-sound": "39 sec / ??",
+            "notes": [
+                "PRO-shot video shot from the front of the stage, with open mic audio broadcast in the program \"Sabado Taquilla\", TVChile. \n                                    Includes clips of \"Breed\" (with no audio) and \"Drain You\".\n"
+            ]
+        }
+    ],
+    "uncirculated_sources": [
+        {
+            "name": "AUD #1",
+            "note": "It is rumored that the show was recorded."
+        },
+        {
+            "name": "AMT #1",
+            "note": "A local DJ from the radio station that owns the soundboard audio claims to have video taped part of the show. (It is assumed that the video tape is incomplete.)"
+        }
+    ],
+    "notes": [
+        "The band opened with an unknown song that may be a cover.",
+        "They played the intro to \"Smells Like Teen Spirit\" twice just to tease the disrespectful, male-dominated crowd.",
+        "For the first verse of \"Come As You Are\", Kurt just said \"hey\" over and over instead of singing the words.",
+        "During \"Polly\", Dave played a toy drum kit.",
+        "After \"Polly\", a fairly long, bass-driven jam was played."
+    ],
+    "press": [],
+    "memorabilia": [
+        {
+            "url": "/concerts/images/1992/1992-10-30/1992-10-30_01.jpg",
+            "caption": "Ticket"
+        },
+        {
+            "url": "/concerts/images/1992/1992-10-30/1992-10-30_02.jpg",
+            "caption": "Advert"
+        },
+        {
+            "url": "/concerts/images/1992/1992-10-30/1992-10-30_03.JPG",
+            "caption": "Advert"
+        },
+        {
+            "url": "/concerts/images/1992/1992-10-30/1992-10-30_04.jpg",
+            "caption": "Advert"
+        },
+        {
+            "url": "/concerts/images/1992/1992-10-30/1992-10-30_05.jpg",
+            "caption": "Ticket"
+        },
+        {
+            "url": "/concerts/images/1992/1992-10-30/1992-10-30_06.jpg",
+            "caption": "Handwritten setlist"
+        },
+        {
+            "url": "/concerts/images/1992/1992-10-30/1992-10-30_07.jpg",
+            "caption": "Backstage pass"
+        },
+        {
+            "url": "/concerts/images/1992/1992-10-30/1992-10-30_08.jpg",
+            "caption": "Advert"
+        },
+        {
+            "url": "/concerts/images/1992/1992-10-30/1992-10-30_09.jpg",
+            "caption": "Nirvana's tour itinerary"
+        },
+        {
+            "url": "/concerts/images/1992/1992-10-30/1992-10-30_10.jpg",
+            "caption": "Ticket"
+        },
+        {
+            "url": "/concerts/images/1992/1992-10-30/1992-10-30_11.jpg",
+            "caption": "T-shirt merchandise"
+        },
+        {
+            "url": "/concerts/images/1992/1992-10-30/1992-10-30_12.jpg",
+            "caption": "Advert"
+        }
+    ],
+    "images": [
+        {
+            "url": "/concerts/images/1992/1992-10-30/1992-10-30_001.jpg",
+            "caption": "Photo by Andres Violante"
+        },
+        {
+            "url": "/concerts/images/1992/1992-10-30/1992-10-30_002.jpg",
+            "caption": "Photo by Andres Violante"
+        },
+        {
+            "url": "/concerts/images/1992/1992-10-30/1992-10-30_003.jpg",
+            "caption": "Unknown photographer"
+        },
+        {
+            "url": "/concerts/images/1992/1992-10-30/1992-10-30_004.jpg",
+            "caption": "Photo by Andres Violante"
+        },
+        {
+            "url": "/concerts/images/1992/1992-10-30/1992-10-30_005.jpg",
+            "caption": "Photo by Andres Violante"
+        },
+        {
+            "url": "/concerts/images/1992/1992-10-30/1992-10-30_006.jpg",
+            "caption": "Unknown photographer"
+        },
+        {
+            "url": "/concerts/images/1992/1992-10-30/1992-10-30_007.jpg",
+            "caption": "Unknown photographer"
+        },
+        {
+            "url": "/concerts/images/1992/1992-10-30/1992-10-30_008.jpg",
+            "caption": "Unknown photographer"
+        },
+        {
+            "url": "/concerts/images/1992/1992-10-30/1992-10-30_009.jpg",
+            "caption": "Unknown photographer"
+        },
+        {
+            "url": "/concerts/images/1992/1992-10-30/1992-10-30_010.jpg",
+            "caption": "Unknown photographer"
+        },
+        {
+            "url": "/concerts/images/1992/1992-10-30/1992-10-30_011.jpg",
+            "caption": "Photo by Diego Díaz"
+        },
+        {
+            "url": "/concerts/images/1992/1992-10-30/1992-10-30_012.jpg",
+            "caption": "Photo by Nora Lezano"
+        },
+        {
+            "url": "/concerts/images/1992/1992-10-30/1992-10-30_013.jpg",
+            "caption": "Unknown photographer"
+        },
+        {
+            "url": "/concerts/images/1992/1992-10-30/1992-10-30_014.jpg",
+            "caption": "Photo by Andres Violante"
+        },
+        {
+            "url": "/concerts/images/1992/1992-10-30/1992-10-30_015.jpg",
+            "caption": "Unknown photographer"
+        },
+        {
+            "url": "/concerts/images/1992/1992-10-30/1992-10-30_016.jpg",
+            "caption": "Photo by Andres Violante"
+        },
+        {
+            "url": "/concerts/images/1992/1992-10-30/1992-10-30_017.jpg",
+            "caption": "Photo by Gonzalo Martínez"
+        },
+        {
+            "url": "/concerts/images/1992/1992-10-30/1992-10-30_018.jpg",
+            "caption": "Unknown photographer"
+        },
+        {
+            "url": "/concerts/images/1992/1992-10-30/1992-10-30_019.jpg",
+            "caption": "Unknown photographer"
+        },
+        {
+            "url": "/concerts/images/1992/1992-10-30/1992-10-30_020.jpg",
+            "caption": "Unknown photographer"
+        },
+        {
+            "url": "/concerts/images/1992/1992-10-30/1992-10-30_021.jpg",
+            "caption": "Unknown photographer"
+        },
+        {
+            "url": "/concerts/images/1992/1992-10-30/1992-10-30_022.jpg",
+            "caption": "Unknown photographer"
+        },
+        {
+            "url": "/concerts/images/1992/1992-10-30/1992-10-30_023.jpg",
+            "caption": "Unknown photographer"
+        },
+        {
+            "url": "/concerts/images/1992/1992-10-30/1992-10-30_024.jpg",
+            "caption": "Photo by Sebastián Oliver"
+        },
+        {
+            "url": "/concerts/images/1992/1992-10-30/1992-10-30_025.jpg",
+            "caption": "Photo by Sebastián Oliver"
+        },
+        {
+            "url": "/concerts/images/1992/1992-10-30/1992-10-30_026.jpg",
+            "caption": "Photo by Sebastián Oliver"
+        },
+        {
+            "url": "/concerts/images/1992/1992-10-30/1992-10-30_027.jpg",
+            "caption": "Unknown photographer"
+        },
+        {
+            "url": "/concerts/images/1992/1992-10-30/1992-10-30_028.jpg",
+            "caption": "Unknown photographer"
+        },
+        {
+            "url": "/concerts/images/1992/1992-10-30/1992-10-30_029.jpg",
+            "caption": "Unknown photographer"
+        },
+        {
+            "url": "/concerts/images/1992/1992-10-30/1992-10-30_030.jpg",
+            "caption": "Unknown photographer"
+        },
+        {
+            "url": "/concerts/images/1992/1992-10-30/1992-10-30_031.jpg",
+            "caption": "Unknown photographer"
+        },
+        {
+            "url": "/concerts/images/1992/1992-10-30/1992-10-30_032.jpg",
+            "caption": "Unknown photographer"
+        },
+        {
+            "url": "/concerts/images/1992/1992-10-30/1992-10-30_033.jpg",
+            "caption": "Unknown photographer"
+        },
+        {
+            "url": "/concerts/images/1992/1992-10-30/1992-10-30_034.jpg",
+            "caption": "Unknown photographer"
+        }
+    ],
+    "navigation": {
+        "previous": "92-10-29",
+        "next": "/concerts/93/93-01-16"
+    },
+    "graph": {
+        "bleach": "1",
+        "nevermind": "1",
+        "inutero": "1",
+        "non": "1"
+    }
+}

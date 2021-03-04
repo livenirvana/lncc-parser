@@ -1,0 +1,568 @@
+{
+    "year": "1992",
+    "month": "06",
+    "day": "27",
+    "venue": "June 27",
+    "city": "1992 - Kansanpuisto (Ruisrock)",
+    "state": "Turku",
+    "country": "FI",
+    "band": [
+        {
+            "NIRVANA": [
+                {
+                    "name": "Kurt Cobain ",
+                    "duty": "vocals, guitar"
+                },
+                {
+                    "name": "Krist Novoselic ",
+                    "duty": "bass"
+                },
+                {
+                    "name": "Dave Grohl ",
+                    "duty": "drums, backing vocals"
+                }
+            ],
+            "type": "group"
+        }
+    ],
+    "crew": [
+        {
+            "name": "Alex MacLeod",
+            "duty": "tour manager"
+        },
+        {
+            "name": "Larry Richter",
+            "duty": "tour accountant"
+        },
+        {
+            "name": "Susanne Sasic",
+            "duty": "lighting designer"
+        },
+        {
+            "name": "Craig Montgomery",
+            "duty": "sound engineer"
+        },
+        {
+            "name": "Ian Beveridge",
+            "duty": "monitor engineer"
+        },
+        {
+            "name": "John Duncan",
+            "duty": "guitar technician"
+        },
+        {
+            "name": "Barrett Jones",
+            "duty": "drum technician"
+        }
+    ],
+    "buyer": {
+        "names": []
+    },
+    "schedule": [
+        {
+            "event": "Load In",
+            "time": "…:…"
+        },
+        {
+            "event": "Soundcheck",
+            "time": "…:…"
+        },
+        {
+            "event": "Doors",
+            "time": "…:…"
+        },
+        {
+            "event": "Eurooppa 3 Showtime",
+            "time": "…:…"
+        },
+        {
+            "event": "Good Evening Manchester Showtime",
+            "time": "…:…"
+        },
+        {
+            "event": "Havana Black Showtime",
+            "time": "…:…"
+        },
+        {
+            "event": "Violent Femmes Showtime",
+            "time": "…:…"
+        },
+        {
+            "event": "Pearl Jam Showtime",
+            "time": "…:…"
+        },
+        {
+            "event": "Teenage Fanclub Showtime",
+            "time": "…:…"
+        },
+        {
+            "event": "NIRVANA Showtime",
+            "time": "…:…"
+        }
+    ],
+    "soundcheck": [],
+    "soundcheck_incomplete": false,
+    "set": [
+        {
+            "type": "song",
+            "text": "Aneurysm",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "Drain You",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "Stay Away",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "Sliver",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "School",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "In Bloom",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "Breed",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "About A Girl",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "Scoff",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "Polly",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "Lithium",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "Blew",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "Been A Son",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "On A Plain",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "Swap Meet",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "Negative Creep",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "Come As You Are",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "Love Buzz",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "Smells Like Teen Spirit",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "Territorial Pissings",
+            "notes": []
+        }
+    ],
+    "set_incomplete": false,
+    "transmission": {},
+    "rehearsel_circulating_sources": [],
+    "circulating_sources": [
+        {
+            "name": "AUD #1",
+            "complete": true,
+            "equipment": "Unknown > Sony WM-D6",
+            "generation": "ANA(M) > DAT(1) > FLAC",
+            "video-generation": null,
+            "audio-generation": null,
+            "length-sound": "78 min / 8.5",
+            "notes": [
+                "No Infos."
+            ]
+        },
+        {
+            "name": "AMT #1",
+            "complete": true,
+            "equipment": "Unknown > Unknown",
+            "generation": "VHS(1) > MKV",
+            "video-generation": null,
+            "audio-generation": null,
+            "length-sound": "76 min / 9.0",
+            "notes": [
+                "Amateur video, close-shot from the left of the floor.",
+                "An upgrade was circulated May 2020 replacing AMT#1a & AMT#1b split sources. AMT #1 is now the only source name."
+            ]
+        },
+        {
+            "name": "AMT #2",
+            "complete": false,
+            "equipment": "Unknown > Unknown",
+            "generation": "VHS(1) > DVDR/CDR",
+            "video-generation": null,
+            "audio-generation": null,
+            "length-sound": "45 min / 7.5",
+            "notes": [
+                "Amateur video, far-shot from the centre back of the floor.",
+                "Missing \"Aneurysm\", \"School\", \"Polly\", and \"On A Plain\".",
+                "Has cuts in all songs except \"Breed\" and \"Negative Creep\"."
+            ]
+        }
+    ],
+    "uncirculated_sources": [
+        {
+            "name": "AUD #2",
+            "note": "It is rumored that the show was recorded."
+        },
+        {
+            "name": "PRO #1",
+            "note": "It is rumored that the show was recorded."
+        }
+    ],
+    "notes": [
+        "For the last part of \"Polly,\" Krist played a classical guitar into his microphone.",
+        "According to Craig Montgomery, there was one fan with a big sign that on one side it said \"Negative Creep\" and on the other side it said \"Even Flow\". This fan is right in front of the stage and the \"Even Flow\" side was facing toward the stage, so during \"Smells Like Teen Spirit\" Kurt changed part of lyrics from the chorus to \"Even flow, even flow, even flow\" instead of \"Hello, hello,hello,how low\"."
+    ],
+    "press": [],
+    "memorabilia": [
+        {
+            "url": "/concerts/images/1992/1992-06-27/1992-06-27_01.jpg",
+            "caption": "Advert"
+        },
+        {
+            "url": "/concerts/images/1992/1992-06-27/1992-06-27_02.jpg",
+            "caption": "Advert"
+        },
+        {
+            "url": "/concerts/images/1992/1992-06-27/1992-06-27_03.jpg",
+            "caption": "Advert"
+        }
+    ],
+    "images": [
+        {
+            "url": "/concerts/images/1992/1992-06-27/1992-06-27_001.jpg",
+            "caption": "Unknown photographer"
+        },
+        {
+            "url": "/concerts/images/1992/1992-06-27/1992-06-27_002.jpg",
+            "caption": "Unknown photographer"
+        },
+        {
+            "url": "/concerts/images/1992/1992-06-27/1992-06-27_003.jpg",
+            "caption": "Photo by Niina Raatikainen"
+        },
+        {
+            "url": "/concerts/images/1992/1992-06-27/1992-06-27_004.jpg",
+            "caption": "Photo by Jukka Lehtinen"
+        },
+        {
+            "url": "/concerts/images/1992/1992-06-27/1992-06-27_005.jpg",
+            "caption": "Photo by Marko Säynekoski"
+        },
+        {
+            "url": "/concerts/images/1992/1992-06-27/1992-06-27_006.jpg",
+            "caption": "Photo by Timo Kirves"
+        },
+        {
+            "url": "/concerts/images/1992/1992-06-27/1992-06-27_007.jpg",
+            "caption": "Unknown photographer"
+        },
+        {
+            "url": "/concerts/images/1992/1992-06-27/1992-06-27_008.jpg",
+            "caption": "Unknown photographer"
+        },
+        {
+            "url": "/concerts/images/1992/1992-06-27/1992-06-27_009.jpg",
+            "caption": "Unknown photographer"
+        },
+        {
+            "url": "/concerts/images/1992/1992-06-27/1992-06-27_010.jpg",
+            "caption": "Unknown photographer"
+        },
+        {
+            "url": "/concerts/images/1992/1992-06-27/1992-06-27_011.jpg",
+            "caption": "Unknown photographer"
+        },
+        {
+            "url": "/concerts/images/1992/1992-06-27/1992-06-27_012.jpg",
+            "caption": "Unknown photographer"
+        },
+        {
+            "url": "/concerts/images/1992/1992-06-27/1992-06-27_013.jpg",
+            "caption": "Unknown photographer"
+        },
+        {
+            "url": "/concerts/images/1992/1992-06-27/1992-06-27_014.jpg",
+            "caption": "Photo by Bo Stranden"
+        },
+        {
+            "url": "/concerts/images/1992/1992-06-27/1992-06-27_015.jpg",
+            "caption": "Photo by Mikaela Weurlander"
+        },
+        {
+            "url": "/concerts/images/1992/1992-06-27/1992-06-27_016.jpg",
+            "caption": "Photo by Mikaela Weurlander"
+        },
+        {
+            "url": "/concerts/images/1992/1992-06-27/1992-06-27_017.jpg",
+            "caption": "Photo by Junnu Hirvonen"
+        },
+        {
+            "url": "/concerts/images/1992/1992-06-27/1992-06-27_018.jpg",
+            "caption": "Photo by Thomas Svahnström"
+        },
+        {
+            "url": "/concerts/images/1992/1992-06-27/1992-06-27_019.jpg",
+            "caption": "Photo by Bo Stranden"
+        },
+        {
+            "url": "/concerts/images/1992/1992-06-27/1992-06-27_020.jpg",
+            "caption": "Photo by Bo Stranden"
+        },
+        {
+            "url": "/concerts/images/1992/1992-06-27/1992-06-27_021.jpg",
+            "caption": "Photo by Vesa Hannuksela"
+        },
+        {
+            "url": "/concerts/images/1992/1992-06-27/1992-06-27_022.jpg",
+            "caption": "Photo by Pirjo Nenola"
+        },
+        {
+            "url": "/concerts/images/1992/1992-06-27/1992-06-27_023.jpg",
+            "caption": "Photo by Matti Riekki"
+        },
+        {
+            "url": "/concerts/images/1992/1992-06-27/1992-06-27_024.jpg",
+            "caption": "Photo by Krist Novoselic"
+        },
+        {
+            "url": "/concerts/images/1992/1992-06-27/1992-06-27_025.jpg",
+            "caption": "Photo by Krist Novoselic"
+        },
+        {
+            "url": "/concerts/images/1992/1992-06-27/1992-06-27_026.jpg",
+            "caption": "Photo by Suvi Siiskonen"
+        },
+        {
+            "url": "/concerts/images/1992/1992-06-27/1992-06-27_027.jpg",
+            "caption": "Photo by Jari Mikkola"
+        },
+        {
+            "url": "/concerts/images/1992/1992-06-27/1992-06-27_028.jpg",
+            "caption": "Photo by Jari Mikkola"
+        },
+        {
+            "url": "/concerts/images/1992/1992-06-27/1992-06-27_029.jpg",
+            "caption": "Photo by Jyrki Tuominen"
+        },
+        {
+            "url": "/concerts/images/1992/1992-06-27/1992-06-27_030.jpg",
+            "caption": "Photo by Jarkko Jokelainen"
+        },
+        {
+            "url": "/concerts/images/1992/1992-06-27/1992-06-27_031.jpg",
+            "caption": "Photo by Bo Stranden"
+        },
+        {
+            "url": "/concerts/images/1992/1992-06-27/1992-06-27_032.jpg",
+            "caption": "Photo by Bo Stranden"
+        },
+        {
+            "url": "/concerts/images/1992/1992-06-27/1992-06-27_033.jpg",
+            "caption": "Photo by Bo Stranden"
+        },
+        {
+            "url": "/concerts/images/1992/1992-06-27/1992-06-27_034.jpg",
+            "caption": "Photo by Minna Valtone"
+        },
+        {
+            "url": "/concerts/images/1992/1992-06-27/1992-06-27_035.jpg",
+            "caption": "Unknown photographer"
+        },
+        {
+            "url": "/concerts/images/1992/1992-06-27/1992-06-27_036.jpg",
+            "caption": "Photo by Henri Eteläpelto"
+        },
+        {
+            "url": "/concerts/images/1992/1992-06-27/1992-06-27_037.jpg",
+            "caption": "Photo by Sanna Lounaja"
+        },
+        {
+            "url": "/concerts/images/1992/1992-06-27/1992-06-27_038.jpg",
+            "caption": "Photo by Jukka Salo"
+        },
+        {
+            "url": "/concerts/images/1992/1992-06-27/1992-06-27_039.jpg",
+            "caption": "Photo by Jukka Salo"
+        },
+        {
+            "url": "/concerts/images/1992/1992-06-27/1992-06-27_040.jpg",
+            "caption": "Photo by Jukka Salo"
+        },
+        {
+            "url": "/concerts/images/1992/1992-06-27/1992-06-27_041.jpg",
+            "caption": "Photo by Jukka Salo"
+        },
+        {
+            "url": "/concerts/images/1992/1992-06-27/1992-06-27_042.jpg",
+            "caption": "Photo by Minna Valtone"
+        },
+        {
+            "url": "/concerts/images/1992/1992-06-27/1992-06-27_043.jpg",
+            "caption": "Photo by Matti Riekki"
+        },
+        {
+            "url": "/concerts/images/1992/1992-06-27/1992-06-27_044.jpg",
+            "caption": "Photo by Matti Riekki"
+        },
+        {
+            "url": "/concerts/images/1992/1992-06-27/1992-06-27_045.jpg",
+            "caption": "Photo by Timo 'Tiura' Koski"
+        },
+        {
+            "url": "/concerts/images/1992/1992-06-27/1992-06-27_046.jpg",
+            "caption": "Photo by Timo 'Tiura' Koski"
+        },
+        {
+            "url": "/concerts/images/1992/1992-06-27/1992-06-27_047.jpg",
+            "caption": "Photo by Timo 'Tiura' Koski"
+        },
+        {
+            "url": "/concerts/images/1992/1992-06-27/1992-06-27_048.jpg",
+            "caption": "Photo by Timo 'Tiura' Koski"
+        },
+        {
+            "url": "/concerts/images/1992/1992-06-27/1992-06-27_049.jpg",
+            "caption": "Photo by Timo 'Tiura' Koski"
+        },
+        {
+            "url": "/concerts/images/1992/1992-06-27/1992-06-27_050.jpg",
+            "caption": "Photo by Jouni Saaristo"
+        },
+        {
+            "url": "/concerts/images/1992/1992-06-27/1992-06-27_051.jpg",
+            "caption": "Photo by Simopekka Niemi"
+        },
+        {
+            "url": "/concerts/images/1992/1992-06-27/1992-06-27_052.jpg",
+            "caption": "Photo by Jarkko Jokelainen"
+        },
+        {
+            "url": "/concerts/images/1992/1992-06-27/1992-06-27_053.jpg",
+            "caption": "Photo by Jarkko Jokelainen"
+        },
+        {
+            "url": "/concerts/images/1992/1992-06-27/1992-06-27_054.jpg",
+            "caption": "Photo by Jarkko Jokelainen"
+        },
+        {
+            "url": "/concerts/images/1992/1992-06-27/1992-06-27_055.jpg",
+            "caption": "Photo by Jukka Lehtinen"
+        },
+        {
+            "url": "/concerts/images/1992/1992-06-27/1992-06-27_056.jpg",
+            "caption": "Photo by Jarkko Jokelainen"
+        },
+        {
+            "url": "/concerts/images/1992/1992-06-27/1992-06-27_057.jpg",
+            "caption": "Photo by Jarkko Jokelainen"
+        },
+        {
+            "url": "/concerts/images/1992/1992-06-27/1992-06-27_058.jpg",
+            "caption": "Photo by Jarkko Jokelainen"
+        },
+        {
+            "url": "/concerts/images/1992/1992-06-27/1992-06-27_059.jpg",
+            "caption": "Photo by Kaisa Lökfors"
+        },
+        {
+            "url": "/concerts/images/1992/1992-06-27/1992-06-27_060.jpg",
+            "caption": "Photo by Kimmo M."
+        },
+        {
+            "url": "/concerts/images/1992/1992-06-27/1992-06-27_061.jpg",
+            "caption": "Photo by Kimmo M."
+        },
+        {
+            "url": "/concerts/images/1992/1992-06-27/1992-06-27_062.jpg",
+            "caption": "Photo by Kimmo M."
+        },
+        {
+            "url": "/concerts/images/1992/1992-06-27/1992-06-27_063.jpg",
+            "caption": "Photo by Kimmo M."
+        },
+        {
+            "url": "/concerts/images/1992/1992-06-27/1992-06-27_064.jpg",
+            "caption": "Unknown photographer"
+        },
+        {
+            "url": "/concerts/images/1992/1992-06-27/1992-06-27_065.jpg",
+            "caption": "Photo by Bo Stranden"
+        },
+        {
+            "url": "/concerts/images/1992/1992-06-27/1992-06-27_066.jpg",
+            "caption": "Photo by Bo Stranden"
+        },
+        {
+            "url": "/concerts/images/1992/1992-06-27/1992-06-27_067.jpg",
+            "caption": "Photo by Bo Stranden"
+        },
+        {
+            "url": "/concerts/images/1992/1992-06-27/1992-06-27_068.jpg",
+            "caption": "Photo by Robban Hagnäs"
+        },
+        {
+            "url": "/concerts/images/1992/1992-06-27/1992-06-27_069.jpg",
+            "caption": "Photo by Jukka Lehtinen"
+        }
+    ],
+    "navigation": {
+        "previous": "92-06-26",
+        "next": "92-06-28"
+    },
+    "graph": {
+        "bleach": "7",
+        "nevermind": "10",
+        "inutero": "0",
+        "non": "3"
+    }
+}

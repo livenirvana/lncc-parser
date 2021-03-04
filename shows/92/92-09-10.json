@@ -1,0 +1,469 @@
+{
+    "year": "1992",
+    "month": "09",
+    "day": "10",
+    "band": [
+        {
+            "NIRVANA": [
+                {
+                    "name": "Kurt Cobain ",
+                    "duty": "vocals, guitar"
+                },
+                {
+                    "name": "Krist Novoselic ",
+                    "duty": "bass"
+                },
+                {
+                    "name": "Dave Grohl ",
+                    "duty": "drums, backing vocals"
+                }
+            ],
+            "type": "group"
+        }
+    ],
+    "crew": [
+        {
+            "name": "Alex MacLeod",
+            "duty": "tour manager"
+        },
+        {
+            "name": "Susanne Sasic",
+            "duty": "lighting designer"
+        },
+        {
+            "name": "Craig Montgomery",
+            "duty": "sound engineer"
+        },
+        {
+            "name": "Ian Beveridge",
+            "duty": "monitor engineer"
+        },
+        {
+            "name": "Earnie Bailey",
+            "duty": "guitar technician"
+        },
+        {
+            "name": "Barrett Jones",
+            "duty": "drum technician"
+        }
+    ],
+    "buyer": {
+        "names": [
+            "Mike Quinn"
+        ],
+        "company": "Monqui Presents"
+    },
+    "schedule": [
+        {
+            "event": "Load In",
+            "time": "…:…"
+        },
+        {
+            "event": "Soundcheck",
+            "time": "…:…"
+        },
+        {
+            "event": "Doors",
+            "time": "15:00"
+        },
+        {
+            "event": "Jello Biafra Showtime",
+            "time": "…:…"
+        },
+        {
+            "event": "Calamity Jane Showtime",
+            "time": "…:…"
+        },
+        {
+            "event": "Poison Idea Showtime",
+            "time": "…:…"
+        },
+        {
+            "event": "Helmet Showtime",
+            "time": "…:…"
+        },
+        {
+            "event": "NIRVANA Showtime",
+            "time": "…:…"
+        }
+    ],
+    "soundcheck": [],
+    "soundcheck_incomplete": false,
+    "set": [
+        {
+            "type": "song",
+            "text": "Breed",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "Drain You",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "Aneurysm",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "School",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "Sliver",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "In Bloom",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "Come As You Are",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "Lithium",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "About A Girl",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "tourette's",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "Polly",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "Lounge Act",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "Smells Like Teen Spirit",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "On A Plain",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "Negative Creep",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "Been A Son",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "All Apologies",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "Blew",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "Stay Away",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "D-7",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "Love Buzz",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "Rape Me",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "Territorial Pissings",
+            "notes": []
+        }
+    ],
+    "set_incomplete": false,
+    "transmission": {},
+    "rehearsel_circulating_sources": [],
+    "circulating_sources": [
+        {
+            "name": "AUD #1",
+            "complete": false,
+            "equipment": "Unknown > Unknown",
+            "generation": "ANA(1) > FLAC",
+            "video-generation": null,
+            "audio-generation": null,
+            "length-sound": "83 min / 7.5",
+            "notes": [
+                "Previously listed as ANA(M), which was found to be incorrect.",
+                "A more complete ANA(1) surfaced April 22nd 2017.",
+                "Almost all of \"Come Of You Are\" is cut and \"Stay Away\" cuts in, due to this being the point of the tape flip.",
+                "The end noise also fades out. "
+            ]
+        },
+        {
+            "name": "AUD #2",
+            "complete": false,
+            "equipment": "Unknown > Unknown",
+            "generation": "ANA(1) > CDR(1) > FLAC",
+            "video-generation": null,
+            "audio-generation": null,
+            "length-sound": "71 min / 7.0",
+            "notes": [
+                "Surfaced April 2004.",
+                "Missing everything after \"D-7\".",
+                "\"About A Girl\" cuts in and the band banter after \"Blew\" is missing."
+            ]
+        },
+        {
+            "name": "PRO #1",
+            "complete": false,
+            "equipment": "Unknown > Unknown",
+            "generation": "VHS(x) > DVDR",
+            "video-generation": null,
+            "audio-generation": null,
+            "length-sound": "21 min / 6.0",
+            "notes": [
+                "Single camera PRO-shot video, with (poor) open-mic audio.",
+                "The footage was shot for \"Bohemia After Dark\", a local access TV show broadcasting out of Portland.",
+                "Includes only \"Breed\", \"Drain You\", \"Come As You Are\", and parts of \"School\", \"Sliver\", \"In Bloom\", \"Lithium\", and \"About A Girl\"."
+            ]
+        },
+        {
+            "name": "AMT CLIP #1",
+            "complete": false,
+            "equipment": "Unknown > Unknown",
+            "generation": "Official DVD/LD [Live! Tonight! Sold Out!!]",
+            "video-generation": null,
+            "audio-generation": null,
+            "length-sound": "05 sec / 8.0",
+            "notes": [
+                "Feature only a short clip of Kurt and Krist kissing each other."
+            ]
+        },
+        {
+            "name": "PRO CLIP #1",
+            "complete": false,
+            "equipment": "Unknown > Unknown",
+            "generation": "MASTER > youtube > FLV",
+            "video-generation": null,
+            "audio-generation": null,
+            "length-sound": "04 min / 8.0",
+            "notes": [
+                "Posted on YouTube in May 2016.",
+                "Same source as PRO #1 but higher quality.",
+                "Single camera PRO-shot video, with (poor) open-mic audio.",
+                "The footage was shot for \"Bohemia After Dark\", a local access TV show broadcasting out of Portland.",
+                "The live footage includes the intro before \"Breed\" and a clip of \"Breed\" (briefly), \"Come As You Are\", \"Lithium\" and \"All Apologies\"."
+            ]
+        }
+    ],
+    "uncirculated_sources": [
+        {
+            "name": "AUD #3",
+            "note": "It is rumored that the show was recorded."
+        },
+        {
+            "name": "AMT #2",
+            "note": "It is rumored that the show was recorded."
+        }
+    ],
+    "notes": [
+        "Before \"Stay Away,\" Kurt told the story of his encounter with Axl Rose at the MTV Video Music Awards."
+    ],
+    "press": [],
+    "memorabilia": [
+        {
+            "url": "/concerts/images/1992/1992-09-10/1992-09-10_01.jpg",
+            "caption": "Handbill/Flyer, designed by unknown"
+        },
+        {
+            "url": "/concerts/images/1992/1992-09-10/1992-09-10_02.jpg",
+            "caption": "Handwritten setlist"
+        },
+        {
+            "url": "/concerts/images/1992/1992-09-10/1992-09-10_03.jpg",
+            "caption": "Advert"
+        },
+        {
+            "url": "/concerts/images/1992/1992-09-10/1992-09-10_04.jpg",
+            "caption": "T-shirt merchandise"
+        },
+        {
+            "url": "/concerts/images/1992/1992-09-10/1992-09-10_05.jpg",
+            "caption": "Advert"
+        },
+        {
+            "url": "/concerts/images/1992/1992-09-10/1992-09-10_06.jpg",
+            "caption": "Backstage pass"
+        },
+        {
+            "url": "/concerts/images/1992/1992-09-10/1992-09-10_07.jpg",
+            "caption": "Ticket"
+        },
+        {
+            "url": "/concerts/images/1992/1992-09-10/1992-09-10_08.jpg",
+            "caption": "Handbill/Flyer, designed by unknown"
+        },
+        {
+            "url": "/concerts/images/1992/1992-09-10/1992-09-10_09.jpg",
+            "caption": "Advert"
+        },
+        {
+            "url": "/concerts/images/1992/1992-09-10/1992-09-10_10.jpg",
+            "caption": "Advert"
+        }
+    ],
+    "images": [
+        {
+            "url": "/concerts/images/1992/1992-09-10/1992-09-10_001.jpg",
+            "caption": "Unknown photographer"
+        },
+        {
+            "url": "/concerts/images/1992/1992-09-10/1992-09-10_002.jpg",
+            "caption": "Unknown photographer"
+        },
+        {
+            "url": "/concerts/images/1992/1992-09-10/1992-09-10_003.jpg",
+            "caption": "Unknown photographer"
+        },
+        {
+            "url": "/concerts/images/1992/1992-09-10/1992-09-10_004.jpg",
+            "caption": "Unknown photographer"
+        },
+        {
+            "url": "/concerts/images/1992/1992-09-10/1992-09-10_005.jpg",
+            "caption": "Photo by James Rexroad"
+        },
+        {
+            "url": "/concerts/images/1992/1992-09-10/1992-09-10_006.jpg",
+            "caption": "Unknown photographer"
+        },
+        {
+            "url": "/concerts/images/1992/1992-09-10/1992-09-10_007.jpg",
+            "caption": "Unknown photographer"
+        },
+        {
+            "url": "/concerts/images/1992/1992-09-10/1992-09-10_008.jpg",
+            "caption": "Unknown photographer"
+        },
+        {
+            "url": "/concerts/images/1992/1992-09-10/1992-09-10_009.jpg",
+            "caption": "Unknown photographer"
+        },
+        {
+            "url": "/concerts/images/1992/1992-09-10/1992-09-10_010.jpg",
+            "caption": "Unknown photographer"
+        },
+        {
+            "url": "/concerts/images/1992/1992-09-10/1992-09-10_011.jpg",
+            "caption": "Unknown photographer"
+        },
+        {
+            "url": "/concerts/images/1992/1992-09-10/1992-09-10_012.jpg",
+            "caption": "Unknown photographer"
+        },
+        {
+            "url": "/concerts/images/1992/1992-09-10/1992-09-10_013.jpg",
+            "caption": "Photo by Heidi Snellman"
+        },
+        {
+            "url": "/concerts/images/1992/1992-09-10/1992-09-10_014.jpg",
+            "caption": "Photo by Heidi Snellman"
+        },
+        {
+            "url": "/concerts/images/1992/1992-09-10/1992-09-10_015.jpg",
+            "caption": "Photo by Heidi Snellman"
+        },
+        {
+            "url": "/concerts/images/1992/1992-09-10/1992-09-10_016.jpg",
+            "caption": "Photo by Heidi Snellman"
+        },
+        {
+            "url": "/concerts/images/1992/1992-09-10/1992-09-10_017.jpg",
+            "caption": "Photo by Heidi Snellman"
+        },
+        {
+            "url": "/concerts/images/1992/1992-09-10/1992-09-10_018.jpg",
+            "caption": "Photo by Heidi Snellman"
+        },
+        {
+            "url": "/concerts/images/1992/1992-09-10/1992-09-10_019.jpg",
+            "caption": "Photo by Heidi Snellman"
+        },
+        {
+            "url": "/concerts/images/1992/1992-09-10/1992-09-10_020.jpg",
+            "caption": "Photo by Heidi Snellman"
+        },
+        {
+            "url": "/concerts/images/1992/1992-09-10/1992-09-10_021.jpg",
+            "caption": "Photo by Heidi Snellman"
+        },
+        {
+            "url": "/concerts/images/1992/1992-09-10/1992-09-10_022.jpg",
+            "caption": "Photo by Heidi Snellman"
+        },
+        {
+            "url": "/concerts/images/1992/1992-09-10/1992-09-10_023.jpg",
+            "caption": "Photo by Heidi Snellman"
+        },
+        {
+            "url": "/concerts/images/1992/1992-09-10/1992-09-10_024.jpg",
+            "caption": "Photo by Heidi Snellman"
+        },
+        {
+            "url": "/concerts/images/1992/1992-09-10/1992-09-10_025.jpg",
+            "caption": "Photo by Heidi Snellman"
+        },
+        {
+            "url": "/concerts/images/1992/1992-09-10/1992-09-10_026.jpg",
+            "caption": "Photo by Heidi Snellman"
+        },
+        {
+            "url": "/concerts/images/1992/1992-09-10/1992-09-10_027.jpg",
+            "caption": "Photo by Heidi Snellman"
+        },
+        {
+            "url": "/concerts/images/1992/1992-09-10/1992-09-10_028.jpg",
+            "caption": "Photo by Heidi Snellman"
+        },
+        {
+            "url": "/concerts/images/1992/1992-09-10/1992-09-10_029.jpg",
+            "caption": "Photo by Heidi Snellman"
+        }
+    ],
+    "navigation": {
+        "previous": "92-09-09",
+        "next": "92-09-11"
+    },
+    "graph": {
+        "bleach": "5",
+        "nevermind": "11",
+        "inutero": "3",
+        "non": "4"
+    }
+}

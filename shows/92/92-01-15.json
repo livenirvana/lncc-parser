@@ -1,0 +1,133 @@
+{
+    "year": "1992",
+    "month": "01",
+    "day": "15",
+    "band": [
+        {
+            "The Melvanas": [
+                {
+                    "name": "Buzz Osborne ",
+                    "duty": "vocals, guitar"
+                },
+                {
+                    "name": "Krist Novoselic ",
+                    "duty": "bass"
+                },
+                {
+                    "name": "Dave Grohl ",
+                    "duty": "drums"
+                }
+            ],
+            "type": "group"
+        }
+    ],
+    "crew": [
+        {
+            "name": "Jim Anderson",
+            "duty": "sound engineer"
+        }
+    ],
+    "buyer": {
+        "names": []
+    },
+    "schedule": [
+        {
+            "event": "Load In",
+            "time": "…:…"
+        },
+        {
+            "event": "Soundcheck",
+            "time": "…:…"
+        },
+        {
+            "event": "Doors",
+            "time": "…:…"
+        },
+        {
+            "event": "THE MELVANAS Showtime",
+            "time": "…:…"
+        },
+        {
+            "event": "Churn Showtime",
+            "time": "…:…"
+        },
+        {
+            "event": "Bliss Showtime",
+            "time": "…:…"
+        }
+    ],
+    "soundcheck": [],
+    "soundcheck_incomplete": false,
+    "set": [
+        {
+            "type": "song",
+            "text": "Way Of The World",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "Sacrifice",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "Second Coming",
+            "notes": [
+                "part of"
+            ]
+        },
+        {
+            "type": "song",
+            "text": "The Ballad Of Dwight Fry",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "(I Saw You) Shine",
+            "notes": []
+        }
+    ],
+    "set_incomplete": true,
+    "transmission": {},
+    "rehearsel_circulating_sources": [],
+    "circulating_sources": [
+        {
+            "name": "AUD #1",
+            "complete": false,
+            "equipment": "Unknown > Aiwa HS-J400 MKII",
+            "generation": "ANA(M) > FLAC",
+            "video-generation": null,
+            "audio-generation": null,
+            "length-sound": "21 min / 7.5",
+            "notes": [
+                "A master tape transfer surfaced April 22nd 2017.",
+                "\"Way Of The World\" cuts in."
+            ]
+        }
+    ],
+    "uncirculated_sources": [],
+    "notes": [
+        "Krist played bass, Dave played drums, and Buzz played guitar and sang.",
+        "The trio, tagged the Melvanas by the house soundman.",
+        "According to a review, they played three songs in about 15 minutes, but maybe others songs were played since the 21 minutes circulating master tape are incomplete.",
+        "Opening for Churn and Bliss, the trio's performance was supposed to be a surprise, but someone leaked the news to a radio station, so hundreds of Nirvana fans came to the show."
+    ],
+    "press": [],
+    "memorabilia": [
+        {
+            "url": "/concerts/images/noimage.jpg",
+            "caption": "No images found for this performance."
+        }
+    ],
+    "images": [],
+    "navigation": {
+        "previous": "92-01-11",
+        "next": "92-01-24"
+    },
+    "graph": {
+        "bleach": "0",
+        "nevermind": "0",
+        "inutero": "0",
+        "non": "5"
+    }
+}

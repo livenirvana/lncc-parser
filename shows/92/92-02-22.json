@@ -1,0 +1,330 @@
+{
+    "year": "1992",
+    "month": "02",
+    "day": "22",
+    "band": [
+        {
+            "NIRVANA": [
+                {
+                    "name": "Kurt Cobain ",
+                    "duty": "vocals, guitar"
+                },
+                {
+                    "name": "Krist Novoselic ",
+                    "duty": "bass"
+                },
+                {
+                    "name": "Dave Grohl ",
+                    "duty": "drums, backing vocals"
+                }
+            ],
+            "type": "group"
+        }
+    ],
+    "crew": [
+        {
+            "name": "Alex MacLeod",
+            "duty": "tour manager"
+        },
+        {
+            "name": "Susanne Sasic",
+            "duty": "lighting designer"
+        },
+        {
+            "name": "Craig Montgomery",
+            "duty": "sound engineer"
+        },
+        {
+            "name": "Ian Beveridge",
+            "duty": "monitor engineer"
+        },
+        {
+            "name": "Nic Close",
+            "duty": "guitar technician"
+        },
+        {
+            "name": "Barrett Jones",
+            "duty": "drum technician"
+        }
+    ],
+    "buyer": {
+        "names": [
+            "Matthew Grim"
+        ],
+        "company": "Goldenvoice and Grim"
+    },
+    "schedule": [
+        {
+            "event": "Load In",
+            "time": "…:…"
+        },
+        {
+            "event": "Soundcheck",
+            "time": "…:…"
+        },
+        {
+            "event": "Doors",
+            "time": "19:00"
+        },
+        {
+            "event": "East of Gideon Showtime",
+            "time": "20:30"
+        },
+        {
+            "event": "NIRVANA Showtime",
+            "time": "…:…"
+        }
+    ],
+    "soundcheck": [],
+    "soundcheck_incomplete": false,
+    "set": [
+        {
+            "type": "banter",
+            "text": "This is our last show of seven months worth of touring",
+            "person": "Cobain"
+        },
+        {
+            "type": "song",
+            "text": "Negative Creep",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "Been A Son",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "On A Plain",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "Something In The Way",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "Blew",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "Come As You Are",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "Lithium",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "Breed",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "Sliver",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "Drain You",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "About A Girl",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "School",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "Aneurysm",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "Love Buzz",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "Polly",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "Lounge Act",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "Territorial Pissings",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "Smells Like Teen Spirit",
+            "notes": [
+                "part of"
+            ]
+        },
+        {
+            "type": "banter",
+            "text": "We're going to skip that one",
+            "person": "Novoselic"
+        },
+        {
+            "type": "song",
+            "text": "Endless, Nameless",
+            "notes": []
+        }
+    ],
+    "set_incomplete": false,
+    "transmission": {},
+    "rehearsel_circulating_sources": [],
+    "circulating_sources": [
+        {
+            "name": "AMT #1",
+            "complete": false,
+            "equipment": "Unknown > Unknown",
+            "generation": "8MM(M) > youtube > FLV",
+            "video-generation": null,
+            "audio-generation": null,
+            "length-sound": "07:18 min / 8.5",
+            "notes": [
+                "Amateur video posted on YouTube in December 02, 2019.",
+                "Shot from the VIP area behind thick Plexiglas.",
+                "Includes \"Come As You Are\" (cuts in) and \"Lithium\" only and it's not know if other songs were taped."
+            ]
+        },
+        {
+            "name": "PRO #1",
+            "complete": false,
+            "equipment": "Soundboard > Unknown",
+            "generation": "Official DVD/LD [Live! Tonight! Sold Out!!]",
+            "video-generation": null,
+            "audio-generation": null,
+            "length-sound": "05 min / 10",
+            "notes": [
+                "Single camera PRO-shot video with soundboard audio.",
+                "\"Negative Creep\" and the intro of \"Smells Like Teen Spirit\" only."
+            ]
+        },
+        {
+            "name": "PRO CLIP #1a",
+            "complete": false,
+            "equipment": "Soundboard > Unknown",
+            "generation": "TV > VHS(2) > DVDR/CDR",
+            "video-generation": null,
+            "audio-generation": null,
+            "length-sound": "02 min / 8.5",
+            "notes": [
+                "Single camera PRO-shot video with soundboard audio.",
+                "Includes clips of \"Been A Son\" and \"On A Plain\".",
+                "Clips with no audio of the end-of-show destruction were mixed with footage of \"On A Plain\".",
+                "These clips were mixed with some clips from other parts of the video to give a multiple-camera appearance."
+            ]
+        },
+        {
+            "name": "PRO CLIP #1b",
+            "complete": false,
+            "equipment": "Soundboard > Unknown",
+            "generation": "MASTER > FLV",
+            "video-generation": null,
+            "audio-generation": null,
+            "length-sound": "2 min / 9.0",
+            "notes": [
+                "Single camera PRO-shot video with soundboard audio.",
+                "Lossy format but of higher quality than PRO CLIP #1a.",
+                "Clips with no audio of the end-of-show destruction were mixed with footage of \"On A Plain\".",
+                "These clips were mixed with some clips from other parts of the video to give a multiple-camera appearance.",
+                "Posted on the site RTVE."
+            ]
+        },
+        {
+            "name": "PRO CLIP #1c",
+            "complete": false,
+            "equipment": "Soundboard > Unknown",
+            "generation": "MASTER > FLV",
+            "video-generation": null,
+            "audio-generation": null,
+            "length-sound": "30 sec / 9.0",
+            "notes": [
+                "Single camera PRO-shot video with soundboard audio.",
+                "Includes a clip \"On A Plain\".",
+                "Posted on the site RTVE."
+            ]
+        }
+    ],
+    "uncirculated_sources": [],
+    "notes": [
+        "Most of the set above comes from the band's handwritten setlist.",
+        "At the end of the show, Dave carried Kurt off the stage in his arms."
+    ],
+    "press": [],
+    "memorabilia": [
+        {
+            "url": "/concerts/images/1992/1992-02-22/1992-02-22_01.jpg",
+            "caption": "Handbill/Flyer, designed by unknown"
+        },
+        {
+            "url": "/concerts/images/1992/1992-02-22/1992-02-22_02.jpg",
+            "caption": "Ticket"
+        },
+        {
+            "url": "/concerts/images/1992/1992-02-22/1992-02-22_03.jpg",
+            "caption": "Handwritten setlist"
+        },
+        {
+            "url": "/concerts/images/1992/1992-02-22/1992-02-22_04.jpg",
+            "caption": "Advert"
+        }
+    ],
+    "images": [
+        {
+            "url": "/concerts/images/1992/1992-02-22/1992-02-22_001.jpg",
+            "caption": "Photo by Ruthie Link"
+        },
+        {
+            "url": "/concerts/images/1992/1992-02-22/1992-02-22_002.jpg",
+            "caption": "Photo by Ruthie Link"
+        },
+        {
+            "url": "/concerts/images/1992/1992-02-22/1992-02-22_003.jpg",
+            "caption": "Photo by Ruthie Link"
+        },
+        {
+            "url": "/concerts/images/1992/1992-02-22/1992-02-22_004.jpg",
+            "caption": "Photo by Ruthie Link"
+        },
+        {
+            "url": "/concerts/images/1992/1992-02-22/1992-02-22_005.jpg",
+            "caption": "Screencap of AMT #1"
+        },
+        {
+            "url": "/concerts/images/1992/1992-02-22/1992-02-22_006.jpg",
+            "caption": "Screencap of PRO #1"
+        },
+        {
+            "url": "/concerts/images/1992/1992-02-22/1992-02-22_007.jpg",
+            "caption": "Screencap of PRO #1"
+        }
+    ],
+    "navigation": {
+        "previous": "92-02-21",
+        "next": "92-06-21"
+    },
+    "graph": {
+        "bleach": "1",
+        "nevermind": "1",
+        "inutero": "1",
+        "non": "1"
+    }
+}

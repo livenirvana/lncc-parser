@@ -1,0 +1,679 @@
+{
+    "year": "1992",
+    "month": "09",
+    "day": "11",
+    "band": [
+        {
+            "NIRVANA": [
+                {
+                    "name": "Kurt Cobain ",
+                    "duty": "vocals, guitar"
+                },
+                {
+                    "name": "Krist Novoselic ",
+                    "duty": "bass"
+                },
+                {
+                    "name": "Dave Grohl ",
+                    "duty": "drums, backing vocals"
+                }
+            ],
+            "type": "group"
+        }
+    ],
+    "crew": [
+        {
+            "name": "Alex MacLeod",
+            "duty": "tour manager"
+        },
+        {
+            "name": "Susanne Sasic",
+            "duty": "lighting designer"
+        },
+        {
+            "name": "Craig Montgomery",
+            "duty": "sound engineer"
+        },
+        {
+            "name": "Ian Beveridge",
+            "duty": "monitor engineer"
+        },
+        {
+            "name": "Earnie Bailey",
+            "duty": "guitar technician"
+        },
+        {
+            "name": "Barrett Jones",
+            "duty": "drum technician"
+        }
+    ],
+    "buyer": {
+        "names": [
+            "Chris Monlux"
+        ],
+        "company": "Monqui Presents"
+    },
+    "schedule": [
+        {
+            "event": "Load In",
+            "time": "…:…"
+        },
+        {
+            "event": "Soundcheck",
+            "time": "15:00"
+        },
+        {
+            "event": "Doors",
+            "time": "18:00"
+        },
+        {
+            "event": "Fitz of Depression Showtime",
+            "time": "20:00"
+        },
+        {
+            "event": "Helmet Showtime",
+            "time": "20:50"
+        },
+        {
+            "event": "NIRVANA Showtime",
+            "time": "21:50"
+        }
+    ],
+    "soundcheck": [
+        {
+            "type": "song",
+            "text": "jam",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "jam",
+            "notes": []
+        }
+    ],
+    "soundcheck_incomplete": true,
+    "set": [
+        {
+            "type": "song",
+            "text": "Breed",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "Drain You",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "Aneurysm",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "School",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "Sliver",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "In Bloom",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "Come As You Are",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "Lithium",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "About A Girl",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "tourette's",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "Polly",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "Lounge Act",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "Smells Like Teen Spirit",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "On A Plain",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "Negative Creep",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "All Apologies",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "Been A Son",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "Blew",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "Dumb",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "Rape Me",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "Stay Away",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "Love Buzz",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "Territorial Pissings",
+            "notes": []
+        }
+    ],
+    "set_incomplete": false,
+    "transmission": {},
+    "rehearsel_circulating_sources": [],
+    "circulating_sources": [
+        {
+            "name": "AUD #1",
+            "complete": true,
+            "equipment": "Sonic Studios DSM-6P > Casio DA-R100",
+            "generation": "DAT(M) > FLAC",
+            "video-generation": null,
+            "audio-generation": null,
+            "length-sound": "84 min / 9.0",
+            "notes": [
+                "Does not include the soundcheck."
+            ]
+        },
+        {
+            "name": "AUD #2",
+            "complete": true,
+            "equipment": "Unknown > Unknown",
+            "generation": "ANA(3) > FLAC",
+            "video-generation": null,
+            "audio-generation": null,
+            "length-sound": "83 min / 6.0",
+            "notes": [
+                "Does not include the soundcheck.",
+                "\"Smells Like Teen Spirit\" contains a cut and the end noise cuts off."
+            ]
+        },
+        {
+            "name": "AMT #1",
+            "complete": false,
+            "equipment": "Built In > Sony",
+            "generation": "8MM(M) > DVDR/FLAC",
+            "video-generation": null,
+            "audio-generation": null,
+            "length-sound": "25 min / 9.0",
+            "notes": [
+                "Stage-shot private video.",
+                "Includes both jams from the soundcheck.",
+                "Missing everything from the show before \"All Apologies\".",
+                "Has cuts in both soundcheck jams, \"Dumb\", \"Rape Me\", \"Stay Away\", \"Love Buzz\", and \"Territorial Pissings\"."
+            ]
+        },
+        {
+            "name": "PRO #1a",
+            "complete": false,
+            "equipment": "Soundboard > Unknown",
+            "generation": "VHS(x) > DVDR/FLAC",
+            "video-generation": null,
+            "audio-generation": null,
+            "length-sound": "13 min / 8.5",
+            "notes": [
+                "Single-camera video shot from the back with soundboard audio.",
+                "More complete, but lower quality and unknown generation, and missing some of the intro found on PRO #1b.",
+                "Includes only \"Breed\", \"Drain You\", and \"Aneurysm\"."
+            ]
+        },
+        {
+            "name": "PRO #1b",
+            "complete": false,
+            "equipment": "Soundboard > Unknown",
+            "generation": "VHS(2) > DVDR/FLAC",
+            "video-generation": null,
+            "audio-generation": null,
+            "length-sound": "04 min / 9.0",
+            "notes": [
+                "Single-camera video shot from the back with soundboard audio.",
+                "Less complete, but higher quality and known generation, and includes some of the intro not found on PRO #1a.",
+                "Includes only \"Breed\"."
+            ]
+        },
+        {
+            "name": "PRO CLIP #1",
+            "complete": false,
+            "equipment": "Soundboard > Unknown",
+            "generation": "TV > VHS(1) > DVDR",
+            "video-generation": null,
+            "audio-generation": null,
+            "length-sound": "45 sec / 8.0",
+            "notes": [
+                "Single-camera video shot from the back with soundboard audio.",
+                "Feature clips of \"Rape Me\" and \"Breed\" only.",
+                "Appear on MTV Tribute to Nirvana."
+            ]
+        }
+    ],
+    "uncirculated_sources": [
+        {
+            "name": "AUD #3",
+            "note": "It is rumored that the show was recorded."
+        },
+        {
+            "name": "AMT #2",
+            "note": "Shot from the sides of the stage. Clips appear on the Nirvana promotional TV special. Clips of the end-of-show destruction appear on the official video release Live! Tonight! Sold Out!!"
+        }
+    ],
+    "notes": [
+        "During soundcheck, Kurt played part of \"Alien Boy\" by the Wipers."
+    ],
+    "press": [],
+    "memorabilia": [
+        {
+            "url": "/concerts/images/1992/1992-09-11/1992-09-11_01.jpg",
+            "caption": "Ticket"
+        },
+        {
+            "url": "/concerts/images/1992/1992-09-11/1992-09-11_02.jpg",
+            "caption": "Advert"
+        },
+        {
+            "url": "/concerts/images/1992/1992-09-11/1992-09-11_03.jpg",
+            "caption": "Backstage pass"
+        },
+        {
+            "url": "/concerts/images/1992/1992-09-11/1992-09-11_04.jpg",
+            "caption": "Advert"
+        },
+        {
+            "url": "/concerts/images/1992/1992-09-11/1992-09-11_05.jpg",
+            "caption": "Event chronogram"
+        }
+    ],
+    "images": [
+        {
+            "url": "/concerts/images/1992/1992-09-11/1992-09-11_001.jpg",
+            "caption": "Photo by Charles Peterson"
+        },
+        {
+            "url": "/concerts/images/1992/1992-09-11/1992-09-11_002.jpg",
+            "caption": "Photo by Charles Peterson"
+        },
+        {
+            "url": "/concerts/images/1992/1992-09-11/1992-09-11_003.jpg",
+            "caption": "Photo by Charles Peterson"
+        },
+        {
+            "url": "/concerts/images/1992/1992-09-11/1992-09-11_004.jpg",
+            "caption": "Photo by Charles Peterson"
+        },
+        {
+            "url": "/concerts/images/1992/1992-09-11/1992-09-11_005.jpg",
+            "caption": "Photo by Charles Peterson"
+        },
+        {
+            "url": "/concerts/images/1992/1992-09-11/1992-09-11_006.jpg",
+            "caption": "Photo by Charles Peterson"
+        },
+        {
+            "url": "/concerts/images/1992/1992-09-11/1992-09-11_007.jpg",
+            "caption": "Photo by Charles Peterson"
+        },
+        {
+            "url": "/concerts/images/1992/1992-09-11/1992-09-11_008.jpg",
+            "caption": "Photo by Charles Peterson"
+        },
+        {
+            "url": "/concerts/images/1992/1992-09-11/1992-09-11_009.jpg",
+            "caption": "Unknown photographer"
+        },
+        {
+            "url": "/concerts/images/1992/1992-09-11/1992-09-11_010.jpg",
+            "caption": "Photo by Charles Peterson"
+        },
+        {
+            "url": "/concerts/images/1992/1992-09-11/1992-09-11_011.jpg",
+            "caption": "Unknown photographer"
+        },
+        {
+            "url": "/concerts/images/1992/1992-09-11/1992-09-11_012.jpg",
+            "caption": "Photo by Kurt Smith"
+        },
+        {
+            "url": "/concerts/images/1992/1992-09-11/1992-09-11_013.jpg",
+            "caption": "Photo by Charles Peterson"
+        },
+        {
+            "url": "/concerts/images/1992/1992-09-11/1992-09-11_014.jpg",
+            "caption": "Photo by Earnie Bailey"
+        },
+        {
+            "url": "/concerts/images/1992/1992-09-11/1992-09-11_015.jpg",
+            "caption": "Photo by Earnie Bailey"
+        },
+        {
+            "url": "/concerts/images/1992/1992-09-11/1992-09-11_016.jpg",
+            "caption": "Photo by Earnie Bailey"
+        },
+        {
+            "url": "/concerts/images/1992/1992-09-11/1992-09-11_017.jpg",
+            "caption": "Photo by Earnie Bailey"
+        },
+        {
+            "url": "/concerts/images/1992/1992-09-11/1992-09-11_018.jpg",
+            "caption": "Photo by Earnie Bailey"
+        },
+        {
+            "url": "/concerts/images/1992/1992-09-11/1992-09-11_019.jpg",
+            "caption": "Photo by Benjamin Benschneider"
+        },
+        {
+            "url": "/concerts/images/1992/1992-09-11/1992-09-11_020.jpg",
+            "caption": "Photo by Charles Peterson"
+        },
+        {
+            "url": "/concerts/images/1992/1992-09-11/1992-09-11_021.jpg",
+            "caption": "Photo by Benjamin Benschneider"
+        },
+        {
+            "url": "/concerts/images/1992/1992-09-11/1992-09-11_022.jpg",
+            "caption": "Photo by Charles Peterson"
+        },
+        {
+            "url": "/concerts/images/1992/1992-09-11/1992-09-11_023.jpg",
+            "caption": "Photo by Charles Peterson"
+        },
+        {
+            "url": "/concerts/images/1992/1992-09-11/1992-09-11_024.jpg",
+            "caption": "Unknown photographer"
+        },
+        {
+            "url": "/concerts/images/1992/1992-09-11/1992-09-11_025.jpg",
+            "caption": "Photo by Michael Lane"
+        },
+        {
+            "url": "/concerts/images/1992/1992-09-11/1992-09-11_026.jpg",
+            "caption": "Photo by Michael Lane"
+        },
+        {
+            "url": "/concerts/images/1992/1992-09-11/1992-09-11_027.jpg",
+            "caption": "Photo by Michael Lane"
+        },
+        {
+            "url": "/concerts/images/1992/1992-09-11/1992-09-11_028.jpg",
+            "caption": "Photo by Michael Lane"
+        },
+        {
+            "url": "/concerts/images/1992/1992-09-11/1992-09-11_029.jpg",
+            "caption": "Photo by Michael Lane"
+        },
+        {
+            "url": "/concerts/images/1992/1992-09-11/1992-09-11_030.jpg",
+            "caption": "Photo by Michael Lane"
+        },
+        {
+            "url": "/concerts/images/1992/1992-09-11/1992-09-11_031.jpg",
+            "caption": "Photo by Charles Peterson"
+        },
+        {
+            "url": "/concerts/images/1992/1992-09-11/1992-09-11_032.jpg",
+            "caption": "Photo by Earnie Bailey"
+        },
+        {
+            "url": "/concerts/images/1992/1992-09-11/1992-09-11_033.jpg",
+            "caption": "Photo by Michael Lane"
+        },
+        {
+            "url": "/concerts/images/1992/1992-09-11/1992-09-11_034.jpg",
+            "caption": "Photo by Michael Lane"
+        },
+        {
+            "url": "/concerts/images/1992/1992-09-11/1992-09-11_035.jpg",
+            "caption": "Photo by Michael Lane"
+        },
+        {
+            "url": "/concerts/images/1992/1992-09-11/1992-09-11_036.jpg",
+            "caption": "Photo by Michael Lane"
+        },
+        {
+            "url": "/concerts/images/1992/1992-09-11/1992-09-11_037.jpg",
+            "caption": "Photo by Earnie Bailey"
+        },
+        {
+            "url": "/concerts/images/1992/1992-09-11/1992-09-11_038.jpg",
+            "caption": "Photo by Earnie Bailey"
+        },
+        {
+            "url": "/concerts/images/1992/1992-09-11/1992-09-11_039.jpg",
+            "caption": "Photo by Earnie Bailey"
+        },
+        {
+            "url": "/concerts/images/1992/1992-09-11/1992-09-11_040.jpg",
+            "caption": "Photo by Earnie Bailey"
+        },
+        {
+            "url": "/concerts/images/1992/1992-09-11/1992-09-11_041.jpg",
+            "caption": "Photo by Earnie Bailey"
+        },
+        {
+            "url": "/concerts/images/1992/1992-09-11/1992-09-11_042.jpg",
+            "caption": "Photo by Earnie Bailey"
+        },
+        {
+            "url": "/concerts/images/1992/1992-09-11/1992-09-11_043.jpg",
+            "caption": "Photo by Earnie Bailey"
+        },
+        {
+            "url": "/concerts/images/1992/1992-09-11/1992-09-11_044.jpg",
+            "caption": "Photo by Earnie Bailey"
+        },
+        {
+            "url": "/concerts/images/1992/1992-09-11/1992-09-11_045.jpg",
+            "caption": "Photo by Earnie Bailey"
+        },
+        {
+            "url": "/concerts/images/1992/1992-09-11/1992-09-11_046.jpg",
+            "caption": "Photo by Earnie Bailey"
+        },
+        {
+            "url": "/concerts/images/1992/1992-09-11/1992-09-11_047.jpg",
+            "caption": "Photo by Earnie Bailey"
+        },
+        {
+            "url": "/concerts/images/1992/1992-09-11/1992-09-11_048.jpg",
+            "caption": "Photo by Earnie Bailey"
+        },
+        {
+            "url": "/concerts/images/1992/1992-09-11/1992-09-11_049.jpg",
+            "caption": "Photo by Earnie Bailey"
+        },
+        {
+            "url": "/concerts/images/1992/1992-09-11/1992-09-11_050.jpg",
+            "caption": "Photo by Earnie Bailey"
+        },
+        {
+            "url": "/concerts/images/1992/1992-09-11/1992-09-11_051.jpg",
+            "caption": "Photo by Earnie Bailey"
+        },
+        {
+            "url": "/concerts/images/1992/1992-09-11/1992-09-11_052.jpg",
+            "caption": "Photo by Earnie Bailey"
+        },
+        {
+            "url": "/concerts/images/1992/1992-09-11/1992-09-11_053.jpg",
+            "caption": "Photo by Earnie Bailey"
+        },
+        {
+            "url": "/concerts/images/1992/1992-09-11/1992-09-11_054.jpg",
+            "caption": "Photo by Earnie Bailey"
+        },
+        {
+            "url": "/concerts/images/1992/1992-09-11/1992-09-11_055.jpg",
+            "caption": "Photo by Earnie Bailey"
+        },
+        {
+            "url": "/concerts/images/1992/1992-09-11/1992-09-11_056.jpg",
+            "caption": "Photo by Earnie Bailey"
+        },
+        {
+            "url": "/concerts/images/1992/1992-09-11/1992-09-11_057.jpg",
+            "caption": "Photo by Earnie Bailey"
+        },
+        {
+            "url": "/concerts/images/1992/1992-09-11/1992-09-11_058.jpg",
+            "caption": "Photo by Earnie Bailey"
+        },
+        {
+            "url": "/concerts/images/1992/1992-09-11/1992-09-11_059.jpg",
+            "caption": "Photo by Earnie Bailey"
+        },
+        {
+            "url": "/concerts/images/1992/1992-09-11/1992-09-11_060.jpg",
+            "caption": "Photo by Earnie Bailey"
+        },
+        {
+            "url": "/concerts/images/1992/1992-09-11/1992-09-11_061.jpg",
+            "caption": "Photo by Earnie Bailey"
+        },
+        {
+            "url": "/concerts/images/1992/1992-09-11/1992-09-11_062.jpg",
+            "caption": "Photo by Earnie Bailey"
+        },
+        {
+            "url": "/concerts/images/1992/1992-09-11/1992-09-11_063.jpg",
+            "caption": "Photo by Earnie Bailey"
+        },
+        {
+            "url": "/concerts/images/1992/1992-09-11/1992-09-11_064.jpg",
+            "caption": "Photo by Earnie Bailey"
+        },
+        {
+            "url": "/concerts/images/1992/1992-09-11/1992-09-11_065.jpg",
+            "caption": "Photo by Earnie Bailey"
+        },
+        {
+            "url": "/concerts/images/1992/1992-09-11/1992-09-11_066.jpg",
+            "caption": "Photo by Earnie Bailey"
+        },
+        {
+            "url": "/concerts/images/1992/1992-09-11/1992-09-11_067.jpg",
+            "caption": "Photo by Earnie Bailey"
+        },
+        {
+            "url": "/concerts/images/1992/1992-09-11/1992-09-11_068.jpg",
+            "caption": "Photo by Earnie Bailey"
+        },
+        {
+            "url": "/concerts/images/1992/1992-09-11/1992-09-11_069.jpg",
+            "caption": "Photo by Earnie Baileyr"
+        },
+        {
+            "url": "/concerts/images/1992/1992-09-11/1992-09-11_070.jpg",
+            "caption": "Photo by Earnie Bailey"
+        },
+        {
+            "url": "/concerts/images/1992/1992-09-11/1992-09-11_071.jpg",
+            "caption": "Photo by Earnie Bailey"
+        },
+        {
+            "url": "/concerts/images/1992/1992-09-11/1992-09-11_072.jpg",
+            "caption": "Photo by Earnie Bailey"
+        },
+        {
+            "url": "/concerts/images/1992/1992-09-11/1992-09-11_073.jpg",
+            "caption": "Unknown photographer"
+        },
+        {
+            "url": "/concerts/images/1992/1992-09-11/1992-09-11_074.jpg",
+            "caption": "Photo by Charles Peterson"
+        },
+        {
+            "url": "/concerts/images/1992/1992-09-11/1992-09-11_075.jpg",
+            "caption": "Photo by Benjamin Benschneider"
+        },
+        {
+            "url": "/concerts/images/1992/1992-09-11/1992-09-11_076.jpg",
+            "caption": "Unknown photographer"
+        },
+        {
+            "url": "/concerts/images/1992/1992-09-11/1992-09-11_077.jpg",
+            "caption": "Photo by Benjamin Benschneider"
+        },
+        {
+            "url": "/concerts/images/1992/1992-09-11/1992-09-11_078.jpg",
+            "caption": "Photo by Benjamin Benschneider"
+        },
+        {
+            "url": "/concerts/images/1992/1992-09-11/1992-09-11_079.jpg",
+            "caption": "Photo by Benjamin Benschneider"
+        },
+        {
+            "url": "/concerts/images/1992/1992-09-11/1992-09-11_080.jpg",
+            "caption": "Photo by Charles Peterson"
+        },
+        {
+            "url": "/concerts/images/1992/1992-09-11/1992-09-11_081.jpg",
+            "caption": "Photo by Charles Peterson"
+        },
+        {
+            "url": "/concerts/images/1992/1992-09-11/1992-09-11_082.jpg",
+            "caption": "Photo by Charles Peterson"
+        },
+        {
+            "url": "/concerts/images/1992/1992-09-11/1992-09-11_083.jpg",
+            "caption": "Photo by Earnie Bailey"
+        }
+    ],
+    "navigation": {
+        "previous": "92-09-10",
+        "next": "92-09-26a"
+    },
+    "graph": {
+        "bleach": "5",
+        "nevermind": "11",
+        "inutero": "4",
+        "non": "3"
+    }
+}

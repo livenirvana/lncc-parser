@@ -1,0 +1,476 @@
+{
+    "year": "1991",
+    "month": "10",
+    "day": "25",
+    "band": [
+        {
+            "NIRVANA": [
+                {
+                    "name": "Kurt Cobain ",
+                    "duty": "vocals, guitar"
+                },
+                {
+                    "name": "Krist Novoselic ",
+                    "duty": "bass"
+                },
+                {
+                    "name": "Dave Grohl ",
+                    "duty": "drums, backing vocals"
+                }
+            ],
+            "type": "group"
+        }
+    ],
+    "crew": [
+        {
+            "name": "Monty Lee Wilkes",
+            "duty": "tour manager"
+        },
+        {
+            "name": "Craig Montgomery",
+            "duty": "sound engineer"
+        },
+        {
+            "name": "Myles Kennedy",
+            "duty": "monitor engineer & drum technician"
+        },
+        {
+            "name": "Nic Close",
+            "duty": "guitar technician"
+        }
+    ],
+    "buyer": {
+        "names": [
+            "Paul Tollett"
+        ],
+        "company": "Goldenvoice Productions"
+    },
+    "schedule": [
+        {
+            "event": "Load In",
+            "time": "…:…"
+        },
+        {
+            "event": "Soundcheck",
+            "time": "…:…"
+        },
+        {
+            "event": "Doors",
+            "time": "19:00"
+        },
+        {
+            "event": "Hole Showtime",
+            "time": "…:…"
+        },
+        {
+            "event": "L7 Showtime",
+            "time": "…:…"
+        },
+        {
+            "event": "Sister Double Happiness Showtime",
+            "time": "…:…"
+        },
+        {
+            "event": "NIRVANA Showtime",
+            "time": "…:…"
+        }
+    ],
+    "soundcheck": [],
+    "soundcheck_incomplete": false,
+    "set": [
+        {
+            "type": "song",
+            "text": "Jesus Wants Me For A Sunbeam",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "Aneurysm",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "Drain You",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "School",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "Floyd The Barber",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "Smells Like Teen Spirit",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "About A Girl",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "Polly",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "Breed",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "Sliver",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "Love Buzz",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "Lithium",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "Been A Son",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "On A Plain",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "Negative Creep",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "Blew",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "Rape Me",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "Territorial Pissings",
+            "notes": []
+        }
+    ],
+    "set_incomplete": false,
+    "transmission": {},
+    "rehearsel_circulating_sources": [],
+    "circulating_sources": [
+        {
+            "name": "AUD #1",
+            "complete": true,
+            "equipment": "Unknown > Unknown",
+            "generation": "ANA(M) > DAT(2) > FLAC",
+            "video-generation": null,
+            "audio-generation": null,
+            "length-sound": "64 min / 8.0",
+            "notes": [
+                "A new transfer was circulated in May 2007, replacing the old transfer which contains many pops throughout the recording.",
+                "Missing the host's introduction and there is a cut in \"Love Buzz\", \"Been A Son\" cuts out and \"On A Plain\" cuts in.",
+                "Some between-song banter is also missing."
+            ]
+        },
+        {
+            "name": "AUD #2",
+            "complete": true,
+            "equipment": "Sony PC-62 > Sony WM-D3",
+            "generation": "ANA(1) > FLAC",
+            "video-generation": null,
+            "audio-generation": null,
+            "length-sound": "63 min / 9.0",
+            "notes": [
+                "Surfaced in June 2005.",
+                "There is some static on the first few songs and \"On A Plain\" is cut (due to tape flip).",
+                "The taper copied this to a 60-minute tape in order to reuse the 90-minute tape he had originally recorded it on, so ANA(1) is the lowest existing generation."
+            ]
+        },
+        {
+            "name": "SBD #1",
+            "complete": true,
+            "equipment": "Soundboard > Sony TCD-D3",
+            "generation": "DAT(M) > FLAC",
+            "video-generation": null,
+            "audio-generation": null,
+            "length-sound": "66 min / 9.5",
+            "notes": [
+                "A transfer of the master tape was circulated in November 2006."
+            ]
+        }
+    ],
+    "uncirculated_sources": [],
+    "notes": [
+        "Krist ranted about politics throughout the show."
+    ],
+    "press": [],
+    "memorabilia": [
+        {
+            "url": "/concerts/images/1991/1991-10-25/1991-10-25_01.jpg",
+            "caption": "Handbill/Flyer, designed by unknown"
+        },
+        {
+            "url": "/concerts/images/1991/1991-10-25/1991-10-25_02.jpg",
+            "caption": "Backstage pass"
+        },
+        {
+            "url": "/concerts/images/1991/1991-10-25/1991-10-25_03.jpg",
+            "caption": "Ticket"
+        },
+        {
+            "url": "/concerts/images/1991/1991-10-25/1991-10-25_04.jpg",
+            "caption": "Handbill/Flyer, designed by unknown"
+        },
+        {
+            "url": "/concerts/images/1991/1991-10-25/1991-10-25_05.jpg",
+            "caption": "Advert"
+        },
+        {
+            "url": "/concerts/images/1991/1991-10-25/1991-10-25_06.jpg",
+            "caption": "Advert"
+        },
+        {
+            "url": "/concerts/images/1991/1991-10-25/1991-10-25_07.jpg",
+            "caption": "Nirvana's tour itinerary"
+        },
+        {
+            "url": "/concerts/images/1991/1991-10-25/1991-10-25_08.jpg",
+            "caption": "Nirvana's tour itinerary"
+        },
+        {
+            "url": "/concerts/images/1991/1991-10-25/1991-10-25_09.jpg",
+            "caption": "Nirvana's tour itinerary"
+        },
+        {
+            "url": "/concerts/images/1991/1991-10-25/1991-10-25_10.jpg",
+            "caption": "Handbill/Flyer, designed by unknown"
+        }
+    ],
+    "images": [
+        {
+            "url": "/concerts/images/1991/1991-10-25/1991-10-25_001.jpg",
+            "caption": "Photo by Ed Esposito"
+        },
+        {
+            "url": "/concerts/images/1991/1991-10-25/1991-10-25_002.jpg",
+            "caption": "Photo by Ed Esposito"
+        },
+        {
+            "url": "/concerts/images/1991/1991-10-25/1991-10-25_003.jpg",
+            "caption": "Photo by Ed Esposito"
+        },
+        {
+            "url": "/concerts/images/1991/1991-10-25/1991-10-25_004.jpg",
+            "caption": "Photo by Ed Esposito"
+        },
+        {
+            "url": "/concerts/images/1991/1991-10-25/1991-10-25_005.jpg",
+            "caption": "Photo by Chris Cuffaro"
+        },
+        {
+            "url": "/concerts/images/1991/1991-10-25/1991-10-25_006.jpg",
+            "caption": "Photo by Lisa Johnson"
+        },
+        {
+            "url": "/concerts/images/1991/1991-10-25/1991-10-25_007.jpg",
+            "caption": "Photo by Chris Cuffaro"
+        },
+        {
+            "url": "/concerts/images/1991/1991-10-25/1991-10-25_008.jpg",
+            "caption": "Photo by Ed Esposito"
+        },
+        {
+            "url": "/concerts/images/1991/1991-10-25/1991-10-25_009.jpg",
+            "caption": "Photo by Chris Cuffaro"
+        },
+        {
+            "url": "/concerts/images/1991/1991-10-25/1991-10-25_010.jpg",
+            "caption": "Photo by Pat Lewis"
+        },
+        {
+            "url": "/concerts/images/1991/1991-10-25/1991-10-25_011.jpg",
+            "caption": "Photo by Chris Cuffaro"
+        },
+        {
+            "url": "/concerts/images/1991/1991-10-25/1991-10-25_012.jpg",
+            "caption": "Unknown photographer"
+        },
+        {
+            "url": "/concerts/images/1991/1991-10-25/1991-10-25_013.jpg",
+            "caption": "Unknown photographer"
+        },
+        {
+            "url": "/concerts/images/1991/1991-10-25/1991-10-25_014.jpg",
+            "caption": "Photo by Chris Cuffaro"
+        },
+        {
+            "url": "/concerts/images/1991/1991-10-25/1991-10-25_015.jpg",
+            "caption": "Unknown photographer"
+        },
+        {
+            "url": "/concerts/images/1991/1991-10-25/1991-10-25_016.jpg",
+            "caption": "Photo by Chris Cuffaro"
+        },
+        {
+            "url": "/concerts/images/1991/1991-10-25/1991-10-25_017.jpg",
+            "caption": "Unknown photographer"
+        },
+        {
+            "url": "/concerts/images/1991/1991-10-25/1991-10-25_018.jpg",
+            "caption": "Photo by Kevin Estrada"
+        },
+        {
+            "url": "/concerts/images/1991/1991-10-25/1991-10-25_019.jpg",
+            "caption": "Photo by Chris Cuffaro"
+        },
+        {
+            "url": "/concerts/images/1991/1991-10-25/1991-10-25_020.jpg",
+            "caption": "Photo by Kevin Estrada"
+        },
+        {
+            "url": "/concerts/images/1991/1991-10-25/1991-10-25_021.jpg",
+            "caption": "Photo by Kevin Estrada"
+        },
+        {
+            "url": "/concerts/images/1991/1991-10-25/1991-10-25_022.jpg",
+            "caption": "Photo by Kevin Estrada"
+        },
+        {
+            "url": "/concerts/images/1991/1991-10-25/1991-10-25_023.jpg",
+            "caption": "Photo by Chris Cuffaro"
+        },
+        {
+            "url": "/concerts/images/1991/1991-10-25/1991-10-25_024.jpg",
+            "caption": "Photo by Chris Cuffaro"
+        },
+        {
+            "url": "/concerts/images/1991/1991-10-25/1991-10-25_025.jpg",
+            "caption": "Photo by Chris Cuffaro"
+        },
+        {
+            "url": "/concerts/images/1991/1991-10-25/1991-10-25_026.jpg",
+            "caption": "Photo by Chris Cuffaro"
+        },
+        {
+            "url": "/concerts/images/1991/1991-10-25/1991-10-25_027.jpg",
+            "caption": "Photo by Chris Cuffaro"
+        },
+        {
+            "url": "/concerts/images/1991/1991-10-25/1991-10-25_028.jpg",
+            "caption": "Photo by Chris Cuffaro"
+        },
+        {
+            "url": "/concerts/images/1991/1991-10-25/1991-10-25_029.jpg",
+            "caption": "Photo by Chris Cuffaro"
+        },
+        {
+            "url": "/concerts/images/1991/1991-10-25/1991-10-25_030.jpg",
+            "caption": "Photo by Kevin Estrada"
+        },
+        {
+            "url": "/concerts/images/1991/1991-10-25/1991-10-25_031.jpg",
+            "caption": "Photo by Ed Esposito"
+        },
+        {
+            "url": "/concerts/images/1991/1991-10-25/1991-10-25_032.jpg",
+            "caption": "Photo by Ed Esposito"
+        },
+        {
+            "url": "/concerts/images/1991/1991-10-25/1991-10-25_033.jpg",
+            "caption": "Photo by Ed Esposito"
+        },
+        {
+            "url": "/concerts/images/1991/1991-10-25/1991-10-25_034.jpg",
+            "caption": "Photo by Ed Esposito"
+        },
+        {
+            "url": "/concerts/images/1991/1991-10-25/1991-10-25_035.jpg",
+            "caption": "Photo by Ed Esposito"
+        },
+        {
+            "url": "/concerts/images/1991/1991-10-25/1991-10-25_036.jpg",
+            "caption": "Unknown photographer"
+        },
+        {
+            "url": "/concerts/images/1991/1991-10-25/1991-10-25_037.jpg",
+            "caption": "Photo by J. Albert Diaz"
+        },
+        {
+            "url": "/concerts/images/1991/1991-10-25/1991-10-25_038.jpg",
+            "caption": "Photo by Kevin Estrada"
+        },
+        {
+            "url": "/concerts/images/1991/1991-10-25/1991-10-25_039.jpg",
+            "caption": "Photo by Kevin Estrada"
+        },
+        {
+            "url": "/concerts/images/1991/1991-10-25/1991-10-25_040.jpg",
+            "caption": "Photo by Kevin Estrada"
+        },
+        {
+            "url": "/concerts/images/1991/1991-10-25/1991-10-25_041.jpg",
+            "caption": "Photo by Kevin Estrada"
+        },
+        {
+            "url": "/concerts/images/1991/1991-10-25/1991-10-25_042.jpg",
+            "caption": "Photo by Kevin Estrada"
+        },
+        {
+            "url": "/concerts/images/1991/1991-10-25/1991-10-25_043.jpg",
+            "caption": "Photo by Chris Cuffaro"
+        },
+        {
+            "url": "/concerts/images/1991/1991-10-25/1991-10-25_044.jpg",
+            "caption": "Photo by Chris Cuffaro"
+        },
+        {
+            "url": "/concerts/images/1991/1991-10-25/1991-10-25_045.jpg",
+            "caption": "Photo by Chris Cuffaro"
+        },
+        {
+            "url": "/concerts/images/1991/1991-10-25/1991-10-25_046.jpg",
+            "caption": "Photo by Chris Cuffaro"
+        },
+        {
+            "url": "/concerts/images/1991/1991-10-25/1991-10-25_047.jpg",
+            "caption": "Photo by Chris Cuffaro"
+        },
+        {
+            "url": "/concerts/images/1991/1991-10-25/1991-10-25_048.jpg",
+            "caption": "Photo by Chris Cuffaro"
+        },
+        {
+            "url": "/concerts/images/1991/1991-10-25/1991-10-25_049.jpg",
+            "caption": "Photo by Chris Cuffaro"
+        },
+        {
+            "url": "/concerts/images/1991/1991-10-25/1991-10-25_050.jpg",
+            "caption": "Photo by Chris Cuffaro"
+        }
+    ],
+    "navigation": {
+        "previous": "91-10-24b",
+        "next": "91-10-26"
+    },
+    "graph": {
+        "bleach": "6",
+        "nevermind": "7",
+        "inutero": "1",
+        "non": "4"
+    }
+}

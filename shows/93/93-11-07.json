@@ -1,0 +1,348 @@
+{
+    "year": "1993",
+    "month": "11",
+    "day": "07",
+    "band": [
+        {
+            "NIRVANA": [
+                {
+                    "name": "Kurt Cobain ",
+                    "duty": "vocals, guitar"
+                },
+                {
+                    "name": "Krist Novoselic ",
+                    "duty": "bass"
+                },
+                {
+                    "name": "Dave Grohl ",
+                    "duty": "drums, backing vocals"
+                },
+                {
+                    "name": "Pat Smear ",
+                    "duty": "guitar"
+                },
+                {
+                    "name": "Lori Goldston ",
+                    "duty": "cello"
+                }
+            ],
+            "type": "group"
+        }
+    ],
+    "crew": [
+        {
+            "name": "Alex MacLeod",
+            "duty": "tour manager"
+        },
+        {
+            "name": "Jeff Mason",
+            "duty": "production manager"
+        },
+        {
+            "name": "Kelly Nase",
+            "duty": "tour accountant"
+        },
+        {
+            "name": "Susanne Sasic",
+            "duty": "lighting designer"
+        },
+        {
+            "name": "Craig Overbay",
+            "duty": "sound engineer"
+        },
+        {
+            "name": "Ian Beveridge",
+            "duty": "monitor engineer"
+        },
+        {
+            "name": "Jim Vincent",
+            "duty": "guitar technician"
+        },
+        {
+            "name": "John Duncan",
+            "duty": "guitar technician"
+        },
+        {
+            "name": "Mike Dalke",
+            "duty": "drum technician"
+        },
+        {
+            "name": "Ed Swink",
+            "duty": "stage manager"
+        },
+        {
+            "name": "Dave Stevens",
+            "duty": "Pro Show sound crew"
+        },
+        {
+            "name": "Allan Bagley",
+            "duty": "Pro Show sound crew"
+        },
+        {
+            "name": "Tom Pfaeffle",
+            "duty": "Pro Show sound crew"
+        },
+        {
+            "name": "Spike Brant",
+            "duty": "LSD lighting crew"
+        },
+        {
+            "name": "Mike Lamb",
+            "duty": "LSD lighting crew"
+        },
+        {
+            "name": "Pat Connolly",
+            "duty": "LSD lighting crew"
+        },
+        {
+            "name": "Gary Vaspol",
+            "duty": "LSD lighting crew"
+        }
+    ],
+    "buyer": {
+        "names": [
+            "Bill Reed"
+        ],
+        "company": "Cellar Door Concerts of Virginia"
+    },
+    "schedule": [
+        {
+            "event": "Load In",
+            "time": "09:00"
+        },
+        {
+            "event": "Soundcheck",
+            "time": "15:30"
+        },
+        {
+            "event": "Doors",
+            "time": "17:30"
+        },
+        {
+            "event": "Half Japanese Showtime",
+            "time": "19:00"
+        },
+        {
+            "event": "Breeders Showtime",
+            "time": "19:45"
+        },
+        {
+            "event": "NIRVANA Showtime",
+            "time": "20:45"
+        }
+    ],
+    "soundcheck": [],
+    "soundcheck_incomplete": false,
+    "set": [
+        {
+            "type": "song",
+            "text": "Radio Friendly Unit Shifter",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "Drain You",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "Breed",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "Serve The Servants",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "About A Girl",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "Heart-Shaped Box",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "Sliver",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "Dumb",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "In Bloom",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "Come As You Are",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "Lithium",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "Pennyroyal Tea",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "School",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "Polly",
+            "notes": [
+                "acoustic"
+            ]
+        },
+        {
+            "type": "song",
+            "text": "Milk It",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "Rape Me",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "Territorial Pissings",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "All Apologies",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "On A Plain",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "Scentless Apprentice",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "Blew",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "jam",
+            "notes": []
+        }
+    ],
+    "set_incomplete": false,
+    "transmission": {},
+    "rehearsel_circulating_sources": [],
+    "circulating_sources": [
+        {
+            "name": "AUD #1",
+            "complete": false,
+            "equipment": "Unknown > Unknown",
+            "generation": "ANA(x) > FLAC",
+            "video-generation": null,
+            "audio-generation": null,
+            "length-sound": "87 min / 6.5",
+            "notes": [
+                "\"Pennyroyal Tea\" and the end-of-show jam cut out."
+            ]
+        },
+        {
+            "name": "AUD #2",
+            "complete": true,
+            "equipment": "Sonic Studios DSM-6 > Sony TC-D5M",
+            "generation": "ANA(M) > FLAC",
+            "video-generation": null,
+            "audio-generation": null,
+            "length-sound": "94:26 min / 9.0",
+            "notes": [
+                "The master tape was circulated April 10th 2018.",
+                "The \"intro noise\" cuts in and cut."
+            ]
+        }
+    ],
+    "uncirculated_sources": [],
+    "notes": [
+        "According to a newspaper review, Nirvana played for a crowd of about 5,900.",
+        "The end-of-show jam, on which Kurt sang, seems to be the same jam that was played at the end of the 11/13/93 show before \"Do Nuts.\""
+    ],
+    "press": [],
+    "memorabilia": [
+        {
+            "url": "/concerts/images/1993/1993-11-07/1993-11-07_01.jpg",
+            "caption": "Ticket"
+        },
+        {
+            "url": "/concerts/images/1993/1993-11-07/1993-11-07_02.jpg",
+            "caption": "Backstage pass"
+        },
+        {
+            "url": "/concerts/images/1993/1993-11-07/1993-11-07_03.jpg",
+            "caption": "Advert"
+        },
+        {
+            "url": "/concerts/images/1993/1993-11-07/1993-11-07_04.jpg",
+            "caption": "Advert"
+        },
+        {
+            "url": "concerts/images/1993/1993-11-07/1993-11-07_05.jpg",
+            "caption": "Nirvana's tour itinerary"
+        }
+    ],
+    "images": [
+        {
+            "url": "/concerts/images/1993/1993-11-07/1993-11-07_001.jpg",
+            "caption": "Photo by Ari Rosberg"
+        },
+        {
+            "url": "/concerts/images/1993/1993-11-07/1993-11-07_002.jpg",
+            "caption": "Photo by Ari Rosberg"
+        },
+        {
+            "url": "/concerts/images/1993/1993-11-07/1993-11-07_003.jpg",
+            "caption": "Photo by Ari Rosberg"
+        },
+        {
+            "url": "/concerts/images/1993/1993-11-07/1993-11-07_004.jpg",
+            "caption": "Photo by Bob Lake"
+        },
+        {
+            "url": "/concerts/images/1993/1993-11-07/1993-11-07_005.jpg",
+            "caption": "Photo by Pamela Miller"
+        },
+        {
+            "url": "/concerts/images/1993/1993-11-07/1993-11-07_006.jpg",
+            "caption": "Photo by Pamela Miller"
+        },
+        {
+            "url": "/concerts/images/1993/1993-11-07/1993-11-07_007.jpg",
+            "caption": "Photo by Pamela Miller"
+        }
+    ],
+    "navigation": {
+        "previous": "93-11-05",
+        "next": "93-11-08"
+    },
+    "graph": {
+        "bleach": "3",
+        "nevermind": "8",
+        "inutero": "9",
+        "non": "1"
+    }
+}

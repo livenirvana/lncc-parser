@@ -1,0 +1,591 @@
+{
+    "year": "1993",
+    "month": "12",
+    "day": "10",
+    "band": [
+        {
+            "NIRVANA": [
+                {
+                    "name": "Kurt Cobain ",
+                    "duty": "vocals, guitar"
+                },
+                {
+                    "name": "Krist Novoselic ",
+                    "duty": "bass"
+                },
+                {
+                    "name": "Dave Grohl ",
+                    "duty": "drums, backing vocals"
+                },
+                {
+                    "name": "Pat Smear ",
+                    "duty": "guitar"
+                },
+                {
+                    "name": "Lori Goldston ",
+                    "duty": "cello"
+                }
+            ],
+            "type": "group"
+        }
+    ],
+    "crew": [
+        {
+            "name": "Alex MacLeod",
+            "duty": "tour manager"
+        },
+        {
+            "name": "Jeff Mason",
+            "duty": "production manager"
+        },
+        {
+            "name": "Kelly Nase",
+            "duty": "tour accountant"
+        },
+        {
+            "name": "Susanne Sasic",
+            "duty": "lighting designer"
+        },
+        {
+            "name": "Craig Overbay",
+            "duty": "sound engineer"
+        },
+        {
+            "name": "Ian Beveridge",
+            "duty": "monitor engineer"
+        },
+        {
+            "name": "Jim Vincent",
+            "duty": "guitar technician"
+        },
+        {
+            "name": "John Duncan",
+            "duty": "guitar technician"
+        },
+        {
+            "name": "Mike Dalke",
+            "duty": "drum technician"
+        },
+        {
+            "name": "Ed Swink",
+            "duty": "stage manager"
+        },
+        {
+            "name": "Allan Bagley",
+            "duty": "Pro Show sound crew"
+        },
+        {
+            "name": "Tom Pfaeffle",
+            "duty": "Pro Show sound crew"
+        },
+        {
+            "name": "Niko Vonk",
+            "duty": "Pro Show sound crew"
+        },
+        {
+            "name": "Mike Lamb",
+            "duty": "LSD lighting crew"
+        },
+        {
+            "name": "Pat Connolly",
+            "duty": "LSD lighting crew"
+        },
+        {
+            "name": "Gary Vaspol",
+            "duty": "LSD lighting crew"
+        }
+    ],
+    "buyer": {
+        "names": [
+            "Andy Cirzan",
+            "Mark Miller"
+        ],
+        "company": "Jam Productions Inc."
+    },
+    "schedule": [
+        {
+            "event": "Load In",
+            "time": "09:00"
+        },
+        {
+            "event": "Soundcheck",
+            "time": "15:30"
+        },
+        {
+            "event": "Doors",
+            "time": "18:00"
+        },
+        {
+            "event": "Shonen Knife Showtime",
+            "time": "19:30"
+        },
+        {
+            "event": "Breeders Showtime",
+            "time": "20:15"
+        },
+        {
+            "event": "NIRVANA Showtime",
+            "time": "21:15"
+        }
+    ],
+    "soundcheck": [],
+    "soundcheck_incomplete": false,
+    "set": [
+        {
+            "type": "song",
+            "text": "Radio Friendly Unit Shifter",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "Drain You",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "Breed",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "Serve The Servants",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "Come As You Are",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "Smells Like Teen Spirit",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "Sliver",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "Dumb",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "In Bloom",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "About A Girl",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "Lithium",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "Pennyroyal Tea",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "School",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "Polly",
+            "notes": [
+                "acoustic"
+            ]
+        },
+        {
+            "type": "song",
+            "text": "Frances Farmer Will Have Her Revenge On Seattle",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "Milk It",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "Rape Me",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "Territorial Pissings",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "Jesus Wants Me For A Sunbeam",
+            "notes": [
+                "acoustic"
+            ]
+        },
+        {
+            "type": "song",
+            "text": "The Man Who Sold The World",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "All Apologies",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "On A Plain",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "Scentless Apprentice",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "Heart-Shaped Box",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "Blew",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "Endless, Nameless",
+            "notes": []
+        }
+    ],
+    "set_incomplete": false,
+    "transmission": {},
+    "rehearsel_circulating_sources": [],
+    "circulating_sources": [
+        {
+            "name": "AUD #1",
+            "complete": true,
+            "equipment": "Core Sound Binaural > Sony TCD-D7",
+            "generation": "DAT(1) > FLAC",
+            "video-generation": null,
+            "audio-generation": null,
+            "length-sound": "106 min / 8.5",
+            "notes": [
+                "The intro to \"Radio Friendly Unit Shifter\" cuts in."
+            ]
+        },
+        {
+            "name": "AUD #2",
+            "complete": true,
+            "equipment": "Sonic Studios DSM-3 > Sony TCD-D3",
+            "generation": "DAT(1) > FLAC",
+            "video-generation": null,
+            "audio-generation": null,
+            "length-sound": "106 min / 9.0",
+            "notes": [
+                "No Infos."
+            ]
+        },
+        {
+            "name": "AUD #3",
+            "complete": true,
+            "equipment": "Sonic Studios DSM-6P > Sony TCD-D7",
+            "generation": "DAT(1) > FLAC",
+            "video-generation": null,
+            "audio-generation": null,
+            "length-sound": "107 min / 8.5",
+            "notes": [
+                "In August 2014 a DAT(1) was circulated, replacing the bootleg CD \"Unleashed\" as a source."
+            ]
+        },
+        {
+            "name": "AUD #4",
+            "complete": true,
+            "equipment": "Unknown > Unknown",
+            "generation": "DAT(x) > ANA(2) > FLAC",
+            "video-generation": null,
+            "audio-generation": null,
+            "length-sound": "109 min / 7.5",
+            "notes": [
+                "Circulated in September 2007.",
+                "Has some unidentified noises bleeding through during \"School\", \"Polly\", and \"Frances Farmer Will Have Her Revenge On Seattle\"."
+            ]
+        },
+        {
+            "name": "PRO CLIP #1a",
+            "complete": false,
+            "equipment": "Soundboard > Unknown",
+            "generation": "TV > VHS(2) > DVDR",
+            "video-generation": null,
+            "audio-generation": null,
+            "length-sound": "01 min / 9.5",
+            "notes": [
+                "PRO-shot video broadcasted on MTV News in October 1996.",
+                "Feature 1 minute of clips of \"Breed\" and \"Drain You\".",
+                "Has voice-over and clips from other shows over parts of it.",
+                "Other clips with no audio have been broadcast."
+            ]
+        },
+        {
+            "name": "PRO CLIP #1b",
+            "complete": false,
+            "equipment": "Unknown > Unknown",
+            "generation": "VHS(x) > FLV",
+            "video-generation": null,
+            "audio-generation": null,
+            "length-sound": "01 min / 9.5",
+            "notes": [
+                "PRO-shot video with open mic audio broadcast by MTV News on April 14, 1994.",
+                "Includes a 10 seconds long clip of the solo of \"Breed\".",
+                "Circulating copies are sourced from an FLV video file posted on YouTube."
+            ]
+        },
+        {
+            "name": "PRO CLIP #1c",
+            "complete": false,
+            "equipment": "Unknown > Unknown",
+            "generation": "VHS(x) > MKV",
+            "video-generation": null,
+            "audio-generation": null,
+            "length-sound": "10 sec / ??",
+            "notes": [
+                "PRO-shot video with open mic audio broadcast by TV Monte Carlo in Italy.",
+                "Includes a 10 seconds of \"Drain You\".",
+                "At least a clip of \"Drain You\" was also broadcast by KSTW-TV on april 8th 1994.\n                                "
+            ]
+        }
+    ],
+    "uncirculated_sources": [],
+    "notes": [
+        "According to a newspaper review, Nirvana played for a crowd of about 5,500.",
+        "During \"Scentless Apprentice,\" Kim Deal of The Breeders came onstage and dove into the audience.",
+        "At the end of the show, Kurt stuck a cord in his mouth and pretended to be electrocuted. He was then carried off stage."
+    ],
+    "press": [],
+    "memorabilia": [
+        {
+            "url": "/concerts/images/1993/1993-12-10/1993-12-10_01.jpg",
+            "caption": "Advert"
+        },
+        {
+            "url": "/concerts/images/1993/1993-12-10/1993-12-10_02.jpg",
+            "caption": "Advert"
+        },
+        {
+            "url": "/concerts/images/1993/1993-12-10/1993-12-10_03.jpg",
+            "caption": "Ticket"
+        },
+        {
+            "url": "/concerts/images/1993/1993-12-10/1993-12-10_04.jpg",
+            "caption": "Advert"
+        },
+        {
+            "url": "/concerts/images/1993/1993-12-10/1993-12-10_05.jpg",
+            "caption": "Nirvana's tour itinerary"
+        },
+        {
+            "url": "/concerts/images/1993/1993-12-10/1993-12-10_06.jpg",
+            "caption": "Backstage pass"
+        }
+    ],
+    "images": [
+        {
+            "url": "/concerts/images/1993/1993-12-10/1993-12-10_001.jpg",
+            "caption": "Photo by Jim Steinfeldt"
+        },
+        {
+            "url": "/concerts/images/1993/1993-12-10/1993-12-10_002.jpg",
+            "caption": "Photo by Brian Pobuda"
+        },
+        {
+            "url": "/concerts/images/1993/1993-12-10/1993-12-10_003.jpg",
+            "caption": "Photo by Jim Steinfeldt"
+        },
+        {
+            "url": "/concerts/images/1993/1993-12-10/1993-12-10_004.jpg",
+            "caption": "Photo by Jim Steinfeldt"
+        },
+        {
+            "url": "/concerts/images/1993/1993-12-10/1993-12-10_005.jpg",
+            "caption": "Photo by Brian Pobuda"
+        },
+        {
+            "url": "/concerts/images/1993/1993-12-10/1993-12-10_006.jpg",
+            "caption": "Photo by Brian Pobuda"
+        },
+        {
+            "url": "/concerts/images/1993/1993-12-10/1993-12-10_007.jpg",
+            "caption": "Photo by Brian Pobuda"
+        },
+        {
+            "url": "/concerts/images/1993/1993-12-10/1993-12-10_008.jpg",
+            "caption": "Photo by Brian Pobuda"
+        },
+        {
+            "url": "/concerts/images/1993/1993-12-10/1993-12-10_009.jpg",
+            "caption": "Photo by Brian Pobuda"
+        },
+        {
+            "url": "/concerts/images/1993/1993-12-10/1993-12-10_010.jpg",
+            "caption": "Photo by Brian Pobuda"
+        },
+        {
+            "url": "/concerts/images/1993/1993-12-10/1993-12-10_011.jpg",
+            "caption": "Photo by Brian Pobuda"
+        },
+        {
+            "url": "/concerts/images/1993/1993-12-10/1993-12-10_012.jpg",
+            "caption": "Photo by Brian Pobuda"
+        },
+        {
+            "url": "/concerts/images/1993/1993-12-10/1993-12-10_013.jpg",
+            "caption": "Photo by Brian Pobuda"
+        },
+        {
+            "url": "/concerts/images/1993/1993-12-10/1993-12-10_014.jpg",
+            "caption": "Photo by Brian Pobuda"
+        },
+        {
+            "url": "/concerts/images/1993/1993-12-10/1993-12-10_015.jpg",
+            "caption": "Photo by Andy King"
+        },
+        {
+            "url": "/concerts/images/1993/1993-12-10/1993-12-10_016.jpg",
+            "caption": "Photo by Jim Steinfeldt"
+        },
+        {
+            "url": "/concerts/images/1993/1993-12-10/1993-12-10_017.jpg",
+            "caption": "Photo by Jim Steinfeldt"
+        },
+        {
+            "url": "/concerts/images/1993/1993-12-10/1993-12-10_018.jpg",
+            "caption": "Photo by Jim Steinfeldt"
+        },
+        {
+            "url": "/concerts/images/1993/1993-12-10/1993-12-10_019.jpg",
+            "caption": "Photo by Jim Steinfeldt"
+        },
+        {
+            "url": "/concerts/images/1993/1993-12-10/1993-12-10_020.jpg",
+            "caption": "Photo by Jim Steinfeldt"
+        },
+        {
+            "url": "/concerts/images/1993/1993-12-10/1993-12-10_021.jpg",
+            "caption": "Photo by Jim Steinfeldt"
+        },
+        {
+            "url": "/concerts/images/1993/1993-12-10/1993-12-10_022.jpg",
+            "caption": "Photo by Joey McLeister"
+        },
+        {
+            "url": "/concerts/images/1993/1993-12-10/1993-12-10_023.jpg",
+            "caption": "Photo by Brian Pobuda"
+        },
+        {
+            "url": "/concerts/images/1993/1993-12-10/1993-12-10_024.jpg",
+            "caption": "Photo by Joey McLeister"
+        },
+        {
+            "url": "/concerts/images/1993/1993-12-10/1993-12-10_025.jpg",
+            "caption": "Photo by Jim Steinfeldt"
+        },
+        {
+            "url": "/concerts/images/1993/1993-12-10/1993-12-10_026.jpg",
+            "caption": "Photo by Jim Steinfeldt"
+        },
+        {
+            "url": "/concerts/images/1993/1993-12-10/1993-12-10_027.jpg",
+            "caption": "Photo by Jim Steinfeldt"
+        },
+        {
+            "url": "/concerts/images/1993/1993-12-10/1993-12-10_028.jpg",
+            "caption": "Photo by Jim Steinfeldt"
+        },
+        {
+            "url": "/concerts/images/1993/1993-12-10/1993-12-10_029.jpg",
+            "caption": "Photo by Jim Steinfeldt"
+        },
+        {
+            "url": "/concerts/images/1993/1993-12-10/1993-12-10_030.jpg",
+            "caption": "Photo by Jim Steinfeldt"
+        },
+        {
+            "url": "/concerts/images/1993/1993-12-10/1993-12-10_031.jpg",
+            "caption": "Photo by Jim Steinfeldt"
+        },
+        {
+            "url": "/concerts/images/1993/1993-12-10/1993-12-10_032.jpg",
+            "caption": "Photo by Jim Steinfeldt"
+        },
+        {
+            "url": "/concerts/images/1993/1993-12-10/1993-12-10_033.jpg",
+            "caption": "Photo by Jim Steinfeldt"
+        },
+        {
+            "url": "/concerts/images/1993/1993-12-10/1993-12-10_034.jpg",
+            "caption": "Photo by Jim Steinfeldt"
+        },
+        {
+            "url": "/concerts/images/1993/1993-12-10/1993-12-10_035.jpg",
+            "caption": "Photo by Jim Steinfeldt"
+        },
+        {
+            "url": "/concerts/images/1993/1993-12-10/1993-12-10_036.jpg",
+            "caption": "Photo by Jim Steinfeldt"
+        },
+        {
+            "url": "/concerts/images/1993/1993-12-10/1993-12-10_037.jpg",
+            "caption": "Photo by Jim Steinfeldt"
+        },
+        {
+            "url": "/concerts/images/1993/1993-12-10/1993-12-10_038.jpg",
+            "caption": "Photo by Jim Steinfeldt"
+        },
+        {
+            "url": "/concerts/images/1993/1993-12-10/1993-12-10_039.jpg",
+            "caption": "Photo by Jim Steinfeldt"
+        },
+        {
+            "url": "/concerts/images/1993/1993-12-10/1993-12-10_040.jpg",
+            "caption": "Photo by Brian Pobuda"
+        },
+        {
+            "url": "/concerts/images/1993/1993-12-10/1993-12-10_041.jpg",
+            "caption": "Photo by Andy King"
+        },
+        {
+            "url": "/concerts/images/1993/1993-12-10/1993-12-10_042.jpg",
+            "caption": "Photo by Jim Steinfeldt"
+        },
+        {
+            "url": "/concerts/images/1993/1993-12-10/1993-12-10_043.jpg",
+            "caption": "Photo by Brian Pobuda"
+        },
+        {
+            "url": "/concerts/images/1993/1993-12-10/1993-12-10_044.jpg",
+            "caption": "Photo by Brian Pobuda"
+        },
+        {
+            "url": "/concerts/images/1993/1993-12-10/1993-12-10_045.jpg",
+            "caption": "Photo by Brian Pobuda"
+        }
+    ],
+    "navigation": {
+        "previous": "93-12-09",
+        "next": "93-12-13"
+    },
+    "graph": {
+        "bleach": "3",
+        "nevermind": "10",
+        "inutero": "10",
+        "non": "3"
+    }
+}

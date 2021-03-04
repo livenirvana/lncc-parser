@@ -1,0 +1,253 @@
+{
+    "year": "1993",
+    "month": "08",
+    "day": "06",
+    "band": [
+        {
+            "NIRVANA": [
+                {
+                    "name": "Kurt Cobain ",
+                    "duty": "vocals, guitar"
+                },
+                {
+                    "name": "Krist Novoselic ",
+                    "duty": "bass"
+                },
+                {
+                    "name": "Dave Grohl ",
+                    "duty": "drums, backing vocals"
+                }
+            ],
+            "type": "group"
+        }
+    ],
+    "crew": [
+        {
+            "name": "Alex MacLeod",
+            "duty": "tour manager"
+        },
+        {
+            "name": "Earnie Bailey",
+            "duty": "guitar technician"
+        }
+    ],
+    "buyer": {
+        "names": []
+    },
+    "schedule": [
+        {
+            "event": "Load In",
+            "time": "…:…"
+        },
+        {
+            "event": "Soundcheck",
+            "time": "…:…"
+        },
+        {
+            "event": "Doors",
+            "time": "20:30"
+        },
+        {
+            "event": "Hell's Smells Showtime",
+            "time": "…:…"
+        },
+        {
+            "event": "7 Year Bitch",
+            "time": "CANCELLED"
+        },
+        {
+            "event": "Kill Sybil",
+            "time": "…:…"
+        },
+        {
+            "event": "Voodoo Gearshift Showtime",
+            "time": "…:…"
+        },
+        {
+            "event": "TAD Showtime",
+            "time": "…:…"
+        },
+        {
+            "event": "NIRVANA Showtime",
+            "time": "…:…"
+        }
+    ],
+    "soundcheck": [],
+    "soundcheck_incomplete": false,
+    "set": [
+        {
+            "type": "song",
+            "text": "Scentless Apprentice",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "School",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "Milk It",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "Drain You",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "Aneurysm",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "Heart-Shaped Box",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "No Quarter",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "Seasons In The Sun",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "Pennyroyal Tea",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "unknown song",
+            "notes": []
+        }
+    ],
+    "set_incomplete": false,
+    "transmission": {},
+    "rehearsel_circulating_sources": [],
+    "circulating_sources": [
+        {
+            "name": "AUD CLIP #1a",
+            "complete": false,
+            "equipment": "Unknown > Unknown",
+            "generation": "Unknown > MP3",
+            "video-generation": null,
+            "audio-generation": null,
+            "length-sound": "50 sec / 7.5",
+            "notes": [
+                "Feature a jam on the \"Men Without Hats\" song \"Safety Dance\" and some band banter about playing a Led Zeppelin song.",
+                "This clip surfaced on a shop-bought bootleg cassette of 09/01/91.",
+                "The master is believed to be complete."
+            ]
+        },
+        {
+            "name": "AUD CLIP #1b",
+            "complete": false,
+            "equipment": "Unknown > Unknown",
+            "generation": "Unknown > MP3",
+            "video-generation": null,
+            "audio-generation": null,
+            "length-sound": "15 sec / 7.5",
+            "notes": [
+                "Feature a tiny portion of \"Seasons In The Sun\".",
+                "This clip was posted anonymously on the internet and we suspects that both clips are from the same unsurfaced source.",
+                "The master is believed to be complete."
+            ]
+        }
+    ],
+    "uncirculated_sources": [
+        {
+            "name": "AUD #2",
+            "note": "It is rumored that the show was recorded in DAT."
+        },
+        {
+            "name": "SBD #1",
+            "note": "It was once rumored that this show was going to be released on an unofficial CD, but it never happened."
+        },
+        {
+            "name": "AMT #1",
+            "note": "It is rumored that the show was recorded."
+        },
+        {
+            "name": "AMT #2",
+            "note": "It is rumored that the show was recorded."
+        }
+    ],
+    "notes": [
+        "The band played this show as an unannounced \"special guest.\"",
+        "This was the band's last show as a trio.",
+        "The band jammed on \"Safety Dance\" by Men Without Hats.",
+        "Since the show was running late, Krist had to use Kurt Danielson from Tad's bass rig. There was no time to move the bass rig to Krist's side of the stage, so Kurt's rig was set up on Krist's usual side. When Kurt was handed his guitar and told that they would have to play on opposite sides of the stage, he expressed concern and said they had never played that way before (although they did on at least 08/24/91). With the exception of Saturday Night Live, Kurt and Krist maintained their new sides of the stage at all future shows."
+    ],
+    "press": [],
+    "memorabilia": [
+        {
+            "url": "/concerts/images/1993/1993-08-06/1993-08-06_01.jpg",
+            "caption": "Handbill/Flyer, designed by unknown"
+        },
+        {
+            "url": "/concerts/images/1993/1993-08-06/1993-08-06_02.jpg",
+            "caption": "Handwritten setlist"
+        },
+        {
+            "url": "/concerts/images/1993/1993-08-06/1993-08-06_03.jpg",
+            "caption": "Handwritten setlist"
+        },
+        {
+            "url": "/concerts/images/1993/1993-08-06/1993-08-06_04.jpg",
+            "caption": "Ticket"
+        }
+    ],
+    "images": [
+        {
+            "url": "/concerts/images/1993/1993-08-06/1993-08-06_001.jpg",
+            "caption": "Photo by Michael Andeel"
+        },
+        {
+            "url": "/concerts/images/1993/1993-08-06/1993-08-06_002.jpg",
+            "caption": "Photo by Michael Andeel"
+        },
+        {
+            "url": "/concerts/images/1993/1993-08-06/1993-08-06_003.jpg",
+            "caption": "Photo by Josh Sinder"
+        },
+        {
+            "url": "/concerts/images/1993/1993-08-06/1993-08-06_004.jpg",
+            "caption": "Photo by Josh Sinder"
+        },
+        {
+            "url": "/concerts/images/1993/1993-08-06/1993-08-06_005.jpg",
+            "caption": "Photo by Josh Sinder"
+        },
+        {
+            "url": "/concerts/images/1993/1993-08-06/1993-08-06_006.jpg",
+            "caption": "Unknown photographer"
+        },
+        {
+            "url": "/concerts/images/1993/1993-08-06/1993-08-06_007.jpg",
+            "caption": "Photo by Kelly Humphries"
+        },
+        {
+            "url": "/concerts/images/1993/1993-08-06/1993-08-06_008.jpg",
+            "caption": "Photo by Kelly Humphries"
+        },
+        {
+            "url": "/concerts/images/1993/1993-08-06/1993-08-06_009.jpg",
+            "caption": "Photo by Kelly Humphries"
+        }
+    ],
+    "navigation": {
+        "previous": "93-07-23",
+        "next": "93-09-25"
+    },
+    "graph": {
+        "bleach": "1",
+        "nevermind": "1",
+        "inutero": "4",
+        "non": "4"
+    }
+}

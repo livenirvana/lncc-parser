@@ -1,0 +1,357 @@
+{
+    "year": "1992",
+    "month": "06",
+    "day": "22",
+    "venue": "June 22",
+    "city": "1992 - The King's Hall",
+    "state": "Belfast",
+    "country": "UK",
+    "band": [
+        {
+            "NIRVANA": [
+                {
+                    "name": "Kurt Cobain ",
+                    "duty": "vocals, guitar"
+                },
+                {
+                    "name": "Krist Novoselic ",
+                    "duty": "bass"
+                },
+                {
+                    "name": "Dave Grohl ",
+                    "duty": "drums, backing vocals"
+                }
+            ],
+            "type": "group"
+        }
+    ],
+    "crew": [
+        {
+            "name": "Alex MacLeod",
+            "duty": "tour manager"
+        },
+        {
+            "name": "Larry Richter",
+            "duty": "tour accountant"
+        },
+        {
+            "name": "Susanne Sasic",
+            "duty": "lighting designer"
+        },
+        {
+            "name": "Craig Montgomery",
+            "duty": "sound engineer"
+        },
+        {
+            "name": "Ian Beveridge",
+            "duty": "monitor engineer"
+        },
+        {
+            "name": "John Duncan",
+            "duty": "guitar technician"
+        },
+        {
+            "name": "Barrett Jones",
+            "duty": "drum technician"
+        }
+    ],
+    "buyer": {
+        "names": [
+            "Eamonn McCann"
+        ],
+        "company": "MCD Productions"
+    },
+    "schedule": [
+        {
+            "event": "Load In",
+            "time": "…:…"
+        },
+        {
+            "event": "Soundcheck",
+            "time": "…:…"
+        },
+        {
+            "event": "Doors",
+            "time": "19:00"
+        },
+        {
+            "event": "Breeders Showtime",
+            "time": "…:…"
+        },
+        {
+            "event": "Teenage Fanclub Showtime",
+            "time": "…:…"
+        },
+        {
+            "event": "NIRVANA Showtime",
+            "time": "…:…"
+        }
+    ],
+    "soundcheck": [],
+    "soundcheck_incomplete": false,
+    "set": [
+        {
+            "type": "song",
+            "text": "Aneurysm",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "Drain You",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "Stay Away",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "Sliver",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "School",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "In Bloom",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "Breed",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "About A Girl",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "Scoff",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "Polly",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "Lithium",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "Blew",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "Been A Son",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "On A Plain",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "Swap Meet",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "Negative Creep",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "Come As You Are",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "Love Buzz",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "Smells Like Teen Spirit",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "Territorial Pissings",
+            "notes": []
+        }
+    ],
+    "set_incomplete": false,
+    "transmission": {},
+    "rehearsel_circulating_sources": [],
+    "circulating_sources": [
+        {
+            "name": "AUD #1",
+            "complete": true,
+            "equipment": "Unknown > Sony WM-D6",
+            "generation": "ANA(2) > FLAC",
+            "video-generation": null,
+            "audio-generation": null,
+            "length-sound": "77 min / 7.5",
+            "notes": [
+                "In December 2011 a better sounding ANA(2) tape was circulated, replacing the older ANA(2) version."
+            ]
+        },
+        {
+            "name": "PRO CLIP #1a",
+            "complete": false,
+            "equipment": "Soundboard > Unknown",
+            "generation": "VHS(2) > DVDR",
+            "video-generation": null,
+            "audio-generation": null,
+            "length-sound": "10 sec / 9.0",
+            "notes": [
+                "A pre-broadcast of MTV News from June 23, 1992.",
+                "Includes a 10 seconds long clip of \"Stay Away\" only.",
+                "Has voice over parts of it.",
+                "A clip from the end of the show was broadcast on the Irish documentary Behind the Scenes with Nirvana on City Channel."
+            ]
+        },
+        {
+            "name": "PRO CLIP #1b",
+            "complete": false,
+            "equipment": "Soundboard > Unknown",
+            "generation": "TV > VHS(x) > MiniDV(1)",
+            "video-generation": null,
+            "audio-generation": null,
+            "length-sound": "15 sec / 9.0",
+            "notes": [
+                "Broadcast on El Grande Musical De C+ on April 9, 1995 and MTV Europe.",
+                "Includes 15 seconds of clips of \"Polly\" and \"Blew\" only.",
+                "Not circulating widely.",
+                "A clip from the end of the show was broadcast on the Irish documentary Behind the Scenes with Nirvana on City Channel."
+            ]
+        },
+        {
+            "name": "PRO CLIP #1c",
+            "complete": false,
+            "equipment": "Soundboard > Unknown",
+            "generation": "TV > VHS(2) > DVDR",
+            "video-generation": null,
+            "audio-generation": null,
+            "length-sound": "01 min / 9.0",
+            "notes": [
+                "Broadcast by MTV News on April 10, 1994.",
+                "Includes two clips of \"Blew\" only.",
+                "Has voice over parts of it.",
+                "A clip from the end of the show was broadcast on the Irish documentary Behind the Scenes with Nirvana on City Channel."
+            ]
+        }
+    ],
+    "uncirculated_sources": [],
+    "notes": [],
+    "press": [],
+    "memorabilia": [
+        {
+            "url": "/concerts/images/1992/1992-06-22/1992-06-22_01.jpg",
+            "caption": "Ticket"
+        },
+        {
+            "url": "/concerts/images/1992/1992-06-22/1992-06-22_02.jpg",
+            "caption": "Handbill/Flyer, designed by unknown"
+        },
+        {
+            "url": "/concerts/images/1992/1992-06-22/1992-06-22_03.jpg",
+            "caption": "Handwritten setlist"
+        },
+        {
+            "url": "/concerts/images/1992/1992-06-22/1992-06-22_04.jpg",
+            "caption": "Advert"
+        },
+        {
+            "url": "/concerts/images/1992/1992-06-22/1992-06-22_05.jpg",
+            "caption": "Advert"
+        }
+    ],
+    "images": [
+        {
+            "url": "/concerts/images/1992/1992-06-22/1992-06-22_001.jpg",
+            "caption": "Photo by Steve Pyke"
+        },
+        {
+            "url": "/concerts/images/1992/1992-06-22/1992-06-22_002.jpg",
+            "caption": "Photo by Steve Pyke"
+        },
+        {
+            "url": "/concerts/images/1992/1992-06-22/1992-06-22_003.jpg",
+            "caption": "Photo by Steve Pyke"
+        },
+        {
+            "url": "/concerts/images/1992/1992-06-22/1992-06-22_004.jpg",
+            "caption": "Photo by Steve Pyke"
+        },
+        {
+            "url": "/concerts/images/1992/1992-06-22/1992-06-22_005.jpg",
+            "caption": "Photo by Steve Pyke"
+        },
+        {
+            "url": "/concerts/images/1992/1992-06-22/1992-06-22_006.jpg",
+            "caption": "Photo by Steve Pyke"
+        },
+        {
+            "url": "/concerts/images/1992/1992-06-22/1992-06-22_007.jpg",
+            "caption": "Photo by Steve Pyke"
+        },
+        {
+            "url": "/concerts/images/1992/1992-06-22/1992-06-22_008.jpg",
+            "caption": "Photo by Steve Pyke"
+        },
+        {
+            "url": "/concerts/images/1992/1992-06-22/1992-06-22_009.jpg",
+            "caption": "Photo by Steve Pyke"
+        },
+        {
+            "url": "/concerts/images/1992/1992-06-22/1992-06-22_010.jpg",
+            "caption": "Photo by Steve Pyke"
+        },
+        {
+            "url": "/concerts/images/1992/1992-06-22/1992-06-22_011.jpg",
+            "caption": "Photo by Steve Pyke"
+        },
+        {
+            "url": "/concerts/images/1992/1992-06-22/1992-06-22_012.jpg",
+            "caption": "Photo by Steve Pyke"
+        },
+        {
+            "url": "/concerts/images/1992/1992-06-22/1992-06-22_013.jpg",
+            "caption": "Photo by Steve Pyke"
+        },
+        {
+            "url": "/concerts/images/1992/1992-06-22/1992-06-22_014.jpg",
+            "caption": "Photo by Steve Pyke"
+        },
+        {
+            "url": "/concerts/images/1992/1992-06-22/1992-06-22_015.jpg",
+            "caption": "Photo by Steve Pyke"
+        },
+        {
+            "url": "/concerts/images/1992/1992-06-22/1992-06-22_016.jpg",
+            "caption": "Photo by Steve Pyke"
+        }
+    ],
+    "navigation": {
+        "previous": "92-06-21",
+        "next": "92-06-24"
+    },
+    "graph": {
+        "bleach": "7",
+        "nevermind": "10",
+        "inutero": "0",
+        "non": "3"
+    }
+}

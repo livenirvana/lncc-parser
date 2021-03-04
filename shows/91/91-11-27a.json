@@ -1,0 +1,200 @@
+{
+    "year": "1991",
+    "month": "11",
+    "day": "27",
+    "venue": "November 27",
+    "city": "1991 - BBC Elstree Centre (Top of the Pops)",
+    "state": "Borehamwood",
+    "country": "UK",
+    "band": [
+        {
+            "NIRVANA": [
+                {
+                    "name": "Kurt Cobain ",
+                    "duty": "vocals, mimed guitar"
+                },
+                {
+                    "name": "Krist Novoselic ",
+                    "duty": "mimed bass"
+                },
+                {
+                    "name": "Dave Grohl ",
+                    "duty": "mimed drums"
+                }
+            ],
+            "type": "group"
+        }
+    ],
+    "crew": [
+        {
+            "name": "Alex MacLeod",
+            "duty": "tour manager"
+        },
+        {
+            "name": "Nic Close",
+            "duty": "guitar technician"
+        },
+        {
+            "name": "Stanley Appel",
+            "duty": "producer"
+        },
+        {
+            "name": "Arch Dyson",
+            "duty": "director"
+        },
+        {
+            "name": "Tony Dortie",
+            "duty": "host"
+        },
+        {
+            "name": "Adrian Rose",
+            "duty": "host"
+        }
+    ],
+    "buyer": {
+        "names": []
+    },
+    "schedule": [
+        {
+            "event": "Load In",
+            "time": "…:…"
+        },
+        {
+            "event": "Soundcheck",
+            "time": "…:…"
+        },
+        {
+            "event": "Doors",
+            "time": "…:…"
+        },
+        {
+            "event": "East Side Beat Showtime",
+            "time": "…:…"
+        },
+        {
+            "event": "NIRVANA Showtime",
+            "time": "…:…"
+        },
+        {
+            "event": "James Showtime",
+            "time": "…:…"
+        },
+        {
+            "event": "Altern-8 Showtime",
+            "time": "…:…"
+        }
+    ],
+    "soundcheck": [
+        {
+            "type": "song",
+            "text": "Smells Like Teen Spirit",
+            "notes": []
+        }
+    ],
+    "soundcheck_incomplete": false,
+    "set": [
+        {
+            "type": "song",
+            "text": "Smells Like Teen Spirit",
+            "notes": []
+        }
+    ],
+    "set_incomplete": false,
+    "transmission": {
+        "info": "1991-11-28, BBC1",
+        "show": "Top Of The Pops"
+    },
+    "rehearsel_circulating_sources": [],
+    "circulating_sources": [
+        {
+            "name": "PRO #1a",
+            "complete": false,
+            "equipment": "Soundboard > Unknown",
+            "generation": "Official DVD/LD [Live! Tonight! Sold Out!!]",
+            "video-generation": null,
+            "audio-generation": null,
+            "length-sound": "03:01 min / 10",
+            "notes": [
+                "Multi camera PRO-shot video with soundboard audio.",
+                "More complete at the start and less complete at the end, but higher quality than PRO #1b.",
+                "Missing host intro and outro."
+            ]
+        },
+        {
+            "name": "PRO #1b",
+            "complete": true,
+            "equipment": "Soundboard > Unknown",
+            "generation": "TV > VHS(2) > DVDR",
+            "video-generation": null,
+            "audio-generation": null,
+            "length-sound": "03:03 min / 9.0",
+            "notes": [
+                "Multi camera PRO-shot video with soundboard audio.",
+                "Less complete at the start and more complete at the end, but lower quality than PRO #1a."
+            ]
+        },
+        {
+            "name": "PRO #1c [soundboard audio from professional video]",
+            "complete": true,
+            "equipment": "Soundboard > Unknown",
+            "generation": "Unofficial CD [Grunge Is Dead]",
+            "video-generation": null,
+            "audio-generation": null,
+            "length-sound": "03:06 min / 9.5",
+            "notes": [
+                "Less complete at the start but more complete at the end than PRO #1a and PRO #1b and higher quality audio than PRO #1b, but includes only the audio from the video."
+            ]
+        },
+        {
+            "name": "PRO #1d",
+            "complete": true,
+            "equipment": "Soundboard > Unknown",
+            "generation": "TV > VHS(1) > youtube > MP4",
+            "video-generation": null,
+            "audio-generation": null,
+            "length-sound": "03:10 min / 9.5",
+            "notes": [
+                "More complete than PRO #1a, PRO #1b and PRO #1c but lower quality than PRO #1a and PRO #1b.",
+                "Sourced from an MP4 video file posted on YouTube."
+            ]
+        }
+    ],
+    "uncirculated_sources": [],
+    "notes": [
+        "The show was filmed in Studio C.",
+        "The band was asked to lip-sync and play over the prerecorded song, which they protested. Then they reached an agreement in which Kurt could at least sing over the prerecorded music.",
+        "Kurt sang all of \"Smells Like Teen Spirit\" in gothic style vocals.",
+        "The band made it visually obvious that they were not playing their instruments."
+    ],
+    "press": [],
+    "memorabilia": [
+        {
+            "url": "/concerts/images/1991/1991-11-27a/1991-11-27a_01.jpg",
+            "caption": "TV program sheet"
+        }
+    ],
+    "images": [
+        {
+            "url": "/concerts/images/1991/1991-11-27a/1991-11-27a_001.jpg",
+            "caption": "Screencap of PRO #1"
+        },
+        {
+            "url": "/concerts/images/1991/1991-11-27a/1991-11-27a_002.jpg",
+            "caption": "Screencap of PRO #1"
+        },
+        {
+            "url": "/concerts/images/1991/1991-11-27a/1991-11-27a_003.jpg",
+            "caption": "Screencap of PRO #1"
+        }
+    ],
+    "navigation": {
+        "previous": "91-11-26",
+        "next": "91-11-27b"
+    },
+    "graph": {
+        "bleach": "0",
+        "nevermind": "1",
+        "inutero": "0",
+        "non": "0"
+    }
+}

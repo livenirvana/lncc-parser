@@ -1,0 +1,167 @@
+{
+    "year": "1989",
+    "month": "11",
+    "day": "25",
+    "venue": "November 25",
+    "city": "1989 - Fri-Son",
+    "state": "Fribourg",
+    "country": "CH",
+    "band": [
+        {
+            "NIRVANA": [
+                {
+                    "name": "Krist Novoselic ",
+                    "duty": "bass"
+                },
+                {
+                    "name": "Chad Channing ",
+                    "duty": ""
+                }
+            ],
+            "type": "group"
+        },
+        {
+            "name": "Tad Doyle ",
+            "duty": "drums",
+            "type": "person"
+        },
+        {
+            "name": "Edwin Heath ",
+            "duty": "guitar",
+            "type": "person"
+        }
+    ],
+    "crew": [
+        {
+            "name": "Edwin Heath",
+            "duty": "tour manager"
+        },
+        {
+            "name": "Craig Montgomery",
+            "duty": "sound engineer"
+        }
+    ],
+    "buyer": {
+        "names": [
+            "Marius Kaeser"
+        ]
+    },
+    "schedule": [
+        {
+            "event": "Load In",
+            "time": "16:00"
+        },
+        {
+            "event": "Soundcheck",
+            "time": "16:00"
+        },
+        {
+            "event": "Doors",
+            "time": "21:00"
+        },
+        {
+            "event": "NIRVANA Showtime",
+            "time": "…:…"
+        },
+        {
+            "event": "TAD Showtime",
+            "time": "…:…"
+        }
+    ],
+    "soundcheck": [],
+    "soundcheck_incomplete": false,
+    "set": [
+        {
+            "type": "song",
+            "text": "Pipeline",
+            "notes": [
+                "jam"
+            ]
+        },
+        {
+            "type": "song",
+            "text": "Heartbreaker",
+            "notes": [
+                "jam"
+            ]
+        }
+    ],
+    "set_incomplete": true,
+    "transmission": {},
+    "rehearsel_circulating_sources": [],
+    "circulating_sources": [],
+    "uncirculated_sources": [
+        {
+            "name": "SBD #1",
+            "note": "The club recorded the show, but the tape has either been lost or stolen."
+        },
+        {
+            "name": "AMT #1",
+            "note": "It is rumored that the show was recorded."
+        }
+    ],
+    "notes": [
+        "According to a review published in a local newspaper, Kurt Cobain was sick or had a sore throat and didn't show up at all for the show.",
+        "Krist Novoselic, Edwin Heath and Tad Doyle improvised a 15-minute jam session.",
+        "It was not confirmed if Chad Channing was also present in the jam."
+    ],
+    "press": [
+        {
+            "text": "Review from a Swiss newspaper called \"Freiburger Nachrichten\", published in 11/28/1989.",
+            "url": "/concerts/images/1989/1989-11-25r/1989-11-25r_01_review.jpg"
+        },
+        {
+            "text": "Review from a Swiss newspaper called \"La Liberté\", published in 11/28/1989.",
+            "url": "/concerts/images/1989/1989-11-25r/1989-11-25r_02_review.jpg"
+        }
+    ],
+    "memorabilia": [
+        {
+            "url": "/concerts/images/1989/1989-11-25r/1989-11-25r_01.jpg",
+            "caption": "Handbill/Flyer, designed by unknown"
+        },
+        {
+            "url": "/concerts/images/1989/1989-11-25r/1989-11-25r_02.jpg",
+            "caption": "Advert"
+        },
+        {
+            "url": "/concerts/images/1989/1989-11-25r/1989-11-25r_03.jpg",
+            "caption": "Advert"
+        },
+        {
+            "url": "/concerts/images/1989/1989-11-25r/1989-11-25r_04.jpg",
+            "caption": "Advert"
+        },
+        {
+            "url": "/concerts/images/1989/1989-11-25r/1989-11-25r_05.jpg",
+            "caption": "Advert"
+        },
+        {
+            "url": "/concerts/images/1989/1989-11-25r/1989-11-25r_06.jpg",
+            "caption": "Nirvana's tour itinerary"
+        },
+        {
+            "url": "/concerts/images/1989/1989-11-25r/1989-11-25r_07.jpg",
+            "caption": "Nirvana's tour itinerary"
+        },
+        {
+            "url": "/concerts/images/1989/1989-11-25r/1989-11-25r_08.jpg",
+            "caption": "Nirvana's tour itinerary"
+        },
+        {
+            "url": "/concerts/images/1989/1989-11-25r/1989-11-25r_09.jpg",
+            "caption": "Advert"
+        }
+    ],
+    "images": [],
+    "navigation": {
+        "previous": "89-11-24",
+        "next": "89-11-26a"
+    },
+    "graph": {
+        "bleach": "0",
+        "nevermind": "0",
+        "inutero": "0",
+        "non": "2"
+    }
+}

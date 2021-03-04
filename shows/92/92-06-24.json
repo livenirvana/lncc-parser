@@ -1,0 +1,647 @@
+{
+    "year": "1992",
+    "month": "06",
+    "day": "24",
+    "venue": "June 24",
+    "city": "1992 - Le Zénith",
+    "state": "Paris",
+    "country": "FR",
+    "band": [
+        {
+            "NIRVANA": [
+                {
+                    "name": "Kurt Cobain ",
+                    "duty": "vocals, guitar"
+                },
+                {
+                    "name": "Krist Novoselic ",
+                    "duty": "bass"
+                },
+                {
+                    "name": "Dave Grohl ",
+                    "duty": "drums, backing vocals"
+                }
+            ],
+            "type": "group"
+        }
+    ],
+    "crew": [
+        {
+            "name": "Alex MacLeod",
+            "duty": "tour manager"
+        },
+        {
+            "name": "Larry Richter",
+            "duty": "tour accountant"
+        },
+        {
+            "name": "Susanne Sasic",
+            "duty": "lighting designer"
+        },
+        {
+            "name": "Craig Montgomery",
+            "duty": "sound engineer"
+        },
+        {
+            "name": "Ian Beveridge",
+            "duty": "monitor engineer"
+        },
+        {
+            "name": "John Duncan",
+            "duty": "guitar technician"
+        },
+        {
+            "name": "Barrett Jones",
+            "duty": "drum technician"
+        }
+    ],
+    "buyer": {
+        "names": [
+            "Gérard Drouot"
+        ],
+        "company": "Gérard Drouot Productions"
+    },
+    "schedule": [
+        {
+            "event": "Load In",
+            "time": "…:…"
+        },
+        {
+            "event": "Soundcheck",
+            "time": "…:…"
+        },
+        {
+            "event": "Doors",
+            "time": "20:00"
+        },
+        {
+            "event": "Teenage Fanclub Showtime",
+            "time": "…:…"
+        },
+        {
+            "event": "NIRVANA Showtime",
+            "time": "…:…"
+        }
+    ],
+    "soundcheck": [],
+    "soundcheck_incomplete": false,
+    "set": [
+        {
+            "type": "song",
+            "text": "Aneurysm",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "Drain You",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "Stay Away",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "Sliver",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "School",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "In Bloom",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "Breed",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "About A Girl",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "Scoff",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "Polly",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "Lithium",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "Blew",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "Been A Son",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "On A Plain",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "Negative Creep",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "Come As You Are",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "Love Buzz",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "Smells Like Teen Spirit",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "Territorial Pissings",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "Endless, Nameless",
+            "notes": []
+        }
+    ],
+    "set_incomplete": false,
+    "transmission": {},
+    "rehearsel_circulating_sources": [],
+    "circulating_sources": [
+        {
+            "name": "AUD #1a",
+            "complete": true,
+            "equipment": "Sony PC-62 > Sony TCD-D3",
+            "generation": "DAT(2) > FLAC",
+            "video-generation": null,
+            "audio-generation": null,
+            "length-sound": "77 min / 9.0",
+            "notes": [
+                "Less complete, but higher quality than AUD #1b."
+            ]
+        },
+        {
+            "name": "AUD #1b",
+            "complete": true,
+            "equipment": "Sony PC-62 > Sony TCD-D3",
+            "generation": "DAT(M) > FLAC",
+            "video-generation": null,
+            "audio-generation": null,
+            "length-sound": "80 min / ??",
+            "notes": [
+                "More complete, but lower quality than AUD #1a.\t  \n                                    In June 2013 the master tape was transferred and circulated, but was found to be of worse quality because of transfer issues.\n"
+            ]
+        },
+        {
+            "name": "AUD #2",
+            "complete": true,
+            "equipment": "Sony PC-62 > Sony WM-D3",
+            "generation": "ANA(M) > FLAC",
+            "video-generation": null,
+            "audio-generation": null,
+            "length-sound": "76 min / 8.5",
+            "notes": [
+                "Surfaced in September 2002.",
+                "Includes the introduction."
+            ]
+        },
+        {
+            "name": "AUD #3",
+            "complete": true,
+            "equipment": "Sony PC-62 > Sony WM-D3",
+            "generation": "ANA(M) > MD(1) > CDR",
+            "video-generation": null,
+            "audio-generation": null,
+            "length-sound": "75 min / 8.5",
+            "notes": [
+                "Surfaced in October 2002.",
+                "The introduction fades in."
+            ]
+        },
+        {
+            "name": "AUD #4",
+            "complete": true,
+            "equipment": "Aiwa CM-30A > Denon DTR-80P",
+            "generation": "DAT(M) > FLAC",
+            "video-generation": null,
+            "audio-generation": null,
+            "length-sound": "80 min / 8.5",
+            "notes": [
+                "In September 2010 the master tape was transferred.",
+                "Includes the introduction."
+            ]
+        }
+    ],
+    "uncirculated_sources": [],
+    "notes": [],
+    "press": [],
+    "memorabilia": [
+        {
+            "url": "/concerts/images/1992/1992-06-24/1992-06-24_01.jpg",
+            "caption": "Ticket"
+        },
+        {
+            "url": "/concerts/images/1992/1992-06-24/1992-06-24_02.jpg",
+            "caption": "Backstage pass"
+        },
+        {
+            "url": "/concerts/images/1992/1992-06-24/1992-06-24_03.jpg",
+            "caption": "Advert"
+        },
+        {
+            "url": "/concerts/images/1992/1992-06-24/1992-06-24_04.jpg",
+            "caption": "Advert"
+        },
+        {
+            "url": "/concerts/images/1992/1992-06-24/1992-06-24_05.jpg",
+            "caption": "Backstage pass"
+        },
+        {
+            "url": "/concerts/images/1992/1992-06-24/1992-06-24_06.jpg",
+            "caption": "Backstage pass"
+        },
+        {
+            "url": "/concerts/images/1992/1992-06-24/1992-06-24_07.jpg",
+            "caption": "Advert"
+        }
+    ],
+    "images": [
+        {
+            "url": "/concerts/images/1992/1992-06-24/1992-06-24_001.jpg",
+            "caption": "Unknown photographer"
+        },
+        {
+            "url": "/concerts/images/1992/1992-06-24/1992-06-24_002.jpg",
+            "caption": "Photo by Gie Knaeps"
+        },
+        {
+            "url": "/concerts/images/1992/1992-06-24/1992-06-24_003.jpg",
+            "caption": "Unknown photographer"
+        },
+        {
+            "url": "/concerts/images/1992/1992-06-24/1992-06-24_004.jpg",
+            "caption": "Unknown photographer"
+        },
+        {
+            "url": "/concerts/images/1992/1992-06-24/1992-06-24_005.jpg",
+            "caption": "Unknown photographer"
+        },
+        {
+            "url": "/concerts/images/1992/1992-06-24/1992-06-24_006.jpg",
+            "caption": "Photo by Gie Knaeps"
+        },
+        {
+            "url": "/concerts/images/1992/1992-06-24/1992-06-24_007.jpg",
+            "caption": "Photo by Claude Gassian"
+        },
+        {
+            "url": "/concerts/images/1992/1992-06-24/1992-06-24_008.jpg",
+            "caption": "Unknown photographer"
+        },
+        {
+            "url": "/concerts/images/1992/1992-06-24/1992-06-24_009.jpg",
+            "caption": "Unknown photographer"
+        },
+        {
+            "url": "/concerts/images/1992/1992-06-24/1992-06-24_010.jpg",
+            "caption": "Unknown photographer"
+        },
+        {
+            "url": "/concerts/images/1992/1992-06-24/1992-06-24_011.jpg",
+            "caption": "Unknown photographer"
+        },
+        {
+            "url": "/concerts/images/1992/1992-06-24/1992-06-24_012.jpg",
+            "caption": "Unknown photographer"
+        },
+        {
+            "url": "/concerts/images/1992/1992-06-24/1992-06-24_013.jpg",
+            "caption": "Unknown photographer"
+        },
+        {
+            "url": "/concerts/images/1992/1992-06-24/1992-06-24_014.jpg",
+            "caption": "Unknown photographer"
+        },
+        {
+            "url": "/concerts/images/1992/1992-06-24/1992-06-24_015.jpg",
+            "caption": "Photo by Gie Knaeps"
+        },
+        {
+            "url": "/concerts/images/1992/1992-06-24/1992-06-24_016.jpg",
+            "caption": "Photo by Gie Knaeps"
+        },
+        {
+            "url": "/concerts/images/1992/1992-06-24/1992-06-24_017.jpg",
+            "caption": "Photo by Francois Poulain"
+        },
+        {
+            "url": "/concerts/images/1992/1992-06-24/1992-06-24_018.jpg",
+            "caption": "Photo by Francois Poulain"
+        },
+        {
+            "url": "/concerts/images/1992/1992-06-24/1992-06-24_019.jpg",
+            "caption": "Photo by Georges Amann"
+        },
+        {
+            "url": "/concerts/images/1992/1992-06-24/1992-06-24_020.jpg",
+            "caption": "Photo by Gie Knaeps"
+        },
+        {
+            "url": "/concerts/images/1992/1992-06-24/1992-06-24_021.jpg",
+            "caption": "Photo by Marc Villalonga"
+        },
+        {
+            "url": "/concerts/images/1992/1992-06-24/1992-06-24_022.jpg",
+            "caption": "Unknown photographer"
+        },
+        {
+            "url": "/concerts/images/1992/1992-06-24/1992-06-24_023.jpg",
+            "caption": "Unknown photographer"
+        },
+        {
+            "url": "/concerts/images/1992/1992-06-24/1992-06-24_024.jpg",
+            "caption": "Unknown photographer"
+        },
+        {
+            "url": "/concerts/images/1992/1992-06-24/1992-06-24_025.jpg",
+            "caption": "Unknown photographer"
+        },
+        {
+            "url": "/concerts/images/1992/1992-06-24/1992-06-24_026.jpg",
+            "caption": "Unknown photographer"
+        },
+        {
+            "url": "/concerts/images/1992/1992-06-24/1992-06-24_027.jpg",
+            "caption": "Unknown photographer"
+        },
+        {
+            "url": "/concerts/images/1992/1992-06-24/1992-06-24_028.jpg",
+            "caption": "Photo by Gie Knaeps"
+        },
+        {
+            "url": "/concerts/images/1992/1992-06-24/1992-06-24_029.jpg",
+            "caption": "Photo by Gie Knaeps"
+        },
+        {
+            "url": "/concerts/images/1992/1992-06-24/1992-06-24_030.jpg",
+            "caption": "Photo by Gie Knaeps"
+        },
+        {
+            "url": "/concerts/images/1992/1992-06-24/1992-06-24_031.jpg",
+            "caption": "Photo by Gie Knaeps"
+        },
+        {
+            "url": "/concerts/images/1992/1992-06-24/1992-06-24_032.jpg",
+            "caption": "Photo by Gie Knaeps"
+        },
+        {
+            "url": "/concerts/images/1992/1992-06-24/1992-06-24_033.jpg",
+            "caption": "Photo by Dukas"
+        },
+        {
+            "url": "/concerts/images/1992/1992-06-24/1992-06-24_034.jpg",
+            "caption": "Photo by Francois Poulain"
+        },
+        {
+            "url": "/concerts/images/1992/1992-06-24/1992-06-24_035.jpg",
+            "caption": "Unknown photographer"
+        },
+        {
+            "url": "/concerts/images/1992/1992-06-24/1992-06-24_036.jpg",
+            "caption": "Unknown photographer"
+        },
+        {
+            "url": "/concerts/images/1992/1992-06-24/1992-06-24_037.jpg",
+            "caption": "Unknown photographer"
+        },
+        {
+            "url": "/concerts/images/1992/1992-06-24/1992-06-24_038.jpg",
+            "caption": "Unknown photographer"
+        },
+        {
+            "url": "/concerts/images/1992/1992-06-24/1992-06-24_039.jpg",
+            "caption": "Photo by Gie Knaeps"
+        },
+        {
+            "url": "/concerts/images/1992/1992-06-24/1992-06-24_040.jpg",
+            "caption": "Photo by Remy Deluze"
+        },
+        {
+            "url": "/concerts/images/1992/1992-06-24/1992-06-24_041.jpg",
+            "caption": "Photo by Georges Amann"
+        },
+        {
+            "url": "/concerts/images/1992/1992-06-24/1992-06-24_042.jpg",
+            "caption": "Photo by Tallon"
+        },
+        {
+            "url": "/concerts/images/1992/1992-06-24/1992-06-24_043.jpg",
+            "caption": "Photo by Gie Knaeps"
+        },
+        {
+            "url": "/concerts/images/1992/1992-06-24/1992-06-24_044.jpg",
+            "caption": "Photo by Gie Knaeps"
+        },
+        {
+            "url": "/concerts/images/1992/1992-06-24/1992-06-24_045.jpg",
+            "caption": "Photo by Gie Knaeps"
+        },
+        {
+            "url": "/concerts/images/1992/1992-06-24/1992-06-24_046.jpg",
+            "caption": "Photo by Gie Knaeps"
+        },
+        {
+            "url": "/concerts/images/1992/1992-06-24/1992-06-24_047.jpg",
+            "caption": "Photo by Gie Knaeps"
+        },
+        {
+            "url": "/concerts/images/1992/1992-06-24/1992-06-24_048.jpg",
+            "caption": "Photo by Gie Knaeps"
+        },
+        {
+            "url": "/concerts/images/1992/1992-06-24/1992-06-24_049.jpg",
+            "caption": "Photo by Gie Knaeps"
+        },
+        {
+            "url": "/concerts/images/1992/1992-06-24/1992-06-24_050.jpg",
+            "caption": "Photo by Gie Knaeps"
+        },
+        {
+            "url": "/concerts/images/1992/1992-06-24/1992-06-24_051.jpg",
+            "caption": "Photo by Gie Knaeps"
+        },
+        {
+            "url": "/concerts/images/1992/1992-06-24/1992-06-24_052.jpg",
+            "caption": "Photo by Gie Knaeps"
+        },
+        {
+            "url": "/concerts/images/1992/1992-06-24/1992-06-24_053.jpg",
+            "caption": "Photo by Gie Knaeps"
+        },
+        {
+            "url": "/concerts/images/1992/1992-06-24/1992-06-24_054.jpg",
+            "caption": "Photo by Gie Knaeps"
+        },
+        {
+            "url": "/concerts/images/1992/1992-06-24/1992-06-24_055.jpg",
+            "caption": "Photo by Gie Knaeps"
+        },
+        {
+            "url": "/concerts/images/1992/1992-06-24/1992-06-24_056.jpg",
+            "caption": "Photo by Gie Knaeps"
+        },
+        {
+            "url": "/concerts/images/1992/1992-06-24/1992-06-24_057.jpg",
+            "caption": "Photo by Gie Knaeps"
+        },
+        {
+            "url": "/concerts/images/1992/1992-06-24/1992-06-24_058.jpg",
+            "caption": "Photo by Gie Knaeps"
+        },
+        {
+            "url": "/concerts/images/1992/1992-06-24/1992-06-24_059.jpg",
+            "caption": "Photo by Gie Knaeps"
+        },
+        {
+            "url": "/concerts/images/1992/1992-06-24/1992-06-24_060.jpg",
+            "caption": "Photo by Gie Knaeps"
+        },
+        {
+            "url": "/concerts/images/1992/1992-06-24/1992-06-24_061.jpg",
+            "caption": "Photo by Gie Knaeps"
+        },
+        {
+            "url": "/concerts/images/1992/1992-06-24/1992-06-24_062.jpg",
+            "caption": "Photo by Georges Amann"
+        },
+        {
+            "url": "/concerts/images/1992/1992-06-24/1992-06-24_063.jpg",
+            "caption": "Photo by Georges Amann"
+        },
+        {
+            "url": "/concerts/images/1992/1992-06-24/1992-06-24_064.jpg",
+            "caption": "Unknown photographer"
+        },
+        {
+            "url": "/concerts/images/1992/1992-06-24/1992-06-24_065.jpg",
+            "caption": "Photo by Georges Amann"
+        },
+        {
+            "url": "/concerts/images/1992/1992-06-24/1992-06-24_066.jpg",
+            "caption": "Photo by Georges Amann"
+        },
+        {
+            "url": "/concerts/images/1992/1992-06-24/1992-06-24_067.jpg",
+            "caption": "Photo by Georges Amann"
+        },
+        {
+            "url": "/concerts/images/1992/1992-06-24/1992-06-24_068.jpg",
+            "caption": "Photo by Georges Amann"
+        },
+        {
+            "url": "/concerts/images/1992/1992-06-24/1992-06-24_069.jpg",
+            "caption": "Photo by Georges Amann"
+        },
+        {
+            "url": "/concerts/images/1992/1992-06-24/1992-06-24_070.jpg",
+            "caption": "Unknown photographer"
+        },
+        {
+            "url": "/concerts/images/1992/1992-06-24/1992-06-24_071.jpg",
+            "caption": "Photo by Gie Knaeps"
+        },
+        {
+            "url": "/concerts/images/1992/1992-06-24/1992-06-24_072.jpg",
+            "caption": "Unknown photographer"
+        },
+        {
+            "url": "/concerts/images/1992/1992-06-24/1992-06-24_073.jpg",
+            "caption": "Unknown photographer"
+        },
+        {
+            "url": "/concerts/images/1992/1992-06-24/1992-06-24_074.jpg",
+            "caption": "Photo by Christian Rose"
+        },
+        {
+            "url": "/concerts/images/1992/1992-06-24/1992-06-24_075.jpg",
+            "caption": "Photo by Christian Rose"
+        },
+        {
+            "url": "/concerts/images/1992/1992-06-24/1992-06-24_076.jpg",
+            "caption": "Photo by Gie Knaeps"
+        },
+        {
+            "url": "/concerts/images/1992/1992-06-24/1992-06-24_077.jpg",
+            "caption": "Photo by Gie Knaeps"
+        },
+        {
+            "url": "/concerts/images/1992/1992-06-24/1992-06-24_078.jpg",
+            "caption": "Photo by Gie Knaeps"
+        },
+        {
+            "url": "/concerts/images/1992/1992-06-24/1992-06-24_079.jpg",
+            "caption": "Photo by Francois Poulain"
+        },
+        {
+            "url": "/concerts/images/1992/1992-06-24/1992-06-24_080.jpg",
+            "caption": "Photo by Francois Poulain"
+        },
+        {
+            "url": "/concerts/images/1992/1992-06-24/1992-06-24_081.jpg",
+            "caption": "Unknown photographer"
+        },
+        {
+            "url": "/concerts/images/1992/1992-06-24/1992-06-24_082.jpg",
+            "caption": "Photo by Gie Knaeps"
+        },
+        {
+            "url": "/concerts/images/1992/1992-06-24/1992-06-24_083.jpg",
+            "caption": "Photo by Gie Knaeps"
+        },
+        {
+            "url": "/concerts/images/1992/1992-06-24/1992-06-24_084.jpg",
+            "caption": "Photo by Christian Rose"
+        },
+        {
+            "url": "/concerts/images/1992/1992-06-24/1992-06-24_085.jpg",
+            "caption": "Photo by Christian Rose"
+        },
+        {
+            "url": "/concerts/images/1992/1992-06-24/1992-06-24_086.jpg",
+            "caption": "Photo by Shelli Hyrkas"
+        }
+    ],
+    "navigation": {
+        "previous": "92-06-22",
+        "next": "92-06-26"
+    },
+    "graph": {
+        "bleach": "6",
+        "nevermind": "11",
+        "inutero": "0",
+        "non": "3"
+    }
+}

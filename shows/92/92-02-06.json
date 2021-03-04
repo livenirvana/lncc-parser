@@ -1,0 +1,285 @@
+{
+    "year": "1992",
+    "month": "02",
+    "day": "06",
+    "band": [
+        {
+            "NIRVANA": [
+                {
+                    "name": "Kurt Cobain ",
+                    "duty": "vocals, guitar"
+                },
+                {
+                    "name": "Krist Novoselic ",
+                    "duty": "bass"
+                },
+                {
+                    "name": "Dave Grohl ",
+                    "duty": "drums, backing vocals"
+                }
+            ],
+            "type": "group"
+        }
+    ],
+    "crew": [
+        {
+            "name": "Alex MacLeod",
+            "duty": "tour manager"
+        },
+        {
+            "name": "Susanne Sasic",
+            "duty": "lighting designer"
+        },
+        {
+            "name": "Craig Montgomery",
+            "duty": "sound engineer"
+        },
+        {
+            "name": "Ian Beveridge",
+            "duty": "monitor engineer"
+        },
+        {
+            "name": "Nic Close",
+            "duty": "guitar technician"
+        },
+        {
+            "name": "Barrett Jones",
+            "duty": "drum technician"
+        }
+    ],
+    "buyer": {
+        "names": [
+            "Stephen Pavlovic"
+        ],
+        "company": "Magnet Promotions"
+    },
+    "schedule": [
+        {
+            "event": "Load In",
+            "time": "…:…"
+        },
+        {
+            "event": "Soundcheck",
+            "time": "…:…"
+        },
+        {
+            "event": "Doors",
+            "time": "…:…"
+        },
+        {
+            "event": "Headache Showtime",
+            "time": "…:…"
+        },
+        {
+            "event": "You Am I Showtime",
+            "time": "…:…"
+        },
+        {
+            "event": "NIRVANA Showtime",
+            "time": "…:…"
+        }
+    ],
+    "soundcheck": [],
+    "soundcheck_incomplete": false,
+    "set": [
+        {
+            "type": "song",
+            "text": "Aneurysm",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "School",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "Drain You",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "Come As You Are",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "Lithium",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "About A Girl",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "Smells Like Teen Spirit",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "Sliver",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "Breed",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "Polly",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "Love Buzz",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "Lounge Act",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "On A Plain",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "Blew",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "All Apologies",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "Negative Creep",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "Territorial Pissings",
+            "notes": []
+        }
+    ],
+    "set_incomplete": false,
+    "transmission": {},
+    "rehearsel_circulating_sources": [],
+    "circulating_sources": [
+        {
+            "name": "AUD #1",
+            "complete": true,
+            "equipment": "Sonic Studios DSM-3 > Sony TCD-D3",
+            "generation": "DAT(1) > FLAC",
+            "video-generation": null,
+            "audio-generation": null,
+            "length-sound": "70:37 min / 8.5",
+            "notes": [
+                "DAT(1) upgrade circulated December 2020. Previous DAT(2) upgrade circulated in January 2015."
+            ]
+        },
+        {
+            "name": "AMT #1",
+            "complete": false,
+            "equipment": "Unknown > Unknown",
+            "generation": "VHS(3-4) > DVDR",
+            "video-generation": null,
+            "audio-generation": null,
+            "length-sound": "54:45 min / 6.0",
+            "notes": [
+                "\"Negative Creep\" and \"Territorial Pissings\" cut in and out.",
+                "Analog glitches are present throughout, some of which caused digital glitches on capture.",
+                "While most of the video is in color, there are extended sections of black and white.",
+                "The outro of \"All Apologies\" cuts to a different source of this show."
+            ]
+        }
+    ],
+    "uncirculated_sources": [
+        {
+            "name": "AMT #2",
+            "note": "According to an attendee, there was a crew taping the concert in the side of the stage, so it is possible that a professional video or a amateur video was taped by the club."
+        }
+    ],
+    "notes": [],
+    "press": [],
+    "memorabilia": [
+        {
+            "url": "/concerts/images/1992/1992-02-06/1992-02-06_01.jpg",
+            "caption": "Backstage pass"
+        },
+        {
+            "url": "/concerts/images/1992/1992-02-06/1992-02-06_02.jpg",
+            "caption": "Ticket"
+        },
+        {
+            "url": "/concerts/images/1992/1992-02-06/1992-02-06_03.jpg",
+            "caption": "Backstage pass"
+        },
+        {
+            "url": "/concerts/images/1992/1992-02-06/1992-02-06_04.JPG",
+            "caption": "Advert"
+        }
+    ],
+    "images": [
+        {
+            "url": "/concerts/images/1992/1992-02-06/1992-02-06_001.jpg",
+            "caption": "Photo by David Anderson"
+        },
+        {
+            "url": "/concerts/images/1992/1992-02-06/1992-02-06_002.jpg",
+            "caption": "Photo by David Anderson"
+        },
+        {
+            "url": "/concerts/images/1992/1992-02-06/1992-02-06_003.jpg",
+            "caption": "Photo by David Anderson"
+        },
+        {
+            "url": "/concerts/images/1992/1992-02-06/1992-02-06_004.jpg",
+            "caption": "Photo by David Anderson"
+        },
+        {
+            "url": "/concerts/images/1992/1992-02-06/1992-02-06_005.jpg",
+            "caption": "Photo by David Anderson"
+        },
+        {
+            "url": "/concerts/images/1992/1992-02-06/1992-02-06_006.jpg",
+            "caption": "Photo by David Anderson"
+        },
+        {
+            "url": "/concerts/images/1992/1992-02-06/1992-02-06_007.jpg",
+            "caption": "Photo by David Anderson"
+        },
+        {
+            "url": "/concerts/images/1992/1992-02-06/1992-02-06_008.jpg",
+            "caption": "Photo by David Anderson"
+        },
+        {
+            "url": "/concerts/images/1992/1992-02-06/1992-02-06_009.jpg",
+            "caption": "Photo by Donna Dickson"
+        },
+        {
+            "url": "/concerts/images/1992/1992-02-06/1992-02-06_010.jpg",
+            "caption": "Photo by Donna Dickson"
+        },
+        {
+            "url": "/concerts/images/1992/1992-02-06/1992-02-06_011.jpg",
+            "caption": "Photo by Donna Dickson"
+        }
+    ],
+    "navigation": {
+        "previous": "92-02-05",
+        "next": "92-02-07"
+    },
+    "graph": {
+        "bleach": "5",
+        "nevermind": "9",
+        "inutero": "1",
+        "non": "2"
+    }
+}

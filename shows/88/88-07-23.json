@@ -1,0 +1,131 @@
+{
+    "year": "1988",
+    "month": "07",
+    "day": "23",
+    "band": [
+        {
+            "NIRVANA": [
+                {
+                    "name": "Kurt Cobain ",
+                    "duty": "vocals, guitar"
+                },
+                {
+                    "name": "Krist Novoselic ",
+                    "duty": "bass"
+                },
+                {
+                    "name": "Chad Channing ",
+                    "duty": "drums"
+                }
+            ],
+            "type": "group"
+        }
+    ],
+    "crew": [
+        {
+            "name": "Jim Anderson",
+            "duty": "sound engineer"
+        }
+    ],
+    "buyer": {
+        "names": [
+            "Nik Hartshorne",
+            "Dan Merrick"
+        ],
+        "company": "Stethoscopes Incorporated"
+    },
+    "schedule": [
+        {
+            "event": "Load In",
+            "time": "…:…"
+        },
+        {
+            "event": "Soundcheck",
+            "time": "…:…"
+        },
+        {
+            "event": "Doors",
+            "time": "21:30"
+        },
+        {
+            "event": "NIRVANA Showtime",
+            "time": "…:…"
+        },
+        {
+            "event": "Blood Circus Showtime",
+            "time": "…:…"
+        },
+        {
+            "event": "Leaving Trains Showtime",
+            "time": "…:…"
+        }
+    ],
+    "soundcheck": [],
+    "soundcheck_incomplete": false,
+    "set": [
+        {
+            "type": "song",
+            "text": "Love Buzz",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "Floyd The Barber",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "Hairspray Queen",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "Spank Thru",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "Downer",
+            "notes": []
+        }
+    ],
+    "set_incomplete": true,
+    "transmission": {},
+    "rehearsel_circulating_sources": [],
+    "circulating_sources": [],
+    "uncirculated_sources": [],
+    "notes": [
+        "The show was booked by Nikolas Hartshorne, who would go on to be the King County Medical Examiner at the time of Kurt's death.",
+        "There were about twelve people in attendance, according to Chad."
+    ],
+    "press": [],
+    "memorabilia": [
+        {
+            "url": "/concerts/images/1988/1988-07-23/1988-07-23_01.jpg",
+            "caption": "Handbill/Flyer, designed by Jesse Marinoff Reyes"
+        },
+        {
+            "url": "/concerts/images/1988/1988-07-23/1988-07-23_02.jpg",
+            "caption": "Advert"
+        },
+        {
+            "url": "/concerts/images/1988/1988-07-23/1988-07-23_03.jpg",
+            "caption": "Advert"
+        },
+        {
+            "url": "/concerts/images/1988/1988-07-23/1988-07-23_04.jpg",
+            "caption": "Advert"
+        }
+    ],
+    "images": [],
+    "navigation": {
+        "previous": "88-07-03",
+        "next": "88-07-30"
+    },
+    "graph": {
+        "bleach": "3",
+        "nevermind": "0",
+        "inutero": "0",
+        "non": "2"
+    }
+}

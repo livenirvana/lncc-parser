@@ -1,0 +1,484 @@
+{
+    "year": "1993",
+    "month": "11",
+    "day": "12",
+    "band": [
+        {
+            "NIRVANA": [
+                {
+                    "name": "Kurt Cobain ",
+                    "duty": "vocals, guitar"
+                },
+                {
+                    "name": "Krist Novoselic ",
+                    "duty": "bass"
+                },
+                {
+                    "name": "Dave Grohl ",
+                    "duty": "drums, backing vocals"
+                },
+                {
+                    "name": "Pat Smear ",
+                    "duty": "guitar"
+                },
+                {
+                    "name": "Lori Goldston ",
+                    "duty": "cello"
+                }
+            ],
+            "type": "group"
+        }
+    ],
+    "crew": [
+        {
+            "name": "Alex MacLeod",
+            "duty": "tour manager"
+        },
+        {
+            "name": "Jeff Mason",
+            "duty": "production manager"
+        },
+        {
+            "name": "Kelly Nase",
+            "duty": "tour accountant"
+        },
+        {
+            "name": "Susanne Sasic",
+            "duty": "lighting designer"
+        },
+        {
+            "name": "Craig Overbay",
+            "duty": "sound engineer"
+        },
+        {
+            "name": "Ian Beveridge",
+            "duty": "monitor engineer"
+        },
+        {
+            "name": "Jim Vincent",
+            "duty": "guitar technician"
+        },
+        {
+            "name": "John Duncan",
+            "duty": "guitar technician"
+        },
+        {
+            "name": "Mike Dalke",
+            "duty": "drum technician"
+        },
+        {
+            "name": "Ed Swink",
+            "duty": "stage manager"
+        },
+        {
+            "name": "Dave Stevens",
+            "duty": "Pro Show sound crew"
+        },
+        {
+            "name": "Allan Bagley",
+            "duty": "Pro Show sound crew"
+        },
+        {
+            "name": "Tom Pfaeffle",
+            "duty": "Pro Show sound crew"
+        },
+        {
+            "name": "Spike Brant",
+            "duty": "LSD lighting crew"
+        },
+        {
+            "name": "Mike Lamb",
+            "duty": "LSD lighting crew"
+        },
+        {
+            "name": "Pat Connolly",
+            "duty": "LSD lighting crew"
+        },
+        {
+            "name": "Gary Vaspol",
+            "duty": "LSD lighting crew"
+        }
+    ],
+    "buyer": {
+        "names": [
+            "No Info"
+        ],
+        "company": "Don Law Co."
+    },
+    "schedule": [
+        {
+            "event": "Load In",
+            "time": "09:00"
+        },
+        {
+            "event": "Soundcheck",
+            "time": "15:30"
+        },
+        {
+            "event": "Doors",
+            "time": "18:00"
+        },
+        {
+            "event": "Half Japanese Showtime",
+            "time": "19:30"
+        },
+        {
+            "event": "Breeders Showtime",
+            "time": "20:15"
+        },
+        {
+            "event": "NIRVANA Showtime",
+            "time": "21:15"
+        }
+    ],
+    "soundcheck": [],
+    "soundcheck_incomplete": false,
+    "set": [
+        {
+            "type": "song",
+            "text": "Radio Friendly Unit Shifter",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "Drain You",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "Breed",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "Serve The Servants",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "About A Girl",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "Heart-Shaped Box",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "Sliver",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "Dumb",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "In Bloom",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "Come As You Are",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "Lithium",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "Pennyroyal Tea",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "School",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "Polly",
+            "notes": [
+                "acoustic"
+            ]
+        },
+        {
+            "type": "song",
+            "text": "Milk It",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "Rape Me",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "Territorial Pissings",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "Smells Like Teen Spirit",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "All Apologies",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "Jesus Wants Me For A Sunbeam",
+            "notes": [
+                "acoustic"
+            ]
+        },
+        {
+            "type": "song",
+            "text": "On A Plain",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "Scentless Apprentice",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "Blew",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "unknown song",
+            "notes": []
+        }
+    ],
+    "set_incomplete": false,
+    "transmission": {},
+    "rehearsel_circulating_sources": [],
+    "circulating_sources": [
+        {
+            "name": "AUD #1",
+            "complete": false,
+            "equipment": "Sony PC-62 > Sony WM-D3",
+            "generation": "ANA(M) > DAT(1) > FLAC",
+            "video-generation": null,
+            "audio-generation": null,
+            "length-sound": "99 min / 7.0",
+            "notes": [
+                "In June 2007 this upgrade was circulated,",
+                "\"Radio Friendly Unit Shifter\" cuts in during the intro and the recording cuts out during the unknown song.",
+                "There are also cuts in \"Pennyroyal Tea\" and \"Blew\" due to this being the time of the tape flip."
+            ]
+        },
+        {
+            "name": "AUD #2",
+            "complete": false,
+            "equipment": "Unknown > Unknown",
+            "generation": "ANA(1) > FLAC",
+            "video-generation": null,
+            "audio-generation": null,
+            "length-sound": "83 min / 7.0",
+            "notes": [
+                "Surfaced in May 2005.",
+                "Missing everything after \"Jesus Wants Me For A Sunbeam\".",
+                "\"Lithium\" cuts in. (as this is the point of the tape flip)",
+                "There are also many dropouts throughout the source."
+            ]
+        }
+    ],
+    "uncirculated_sources": [],
+    "notes": [
+        "The show ended with the same unknown song that was played on 12/29/93.",
+        "During the end-of-show destruction, Kurt repeatedly threw his guitar at a disco ball above the stage, causing pieces of glass to fly off and eventually destroying the disco ball."
+    ],
+    "press": [],
+    "memorabilia": [
+        {
+            "url": "/concerts/images/1993/1993-11-12/1993-11-12_01.jpg",
+            "caption": "Ticket"
+        },
+        {
+            "url": "/concerts/images/1993/1993-11-12/1993-11-12_02.jpg",
+            "caption": "Advert"
+        },
+        {
+            "url": "/concerts/images/1993/1993-11-12/1993-11-12_03.jpg",
+            "caption": "Nirvana's tour itinerary"
+        },
+        {
+            "url": "/concerts/images/1993/1993-11-12/1993-11-12_04.jpg",
+            "caption": "Advert"
+        }
+    ],
+    "images": [
+        {
+            "url": "/concerts/images/1993/1993-11-12/1993-11-12_001.jpg",
+            "caption": "Photo by Harry Woods"
+        },
+        {
+            "url": "/concerts/images/1993/1993-11-12/1993-11-12_002.jpg",
+            "caption": "Photo by Rex Aran Emrick"
+        },
+        {
+            "url": "/concerts/images/1993/1993-11-12/1993-11-12_003.jpg",
+            "caption": "Photo by Rex Aran Emrick"
+        },
+        {
+            "url": "/concerts/images/1993/1993-11-12/1993-11-12_004.jpg",
+            "caption": "Photo by Rex Aran Emrick"
+        },
+        {
+            "url": "/concerts/images/1993/1993-11-12/1993-11-12_005.jpg",
+            "caption": "Photo by Rex Aran Emrick"
+        },
+        {
+            "url": "/concerts/images/1993/1993-11-12/1993-11-12_006.jpg",
+            "caption": "Photo by Rex Aran Emrick"
+        },
+        {
+            "url": "/concerts/images/1993/1993-11-12/1993-11-12_007.jpg",
+            "caption": "Photo by Rex Aran Emrick"
+        },
+        {
+            "url": "/concerts/images/1993/1993-11-12/1993-11-12_008.jpg",
+            "caption": "Photo by Rex Aran Emrick"
+        },
+        {
+            "url": "/concerts/images/1993/1993-11-12/1993-11-12_009.jpg",
+            "caption": "Photo by Rex Aran Emrick"
+        },
+        {
+            "url": "/concerts/images/1993/1993-11-12/1993-11-12_010.jpg",
+            "caption": "Photo by Rex Aran Emrick"
+        },
+        {
+            "url": "/concerts/images/1993/1993-11-12/1993-11-12_011.jpg",
+            "caption": "Photo by Rex Aran Emrick"
+        },
+        {
+            "url": "/concerts/images/1993/1993-11-12/1993-11-12_012.jpg",
+            "caption": "Photo by Rex Aran Emrick"
+        },
+        {
+            "url": "/concerts/images/1993/1993-11-12/1993-11-12_013.jpg",
+            "caption": "Photo by Rex Aran Emrick"
+        },
+        {
+            "url": "/concerts/images/1993/1993-11-12/1993-11-12_014.jpg",
+            "caption": "Photo by Rex Aran Emrick"
+        },
+        {
+            "url": "/concerts/images/1993/1993-11-12/1993-11-12_015.jpg",
+            "caption": "Photo by Rex Aran Emrick"
+        },
+        {
+            "url": "/concerts/images/1993/1993-11-12/1993-11-12_016.jpg",
+            "caption": "Photo by Rex Aran Emrick"
+        },
+        {
+            "url": "/concerts/images/1993/1993-11-12/1993-11-12_017.jpg",
+            "caption": "Photo by Rex Aran Emrick"
+        },
+        {
+            "url": "/concerts/images/1993/1993-11-12/1993-11-12_018.jpg",
+            "caption": "Photo by Harry Woods"
+        },
+        {
+            "url": "/concerts/images/1993/1993-11-12/1993-11-12_019.jpg",
+            "caption": "Photo by Harry Woods"
+        },
+        {
+            "url": "/concerts/images/1993/1993-11-12/1993-11-12_020.jpg",
+            "caption": "Photo by Harry Woods"
+        },
+        {
+            "url": "/concerts/images/1993/1993-11-12/1993-11-12_021.jpg",
+            "caption": "Photo by Harry Woods"
+        },
+        {
+            "url": "/concerts/images/1993/1993-11-12/1993-11-12_022.jpg",
+            "caption": "Photo by Harry Woods"
+        },
+        {
+            "url": "/concerts/images/1993/1993-11-12/1993-11-12_023.jpg",
+            "caption": "Photo by Harry Woods"
+        },
+        {
+            "url": "/concerts/images/1993/1993-11-12/1993-11-12_024.jpg",
+            "caption": "Photo by Harry Woods"
+        },
+        {
+            "url": "/concerts/images/1993/1993-11-12/1993-11-12_025.jpg",
+            "caption": "Photo by Harry Woods"
+        },
+        {
+            "url": "/concerts/images/1993/1993-11-12/1993-11-12_026.jpg",
+            "caption": "Photo by Harry Woods"
+        },
+        {
+            "url": "/concerts/images/1993/1993-11-12/1993-11-12_027.jpg",
+            "caption": "Photo by Harry Woods"
+        },
+        {
+            "url": "/concerts/images/1993/1993-11-12/1993-11-12_028.jpg",
+            "caption": "Photo by Harry Woods"
+        },
+        {
+            "url": "/concerts/images/1993/1993-11-12/1993-11-12_029.jpg",
+            "caption": "Photo by Harry Woods"
+        },
+        {
+            "url": "/concerts/images/1993/1993-11-12/1993-11-12_030.jpg",
+            "caption": "Photo by Harry Woods"
+        },
+        {
+            "url": "/concerts/images/1993/1993-11-12/1993-11-12_031.jpg",
+            "caption": "Photo by Harry Woods"
+        },
+        {
+            "url": "/concerts/images/1993/1993-11-12/1993-11-12_032.jpg",
+            "caption": "Photo by Harry Woods"
+        },
+        {
+            "url": "/concerts/images/1993/1993-11-12/1993-11-12_033.jpg",
+            "caption": "Photo by Harry Woods"
+        },
+        {
+            "url": "/concerts/images/1993/1993-11-12/1993-11-12_034.jpg",
+            "caption": "Photo by Eric Antoniou"
+        },
+        {
+            "url": "/concerts/images/1993/1993-11-12/1993-11-12_035.jpg",
+            "caption": "Photo by Harry Woods"
+        },
+        {
+            "url": "/concerts/images/1993/1993-11-12/1993-11-12_036.jpg",
+            "caption": "Photo by Harry Woods"
+        },
+        {
+            "url": "/concerts/images/1993/1993-11-12/1993-11-12_037.jpg",
+            "caption": "Photo by Harry Woods"
+        },
+        {
+            "url": "/concerts/images/1993/1993-11-12/1993-11-12_038.jpg",
+            "caption": "Photo by Harry Woods"
+        }
+    ],
+    "navigation": {
+        "previous": "93-11-10",
+        "next": "93-11-13"
+    },
+    "graph": {
+        "bleach": "3",
+        "nevermind": "9",
+        "inutero": "9",
+        "non": "3"
+    }
+}

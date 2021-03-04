@@ -1,0 +1,387 @@
+{
+    "year": "1989",
+    "month": "10",
+    "day": "27",
+    "band": [
+        {
+            "NIRVANA": [
+                {
+                    "name": "Kurt Cobain ",
+                    "duty": "vocals, guitar"
+                },
+                {
+                    "name": "Krist Novoselic ",
+                    "duty": "bass"
+                },
+                {
+                    "name": "Chad Channing ",
+                    "duty": "drums"
+                }
+            ],
+            "type": "group"
+        }
+    ],
+    "crew": [
+        {
+            "name": "Edwin Heath",
+            "duty": "tour manager"
+        },
+        {
+            "name": "Craig Montgomery",
+            "duty": "sound engineer"
+        }
+    ],
+    "buyer": {
+        "names": [
+            "Simon Aldis",
+            "Rob Challice"
+        ]
+    },
+    "schedule": [
+        {
+            "event": "Load In",
+            "time": "16:00"
+        },
+        {
+            "event": "Soundcheck",
+            "time": "19:30"
+        },
+        {
+            "event": "Doors",
+            "time": "20:00"
+        },
+        {
+            "event": "The Cateran Showtime",
+            "time": "…:…"
+        },
+        {
+            "event": "TAD Showtime",
+            "time": "…:…"
+        },
+        {
+            "event": "NIRVANA Showtime",
+            "time": "…:…"
+        }
+    ],
+    "soundcheck": [
+        {
+            "type": "song",
+            "text": "Bad Moon Rising",
+            "notes": []
+        }
+    ],
+    "soundcheck_incomplete": true,
+    "set": [
+        {
+            "type": "banter",
+            "text": "Fuck you, you are (?), helloooooo, oooooh, oooooo, shhhhh, shhhh, shhhh, shhh ?? ?? ?? ?? ?? ??",
+            "person": "Cobain"
+        },
+        {
+            "type": "banter",
+            "text": "We're Nirvana, and ??",
+            "person": "Cobain"
+        },
+        {
+            "type": "song",
+            "text": "School",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "Scoff",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "Love Buzz",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "Floyd The Barber",
+            "notes": []
+        },
+        {
+            "type": "banter",
+            "text": "This is a new song",
+            "person": "Novoselic"
+        },
+        {
+            "type": "song",
+            "text": "Dive",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "Polly",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "Big Cheese",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "Spank Thru",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "About A Girl",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "Token Eastern Song",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "Stain",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "Been A Son",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "Negative Creep",
+            "notes": []
+        },
+        {
+            "type": "banter",
+            "text": "Gee, er ... thanks for coming, we have no more songs!",
+            "person": "Cobain"
+        },
+        {
+            "type": "song",
+            "text": "Blew",
+            "notes": []
+        },
+        {
+            "type": "banter",
+            "text": "Thanks a lot",
+            "person": "Novoselic"
+        },
+        {
+            "type": "banter",
+            "text": "A fucking encore, how rock and roll! Hello!",
+            "person": "Cobain"
+        },
+        {
+            "type": "song",
+            "text": "Paper Cuts",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "Even In His Youth",
+            "notes": []
+        },
+        {
+            "type": "banter",
+            "text": "Thanks a lot. Thanks a lot for coming, we hope you had a good time? We try to come back again sometime where you will tape us (?) and good night!",
+            "person": "Novoselic"
+        }
+    ],
+    "set_incomplete": false,
+    "transmission": {},
+    "rehearsel_circulating_sources": [],
+    "circulating_sources": [
+        {
+            "name": "AUD #1",
+            "complete": true,
+            "equipment": "Unknown > Sony",
+            "generation": "ANA(M) > FLAC",
+            "video-generation": null,
+            "audio-generation": null,
+            "length-sound": "62 min / 7.5",
+            "notes": [
+                "Surfaced in November 2003.",
+                "Does not include the soundcheck."
+            ]
+        },
+        {
+            "name": "AUD #2",
+            "complete": false,
+            "equipment": "Unknown > Unknown",
+            "generation": "Unknown > MP3 [143kbps]",
+            "video-generation": null,
+            "audio-generation": null,
+            "length-sound": "45 min / ??",
+            "notes": [
+                "Surfaced in September 2019.\n                                    Broadcast on a live show called \"London Calling\" by Radio Onde Furlane on 7 March 2019.\nMissing \"Been A Son\", \"Negative Creep\", \"Paper Cuts\" and \"Even In His Youth\".\nDoes not include the soundcheck.\n"
+            ]
+        }
+    ],
+    "uncirculated_sources": [
+        {
+            "name": "AMT #1",
+            "note": "It is rumored that the show was recorded from the soundboard area according to multiple attendees."
+        }
+    ],
+    "notes": [],
+    "press": [],
+    "memorabilia": [
+        {
+            "url": "/concerts/images/1989/1989-10-27/1989-10-27_01.jpg",
+            "caption": "Handbill/Flyer, designed by unknown"
+        },
+        {
+            "url": "/concerts/images/1989/1989-10-27/1989-10-27_02.jpg",
+            "caption": "Ticket"
+        },
+        {
+            "url": "/concerts/images/1989/1989-10-27/1989-10-27_03.jpg",
+            "caption": "Advert"
+        },
+        {
+            "url": "/concerts/images/1989/1989-10-27/1989-10-27_04.jpg",
+            "caption": "Advert"
+        },
+        {
+            "url": "/concerts/images/1989/1989-10-27/1989-10-27_05.jpg",
+            "caption": "Advert"
+        },
+        {
+            "url": "/concerts/images/1989/1989-10-27/1989-10-27_06.jpg",
+            "caption": "Nirvana's tour itinerary"
+        },
+        {
+            "url": "/concerts/images/1989/1989-10-27/1989-10-27_07.jpg",
+            "caption": "Nirvana's tour itinerary"
+        },
+        {
+            "url": "/concerts/images/1989/1989-10-27/1989-10-27_08.jpg",
+            "caption": "Nirvana's tour itinerary"
+        }
+    ],
+    "images": [
+        {
+            "url": "/concerts/images/1989/1989-10-27/1989-10-27_001.jpg",
+            "caption": "Photo by Ed Sirrs"
+        },
+        {
+            "url": "/concerts/images/1989/1989-10-27/1989-10-27_002.jpg",
+            "caption": "Photo by Ed Sirrs"
+        },
+        {
+            "url": "/concerts/images/1989/1989-10-27/1989-10-27_003.jpg",
+            "caption": "Photo by Ed Sirrs"
+        },
+        {
+            "url": "/concerts/images/1989/1989-10-27/1989-10-27_004.jpg",
+            "caption": "Photo by Ed Sirrs"
+        },
+        {
+            "url": "/concerts/images/1989/1989-10-27/1989-10-27_005.jpg",
+            "caption": "Photo by Ed Sirrs"
+        },
+        {
+            "url": "/concerts/images/1989/1989-10-27/1989-10-27_006.jpg",
+            "caption": "Photo by Ed Sirrs"
+        },
+        {
+            "url": "/concerts/images/1989/1989-10-27/1989-10-27_007.jpg",
+            "caption": "Photo by Ed Sirrs"
+        },
+        {
+            "url": "/concerts/images/1989/1989-10-27/1989-10-27_008.jpg",
+            "caption": "Photo by Ed Sirrs"
+        },
+        {
+            "url": "/concerts/images/1989/1989-10-27/1989-10-27_009.jpg",
+            "caption": "Photo by Ed Sirrs"
+        },
+        {
+            "url": "/concerts/images/1989/1989-10-27/1989-10-27_010.jpg",
+            "caption": "Photo by Ed Sirrs"
+        },
+        {
+            "url": "/concerts/images/1989/1989-10-27/1989-10-27_011.jpg",
+            "caption": "Photo by Craig Montgomery"
+        },
+        {
+            "url": "/concerts/images/1989/1989-10-27/1989-10-27_012.jpg",
+            "caption": "Photo by Ed Sirrs"
+        },
+        {
+            "url": "/concerts/images/1989/1989-10-27/1989-10-27_013.jpg",
+            "caption": "Photo by Ed Sirrs"
+        },
+        {
+            "url": "/concerts/images/1989/1989-10-27/1989-10-27_014.jpg",
+            "caption": "Photo by Ed Sirrs"
+        },
+        {
+            "url": "/concerts/images/1989/1989-10-27/1989-10-27_015.jpg",
+            "caption": "Photo by Ed Sirrs"
+        },
+        {
+            "url": "/concerts/images/1989/1989-10-27/1989-10-27_016.jpg",
+            "caption": "Photo by Ed Sirrs"
+        },
+        {
+            "url": "/concerts/images/1989/1989-10-27/1989-10-27_017.jpg",
+            "caption": "Photo by Patrick Gilbert"
+        },
+        {
+            "url": "/concerts/images/1989/1989-10-27/1989-10-27_018.jpg",
+            "caption": "Photo by Ed Sirrs"
+        },
+        {
+            "url": "/concerts/images/1989/1989-10-27/1989-10-27_019.jpg",
+            "caption": "Photo by Ed Sirrs"
+        },
+        {
+            "url": "/concerts/images/1989/1989-10-27/1989-10-27_020.jpg",
+            "caption": "Photo by Ed Sirrs"
+        },
+        {
+            "url": "/concerts/images/1989/1989-10-27/1989-10-27_021.jpg",
+            "caption": "Photo by Ed Sirrs"
+        },
+        {
+            "url": "/concerts/images/1989/1989-10-27/1989-10-27_022.jpg",
+            "caption": "Photo by Ed Sirrs"
+        },
+        {
+            "url": "/concerts/images/1989/1989-10-27/1989-10-27_023.jpg",
+            "caption": "Photo by Ed Sirrs"
+        },
+        {
+            "url": "/concerts/images/1989/1989-10-27/1989-10-27_024.jpg",
+            "caption": "Photo by Kerry Cooper"
+        },
+        {
+            "url": "/concerts/images/1989/1989-10-27/1989-10-27_025.jpg",
+            "caption": "Photo by Kerry Cooper"
+        },
+        {
+            "url": "/concerts/images/1989/1989-10-27/1989-10-27_026.jpg",
+            "caption": "Photo by Kerry Cooper"
+        },
+        {
+            "url": "/concerts/images/1989/1989-10-27/1989-10-27_027.jpg",
+            "caption": "Photo by Kerry Cooper"
+        },
+        {
+            "url": "/concerts/images/1989/1989-10-27/1989-10-27_028.jpg",
+            "caption": "Photo by Kerry Cooper"
+        }
+    ],
+    "navigation": {
+        "previous": "89-10-25",
+        "next": "89-10-28"
+    },
+    "graph": {
+        "bleach": "9",
+        "nevermind": "1",
+        "inutero": "0",
+        "non": "6"
+    }
+}

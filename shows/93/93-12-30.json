@@ -1,0 +1,893 @@
+{
+    "year": "1993",
+    "month": "12",
+    "day": "30",
+    "band": [
+        {
+            "NIRVANA": [
+                {
+                    "name": "Kurt Cobain ",
+                    "duty": "vocals, guitar"
+                },
+                {
+                    "name": "Krist Novoselic ",
+                    "duty": "bass"
+                },
+                {
+                    "name": "Dave Grohl ",
+                    "duty": "drums, backing vocals"
+                },
+                {
+                    "name": "Pat Smear ",
+                    "duty": "guitar"
+                },
+                {
+                    "name": "Lori Goldston ",
+                    "duty": "cello"
+                }
+            ],
+            "type": "group"
+        },
+        {
+            "name": "Bobcat Goldthwait ",
+            "duty": "master of ceremonies",
+            "type": "person"
+        }
+    ],
+    "crew": [
+        {
+            "name": "Alex MacLeod",
+            "duty": "tour manager"
+        },
+        {
+            "name": "Jeff Mason",
+            "duty": "production manager"
+        },
+        {
+            "name": "Kelly Nase",
+            "duty": "tour accountant"
+        },
+        {
+            "name": "Susanne Sasic",
+            "duty": "lighting designer"
+        },
+        {
+            "name": "Craig Overbay",
+            "duty": "sound engineer"
+        },
+        {
+            "name": "Ian Beveridge",
+            "duty": "monitor engineer"
+        },
+        {
+            "name": "Jim Vincent",
+            "duty": "guitar technician"
+        },
+        {
+            "name": "John Duncan",
+            "duty": "guitar technician"
+        },
+        {
+            "name": "Earnie Bailey",
+            "duty": "guitar technician"
+        },
+        {
+            "name": "Mike Dalke",
+            "duty": "drum technician"
+        },
+        {
+            "name": "Ed Swink",
+            "duty": "stage manager"
+        },
+        {
+            "name": "Allan Bagley",
+            "duty": "Pro Show sound crew"
+        },
+        {
+            "name": "Tom Pfaeffle",
+            "duty": "Pro Show sound crew"
+        },
+        {
+            "name": "Niko Vonk",
+            "duty": "Pro Show sound crew"
+        },
+        {
+            "name": "Mike Lamb",
+            "duty": "LSD lighting crew"
+        },
+        {
+            "name": "Pat Connolly",
+            "duty": "LSD lighting crew"
+        },
+        {
+            "name": "Gary Vaspol",
+            "duty": "LSD lighting crew"
+        }
+    ],
+    "buyer": {
+        "names": [
+            "Brian Murphy",
+            "Nick Masters",
+            "Danny O'Brien",
+            "Joe Barry"
+        ],
+        "company": "Avalon Attractions / Goldenvoice Productions"
+    },
+    "schedule": [
+        {
+            "event": "Load In",
+            "time": "08:00"
+        },
+        {
+            "event": "Soundcheck",
+            "time": "15:30"
+        },
+        {
+            "event": "Doors",
+            "time": "18:00"
+        },
+        {
+            "event": "Chokebore Showtime",
+            "time": "20:00"
+        },
+        {
+            "event": "Butthole Surfers Showtime",
+            "time": "20:45"
+        },
+        {
+            "event": "NIRVANA Showtime",
+            "time": "21:45"
+        }
+    ],
+    "soundcheck": [],
+    "soundcheck_incomplete": false,
+    "set": [
+        {
+            "type": "song",
+            "text": "Radio Friendly Unit Shifter",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "Drain You",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "Breed",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "Serve The Servants",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "Come As You Are",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "Smells Like Teen Spirit",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "Sliver",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "Dumb",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "In Bloom",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "About A Girl",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "Lithium",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "Pennyroyal Tea",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "School",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "Polly",
+            "notes": [
+                "acoustic"
+            ]
+        },
+        {
+            "type": "song",
+            "text": "Frances Farmer Will Have Her Revenge On Seattle",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "Rape Me",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "Territorial Pissings",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "Jesus Wants Me For A Sunbeam",
+            "notes": [
+                "acoustic"
+            ]
+        },
+        {
+            "type": "song",
+            "text": "The Man Who Sold The World",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "All Apologies",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "On A Plain",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "Heart-Shaped Box",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "Blew",
+            "notes": []
+        }
+    ],
+    "set_incomplete": false,
+    "transmission": {},
+    "rehearsel_circulating_sources": [],
+    "circulating_sources": [
+        {
+            "name": "AUD #1",
+            "complete": true,
+            "equipment": "Sonic Studios DSM-6 > Sony TCD-D7",
+            "generation": "DAT(1) > FLAC",
+            "video-generation": null,
+            "audio-generation": null,
+            "length-sound": "97 min / 7.5",
+            "notes": [
+                "The taper forgot to use his attenuator so the microphones overloaded causing distortion."
+            ]
+        },
+        {
+            "name": "AUD #2",
+            "complete": false,
+            "equipment": "Sony PC-62 > Sony WM-D3",
+            "generation": "ANA(M) > FLAC",
+            "video-generation": null,
+            "audio-generation": null,
+            "length-sound": "100 min / 8.0",
+            "notes": [
+                "In February 2015 the master tape was circulated.",
+                "\"Pennyroyal Tea\" cuts in due to a tape flip and the recording cuts off during \"Blew\" due to a tape swap."
+            ]
+        },
+        {
+            "name": "AUD #3",
+            "complete": true,
+            "equipment": "Unknown > Unknown",
+            "generation": "ANA(2) > FLAC",
+            "video-generation": null,
+            "audio-generation": null,
+            "length-sound": "93 min / 8.5",
+            "notes": [
+                "Circulated in January 2011."
+            ]
+        },
+        {
+            "name": "SBD #1",
+            "complete": false,
+            "equipment": "Soundboard > Unknown",
+            "generation": "Official CD [From The Muddy Banks Of The Wishkah]",
+            "video-generation": null,
+            "audio-generation": null,
+            "length-sound": "04 min / 10",
+            "notes": [
+                "Includes only \"Heart-Shaped Box\"."
+            ]
+        },
+        {
+            "name": "AMT #1",
+            "complete": true,
+            "equipment": "Unknown > Unknown",
+            "generation": "VHS(1) > DVDR/FLAC",
+            "video-generation": null,
+            "audio-generation": null,
+            "length-sound": "98 min / 8.0",
+            "notes": [
+                "Amateur video, shot from a slightly elevated position from the centre of the audience, fairly far back.",
+                "The VHS(1) used for both audio and video transfer has a few small dropouts throughout the show."
+            ]
+        },
+        {
+            "name": "AMT #2a",
+            "complete": false,
+            "equipment": "Unknown > Unknown",
+            "generation": "VHS(1) > DVDR/CDR",
+            "video-generation": null,
+            "audio-generation": null,
+            "length-sound": "70 min / 8.5",
+            "notes": [
+                "Surfaced in November 2002.",
+                "Missing \"Polly\" and everything after \"On A Plain.",
+                "Has cuts in the intro,  \"Dumb\", \"Frances Farmer Will Have Her Revenge On Seattle\", \"Jesus Wants Me For A Sunbeam\", and \"On A Plain\".",
+                "The first 50 minutes is shot from the back and middle-back of the venue. The remaining 20 minutes is shot from Cobain's side of the stage (and is mostly unobstructed).",
+                "The circulating video likely includes all that was recorded because the taper's batteries died.",
+                "A clip without audio has been broadcast on the VH1 special The Rise and Fall of Kurt Cobain."
+            ]
+        },
+        {
+            "name": "AMT #2b",
+            "complete": false,
+            "equipment": "Unknown > Unknown",
+            "generation": "MASTER > MP4",
+            "video-generation": null,
+            "audio-generation": null,
+            "length-sound": "15 min / ??",
+            "notes": [
+                "Shot by Dave Markey, sourced from a video uploaded in youtube, December 2013.",
+                "The picture quality suffers from YouTube's compression but the audio is clearer than AMT #2a.."
+            ]
+        }
+    ],
+    "uncirculated_sources": [],
+    "notes": [
+        "During the end-of-show destruction, Kurt used one of the angel's arms to play his guitar at one point. He then left the stage and returned with a drill, which he drove into his guitar before picking it up and spinning it over his head. Meanwhile, Krist started singing The Kinks' \"You Really Got Me.\""
+    ],
+    "press": [],
+    "memorabilia": [
+        {
+            "url": "/concerts/images/1993/1993-12-30/1993-12-30_01.jpg",
+            "caption": "Handbill/Flyer, designed by Coop"
+        },
+        {
+            "url": "/concerts/images/1993/1993-12-30/1993-12-30_02.jpg",
+            "caption": "Advert"
+        },
+        {
+            "url": "/concerts/images/1993/1993-12-30/1993-12-30_03.jpg",
+            "caption": "Ticket"
+        },
+        {
+            "url": "/concerts/images/1993/1993-12-30/1993-12-30_04.jpg",
+            "caption": "Backstage pass"
+        },
+        {
+            "url": "/concerts/images/1993/1993-12-30/1993-12-30_05.jpg",
+            "caption": "Backstage pass"
+        },
+        {
+            "url": "/concerts/images/1993/1993-12-30/1993-12-30_06.jpg",
+            "caption": "Advert"
+        },
+        {
+            "url": "/concerts/images/1993/1993-12-30/1993-12-30_07.jpg",
+            "caption": "Advert"
+        },
+        {
+            "url": "/concerts/images/1993/1993-12-30/1993-12-30_08.jpg",
+            "caption": "Backstage pass"
+        },
+        {
+            "url": "/concerts/images/1993/1993-12-30/1993-12-30_09.jpg",
+            "caption": "T-shirt merchandise"
+        },
+        {
+            "url": "/concerts/images/1993/1993-12-30/1993-12-30_10.jpg",
+            "caption": "Backstage pass"
+        },
+        {
+            "url": "/concerts/images/1993/1993-12-30/1993-12-30_11.jpg",
+            "caption": "Nirvana's tour itinerary"
+        },
+        {
+            "url": "/concerts/images/1993/1993-12-30/1993-12-30_12.jpg",
+            "caption": "Advert"
+        },
+        {
+            "url": "/concerts/images/1993/1993-12-30/1993-12-30_13.jpg",
+            "caption": "Photo pass"
+        }
+    ],
+    "images": [
+        {
+            "url": "/concerts/images/1993/1993-12-30/1993-12-30_001.jpg",
+            "caption": "Photo by Henry Diltz"
+        },
+        {
+            "url": "/concerts/images/1993/1993-12-30/1993-12-30_002.jpg",
+            "caption": "Photo by Kevin Estrada"
+        },
+        {
+            "url": "/concerts/images/1993/1993-12-30/1993-12-30_003.jpg",
+            "caption": "Photo by Kevin Estrada"
+        },
+        {
+            "url": "/concerts/images/1993/1993-12-30/1993-12-30_004.jpg",
+            "caption": "Photo by Kevin Estrada"
+        },
+        {
+            "url": "/concerts/images/1993/1993-12-30/1993-12-30_005.jpg",
+            "caption": "Photo by Jeffrey Mayer"
+        },
+        {
+            "url": "/concerts/images/1993/1993-12-30/1993-12-30_006.jpg",
+            "caption": "Unknown photographer"
+        },
+        {
+            "url": "/concerts/images/1993/1993-12-30/1993-12-30_007.jpg",
+            "caption": "Unknown photographer"
+        },
+        {
+            "url": "/concerts/images/1993/1993-12-30/1993-12-30_008.jpg",
+            "caption": "Photo by Jeffrey Mayer"
+        },
+        {
+            "url": "/concerts/images/1993/1993-12-30/1993-12-30_009.jpg",
+            "caption": "Photo by Jeffrey Mayer"
+        },
+        {
+            "url": "/concerts/images/1993/1993-12-30/1993-12-30_010.jpg",
+            "caption": "Photo by Jeffrey Mayer"
+        },
+        {
+            "url": "/concerts/images/1993/1993-12-30/1993-12-30_011.jpg",
+            "caption": "Photo by Jeffrey Mayer"
+        },
+        {
+            "url": "/concerts/images/1993/1993-12-30/1993-12-30_012.jpg",
+            "caption": "Photo by Jeffrey Mayer"
+        },
+        {
+            "url": "/concerts/images/1993/1993-12-30/1993-12-30_013.jpg",
+            "caption": "Photo by Jeffrey Mayer"
+        },
+        {
+            "url": "/concerts/images/1993/1993-12-30/1993-12-30_014.jpg",
+            "caption": "Unknown photographer"
+        },
+        {
+            "url": "/concerts/images/1993/1993-12-30/1993-12-30_015.jpg",
+            "caption": "Unknown photographer"
+        },
+        {
+            "url": "/concerts/images/1993/1993-12-30/1993-12-30_016.jpg",
+            "caption": "Photo by Kevin Estrada"
+        },
+        {
+            "url": "/concerts/images/1993/1993-12-30/1993-12-30_017.jpg",
+            "caption": "Photo by Kevin Estrada"
+        },
+        {
+            "url": "/concerts/images/1993/1993-12-30/1993-12-30_018.jpg",
+            "caption": "Photo by Kelly A. Swift"
+        },
+        {
+            "url": "/concerts/images/1993/1993-12-30/1993-12-30_019.jpg",
+            "caption": "Unknown photographer"
+        },
+        {
+            "url": "/concerts/images/1993/1993-12-30/1993-12-30_020.jpg",
+            "caption": "Photo by Larry Davis"
+        },
+        {
+            "url": "/concerts/images/1993/1993-12-30/1993-12-30_021.jpg",
+            "caption": "Photo by Sam Jones"
+        },
+        {
+            "url": "/concerts/images/1993/1993-12-30/1993-12-30_022.jpg",
+            "caption": "Photo by Jeffrey Mayer"
+        },
+        {
+            "url": "/concerts/images/1993/1993-12-30/1993-12-30_023.jpg",
+            "caption": "Photo by Jeffrey Mayer"
+        },
+        {
+            "url": "/concerts/images/1993/1993-12-30/1993-12-30_024.jpg",
+            "caption": "Photo by Jeffrey Mayer"
+        },
+        {
+            "url": "/concerts/images/1993/1993-12-30/1993-12-30_025.jpg",
+            "caption": "Photo by Jeffrey Mayer"
+        },
+        {
+            "url": "/concerts/images/1993/1993-12-30/1993-12-30_026.jpg",
+            "caption": "Photo by Jeffrey Mayer"
+        },
+        {
+            "url": "/concerts/images/1993/1993-12-30/1993-12-30_027.jpg",
+            "caption": "Photo by Jeffrey Mayer"
+        },
+        {
+            "url": "/concerts/images/1993/1993-12-30/1993-12-30_028.jpg",
+            "caption": "Photo by Sam Jones"
+        },
+        {
+            "url": "/concerts/images/1993/1993-12-30/1993-12-30_029.jpg",
+            "caption": "Photo by Sam Jones"
+        },
+        {
+            "url": "/concerts/images/1993/1993-12-30/1993-12-30_030.jpg",
+            "caption": "Photo by Jeffrey Mayer"
+        },
+        {
+            "url": "/concerts/images/1993/1993-12-30/1993-12-30_031.jpg",
+            "caption": "Photo by Jeffrey Mayer"
+        },
+        {
+            "url": "/concerts/images/1993/1993-12-30/1993-12-30_032.jpg",
+            "caption": "Photo by Jeffrey Mayer"
+        },
+        {
+            "url": "/concerts/images/1993/1993-12-30/1993-12-30_033.jpg",
+            "caption": "Photo by Jeffrey Mayer"
+        },
+        {
+            "url": "/concerts/images/1993/1993-12-30/1993-12-30_034.jpg",
+            "caption": "Unknown photographer"
+        },
+        {
+            "url": "/concerts/images/1993/1993-12-30/1993-12-30_035.jpg",
+            "caption": "Unknown photographer"
+        },
+        {
+            "url": "/concerts/images/1993/1993-12-30/1993-12-30_036.jpg",
+            "caption": "Photo by Jeffrey Mayer"
+        },
+        {
+            "url": "/concerts/images/1993/1993-12-30/1993-12-30_037.jpg",
+            "caption": "Unknown photographer"
+        },
+        {
+            "url": "/concerts/images/1993/1993-12-30/1993-12-30_038.jpg",
+            "caption": "Photo by Sam Jones"
+        },
+        {
+            "url": "/concerts/images/1993/1993-12-30/1993-12-30_039.jpg",
+            "caption": "Photo by Kevin Estrada"
+        },
+        {
+            "url": "/concerts/images/1993/1993-12-30/1993-12-30_040.jpg",
+            "caption": "Photo by Kevin Estrada"
+        },
+        {
+            "url": "/concerts/images/1993/1993-12-30/1993-12-30_041.jpg",
+            "caption": "Photo by Kevin Estrada"
+        },
+        {
+            "url": "/concerts/images/1993/1993-12-30/1993-12-30_042.jpg",
+            "caption": "Photo by Kevin Estrada"
+        },
+        {
+            "url": "/concerts/images/1993/1993-12-30/1993-12-30_043.jpg",
+            "caption": "Photo by Kevin Estrada"
+        },
+        {
+            "url": "/concerts/images/1993/1993-12-30/1993-12-30_044.jpg",
+            "caption": "Unknown photographer"
+        },
+        {
+            "url": "/concerts/images/1993/1993-12-30/1993-12-30_045.jpg",
+            "caption": "Photo by Sam Jones"
+        },
+        {
+            "url": "/concerts/images/1993/1993-12-30/1993-12-30_046.jpg",
+            "caption": "Photo by Sam Jones"
+        },
+        {
+            "url": "/concerts/images/1993/1993-12-30/1993-12-30_047.jpg",
+            "caption": "Photo by Sam Jones"
+        },
+        {
+            "url": "/concerts/images/1993/1993-12-30/1993-12-30_048.jpg",
+            "caption": "Photo by Sam Jones"
+        },
+        {
+            "url": "/concerts/images/1993/1993-12-30/1993-12-30_049.jpg",
+            "caption": "Photo by Sam Jones"
+        },
+        {
+            "url": "/concerts/images/1993/1993-12-30/1993-12-30_050.jpg",
+            "caption": "Photo by Sam Jones"
+        },
+        {
+            "url": "/concerts/images/1993/1993-12-30/1993-12-30_051.jpg",
+            "caption": "Unknown photographer"
+        },
+        {
+            "url": "/concerts/images/1993/1993-12-30/1993-12-30_052.jpg",
+            "caption": "Unknown photographer"
+        },
+        {
+            "url": "/concerts/images/1993/1993-12-30/1993-12-30_053.jpg",
+            "caption": "Unknown photographer"
+        },
+        {
+            "url": "/concerts/images/1993/1993-12-30/1993-12-30_054.jpg",
+            "caption": "Unknown photographer"
+        },
+        {
+            "url": "/concerts/images/1993/1993-12-30/1993-12-30_055.jpg",
+            "caption": "Unknown photographer"
+        },
+        {
+            "url": "/concerts/images/1993/1993-12-30/1993-12-30_056.jpg",
+            "caption": "Unknown photographer"
+        },
+        {
+            "url": "/concerts/images/1993/1993-12-30/1993-12-30_057.jpg",
+            "caption": "Unknown photographer"
+        },
+        {
+            "url": "/concerts/images/1993/1993-12-30/1993-12-30_058.jpg",
+            "caption": "Unknown photographer"
+        },
+        {
+            "url": "/concerts/images/1993/1993-12-30/1993-12-30_059.jpg",
+            "caption": "Unknown photographer"
+        },
+        {
+            "url": "/concerts/images/1993/1993-12-30/1993-12-30_060.jpg",
+            "caption": "Unknown photographer"
+        },
+        {
+            "url": "/concerts/images/1993/1993-12-30/1993-12-30_061.jpg",
+            "caption": "Unknown photographer"
+        },
+        {
+            "url": "/concerts/images/1993/1993-12-30/1993-12-30_062.jpg",
+            "caption": "Unknown photographer"
+        },
+        {
+            "url": "/concerts/images/1993/1993-12-30/1993-12-30_063.jpg",
+            "caption": "Unknown photographer"
+        },
+        {
+            "url": "/concerts/images/1993/1993-12-30/1993-12-30_064.jpg",
+            "caption": "Unknown photographer"
+        },
+        {
+            "url": "/concerts/images/1993/1993-12-30/1993-12-30_065.jpg",
+            "caption": "Unknown photographer"
+        },
+        {
+            "url": "/concerts/images/1993/1993-12-30/1993-12-30_066.jpg",
+            "caption": "Unknown photographer"
+        },
+        {
+            "url": "/concerts/images/1993/1993-12-30/1993-12-30_067.jpg",
+            "caption": "Unknown photographer"
+        },
+        {
+            "url": "/concerts/images/1993/1993-12-30/1993-12-30_068.jpg",
+            "caption": "Unknown photographer"
+        },
+        {
+            "url": "/concerts/images/1993/1993-12-30/1993-12-30_069.jpg",
+            "caption": "Photo by Larry Davis"
+        },
+        {
+            "url": "/concerts/images/1993/1993-12-30/1993-12-30_070.jpg",
+            "caption": "Unknown photographer"
+        },
+        {
+            "url": "/concerts/images/1993/1993-12-30/1993-12-30_071.jpg",
+            "caption": "Photo by Jeffrey Mayer"
+        },
+        {
+            "url": "/concerts/images/1993/1993-12-30/1993-12-30_072.jpg",
+            "caption": "Unknown photographer"
+        },
+        {
+            "url": "/concerts/images/1993/1993-12-30/1993-12-30_073.jpg",
+            "caption": "Unknown photographer"
+        },
+        {
+            "url": "/concerts/images/1993/1993-12-30/1993-12-30_074.jpg",
+            "caption": "Photo by Kevin Estrada"
+        },
+        {
+            "url": "/concerts/images/1993/1993-12-30/1993-12-30_075.jpg",
+            "caption": "Photo by Kevin Estrada"
+        },
+        {
+            "url": "/concerts/images/1993/1993-12-30/1993-12-30_076.jpg",
+            "caption": "Photo by Kevin Estrada"
+        },
+        {
+            "url": "/concerts/images/1993/1993-12-30/1993-12-30_077.jpg",
+            "caption": "Photo by Larry Davis"
+        },
+        {
+            "url": "/concerts/images/1993/1993-12-30/1993-12-30_078.jpg",
+            "caption": "Photo by Kevin Estrada"
+        },
+        {
+            "url": "/concerts/images/1993/1993-12-30/1993-12-30_079.jpg",
+            "caption": "Photo by Kevin Estrada"
+        },
+        {
+            "url": "/concerts/images/1993/1993-12-30/1993-12-30_080.jpg",
+            "caption": "Photo by Kevin Estrada"
+        },
+        {
+            "url": "/concerts/images/1993/1993-12-30/1993-12-30_081.jpg",
+            "caption": "Photo by Larry Davis"
+        },
+        {
+            "url": "/concerts/images/1993/1993-12-30/1993-12-30_082.jpg",
+            "caption": "Photo by Jeffrey Mayer"
+        },
+        {
+            "url": "/concerts/images/1993/1993-12-30/1993-12-30_083.jpg",
+            "caption": "Photo by Jeffrey Mayer"
+        },
+        {
+            "url": "/concerts/images/1993/1993-12-30/1993-12-30_084.jpg",
+            "caption": "Photo by Jeffrey Mayer"
+        },
+        {
+            "url": "/concerts/images/1993/1993-12-30/1993-12-30_085.jpg",
+            "caption": "Photo by Kevin Estrada"
+        },
+        {
+            "url": "/concerts/images/1993/1993-12-30/1993-12-30_086.jpg",
+            "caption": "Photo by Kevin Estrada"
+        },
+        {
+            "url": "/concerts/images/1993/1993-12-30/1993-12-30_087.jpg",
+            "caption": "Photo by Kevin Estrada"
+        },
+        {
+            "url": "/concerts/images/1993/1993-12-30/1993-12-30_088.jpg",
+            "caption": "Unknown photographer"
+        },
+        {
+            "url": "/concerts/images/1993/1993-12-30/1993-12-30_089.jpg",
+            "caption": "Photo by Kevin Estrada"
+        },
+        {
+            "url": "/concerts/images/1993/1993-12-30/1993-12-30_090.jpg",
+            "caption": "Photo by Kevin Estrada"
+        },
+        {
+            "url": "/concerts/images/1993/1993-12-30/1993-12-30_091.jpg",
+            "caption": "Photo by Kevin Estrada"
+        },
+        {
+            "url": "/concerts/images/1993/1993-12-30/1993-12-30_092.jpg",
+            "caption": "Photo by Kevin Estrada"
+        },
+        {
+            "url": "/concerts/images/1993/1993-12-30/1993-12-30_093.jpg",
+            "caption": "Photo by Kevin Estrada"
+        },
+        {
+            "url": "/concerts/images/1993/1993-12-30/1993-12-30_094.jpg",
+            "caption": "Photo by Kevin Estrada"
+        },
+        {
+            "url": "/concerts/images/1993/1993-12-30/1993-12-30_095.jpg",
+            "caption": "Photo by Kevin Estrada"
+        },
+        {
+            "url": "/concerts/images/1993/1993-12-30/1993-12-30_096.jpg",
+            "caption": "Photo by Kevin Estrada"
+        },
+        {
+            "url": "/concerts/images/1993/1993-12-30/1993-12-30_097.jpg",
+            "caption": "Photo by Kevin Estrada"
+        },
+        {
+            "url": "/concerts/images/1993/1993-12-30/1993-12-30_098.jpg",
+            "caption": "Photo by Kevin Estrada"
+        },
+        {
+            "url": "/concerts/images/1993/1993-12-30/1993-12-30_099.jpg",
+            "caption": "Unknown photographer"
+        },
+        {
+            "url": "/concerts/images/1993/1993-12-30/1993-12-30_100.jpg",
+            "caption": "Unknown photographer"
+        },
+        {
+            "url": "/concerts/images/1993/1993-12-30/1993-12-30_101.jpg",
+            "caption": "Unknown photographer"
+        },
+        {
+            "url": "/concerts/images/1993/1993-12-30/1993-12-30_102.jpg",
+            "caption": "Unknown photographer"
+        },
+        {
+            "url": "/concerts/images/1993/1993-12-30/1993-12-30_103.jpg",
+            "caption": "Unknown photographer"
+        },
+        {
+            "url": "/concerts/images/1993/1993-12-30/1993-12-30_104.jpg",
+            "caption": "Unknown photographer"
+        },
+        {
+            "url": "/concerts/images/1993/1993-12-30/1993-12-30_105.jpg",
+            "caption": "Unknown photographer"
+        },
+        {
+            "url": "/concerts/images/1993/1993-12-30/1993-12-30_106.jpg",
+            "caption": "Photo by Jeffrey Mayer"
+        },
+        {
+            "url": "/concerts/images/1993/1993-12-30/1993-12-30_107.jpg",
+            "caption": "Unknown photographer"
+        },
+        {
+            "url": "/concerts/images/1993/1993-12-30/1993-12-30_108.jpg",
+            "caption": "Unknown photographer"
+        },
+        {
+            "url": "/concerts/images/1993/1993-12-30/1993-12-30_109.jpg",
+            "caption": "Unknown photographer"
+        },
+        {
+            "url": "/concerts/images/1993/1993-12-30/1993-12-30_110.jpg",
+            "caption": "Photo by Jeffrey Mayer"
+        },
+        {
+            "url": "/concerts/images/1993/1993-12-30/1993-12-30_111.jpg",
+            "caption": "Unknown photographer"
+        },
+        {
+            "url": "/concerts/images/1993/1993-12-30/1993-12-30_112.jpg",
+            "caption": "Photo by Jeroen Ras"
+        },
+        {
+            "url": "/concerts/images/1993/1993-12-30/1993-12-30_113.jpg",
+            "caption": "Unknown photographer"
+        },
+        {
+            "url": "/concerts/images/1993/1993-12-30/1993-12-30_114.jpg",
+            "caption": "Unknown photographer"
+        },
+        {
+            "url": "/concerts/images/1993/1993-12-30/1993-12-30_115.jpg",
+            "caption": "Photo by Larry Davis"
+        }
+    ],
+    "navigation": {
+        "previous": "93-12-29",
+        "next": "93-12-31"
+    },
+    "graph": {
+        "bleach": "3",
+        "nevermind": "9",
+        "inutero": "8",
+        "non": "3"
+    }
+}

@@ -1,0 +1,303 @@
+{
+    "year": "1991",
+    "month": "08",
+    "day": "24",
+    "venue": "August 24",
+    "city": "1991 - Tanzbrunnen (Monsters of Spex)",
+    "state": "Cologne",
+    "country": "DE",
+    "band": [
+        {
+            "NIRVANA": [
+                {
+                    "name": "Kurt Cobain ",
+                    "duty": "vocals, guitar"
+                },
+                {
+                    "name": "Krist Novoselic ",
+                    "duty": "bass"
+                },
+                {
+                    "name": "Dave Grohl ",
+                    "duty": "drums, backing vocals"
+                }
+            ],
+            "type": "group"
+        }
+    ],
+    "crew": [
+        {
+            "name": "Alex MacLeod",
+            "duty": "tour manager"
+        },
+        {
+            "name": "Craig Montgomery",
+            "duty": "sound engineer"
+        },
+        {
+            "name": "Ian Beveridge",
+            "duty": "monitor engineer"
+        }
+    ],
+    "buyer": {
+        "names": [
+            "Bizarre Production"
+        ]
+    },
+    "schedule": [
+        {
+            "event": "Load In",
+            "time": "…:…"
+        },
+        {
+            "event": "Soundcheck",
+            "time": "…:…"
+        },
+        {
+            "event": "Doors",
+            "time": "11:00"
+        },
+        {
+            "event": "NIRVANA Showtime",
+            "time": "…:…"
+        },
+        {
+            "event": "Well Well Well Showtime",
+            "time": "…:…"
+        },
+        {
+            "event": "Strangemen Showtime",
+            "time": "…:…"
+        },
+        {
+            "event": "Babylon Fighters Showtime",
+            "time": "…:…"
+        },
+        {
+            "event": "Danielle Dax Showtime",
+            "time": "…:…"
+        },
+        {
+            "event": "Rausch Showtime",
+            "time": "…:…"
+        },
+        {
+            "event": "Bob Mould Showtime",
+            "time": "…:…"
+        },
+        {
+            "event": "Dinosaur Jr. Showtime",
+            "time": "…:…"
+        },
+        {
+            "event": "Sonic Youth Showtime",
+            "time": "…:…"
+        }
+    ],
+    "soundcheck": [],
+    "soundcheck_incomplete": false,
+    "set": [
+        {
+            "type": "song",
+            "text": "Polly",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "Drain You",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "Floyd The Barber",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "Sliver",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "School",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "Breed",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "Smells Like Teen Spirit",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "Territorial Pissings",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "Negative Creep",
+            "notes": []
+        }
+    ],
+    "set_incomplete": false,
+    "transmission": {},
+    "rehearsel_circulating_sources": [],
+    "circulating_sources": [
+        {
+            "name": "AUD #1",
+            "complete": true,
+            "equipment": "Unknown > Sony TCD-D3",
+            "generation": "DAT(1) > CDR(1) > FLAC",
+            "video-generation": null,
+            "audio-generation": null,
+            "length-sound": "27 min / 9.0",
+            "notes": [
+                "\"Polly\" cuts in."
+            ]
+        },
+        {
+            "name": "AUD #2",
+            "complete": true,
+            "equipment": "Sony PC-62 > Sony WM-D3",
+            "generation": "ANA(1) > FLAC",
+            "video-generation": null,
+            "audio-generation": null,
+            "length-sound": "29 min / 7.5",
+            "notes": [
+                "An ANA(1) upgrade was circulated in January 2006.",
+                "\"Polly\" and \"Negative Creep\" cut in.",
+                "The taper copied this to another tape as filler in order to reuse the tape he had originally recorded it on, so ANA(1) is the lowest existing generation."
+            ]
+        },
+        {
+            "name": "AUD #3",
+            "complete": true,
+            "equipment": "Unknown > Unknown",
+            "generation": "ANA(x) > FLAC",
+            "video-generation": null,
+            "audio-generation": null,
+            "length-sound": "27 min / 7.0",
+            "notes": [
+                "Surfaced in April 2007.",
+                "\"Polly\" cuts in."
+            ]
+        },
+        {
+            "name": "AMT #1",
+            "complete": true,
+            "equipment": "Aiwa CM-30 > Sony",
+            "generation": "HI8(M) > DVDR(2)/FLAC",
+            "video-generation": null,
+            "audio-generation": null,
+            "length-sound": "29 min / 8.5",
+            "notes": [
+                "Amateur video, shot from a slightly elevated position towards the back of the audience, just to the left of centre. \n                                    \"Polly\" cuts in.\n"
+            ]
+        }
+    ],
+    "uncirculated_sources": [
+        {
+            "name": "PRO #1",
+            "note": "Shot by a local crew with a single camera."
+        },
+        {
+            "name": "PRO #2",
+            "note": "\nEquipment:\nBeaulieu Boom Microphone > Beaulieu 5008 S (Super 8)\nShot by Dave Markey.\nClips appear on the official video release 1991: The Year Punk Broke.\nClips appear on a rough edit of the official video release 1991: The Year Punk Broke that Dave Markey posted on YouTube.\n"
+        }
+    ],
+    "notes": [
+        "The headlining bands cut their sets short so Nirvana, who missed their performance slot after supposedly getting caught in traffic and/or at customs, could squeeze in a 30-minute set. However, according to the band's former agent, the band intentionally showed up late so they wouldn't have to play so early in the day.",
+        "Nirvana played using Rausch's equipment, resulting in Kurt and Krist playing on the opposite sides of the stage as usual."
+    ],
+    "press": [],
+    "memorabilia": [
+        {
+            "url": "/concerts/images/1991/1991-08-24/1991-08-24_01.jpg",
+            "caption": "Ticket"
+        },
+        {
+            "url": "/concerts/images/1991/1991-08-24/1991-08-24_02.jpg",
+            "caption": "Handbill/Flyer, designed by unknown"
+        },
+        {
+            "url": "/concerts/images/1991/1991-08-24/1991-08-24_03.jpg",
+            "caption": "Backstage pass"
+        },
+        {
+            "url": "/concerts/images/1991/1991-08-24/1991-08-24_04.jpg",
+            "caption": "Handwritten setlist"
+        },
+        {
+            "url": "/concerts/images/1991/1991-08-24/1991-08-24_05.jpg",
+            "caption": "Advert"
+        },
+        {
+            "url": "/concerts/images/1991/1991-08-24/1991-08-24_06.jpg",
+            "caption": "Nirvana's tour itinerary"
+        },
+        {
+            "url": "/concerts/images/1991/1991-08-24/1991-08-24_07.jpg",
+            "caption": "Advert"
+        },
+        {
+            "url": "/concerts/images/1991/1991-08-24/1991-08-24_08.jpg",
+            "caption": "Advert"
+        }
+    ],
+    "images": [
+        {
+            "url": "/concerts/images/1991/1991-08-24/1991-08-24_001.jpg",
+            "caption": "Photo by Mike Abrams"
+        },
+        {
+            "url": "/concerts/images/1991/1991-08-24/1991-08-24_002.jpg",
+            "caption": "Photo by Mike Abrams"
+        },
+        {
+            "url": "/concerts/images/1991/1991-08-24/1991-08-24_003.jpg",
+            "caption": "Photo by Mike Abrams"
+        },
+        {
+            "url": "/concerts/images/1991/1991-08-24/1991-08-24_004.jpg",
+            "caption": "Photo by Mike Abrams"
+        },
+        {
+            "url": "/concerts/images/1991/1991-08-24/1991-08-24_005.jpg",
+            "caption": "Photo by Olaf Heine"
+        },
+        {
+            "url": "/concerts/images/1991/1991-08-24/1991-08-24_006.jpg",
+            "caption": "Photo by Olaf Heine"
+        },
+        {
+            "url": "/concerts/images/1991/1991-08-24/1991-08-24_007.jpg",
+            "caption": "Photo by Olaf Heine"
+        },
+        {
+            "url": "/concerts/images/1991/1991-08-24/1991-08-24_008.jpg",
+            "caption": "Photo by Bagge Vs Bagwahn"
+        },
+        {
+            "url": "/concerts/images/1991/1991-08-24/1991-08-24_009.jpg",
+            "caption": "Photo by Mike Abrams"
+        },
+        {
+            "url": "/concerts/images/1991/1991-08-24/1991-08-24_010.jpg",
+            "caption": "Photo by Bagge Vs Bagwahn"
+        }
+    ],
+    "navigation": {
+        "previous": "91-08-23",
+        "next": "91-08-25"
+    },
+    "graph": {
+        "bleach": "3",
+        "nevermind": "5",
+        "inutero": "0",
+        "non": "1"
+    }
+}

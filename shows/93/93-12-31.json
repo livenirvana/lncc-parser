@@ -1,0 +1,703 @@
+{
+    "year": "1993",
+    "month": "12",
+    "day": "31",
+    "band": [
+        {
+            "NIRVANA": [
+                {
+                    "name": "Kurt Cobain ",
+                    "duty": "vocals, guitar"
+                },
+                {
+                    "name": "Krist Novoselic ",
+                    "duty": "bass"
+                },
+                {
+                    "name": "Dave Grohl ",
+                    "duty": "drums, backing vocals"
+                },
+                {
+                    "name": "Pat Smear ",
+                    "duty": "guitar"
+                },
+                {
+                    "name": "Lori Goldston ",
+                    "duty": "cello"
+                }
+            ],
+            "type": "group"
+        },
+        {
+            "name": "Bobcat Goldthwait ",
+            "duty": "master of ceremonies",
+            "type": "person"
+        }
+    ],
+    "crew": [
+        {
+            "name": "Alex MacLeod",
+            "duty": "tour manager"
+        },
+        {
+            "name": "Jeff Mason",
+            "duty": "production manager"
+        },
+        {
+            "name": "Kelly Nase",
+            "duty": "tour accountant"
+        },
+        {
+            "name": "Susanne Sasic",
+            "duty": "lighting designer"
+        },
+        {
+            "name": "Craig Overbay",
+            "duty": "sound engineer"
+        },
+        {
+            "name": "Ian Beveridge",
+            "duty": "monitor engineer"
+        },
+        {
+            "name": "Jim Vincent",
+            "duty": "guitar technician"
+        },
+        {
+            "name": "John Duncan",
+            "duty": "guitar technician"
+        },
+        {
+            "name": "Earnie Bailey",
+            "duty": "guitar technician"
+        },
+        {
+            "name": "Mike Dalke",
+            "duty": "drum technician"
+        },
+        {
+            "name": "Ed Swink",
+            "duty": "stage manager"
+        },
+        {
+            "name": "Allan Bagley",
+            "duty": "Pro Show sound crew"
+        },
+        {
+            "name": "Tom Pfaeffle",
+            "duty": "Pro Show sound crew"
+        },
+        {
+            "name": "Niko Vonk",
+            "duty": "Pro Show sound crew"
+        },
+        {
+            "name": "Mike Lamb",
+            "duty": "LSD lighting crew"
+        },
+        {
+            "name": "Pat Connolly",
+            "duty": "LSD lighting crew"
+        },
+        {
+            "name": "Gary Vaspol",
+            "duty": "LSD lighting crew"
+        }
+    ],
+    "buyer": {
+        "names": [
+            "Les Smith",
+            "Sherry Wasserman",
+            "Nigel James"
+        ],
+        "company": "Bill Graham Presnts"
+    },
+    "schedule": [
+        {
+            "event": "Load In",
+            "time": "09:00"
+        },
+        {
+            "event": "Soundcheck",
+            "time": "15:30"
+        },
+        {
+            "event": "Doors",
+            "time": "18:00"
+        },
+        {
+            "event": "Chokebore Showtime",
+            "time": "20:00"
+        },
+        {
+            "event": "Butthole Surfers Showtime",
+            "time": "20:45"
+        },
+        {
+            "event": "NIRVANA Showtime",
+            "time": "21:45"
+        }
+    ],
+    "soundcheck": [],
+    "soundcheck_incomplete": false,
+    "set": [
+        {
+            "type": "song",
+            "text": "Radio Friendly Unit Shifter",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "Drain You",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "Breed",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "Serve The Servants",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "Come As You Are",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "Smells Like Teen Spirit",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "Sliver",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "Dumb",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "In Bloom",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "About A Girl",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "Lithium",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "Pennyroyal Tea",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "School",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "Polly",
+            "notes": [
+                "acoustic"
+            ]
+        },
+        {
+            "type": "song",
+            "text": "Frances Farmer Will Have Her Revenge On Seattle",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "Milk It",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "Rape Me",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "Territorial Pissings",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "Jesus Wants Me For A Sunbeam",
+            "notes": [
+                "acoustic"
+            ]
+        },
+        {
+            "type": "song",
+            "text": "Where Did You Sleep Last Night?",
+            "notes": [
+                "acoustic"
+            ]
+        },
+        {
+            "type": "song",
+            "text": "The Man Who Sold The World",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "All Apologies",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "Scentless Apprentice",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "Heart-Shaped Box",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "Blew",
+            "notes": []
+        }
+    ],
+    "set_incomplete": false,
+    "transmission": {},
+    "rehearsel_circulating_sources": [],
+    "circulating_sources": [
+        {
+            "name": "AUD #1a",
+            "complete": true,
+            "equipment": "Nakamichi CM-700's > Sony TCD-D3",
+            "generation": "DAT(1) > FLAC",
+            "video-generation": null,
+            "audio-generation": null,
+            "length-sound": "107 min / 9.5",
+            "notes": [
+                "The intro to \"Radio Friendly Unit Shifter\" cuts in.",
+                "More complete but lower quality than AUD #1b."
+            ]
+        },
+        {
+            "name": "AUD #1b",
+            "complete": true,
+            "equipment": "Nakamichi CM-700's > Sony TCD-D3",
+            "generation": "DAT(M) > FLAC",
+            "video-generation": null,
+            "audio-generation": null,
+            "length-sound": "107 min / 9.5",
+            "notes": [
+                "The intro to \"Radio Friendly Unit Shifter\" cuts in but is more complete than AUD #1a.",
+                "Has cuts during the encore break and during the very end not present on AUD#1a.",
+                "Remastered."
+            ]
+        },
+        {
+            "name": "AUD #2",
+            "complete": true,
+            "equipment": "Core Sound Binaural > Sony TCD-D7",
+            "generation": "DAT(1) > FLAC",
+            "video-generation": null,
+            "audio-generation": null,
+            "length-sound": "105 min / 9.0",
+            "notes": [
+                "Cuts off during the end noise."
+            ]
+        },
+        {
+            "name": "AMT #1",
+            "complete": true,
+            "equipment": "Unknown > Unknown",
+            "generation": "HI8(M) > DVD > MKV",
+            "video-generation": null,
+            "audio-generation": null,
+            "length-sound": "107 min / 8.5",
+            "notes": [
+                "Amateur video, shot from centre left of the balcony.",
+                "Has a cut in \"Radio Friendly Unit Shifter\"."
+            ]
+        },
+        {
+            "name": "AMT #2",
+            "complete": false,
+            "equipment": "Unknown > Unknown",
+            "generation": "VHS(1) > DVDR",
+            "video-generation": null,
+            "audio-generation": null,
+            "length-sound": "102 min / 8.0",
+            "notes": [
+                "Amateur video, shot from the centre of the balcony. ",
+                "Missing \"Milk It\".",
+                "\"Rape Me\" cuts in."
+            ]
+        }
+    ],
+    "uncirculated_sources": [],
+    "notes": [
+        "During the opening noise of \"Radio Friendly Unit Shifter,\" Kurt jammed on the guitar riff of Deep Purple's \"Smoke On The Water.\"",
+        "Kurt stopped \"Jesus Wants Me For A Sunbeam\" to yell at a guy groping someone in the audience. The band then picked up the song where they left off. A few bars after resuming the song, Kurt stopped playing guitar and finished singing the song with the guitar lying on his lap."
+    ],
+    "press": [],
+    "memorabilia": [
+        {
+            "url": "/concerts/images/1993/1993-12-31/1993-12-31_01.jpg",
+            "caption": "Advert"
+        },
+        {
+            "url": "/concerts/images/1993/1993-12-31/1993-12-31_02.jpg",
+            "caption": "Handbill/Flyer, designed by Harry Rossit"
+        },
+        {
+            "url": "/concerts/images/1993/1993-12-31/1993-12-31_03.jpg",
+            "caption": "Ticket"
+        },
+        {
+            "url": "/concerts/images/1993/1993-12-31/1993-12-31_04.jpg",
+            "caption": "Backstage pass"
+        },
+        {
+            "url": "/concerts/images/1993/1993-12-31/1993-12-31_05.jpg",
+            "caption": "Backstage pass"
+        },
+        {
+            "url": "/concerts/images/1993/1993-12-31/1993-12-31_06.jpg",
+            "caption": "Backstage pass"
+        },
+        {
+            "url": "/concerts/images/1993/1993-12-31/1993-12-31_07.jpg",
+            "caption": "Advert"
+        },
+        {
+            "url": "/concerts/images/1993/1993-12-31/1993-12-31_08.jpg",
+            "caption": "Advert"
+        },
+        {
+            "url": "/concerts/images/1993/1993-12-31/1993-12-31_09.jpg",
+            "caption": "Nirvana's tour itinerary"
+        }
+    ],
+    "images": [
+        {
+            "url": "/concerts/images/1993/1993-12-31/1993-12-31_001.jpg",
+            "caption": "Photo by Jay Blakesberg"
+        },
+        {
+            "url": "/concerts/images/1993/1993-12-31/1993-12-31_002.jpg",
+            "caption": "Photo by Jay Blakesberg"
+        },
+        {
+            "url": "/concerts/images/1993/1993-12-31/1993-12-31_003.jpg",
+            "caption": "Photo by Jay Blakesberg"
+        },
+        {
+            "url": "/concerts/images/1993/1993-12-31/1993-12-31_004.jpg",
+            "caption": "Photo by Jay Blakesberg"
+        },
+        {
+            "url": "/concerts/images/1993/1993-12-31/1993-12-31_005.jpg",
+            "caption": "Photo by Jay Blakesberg"
+        },
+        {
+            "url": "/concerts/images/1993/1993-12-31/1993-12-31_006.jpg",
+            "caption": "Photo by Jay Blakesberg"
+        },
+        {
+            "url": "/concerts/images/1993/1993-12-31/1993-12-31_007.jpg",
+            "caption": "Photo by Jay Blakesberg"
+        },
+        {
+            "url": "/concerts/images/1993/1993-12-31/1993-12-31_008.jpg",
+            "caption": "Photo by Jay Blakesberg"
+        },
+        {
+            "url": "/concerts/images/1993/1993-12-31/1993-12-31_009.jpg",
+            "caption": "Photo by Jay Blakesberg"
+        },
+        {
+            "url": "/concerts/images/1993/1993-12-31/1993-12-31_010.jpg",
+            "caption": "Photo by Jay Blakesberg"
+        },
+        {
+            "url": "/concerts/images/1993/1993-12-31/1993-12-31_011.jpg",
+            "caption": "Photo by Jay Blakesberg"
+        },
+        {
+            "url": "/concerts/images/1993/1993-12-31/1993-12-31_012.jpg",
+            "caption": "Photo by Jay Blakesberg"
+        },
+        {
+            "url": "/concerts/images/1993/1993-12-31/1993-12-31_013.jpg",
+            "caption": "Photo by Jay Blakesberg"
+        },
+        {
+            "url": "/concerts/images/1993/1993-12-31/1993-12-31_014.jpg",
+            "caption": "Photo by Jay Blakesberg"
+        },
+        {
+            "url": "/concerts/images/1993/1993-12-31/1993-12-31_015.jpg",
+            "caption": "Photo by Jay Blakesberg"
+        },
+        {
+            "url": "/concerts/images/1993/1993-12-31/1993-12-31_016.jpg",
+            "caption": "Photo by Jay Blakesberg"
+        },
+        {
+            "url": "/concerts/images/1993/1993-12-31/1993-12-31_017.jpg",
+            "caption": "Photo by Jay Blakesberg"
+        },
+        {
+            "url": "/concerts/images/1993/1993-12-31/1993-12-31_018.jpg",
+            "caption": "Photo by Jay Blakesberg"
+        },
+        {
+            "url": "/concerts/images/1993/1993-12-31/1993-12-31_019.jpg",
+            "caption": "Unknown photographer"
+        },
+        {
+            "url": "/concerts/images/1993/1993-12-31/1993-12-31_020.jpg",
+            "caption": "Unknown photographer"
+        },
+        {
+            "url": "/concerts/images/1993/1993-12-31/1993-12-31_021.jpg",
+            "caption": "Unknown photographer"
+        },
+        {
+            "url": "/concerts/images/1993/1993-12-31/1993-12-31_022.jpg",
+            "caption": "Photo by Jay Blakesberg"
+        },
+        {
+            "url": "/concerts/images/1993/1993-12-31/1993-12-31_023.jpg",
+            "caption": "Photo by Jay Blakesberg"
+        },
+        {
+            "url": "/concerts/images/1993/1993-12-31/1993-12-31_024.jpg",
+            "caption": "Photo by Jay Blakesberg"
+        },
+        {
+            "url": "/concerts/images/1993/1993-12-31/1993-12-31_025.jpg",
+            "caption": "Photo by Jay Blakesberg"
+        },
+        {
+            "url": "/concerts/images/1993/1993-12-31/1993-12-31_026.jpg",
+            "caption": "Photo by Jay Blakesberg"
+        },
+        {
+            "url": "/concerts/images/1993/1993-12-31/1993-12-31_027.jpg",
+            "caption": "Photo by Jay Blakesberg"
+        },
+        {
+            "url": "/concerts/images/1993/1993-12-31/1993-12-31_028.jpg",
+            "caption": "Photo by Steve Jennings"
+        },
+        {
+            "url": "/concerts/images/1993/1993-12-31/1993-12-31_029.jpg",
+            "caption": "Photo by Jay Blakesberg"
+        },
+        {
+            "url": "/concerts/images/1993/1993-12-31/1993-12-31_030.jpg",
+            "caption": "Photo by Jay Blakesberg"
+        },
+        {
+            "url": "/concerts/images/1993/1993-12-31/1993-12-31_031.jpg",
+            "caption": "Photo by Jay Blakesberg"
+        },
+        {
+            "url": "/concerts/images/1993/1993-12-31/1993-12-31_032.jpg",
+            "caption": "Photo by Jay Blakesberg"
+        },
+        {
+            "url": "/concerts/images/1993/1993-12-31/1993-12-31_033.jpg",
+            "caption": "Photo by Jay Blakesberg"
+        },
+        {
+            "url": "/concerts/images/1993/1993-12-31/1993-12-31_034.jpg",
+            "caption": "Photo by Jay Blakesberg"
+        },
+        {
+            "url": "/concerts/images/1993/1993-12-31/1993-12-31_035.jpg",
+            "caption": "Photo by Jay Blakesberg"
+        },
+        {
+            "url": "/concerts/images/1993/1993-12-31/1993-12-31_036.jpg",
+            "caption": "Photo by Jay Blakesberg"
+        },
+        {
+            "url": "/concerts/images/1993/1993-12-31/1993-12-31_037.jpg",
+            "caption": "Photo by Jay Blakesberg"
+        },
+        {
+            "url": "/concerts/images/1993/1993-12-31/1993-12-31_038.jpg",
+            "caption": "Photo by Jay Blakesberg"
+        },
+        {
+            "url": "/concerts/images/1993/1993-12-31/1993-12-31_039.jpg",
+            "caption": "Photo by Jay Blakesberg"
+        },
+        {
+            "url": "/concerts/images/1993/1993-12-31/1993-12-31_040.jpg",
+            "caption": "Photo by Jay Blakesberg"
+        },
+        {
+            "url": "/concerts/images/1993/1993-12-31/1993-12-31_041.jpg",
+            "caption": "Photo by Jay Blakesberg"
+        },
+        {
+            "url": "/concerts/images/1993/1993-12-31/1993-12-31_042.jpg",
+            "caption": "Photo by Jay Blakesberg"
+        },
+        {
+            "url": "/concerts/images/1993/1993-12-31/1993-12-31_043.jpg",
+            "caption": "Photo by Jay Blakesberg"
+        },
+        {
+            "url": "/concerts/images/1993/1993-12-31/1993-12-31_044.jpg",
+            "caption": "Photo by Jay Blakesberg"
+        },
+        {
+            "url": "/concerts/images/1993/1993-12-31/1993-12-31_045.jpg",
+            "caption": "Photo by Steve Jennings"
+        },
+        {
+            "url": "/concerts/images/1993/1993-12-31/1993-12-31_046.jpg",
+            "caption": "Photo by Jay Blakesberg"
+        },
+        {
+            "url": "/concerts/images/1993/1993-12-31/1993-12-31_047.jpg",
+            "caption": "Photo by Jay Blakesberg"
+        },
+        {
+            "url": "/concerts/images/1993/1993-12-31/1993-12-31_048.jpg",
+            "caption": "Photo by Jay Blakesberg"
+        },
+        {
+            "url": "/concerts/images/1993/1993-12-31/1993-12-31_049.jpg",
+            "caption": "Photo by Jay Blakesberg"
+        },
+        {
+            "url": "/concerts/images/1993/1993-12-31/1993-12-31_050.jpg",
+            "caption": "Photo by Jay Blakesberg"
+        },
+        {
+            "url": "/concerts/images/1993/1993-12-31/1993-12-31_051.jpg",
+            "caption": "Photo by Jay Blakesberg"
+        },
+        {
+            "url": "/concerts/images/1993/1993-12-31/1993-12-31_052.jpg",
+            "caption": "Photo by Jay Blakesberg"
+        },
+        {
+            "url": "/concerts/images/1993/1993-12-31/1993-12-31_053.jpg",
+            "caption": "Photo by Jay Blakesberg"
+        },
+        {
+            "url": "/concerts/images/1993/1993-12-31/1993-12-31_054.jpg",
+            "caption": "Photo by Jay Blakesberg"
+        },
+        {
+            "url": "/concerts/images/1993/1993-12-31/1993-12-31_055.jpg",
+            "caption": "Photo by Jay Blakesberg"
+        },
+        {
+            "url": "/concerts/images/1993/1993-12-31/1993-12-31_056.jpg",
+            "caption": "Photo by Jay Blakesberg"
+        },
+        {
+            "url": "/concerts/images/1993/1993-12-31/1993-12-31_057.jpg",
+            "caption": "Photo by Jay Blakesberg"
+        },
+        {
+            "url": "/concerts/images/1993/1993-12-31/1993-12-31_058.jpg",
+            "caption": "Photo by Jay Blakesberg"
+        },
+        {
+            "url": "/concerts/images/1993/1993-12-31/1993-12-31_059.jpg",
+            "caption": "Photo by Jay Blakesberg"
+        },
+        {
+            "url": "/concerts/images/1993/1993-12-31/1993-12-31_060.jpg",
+            "caption": "Photo by Jay Blakesberg"
+        },
+        {
+            "url": "/concerts/images/1993/1993-12-31/1993-12-31_061.jpg",
+            "caption": "Photo by Jay Blakesberg"
+        },
+        {
+            "url": "/concerts/images/1993/1993-12-31/1993-12-31_062.jpg",
+            "caption": "Photo by Jay Blakesberg"
+        },
+        {
+            "url": "/concerts/images/1993/1993-12-31/1993-12-31_063.jpg",
+            "caption": "Photo by Jay Blakesberg"
+        },
+        {
+            "url": "/concerts/images/1993/1993-12-31/1993-12-31_064.jpg",
+            "caption": "Photo by Jay Blakesberg"
+        },
+        {
+            "url": "/concerts/images/1993/1993-12-31/1993-12-31_065.jpg",
+            "caption": "Photo by Jay Blakesberg"
+        },
+        {
+            "url": "/concerts/images/1993/1993-12-31/1993-12-31_066.jpg",
+            "caption": "Photo by Jay Blakesberg"
+        },
+        {
+            "url": "/concerts/images/1993/1993-12-31/1993-12-31_067.jpg",
+            "caption": "Photo by Jay Blakesberg"
+        },
+        {
+            "url": "/concerts/images/1993/1993-12-31/1993-12-31_068.jpg",
+            "caption": "Photo by Jay Blakesberg"
+        },
+        {
+            "url": "/concerts/images/1993/1993-12-31/1993-12-31_069.jpg",
+            "caption": "Photo by Jay Blakesberg"
+        },
+        {
+            "url": "/concerts/images/1993/1993-12-31/1993-12-31_070.jpg",
+            "caption": "Photo by Jay Blakesberg"
+        },
+        {
+            "url": "/concerts/images/1993/1993-12-31/1993-12-31_071.jpg",
+            "caption": "Photo by Steve Jennings"
+        },
+        {
+            "url": "/concerts/images/1993/1993-12-31/1993-12-31_072.jpg",
+            "caption": "Photo by Jay Blakesberg"
+        },
+        {
+            "url": "/concerts/images/1993/1993-12-31/1993-12-31_073.jpg",
+            "caption": "Photo by Jay Blakesberg"
+        },
+        {
+            "url": "/concerts/images/1993/1993-12-31/1993-12-31_074.jpg",
+            "caption": "Photo by Jay Blakesberg"
+        },
+        {
+            "url": "/concerts/images/1993/1993-12-31/1993-12-31_075.jpg",
+            "caption": "Photo by Jay Blakesberg"
+        }
+    ],
+    "navigation": {
+        "previous": "93-12-30",
+        "next": "/concerts/94/94-01-01"
+    },
+    "graph": {
+        "bleach": "3",
+        "nevermind": "8",
+        "inutero": "10",
+        "non": "4"
+    }
+}

@@ -1,0 +1,484 @@
+{
+    "year": "1992",
+    "month": "07",
+    "day": "03",
+    "venue": "July 3",
+    "city": "1992 - Palacio de los Deportes de la Comunidad de Madrid",
+    "state": "Madrid",
+    "country": "ES",
+    "band": [
+        {
+            "NIRVANA": [
+                {
+                    "name": "Kurt Cobain ",
+                    "duty": "vocals, guitar"
+                },
+                {
+                    "name": "Krist Novoselic ",
+                    "duty": "bass"
+                },
+                {
+                    "name": "Dave Grohl ",
+                    "duty": "drums, backing vocals"
+                }
+            ],
+            "type": "group"
+        }
+    ],
+    "crew": [
+        {
+            "name": "Alex MacLeod",
+            "duty": "tour manager"
+        },
+        {
+            "name": "Larry Richter",
+            "duty": "tour accountant"
+        },
+        {
+            "name": "Susanne Sasic",
+            "duty": "lighting designer"
+        },
+        {
+            "name": "Craig Montgomery",
+            "duty": "sound engineer"
+        },
+        {
+            "name": "Ian Beveridge",
+            "duty": "monitor engineer"
+        },
+        {
+            "name": "John Duncan",
+            "duty": "guitar technician"
+        },
+        {
+            "name": "Barrett Jones",
+            "duty": "drum technician"
+        }
+    ],
+    "buyer": {
+        "names": [
+            "Robert Grima"
+        ],
+        "company": "La Iguana"
+    },
+    "schedule": [
+        {
+            "event": "Load In",
+            "time": "…:…"
+        },
+        {
+            "event": "Soundcheck",
+            "time": "…:…"
+        },
+        {
+            "event": "Doors",
+            "time": "…:…"
+        },
+        {
+            "event": "Surfin' Bichos Showtime",
+            "time": "CANCELLED"
+        },
+        {
+            "event": "Teenage Fanclub Showtime",
+            "time": "…:…"
+        },
+        {
+            "event": "NIRVANA Showtime",
+            "time": "21:00"
+        }
+    ],
+    "soundcheck": [],
+    "soundcheck_incomplete": false,
+    "set": [
+        {
+            "type": "song",
+            "text": "The Money Will Roll Right In",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "Breed",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "Sliver",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "Drain You",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "In Bloom",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "About A Girl",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "School",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "Lithium",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "Aneurysm",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "Stay Away",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "Pennyroyal Tea",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "Son Of A Gun",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "Molly's Lips",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "Something In The Way",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "On A Plain",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "Been A Son",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "Blew",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "Stain",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "Come As You Are",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "Smells Like Teen Spirit",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "Territorial Pissings",
+            "notes": []
+        }
+    ],
+    "set_incomplete": false,
+    "transmission": {},
+    "rehearsel_circulating_sources": [],
+    "circulating_sources": [
+        {
+            "name": "AUD #1",
+            "complete": true,
+            "equipment": "Built In > Aiwa HS-J150",
+            "generation": "ANA(M) > CDR(2) > FLAC",
+            "video-generation": null,
+            "audio-generation": null,
+            "length-sound": "76 min / 7.5",
+            "notes": [
+                "In August 2003 the master tape was transferred to CDR.",
+                "Only remastered copies are circulating."
+            ]
+        },
+        {
+            "name": "SBD #1",
+            "complete": true,
+            "equipment": "Soundboard > Unknown",
+            "generation": "ANA(M) > DAT(1) > FLAC",
+            "video-generation": null,
+            "audio-generation": null,
+            "length-sound": "75:36 min / 9.5",
+            "notes": [
+                "Tape with known lineage circulated December 2020. Originally circulated in August 2015.",
+                "Has a volume drop during \"Pennyroyal Tea\"."
+            ]
+        },
+        {
+            "name": "PRO CLIP #1",
+            "complete": false,
+            "equipment": "Soundboard > Unknown",
+            "generation": "TV > VHS(2) > DVDR/CDR",
+            "video-generation": null,
+            "audio-generation": null,
+            "length-sound": "02:30 min / 8.0",
+            "notes": [
+                "Single-camera video, shot from the back of the venue with soundboard audio.",
+                "Shot from a higher position than PRO CLIP #2.",
+                "Broadcast on Spanish TV channel Canal+.",
+                "Feature clips of \"Aneurysm\" (with slow-motion video footage) and \"Drain You\" only."
+            ]
+        },
+        {
+            "name": "PRO CLIP #2",
+            "complete": false,
+            "equipment": "Soundboard > Unknown",
+            "generation": "TV > VHS(2) > DVDR/CDR",
+            "video-generation": null,
+            "audio-generation": null,
+            "length-sound": "02:30 min / 7.5",
+            "notes": [
+                "Single-camera video, shot from the back of the venue with soundboard audio.",
+                "Shot from a lower position than PRO CLIP #1.",
+                "Broadcast on Spanish TV channel TVE1.",
+                "Feature a clip of \"Aneurysm\" only."
+            ]
+        }
+    ],
+    "uncirculated_sources": [
+        {
+            "name": "AMT #1",
+            "note": "This was reportedly shot from the back of the venue with good picture quality, but bad sound."
+        }
+    ],
+    "notes": [
+        "The show was originally supposed to be at the Pabellón de Deportes del Real Madrid, but had to be moved to a larger venue."
+    ],
+    "press": [],
+    "memorabilia": [
+        {
+            "url": "/concerts/images/1992/1992-07-03/1992-07-03_01.jpg",
+            "caption": "Ticket"
+        },
+        {
+            "url": "/concerts/images/1992/1992-07-03/1992-07-03_02.jpg",
+            "caption": "Advert"
+        },
+        {
+            "url": "/concerts/images/1992/1992-07-03/1992-07-03_03.jpg",
+            "caption": "Advert"
+        },
+        {
+            "url": "/concerts/images/1992/1992-07-03/1992-07-03_04.jpg",
+            "caption": "Advert"
+        },
+        {
+            "url": "/concerts/images/1992/1992-07-03/1992-07-03_05.jpg",
+            "caption": "Handbill/Flyer, designed by unknown"
+        },
+        {
+            "url": "/concerts/images/1992/1992-07-03/1992-07-03_06.jpg",
+            "caption": "Handwritten setlist"
+        }
+    ],
+    "images": [
+        {
+            "url": "/concerts/images/1992/1992-07-03/1992-07-03_001.jpg",
+            "caption": "Photo by Antonio Lopez"
+        },
+        {
+            "url": "/concerts/images/1992/1992-07-03/1992-07-03_002.jpg",
+            "caption": "Unknown photographer"
+        },
+        {
+            "url": "/concerts/images/1992/1992-07-03/1992-07-03_003.jpg",
+            "caption": "Unknown photographer"
+        },
+        {
+            "url": "/concerts/images/1992/1992-07-03/1992-07-03_004.jpg",
+            "caption": "Unknown photographer"
+        },
+        {
+            "url": "/concerts/images/1992/1992-07-03/1992-07-03_005.jpg",
+            "caption": "Unknown photographer"
+        },
+        {
+            "url": "/concerts/images/1992/1992-07-03/1992-07-03_006.jpg",
+            "caption": "Photo by Antonio Lopez"
+        },
+        {
+            "url": "/concerts/images/1992/1992-07-03/1992-07-03_007.jpg",
+            "caption": "Unknown photographer"
+        },
+        {
+            "url": "/concerts/images/1992/1992-07-03/1992-07-03_008.jpg",
+            "caption": "Photo by Antonio Lopez"
+        },
+        {
+            "url": "/concerts/images/1992/1992-07-03/1992-07-03_009.jpg",
+            "caption": "Photo by Steve Double"
+        },
+        {
+            "url": "/concerts/images/1992/1992-07-03/1992-07-03_010.jpg",
+            "caption": "Photo by Uly Martín"
+        },
+        {
+            "url": "/concerts/images/1992/1992-07-03/1992-07-03_011.jpg",
+            "caption": "Unknown photographer"
+        },
+        {
+            "url": "/concerts/images/1992/1992-07-03/1992-07-03_012.jpg",
+            "caption": "Photo by Steve Double"
+        },
+        {
+            "url": "/concerts/images/1992/1992-07-03/1992-07-03_013.jpg",
+            "caption": "Unknown photographer"
+        },
+        {
+            "url": "/concerts/images/1992/1992-07-03/1992-07-03_014.jpg",
+            "caption": "Unknown photographer"
+        },
+        {
+            "url": "/concerts/images/1992/1992-07-03/1992-07-03_015.jpg",
+            "caption": "Unknown photographer"
+        },
+        {
+            "url": "/concerts/images/1992/1992-07-03/1992-07-03_016.jpg",
+            "caption": "Unknown photographer"
+        },
+        {
+            "url": "/concerts/images/1992/1992-07-03/1992-07-03_017.jpg",
+            "caption": "Unknown photographer"
+        },
+        {
+            "url": "/concerts/images/1992/1992-07-03/1992-07-03_018.jpg",
+            "caption": "Photo by Steve Double"
+        },
+        {
+            "url": "/concerts/images/1992/1992-07-03/1992-07-03_019.jpg",
+            "caption": "Photo by Steve Double"
+        },
+        {
+            "url": "/concerts/images/1992/1992-07-03/1992-07-03_020.jpg",
+            "caption": "Photo by Steve Double"
+        },
+        {
+            "url": "/concerts/images/1992/1992-07-03/1992-07-03_021.jpg",
+            "caption": "Photo by Steve Double"
+        },
+        {
+            "url": "/concerts/images/1992/1992-07-03/1992-07-03_022.JPG",
+            "caption": "Photo by Steve Double"
+        },
+        {
+            "url": "/concerts/images/1992/1992-07-03/1992-07-03_023.jpg",
+            "caption": "Unknown photographer"
+        },
+        {
+            "url": "/concerts/images/1992/1992-07-03/1992-07-03_024.jpg",
+            "caption": "Photo by Steve Double"
+        },
+        {
+            "url": "/concerts/images/1992/1992-07-03/1992-07-03_025.jpg",
+            "caption": "Photo by Steve Double"
+        },
+        {
+            "url": "/concerts/images/1992/1992-07-03/1992-07-03_026.jpg",
+            "caption": "Unknown photographer"
+        },
+        {
+            "url": "/concerts/images/1992/1992-07-03/1992-07-03_027.jpg",
+            "caption": "Unknown photographer"
+        },
+        {
+            "url": "/concerts/images/1992/1992-07-03/1992-07-03_028.jpg",
+            "caption": "Unknown photographer"
+        },
+        {
+            "url": "/concerts/images/1992/1992-07-03/1992-07-03_029.jpg",
+            "caption": "Unknown photographer"
+        },
+        {
+            "url": "/concerts/images/1992/1992-07-03/1992-07-03_030.jpg",
+            "caption": "Photo by Steve Double"
+        },
+        {
+            "url": "/concerts/images/1992/1992-07-03/1992-07-03_031.jpg",
+            "caption": "Photo by Steve Double"
+        },
+        {
+            "url": "/concerts/images/1992/1992-07-03/1992-07-03_032.jpg",
+            "caption": "Photo by Steve Double"
+        },
+        {
+            "url": "/concerts/images/1992/1992-07-03/1992-07-03_033.jpg",
+            "caption": "Photo by Steve Double"
+        },
+        {
+            "url": "/concerts/images/1992/1992-07-03/1992-07-03_034.jpg",
+            "caption": "Unknown photographer"
+        },
+        {
+            "url": "/concerts/images/1992/1992-07-03/1992-07-03_035.jpg",
+            "caption": "Photo by Mariano Garcia"
+        },
+        {
+            "url": "/concerts/images/1992/1992-07-03/1992-07-03_036.jpg",
+            "caption": "Photo by Mariano Garcia"
+        },
+        {
+            "url": "/concerts/images/1992/1992-07-03/1992-07-03_037.jpg",
+            "caption": "Photo by Mariano Garcia"
+        },
+        {
+            "url": "/concerts/images/1992/1992-07-03/1992-07-03_038.jpg",
+            "caption": "Photo by Mariano Garcia"
+        },
+        {
+            "url": "/concerts/images/1992/1992-07-03/1992-07-03_039.jpg",
+            "caption": "Unknown photographer"
+        },
+        {
+            "url": "/concerts/images/1992/1992-07-03/1992-07-03_040.jpg",
+            "caption": "Unknown photographer"
+        },
+        {
+            "url": "/concerts/images/1992/1992-07-03/1992-07-03_041.jpg",
+            "caption": "Photo by Antonio Lopez"
+        },
+        {
+            "url": "/concerts/images/1992/1992-07-03/1992-07-03_042.jpg",
+            "caption": "Unknown photographer"
+        },
+        {
+            "url": "/concerts/images/1992/1992-07-03/1992-07-03_043.jpg",
+            "caption": "Unknown photographer"
+        },
+        {
+            "url": "/concerts/images/1992/1992-07-03/1992-07-03_044.jpg",
+            "caption": "Unknown photographer"
+        }
+    ],
+    "navigation": {
+        "previous": "92-07-02",
+        "next": "92-07-04"
+    },
+    "graph": {
+        "bleach": "3",
+        "nevermind": "10",
+        "inutero": "1",
+        "non": "7"
+    }
+}

@@ -1,0 +1,75 @@
+{
+    "year": "1986",
+    "month": "xx",
+    "day": "xx",
+    "band": [
+        {
+            "Stiff Woodies": [
+                {
+                    "name": "Kurt Cobain ",
+                    "duty": ""
+                },
+                {
+                    "name": "Krist Novoselic ",
+                    "duty": ""
+                },
+                {
+                    "name": "Others ",
+                    "duty": ""
+                }
+            ],
+            "type": "group"
+        }
+    ],
+    "crew": [],
+    "buyer": {
+        "names": []
+    },
+    "schedule": [
+        {
+            "event": "Load In",
+            "time": "…:…"
+        },
+        {
+            "event": "Soundcheck",
+            "time": "…:…"
+        },
+        {
+            "event": "Doors",
+            "time": "…:…"
+        },
+        {
+            "event": "Stiff Woodies Showtime",
+            "time": "…:…"
+        }
+    ],
+    "soundcheck": [],
+    "soundcheck_incomplete": false,
+    "set": [],
+    "set_incomplete": false,
+    "transmission": {},
+    "rehearsel_circulating_sources": [],
+    "circulating_sources": [],
+    "uncirculated_sources": [],
+    "notes": [
+        "The band played under the name Stiff Woodies."
+    ],
+    "press": [],
+    "memorabilia": [
+        {
+            "url": "/concerts/images/noimage.jpg",
+            "caption": "No images found for this performance."
+        }
+    ],
+    "images": [],
+    "navigation": {
+        "previous": "86-05-03",
+        "next": "87-xx-xx"
+    },
+    "graph": {
+        "bleach": "0",
+        "nevermind": "0",
+        "inutero": "0",
+        "non": "0"
+    }
+}

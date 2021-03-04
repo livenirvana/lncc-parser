@@ -1,0 +1,605 @@
+{
+    "year": "1994",
+    "month": "02",
+    "day": "09",
+    "venue": "February 9",
+    "city": "1994 - Palau Municipal dels Esports de Barcelona",
+    "state": "Barcelona",
+    "country": "ES",
+    "band": [
+        {
+            "NIRVANA": [
+                {
+                    "name": "Kurt Cobain ",
+                    "duty": "vocals, guitar"
+                },
+                {
+                    "name": "Krist Novoselic ",
+                    "duty": "bass"
+                },
+                {
+                    "name": "Dave Grohl ",
+                    "duty": "drums, backing vocals"
+                },
+                {
+                    "name": "Pat Smear ",
+                    "duty": "guitar"
+                },
+                {
+                    "name": "Melora Creager ",
+                    "duty": "cello"
+                }
+            ],
+            "type": "group"
+        }
+    ],
+    "crew": [
+        {
+            "name": "Alex MacLeod",
+            "duty": "tour manager"
+        },
+        {
+            "name": "Jeff Mason",
+            "duty": "production manager"
+        },
+        {
+            "name": "Kelly Nase",
+            "duty": "tour accountant"
+        },
+        {
+            "name": "Susanne Sasic",
+            "duty": "lighting designer"
+        },
+        {
+            "name": "Craig Overbay",
+            "duty": "sound engineer"
+        },
+        {
+            "name": "Ian Beveridge",
+            "duty": "monitor engineer"
+        },
+        {
+            "name": "Jim Vincent",
+            "duty": "guitar technician"
+        },
+        {
+            "name": "John Duncan",
+            "duty": "guitar technician"
+        },
+        {
+            "name": "Garry Mackenzie",
+            "duty": "drum technician"
+        },
+        {
+            "name": "Ed Swink",
+            "duty": "stage manager"
+        },
+        {
+            "name": "Pete Currier",
+            "duty": "rigger"
+        },
+        {
+            "name": "Appy Thörig",
+            "duty": "mojo barrier"
+        },
+        {
+            "name": "Allan Bagley",
+            "duty": "Pro Show sound crew"
+        },
+        {
+            "name": "Niko Vonk",
+            "duty": "Pro Show sound crew"
+        },
+        {
+            "name": "John Evans",
+            "duty": "SSE sound crew"
+        },
+        {
+            "name": "Mike Lamb",
+            "duty": "LSD lighting crew"
+        },
+        {
+            "name": "Pat Connolly",
+            "duty": "LSD lighting crew"
+        },
+        {
+            "name": "Gary Vaspol",
+            "duty": "LSD lighting crew"
+        }
+    ],
+    "buyer": {
+        "names": [
+            "Robert Grima"
+        ],
+        "company": "La Iguana"
+    },
+    "schedule": [
+        {
+            "event": "Load In",
+            "time": "09:00"
+        },
+        {
+            "event": "Soundcheck",
+            "time": "…:…"
+        },
+        {
+            "event": "Doors",
+            "time": "19:30"
+        },
+        {
+            "event": "Buzzcocks Showtime",
+            "time": "21:00"
+        },
+        {
+            "event": "NIRVANA Showtime",
+            "time": "22:05"
+        }
+    ],
+    "soundcheck": [],
+    "soundcheck_incomplete": false,
+    "set": [
+        {
+            "type": "song",
+            "text": "Radio Friendly Unit Shifter",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "Drain You",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "Breed",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "Serve the Servants",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "Come As You Are",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "Smells Like Teen Spirit",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "Sliver",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "Dumb",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "In Bloom",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "About A Girl",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "Lithium",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "Pennyroyal Tea",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "School",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "Polly",
+            "notes": [
+                "acoustic"
+            ]
+        },
+        {
+            "type": "song",
+            "text": "Frances Farmer Will Have Her Revenge On Seattle",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "Very Ape",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "Rape Me",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "Territorial Pissings",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "The Man Who Sold The World",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "All Apologies",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "On A Plain",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "Heart-Shaped Box",
+            "notes": []
+        }
+    ],
+    "set_incomplete": false,
+    "transmission": {},
+    "rehearsel_circulating_sources": [],
+    "circulating_sources": [
+        {
+            "name": "AUD #1",
+            "complete": false,
+            "equipment": "Unknown > Unknown",
+            "generation": "ANA(2) > CDR(1) > FLAC",
+            "video-generation": null,
+            "audio-generation": null,
+            "length-sound": "75 min / 6.0",
+            "notes": [
+                "Missing \"Radio Friendly Unit Shifter\" and \"Drain You\".",
+                "\"Breed\" and \"Very Ape\" cut in.",
+                "It is rumored that the taper's external microphone became disconnected, leaving only the built-in microphone to record from inside his pocket."
+            ]
+        },
+        {
+            "name": "AUD #2",
+            "complete": true,
+            "equipment": "Unknown > Aiwa",
+            "generation": "ANA(M) > FLAC;",
+            "video-generation": null,
+            "audio-generation": null,
+            "length-sound": "79 min / 8.0",
+            "notes": [
+                "Surfaced in April 2008.",
+                "\"Polly\" cuts in."
+            ]
+        },
+        {
+            "name": "SBD #1a",
+            "complete": false,
+            "equipment": "Soundboard > Unknown",
+            "generation": "FM > DAT(x) > FLAC",
+            "video-generation": null,
+            "audio-generation": null,
+            "length-sound": "07 min / 8.5",
+            "notes": [
+                "Lower generation and slightly more complete at the start and end, but lower quality than SBD #1b.",
+                "Includes only \"Lithium\", \"Rape Me\", and the beginning of \"Territorial Pissings\".",
+                "\"Rape Me\" cuts in, and \"Territorial Pissings\" cuts out.",
+                "Has a minor tape speed problem at the beginning of \"Rape Me\", indicating that the radio station broadcast this from an analog recording.",
+                "The radio station recorded the entire show."
+            ]
+        },
+        {
+            "name": "SBD #1b",
+            "complete": false,
+            "equipment": "Soundboard > Unknown",
+            "generation": "FM > ANA(2) > FLAC",
+            "video-generation": null,
+            "audio-generation": null,
+            "length-sound": "07 min / 8.5",
+            "notes": [
+                "Higher generation and slightly less complete at the start and end, but higher quality than SBD #1a.",
+                "Includes only \"Lithium,\" \"Rape Me\", and the beginning of \"Territorial Pissings\".",
+                "\"Rape Me\" cuts in, and \"Territorial Pissings\" cuts out.",
+                "Has a minor tape speed problem at the beginning of \"Rape Me\", indicating that the radio station broadcast this from an analog recording.",
+                "The radio station recorded the entire show."
+            ]
+        },
+        {
+            "name": "PRO CLIP #1",
+            "complete": false,
+            "equipment": "Soundboard > Unknown",
+            "generation": "MASTER > DVDR(1) > VOB",
+            "video-generation": null,
+            "audio-generation": null,
+            "length-sound": "01 min / 10",
+            "notes": [
+                "Single-camera video shot from the back with soundboard audio.",
+                "The clip includes the end of \"Rape Me\" and very beginning of \"Territorial Pissings\"."
+            ]
+        }
+    ],
+    "uncirculated_sources": [
+        {
+            "name": "AMT #1",
+            "note": "It is rumored that the show was recorded."
+        }
+    ],
+    "notes": [],
+    "press": [],
+    "memorabilia": [
+        {
+            "url": "/concerts/images/1994/1994-02-09/1994-02-09_01.jpg",
+            "caption": "Handbill/Flyer, designed by unknown"
+        },
+        {
+            "url": "/concerts/images/1994/1994-02-09/1994-02-09_02.jpg",
+            "caption": "Advert"
+        },
+        {
+            "url": "/concerts/images/1994/1994-02-09/1994-02-09_03.jpg",
+            "caption": "Ticket"
+        },
+        {
+            "url": "/concerts/images/1994/1994-02-09/1994-02-09_04.jpg",
+            "caption": "Advert"
+        },
+        {
+            "url": "/concerts/images/1994/1994-02-09/1994-02-09_05.jpg",
+            "caption": "Handbill/Flyer, designed by unknown"
+        },
+        {
+            "url": "/concerts/images/1994/1994-02-09/1994-02-09_06.jpg",
+            "caption": "Advert"
+        },
+        {
+            "url": "/concerts/images/1994/1994-02-09/1994-02-09_07.jpg",
+            "caption": "Backstage pass"
+        },
+        {
+            "url": "/concerts/images/1994/1994-02-09/1994-02-09_08.jpg",
+            "caption": "Backstage pass"
+        },
+        {
+            "url": "/concerts/images/1994/1994-02-09/1994-02-09_09.jpg",
+            "caption": "Nirvana's tour itinerary"
+        }
+    ],
+    "images": [
+        {
+            "url": "/concerts/images/1994/1994-02-09/1994-02-09_001.jpg",
+            "caption": "Unknown photographer"
+        },
+        {
+            "url": "/concerts/images/1994/1994-02-09/1994-02-09_002.jpg",
+            "caption": "Unknown photographer"
+        },
+        {
+            "url": "/concerts/images/1994/1994-02-09/1994-02-09_003.jpg",
+            "caption": "Unknown photographer"
+        },
+        {
+            "url": "/concerts/images/1994/1994-02-09/1994-02-09_004.jpg",
+            "caption": "Unknown photographer"
+        },
+        {
+            "url": "/concerts/images/1994/1994-02-09/1994-02-09_005.jpg",
+            "caption": "Unknown photographer"
+        },
+        {
+            "url": "/concerts/images/1994/1994-02-09/1994-02-09_006.jpg",
+            "caption": "Unknown photographer"
+        },
+        {
+            "url": "/concerts/images/1994/1994-02-09/1994-02-09_007.jpg",
+            "caption": "Unknown photographer"
+        },
+        {
+            "url": "/concerts/images/1994/1994-02-09/1994-02-09_008.jpg",
+            "caption": "Unknown photographer"
+        },
+        {
+            "url": "/concerts/images/1994/1994-02-09/1994-02-09_009.jpg",
+            "caption": "Unknown photographer"
+        },
+        {
+            "url": "/concerts/images/1994/1994-02-09/1994-02-09_010.jpg",
+            "caption": "Unknown photographer"
+        },
+        {
+            "url": "/concerts/images/1994/1994-02-09/1994-02-09_011.jpg",
+            "caption": "Photo by Yann Mercader"
+        },
+        {
+            "url": "/concerts/images/1994/1994-02-09/1994-02-09_012.jpg",
+            "caption": "Unknown photographer"
+        },
+        {
+            "url": "/concerts/images/1994/1994-02-09/1994-02-09_013.jpg",
+            "caption": "Unknown photographer"
+        },
+        {
+            "url": "/concerts/images/1994/1994-02-09/1994-02-09_014.jpg",
+            "caption": "Unknown photographer"
+        },
+        {
+            "url": "/concerts/images/1994/1994-02-09/1994-02-09_015.jpg",
+            "caption": "Unknown photographer"
+        },
+        {
+            "url": "/concerts/images/1994/1994-02-09/1994-02-09_016.jpg",
+            "caption": "Unknown photographer"
+        },
+        {
+            "url": "/concerts/images/1994/1994-02-09/1994-02-09_017.jpg",
+            "caption": "Unknown photographer"
+        },
+        {
+            "url": "/concerts/images/1994/1994-02-09/1994-02-09_018.jpg",
+            "caption": "Unknown photographer"
+        },
+        {
+            "url": "/concerts/images/1994/1994-02-09/1994-02-09_019.jpg",
+            "caption": "Unknown photographer"
+        },
+        {
+            "url": "/concerts/images/1994/1994-02-09/1994-02-09_020.jpg",
+            "caption": "Unknown photographer"
+        },
+        {
+            "url": "/concerts/images/1994/1994-02-09/1994-02-09_021.jpg",
+            "caption": "Photo by Yann Mercader"
+        },
+        {
+            "url": "/concerts/images/1994/1994-02-09/1994-02-09_022.jpg",
+            "caption": "Photo by Yann Mercader"
+        },
+        {
+            "url": "/concerts/images/1994/1994-02-09/1994-02-09_023.jpg",
+            "caption": "Unknown photographer"
+        },
+        {
+            "url": "/concerts/images/1994/1994-02-09/1994-02-09_024.jpg",
+            "caption": "Photo by Yann Mercader"
+        },
+        {
+            "url": "/concerts/images/1994/1994-02-09/1994-02-09_025.jpg",
+            "caption": "Unknown photographer"
+        },
+        {
+            "url": "/concerts/images/1994/1994-02-09/1994-02-09_026.jpg",
+            "caption": "Unknown photographer"
+        },
+        {
+            "url": "/concerts/images/1994/1994-02-09/1994-02-09_027.jpg",
+            "caption": "Photo by Xavier Mercadé Simó"
+        },
+        {
+            "url": "/concerts/images/1994/1994-02-09/1994-02-09_028.jpg",
+            "caption": "Photo by Xavier Mercadé Simó"
+        },
+        {
+            "url": "/concerts/images/1994/1994-02-09/1994-02-09_029.jpg",
+            "caption": "Photo by Ricard Cugat"
+        },
+        {
+            "url": "/concerts/images/1994/1994-02-09/1994-02-09_030.jpg",
+            "caption": "Unknown photographer"
+        },
+        {
+            "url": "/concerts/images/1994/1994-02-09/1994-02-09_031.jpg",
+            "caption": "Photo by Josep Fenollar"
+        },
+        {
+            "url": "/concerts/images/1994/1994-02-09/1994-02-09_032.jpg",
+            "caption": "Photo by Josep Fenollar"
+        },
+        {
+            "url": "/concerts/images/1994/1994-02-09/1994-02-09_033.jpg",
+            "caption": "Photo by Josep Fenollar"
+        },
+        {
+            "url": "/concerts/images/1994/1994-02-09/1994-02-09_034.jpg",
+            "caption": "Photo by Juan Sala"
+        },
+        {
+            "url": "/concerts/images/1994/1994-02-09/1994-02-09_035.jpg",
+            "caption": "Photo by Xavier Mercadé Simó"
+        },
+        {
+            "url": "/concerts/images/1994/1994-02-09/1994-02-09_036.jpg",
+            "caption": "Unknown photographer"
+        },
+        {
+            "url": "/concerts/images/1994/1994-02-09/1994-02-09_037.jpg",
+            "caption": "Photo by Juan Sala"
+        },
+        {
+            "url": "/concerts/images/1994/1994-02-09/1994-02-09_038.jpg",
+            "caption": "Photo by Xavier Mercadé Simó"
+        },
+        {
+            "url": "/concerts/images/1994/1994-02-09/1994-02-09_039.jpg",
+            "caption": "Photo by Juan Sala"
+        },
+        {
+            "url": "/concerts/images/1994/1994-02-09/1994-02-09_040.jpg",
+            "caption": "Photo by Juan Sala"
+        },
+        {
+            "url": "/concerts/images/1994/1994-02-09/1994-02-09_041.jpg",
+            "caption": "Photo by Juan Sala"
+        },
+        {
+            "url": "/concerts/images/1994/1994-02-09/1994-02-09_042.jpg",
+            "caption": "Photo by Xavier Mercadé Simó"
+        },
+        {
+            "url": "/concerts/images/1994/1994-02-09/1994-02-09_043.jpg",
+            "caption": "Photo by Josep Fenollar"
+        },
+        {
+            "url": "/concerts/images/1994/1994-02-09/1994-02-09_044.jpg",
+            "caption": "Photo by Xavier Mercadé Simó"
+        },
+        {
+            "url": "/concerts/images/1994/1994-02-09/1994-02-09_045.jpg",
+            "caption": "Photo by Josephy Fenollar"
+        },
+        {
+            "url": "/concerts/images/1994/1994-02-09/1994-02-09_046.jpg",
+            "caption": "Photo by Yann Mercader"
+        },
+        {
+            "url": "/concerts/images/1994/1994-02-09/1994-02-09_047.jpg",
+            "caption": "Unknown photographer"
+        },
+        {
+            "url": "/concerts/images/1994/1994-02-09/1994-02-09_048.jpg",
+            "caption": "Unknown photographer"
+        },
+        {
+            "url": "/concerts/images/1994/1994-02-09/1994-02-09_049.jpg",
+            "caption": "Photo by Xavier Mercadé Simó"
+        },
+        {
+            "url": "/concerts/images/1994/1994-02-09/1994-02-09_050.jpg",
+            "caption": "Photo by Xavier Mercadé Simó"
+        },
+        {
+            "url": "/concerts/images/1994/1994-02-09/1994-02-09_051.jpg",
+            "caption": "Photo by Xavier Mercadé Simó"
+        },
+        {
+            "url": "/concerts/images/1994/1994-02-09/1994-02-09_052.jpg",
+            "caption": "Photo by Xavier Mercadé Simó"
+        },
+        {
+            "url": "/concerts/images/1994/1994-02-09/1994-02-09_053.jpg",
+            "caption": "Unknown photographer"
+        },
+        {
+            "url": "/concerts/images/1994/1994-02-09/1994-02-09_054.jpg",
+            "caption": "Photo by Silvia T. Colmenero"
+        }
+    ],
+    "navigation": {
+        "previous": "94-02-08",
+        "next": "94-02-10"
+    },
+    "graph": {
+        "bleach": "2",
+        "nevermind": "9",
+        "inutero": "9",
+        "non": "2"
+    }
+}

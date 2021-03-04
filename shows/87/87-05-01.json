@@ -1,0 +1,121 @@
+{
+    "year": "1987",
+    "month": "05",
+    "day": "01",
+    "band": [
+        {
+            "Skid Row": [
+                {
+                    "name": "Kurt Cobain ",
+                    "duty": "vocals, guitar"
+                },
+                {
+                    "name": "Krist Novoselic ",
+                    "duty": "bass"
+                },
+                {
+                    "name": "Aaron Burckhard ",
+                    "duty": "drums"
+                }
+            ],
+            "type": "group"
+        }
+    ],
+    "crew": [
+        {
+            "name": "John Hinkle",
+            "duty": "sound engineer"
+        }
+    ],
+    "buyer": {
+        "names": [
+            "Slim Moon"
+        ]
+    },
+    "schedule": [
+        {
+            "event": "Load In",
+            "time": "…:…"
+        },
+        {
+            "event": "Soundcheck",
+            "time": "…:…"
+        },
+        {
+            "event": "Doors",
+            "time": "…:…"
+        },
+        {
+            "event": "Danger Mouse Showtime",
+            "time": "…:…"
+        },
+        {
+            "event": "Lansdat Blister Showtime",
+            "time": "…:…"
+        },
+        {
+            "event": "Skid Row Showtime",
+            "time": "…:…"
+        },
+        {
+            "event": "Nisqually Delta Podunk Nightmare Showtime",
+            "time": "…:…"
+        }
+    ],
+    "soundcheck": [],
+    "soundcheck_incomplete": false,
+    "set": [
+        {
+            "type": "song",
+            "text": "Love Buzz",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "Gypsys, Tramps & Thieves",
+            "notes": []
+        }
+    ],
+    "set_incomplete": true,
+    "transmission": {},
+    "rehearsel_circulating_sources": [],
+    "circulating_sources": [],
+    "uncirculated_sources": [],
+    "notes": [
+        "The band played under the name Skid Row.",
+        "This was the closing night of GESCCO (Greater Evergreen Students' Community Cooperation Organization).",
+        "Krist was so drunk that the band almost wasn't allowed to play, according to Slim Moon, who booked the show.",
+        "The band performed a Cher cover, most likely \"Gypsys, Tramps & Thieves,\" according to an attendee."
+    ],
+    "press": [],
+    "memorabilia": [
+        {
+            "url": "/concerts/images/1987/1987-05-01/1987-05-01_01.jpg",
+            "caption": "Poster, designed by unknown"
+        }
+    ],
+    "images": [
+        {
+            "url": "/concerts/images/1987/1987-05-01/1987-05-01_001.jpg",
+            "caption": "Photo by Tracy Marander"
+        },
+        {
+            "url": "/concerts/images/1987/1987-05-01/1987-05-01_002.jpg",
+            "caption": "Photo by Tracy Marander"
+        },
+        {
+            "url": "/concerts/images/1987/1987-05-01/1987-05-01_003.jpg",
+            "caption": "Photo by Tracy Marander"
+        }
+    ],
+    "navigation": {
+        "previous": "87-04-18",
+        "next": "87-06-12"
+    },
+    "graph": {
+        "bleach": "1",
+        "nevermind": "0",
+        "inutero": "0",
+        "non": "1"
+    }
+}

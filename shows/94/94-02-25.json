@@ -1,0 +1,504 @@
+{
+    "year": "1994",
+    "month": "02",
+    "day": "25",
+    "venue": "February 25",
+    "city": "1994 - Palatrussardi",
+    "state": "Milano",
+    "country": "IT",
+    "band": [
+        {
+            "NIRVANA": [
+                {
+                    "name": "Kurt Cobain ",
+                    "duty": "vocals, guitar"
+                },
+                {
+                    "name": "Krist Novoselic ",
+                    "duty": "bass"
+                },
+                {
+                    "name": "Dave Grohl ",
+                    "duty": "drums, backing vocals"
+                },
+                {
+                    "name": "Pat Smear ",
+                    "duty": "guitar"
+                },
+                {
+                    "name": "Melora Creager ",
+                    "duty": "cello"
+                }
+            ],
+            "type": "group"
+        }
+    ],
+    "crew": [
+        {
+            "name": "Alex MacLeod",
+            "duty": "tour manager"
+        },
+        {
+            "name": "Jeff Mason",
+            "duty": "production manager"
+        },
+        {
+            "name": "Kelly Nase",
+            "duty": "tour accountant"
+        },
+        {
+            "name": "Susanne Sasic",
+            "duty": "lighting designer"
+        },
+        {
+            "name": "Craig Overbay",
+            "duty": "sound engineer"
+        },
+        {
+            "name": "Ian Beveridge",
+            "duty": "monitor engineer"
+        },
+        {
+            "name": "Jim Vincent",
+            "duty": "guitar technician"
+        },
+        {
+            "name": "John Duncan",
+            "duty": "guitar technician"
+        },
+        {
+            "name": "Garry Mackenzie",
+            "duty": "drum technician"
+        },
+        {
+            "name": "Ed Swink",
+            "duty": "stage manager"
+        },
+        {
+            "name": "Pete Currier",
+            "duty": "rigger"
+        },
+        {
+            "name": "Appy Thörig",
+            "duty": "mojo barrier"
+        },
+        {
+            "name": "Allan Bagley",
+            "duty": "Pro Show sound crew"
+        },
+        {
+            "name": "Niko Vonk",
+            "duty": "Pro Show sound crew"
+        },
+        {
+            "name": "John Evans",
+            "duty": "SSE sound crew"
+        },
+        {
+            "name": "Mike Lamb",
+            "duty": "LSD lighting crew"
+        },
+        {
+            "name": "Pat Connolly",
+            "duty": "LSD lighting crew"
+        },
+        {
+            "name": "Gary Vaspol",
+            "duty": "LSD lighting crew"
+        }
+    ],
+    "buyer": {
+        "names": [
+            "Roberto De Luca"
+        ],
+        "company": "Bonnechance"
+    },
+    "schedule": [
+        {
+            "event": "Load In",
+            "time": "…:…"
+        },
+        {
+            "event": "Soundcheck",
+            "time": "…:…"
+        },
+        {
+            "event": "Doors",
+            "time": "18:30"
+        },
+        {
+            "event": "Melvins Showtime",
+            "time": "…:…"
+        },
+        {
+            "event": "NIRVANA Showtime",
+            "time": "…:…"
+        }
+    ],
+    "soundcheck": [],
+    "soundcheck_incomplete": false,
+    "set": [
+        {
+            "type": "song",
+            "text": "Radio Friendly Unit Shifter",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "Drain You",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "Breed",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "Serve The Servants",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "Come As You Are",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "Smells Like Teen Spirit",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "Sliver",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "Don't Fear The Reaper",
+            "notes": [
+                "jam"
+            ]
+        },
+        {
+            "type": "song",
+            "text": "Dumb",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "In Bloom",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "About A Girl",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "Lithium",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "Pennyroyal Tea",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "School",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "Polly",
+            "notes": [
+                "acoustic"
+            ]
+        },
+        {
+            "type": "song",
+            "text": "Frances Farmer Will Have Her Revenge On Seattle",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "Sappy",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "Rape Me",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "Territorial Pissings",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "All Apologies",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "On A Plain",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "Scentless Apprentice",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "Heart-Shaped Box",
+            "notes": []
+        }
+    ],
+    "set_incomplete": false,
+    "transmission": {},
+    "rehearsel_circulating_sources": [],
+    "circulating_sources": [
+        {
+            "name": "AUD #1",
+            "complete": true,
+            "equipment": "Sonic Studios > Sony TCD-D3",
+            "generation": "DAT(1) > FLAC",
+            "video-generation": null,
+            "audio-generation": null,
+            "length-sound": "83 min / 9.5",
+            "notes": [
+                "A master clone of this source first surfaced in December 2005"
+            ]
+        },
+        {
+            "name": "AUD #2",
+            "complete": false,
+            "equipment": "Unknown > Unknown",
+            "generation": "ANA(M) > FLAC",
+            "video-generation": null,
+            "audio-generation": null,
+            "length-sound": "44 min / 7.0",
+            "notes": [
+                "Circulated in May 2009.",
+                "Missing everything after \"School\".",
+                "\"Radio Friendly Unit Shifter\" cuts out.",
+                "\"Drain You\" cuts in.",
+                "Has a cut in \"Pennyroyal Tea\".",
+                "The circulating audio includes all that was recorded the taper used the other side of the tape for the Melvins set."
+            ]
+        },
+        {
+            "name": "AMT #1",
+            "complete": true,
+            "equipment": "Built In > Sony CCD-F55E",
+            "generation": "8MM(M) > DVDR/FLAC",
+            "video-generation": null,
+            "audio-generation": null,
+            "length-sound": "80 min / 8.0",
+            "notes": [
+                "Amateur video, shot from directly to the left side of the stage. "
+            ]
+        },
+        {
+            "name": "AMT #2",
+            "complete": true,
+            "equipment": "Unknown > Unknown",
+            "generation": "VHS(1) > DVDR/FLAC",
+            "video-generation": null,
+            "audio-generation": null,
+            "length-sound": "77 min / 8.5",
+            "notes": [
+                "Amateur video, shot from the left side of the front of the audience.",
+                "The intro to \"Radio Friendly Unit Shifter\" cuts in.",
+                "Has dropouts in \"About A Girl\" and \"Frances Farmer Will Have Her Revenge On Seattle\".",
+                "\"All Apologies\" cuts in.",
+                "Clips of this video's footage appear in AMT #2 from 02/24/94."
+            ]
+        },
+        {
+            "name": "AMT #3",
+            "complete": true,
+            "equipment": "Unknown > Unknown",
+            "generation": "VHS(1) > DVDR",
+            "video-generation": null,
+            "audio-generation": null,
+            "length-sound": "80 min / 8.0",
+            "notes": [
+                "Amateur video, shot from the right side of the back of the audience."
+            ]
+        },
+        {
+            "name": "AMT #4",
+            "complete": false,
+            "equipment": "Unknown > Unknown",
+            "generation": "VHS(X) > miniDV(1) > DVDR",
+            "video-generation": null,
+            "audio-generation": null,
+            "length-sound": "04 min / 8.0",
+            "notes": [
+                "Surfaced February 25th 2019.",
+                "Includes only \"Sappy\"."
+            ]
+        }
+    ],
+    "uncirculated_sources": [],
+    "notes": [
+        "During the opening noise of \"Radio Friendly Unit Shifter\", Kurt jammed on the guitar riff of The Cars' \"My Best Friend's Girl\".",
+        "After \"Sliver\", the band played a short jam that was similar to Blue Oyster Cult's \"Don't Fear The Reaper\"."
+    ],
+    "press": [],
+    "memorabilia": [
+        {
+            "url": "/concerts/images/1994/1994-02-25/1994-02-25_01.jpg",
+            "caption": "Advert"
+        },
+        {
+            "url": "/concerts/images/1994/1994-02-25/1994-02-25_02.jpg",
+            "caption": "Ticket"
+        },
+        {
+            "url": "/concerts/images/1994/1994-02-25/1994-02-25_03.jpg",
+            "caption": "Backstage pass"
+        },
+        {
+            "url": "/concerts/images/1994/1994-02-25/1994-02-25_04.jpg",
+            "caption": "Advert"
+        },
+        {
+            "url": "/concerts/images/1994/1994-02-25/1994-02-25_05.jpg",
+            "caption": "Nirvana's tour itinerary"
+        },
+        {
+            "url": "/concerts/images/1994/1994-02-25/1994-02-25_06.jpg",
+            "caption": "Advert"
+        },
+        {
+            "url": "/concerts/images/1994/1994-02-25/1994-02-25_07.jpg",
+            "caption": "Backstage pass"
+        }
+    ],
+    "images": [
+        {
+            "url": "/concerts/images/1994/1994-02-25/1994-02-25_001.jpg",
+            "caption": "Photo by Fabio Diena"
+        },
+        {
+            "url": "/concerts/images/1994/1994-02-25/1994-02-25_002.jpg",
+            "caption": "Photo by Paolo Cossali"
+        },
+        {
+            "url": "/concerts/images/1994/1994-02-25/1994-02-25_003.jpg",
+            "caption": "Photo by Fabio Diena"
+        },
+        {
+            "url": "/concerts/images/1994/1994-02-25/1994-02-25_004.jpg",
+            "caption": "Photo by Fabio Diena"
+        },
+        {
+            "url": "/concerts/images/1994/1994-02-25/1994-02-25_005.jpg",
+            "caption": "Photo by Fabio Diena"
+        },
+        {
+            "url": "/concerts/images/1994/1994-02-25/1994-02-25_006.jpg",
+            "caption": "Photo by Guido Harari"
+        },
+        {
+            "url": "/concerts/images/1994/1994-02-25/1994-02-25_007.jpg",
+            "caption": "Photo by Fabio Diena"
+        },
+        {
+            "url": "/concerts/images/1994/1994-02-25/1994-02-25_008.jpg",
+            "caption": "Photo by Fabio Diena"
+        },
+        {
+            "url": "/concerts/images/1994/1994-02-25/1994-02-25_009.jpg",
+            "caption": "Photo by Fabio Diena"
+        },
+        {
+            "url": "/concerts/images/1994/1994-02-25/1994-02-25_010.jpg",
+            "caption": "Photo by Fabio Diena"
+        },
+        {
+            "url": "/concerts/images/1994/1994-02-25/1994-02-25_011.jpg",
+            "caption": "Photo by Fabio Diena"
+        },
+        {
+            "url": "/concerts/images/1994/1994-02-25/1994-02-25_012.jpg",
+            "caption": "Photo by Fabio Diena"
+        },
+        {
+            "url": "/concerts/images/1994/1994-02-25/1994-02-25_013.jpg",
+            "caption": "Photo by Fabio Diena"
+        },
+        {
+            "url": "/concerts/images/1994/1994-02-25/1994-02-25_014.jpg",
+            "caption": "Photo by Fabio Diena"
+        },
+        {
+            "url": "/concerts/images/1994/1994-02-25/1994-02-25_015.jpg",
+            "caption": "Photo by Fabio Diena"
+        },
+        {
+            "url": "/concerts/images/1994/1994-02-25/1994-02-25_016.jpg",
+            "caption": "Photo by Guido Harari"
+        },
+        {
+            "url": "/concerts/images/1994/1994-02-25/1994-02-25_017.jpg",
+            "caption": "Photo by Fabio Diena"
+        },
+        {
+            "url": "/concerts/images/1994/1994-02-25/1994-02-25_018.jpg",
+            "caption": "Photo by Fabio Diena"
+        },
+        {
+            "url": "/concerts/images/1994/1994-02-25/1994-02-25_019.jpg",
+            "caption": "Unknown photographer"
+        },
+        {
+            "url": "/concerts/images/1994/1994-02-25/1994-02-25_020.jpg",
+            "caption": "Unknown photographer"
+        },
+        {
+            "url": "/concerts/images/1994/1994-02-25/1994-02-25_021.jpg",
+            "caption": "Unknown photographer"
+        },
+        {
+            "url": "/concerts/images/1994/1994-02-25/1994-02-25_022.jpg",
+            "caption": "Unknown photographer"
+        },
+        {
+            "url": "/concerts/images/1994/1994-02-25/1994-02-25_023.jpg",
+            "caption": "Photo by Claudio D'Ingeo"
+        },
+        {
+            "url": "/concerts/images/1994/1994-02-25/1994-02-25_024.jpg",
+            "caption": "Photo by Guido Harari"
+        },
+        {
+            "url": "/concerts/images/1994/1994-02-25/1994-02-25_025.jpg",
+            "caption": "Photo by Paolo Cossali"
+        },
+        {
+            "url": "/concerts/images/1994/1994-02-25/1994-02-25_026.jpg",
+            "caption": "Photo by Claudio D'Ingeo"
+        },
+        {
+            "url": "/concerts/images/1994/1994-02-25/1994-02-25_027.jpg",
+            "caption": "Photo by Claudio D'Ingeo"
+        }
+    ],
+    "navigation": {
+        "previous": "94-02-24",
+        "next": "94-02-27"
+    },
+    "graph": {
+        "bleach": "2",
+        "nevermind": "9",
+        "inutero": "9",
+        "non": "2"
+    }
+}

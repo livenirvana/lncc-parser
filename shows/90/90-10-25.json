@@ -1,0 +1,296 @@
+{
+    "year": "1990",
+    "month": "10",
+    "day": "25",
+    "band": [
+        {
+            "NIRVANA": [
+                {
+                    "name": "Kurt Cobain ",
+                    "duty": "vocals, guitar"
+                },
+                {
+                    "name": "Krist Novoselic ",
+                    "duty": "bass"
+                },
+                {
+                    "name": "Dave Grohl ",
+                    "duty": "drums"
+                }
+            ],
+            "type": "group"
+        },
+        {
+            "name": "Antony Hodgkinson ",
+            "duty": "dancer",
+            "type": "person"
+        }
+    ],
+    "crew": [
+        {
+            "name": "Alex MacLeod",
+            "duty": "tour manager"
+        },
+        {
+            "name": "Craig Montgomery",
+            "duty": "sound engineer"
+        },
+        {
+            "name": "Ian Beveridge",
+            "duty": "monitor engineer"
+        }
+    ],
+    "buyer": {
+        "names": [
+            "John Keenan"
+        ],
+        "company": "JFK Presents"
+    },
+    "schedule": [
+        {
+            "event": "Load In",
+            "time": "…:…"
+        },
+        {
+            "event": "Soundcheck",
+            "time": "…:…"
+        },
+        {
+            "event": "Doors",
+            "time": "20:00"
+        },
+        {
+            "event": "Arm Showtime",
+            "time": "…:…"
+        },
+        {
+            "event": "L7 Showtime",
+            "time": "…:…"
+        },
+        {
+            "event": "Victims Family Showtime",
+            "time": "…:…"
+        },
+        {
+            "event": "NIRVANA Showtime",
+            "time": "…:…"
+        }
+    ],
+    "soundcheck": [],
+    "soundcheck_incomplete": false,
+    "set": [
+        {
+            "type": "song",
+            "text": "jam",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "Blew",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "Been A Son",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "Negative Creep",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "Stain",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "Lithium",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "Spank Thru",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "Breed",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "Floyd The Barber",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "Big Cheese",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "About A Girl",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "In Bloom",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "Scoff",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "Molly's Lips",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "Love Buzz",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "D-7",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "Dive",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "Sliver",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "School",
+            "notes": []
+        }
+    ],
+    "set_incomplete": false,
+    "transmission": {},
+    "rehearsel_circulating_sources": [],
+    "circulating_sources": [
+        {
+            "name": "AUD #1",
+            "complete": true,
+            "equipment": "Unknown > Unknown",
+            "generation": "ANA(2) > FLAC",
+            "video-generation": null,
+            "audio-generation": null,
+            "length-sound": "61 min / 9.0",
+            "notes": [
+                "In April 2002 the ANA(2) was surfaced."
+            ]
+        },
+        {
+            "name": "AMT #1",
+            "complete": true,
+            "equipment": "Built In > Sony CCD-V200E",
+            "generation": "VID8(M) > MKV",
+            "video-generation": null,
+            "audio-generation": null,
+            "length-sound": "60 min / 7.5",
+            "notes": [
+                "A master transfer was circulated December 17th 2017.",
+                "Amateur video, shot from front left of the stage.",
+                "\"D7\" cuts in."
+            ]
+        },
+        {
+            "name": "AMT #2",
+            "complete": false,
+            "equipment": "Unknown > Unknown",
+            "generation": "VHS(x) > DVDR/FLAC",
+            "video-generation": null,
+            "audio-generation": null,
+            "length-sound": "05 min / 6.5",
+            "notes": [
+                "Amateur video, shot on right-hand side of stage (next to Cobain) by a member of L7.",
+                "In AMT #1, this taper can be seen taping much more of the show than what is currently circulating.",
+                "\"Blew\", \"Been A Son\" and \"Negative Creep\" only.",
+                "Has cuts in \"Blew\" and \"Negative Creep\"."
+            ]
+        }
+    ],
+    "uncirculated_sources": [],
+    "notes": [
+        "There were many screw-ups and mishaps due to an enormous amount of stage divers all taking their leaps, which visibly upset Kurt.",
+        "During the bridge of \"School,\" Kurt improvised the lyrics."
+    ],
+    "press": [],
+    "memorabilia": [
+        {
+            "url": "/concerts/images/1990/1990-10-25/1990-10-25_01.jpg",
+            "caption": "Handbill/Flyer, designed by unknown"
+        },
+        {
+            "url": "/concerts/images/1990/1990-10-25/1990-10-25_02.jpg",
+            "caption": "Ticket"
+        },
+        {
+            "url": "/concerts/images/1990/1990-10-25/1990-10-25_03.jpg",
+            "caption": "Advert"
+        },
+        {
+            "url": "/concerts/images/1990/1990-10-25/1990-10-25_04.jpg",
+            "caption": "Advert"
+        },
+        {
+            "url": "/concerts/images/1990/1990-10-25/1990-10-25_05.jpg",
+            "caption": "Advert"
+        }
+    ],
+    "images": [
+        {
+            "url": "/concerts/images/1990/1990-10-25/1990-10-25_001.jpg",
+            "caption": "Photo by F.G."
+        },
+        {
+            "url": "/concerts/images/1990/1990-10-25/1990-10-25_002.jpg",
+            "caption": "Unknown photographer"
+        },
+        {
+            "url": "/concerts/images/1990/1990-10-25/1990-10-25_003.jpg",
+            "caption": "Photo by Tony Woolgan"
+        },
+        {
+            "url": "/concerts/images/1990/1990-10-25/1990-10-25_004.jpg",
+            "caption": "Photo by A. Micklethwaite"
+        },
+        {
+            "url": "/concerts/images/1990/1990-10-25/1990-10-25_005.jpg",
+            "caption": "Photo by A. Micklethwaite"
+        },
+        {
+            "url": "/concerts/images/1990/1990-10-25/1990-10-25_006.jpg",
+            "caption": "Photo by A. Micklethwaite"
+        },
+        {
+            "url": "/concerts/images/1990/1990-10-25/1990-10-25_007.jpg",
+            "caption": "Photo by A. Micklethwaite"
+        },
+        {
+            "url": "/concerts/images/1990/1990-10-25/1990-10-25_008.jpg",
+            "caption": "Photo by A. Micklethwaite"
+        }
+    ],
+    "navigation": {
+        "previous": "90-10-24",
+        "next": "90-10-26"
+    },
+    "graph": {
+        "bleach": "8",
+        "nevermind": "3",
+        "inutero": "0",
+        "non": "7"
+    }
+}

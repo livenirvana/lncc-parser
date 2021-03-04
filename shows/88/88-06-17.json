@@ -1,0 +1,97 @@
+{
+    "year": "1988",
+    "month": "06",
+    "day": "17",
+    "band": [
+        {
+            "NIRVANA": [
+                {
+                    "name": "Kurt Cobain ",
+                    "duty": "vocals, guitar"
+                },
+                {
+                    "name": "Krist Novoselic ",
+                    "duty": "bass"
+                },
+                {
+                    "name": "Chad Channing ",
+                    "duty": "drums"
+                }
+            ],
+            "type": "group"
+        }
+    ],
+    "crew": [],
+    "buyer": {
+        "names": [
+            "Paul Yarnold"
+        ],
+        "company": "Lenin Comps"
+    },
+    "schedule": [
+        {
+            "event": "Load In",
+            "time": "…:…"
+        },
+        {
+            "event": "Soundcheck",
+            "time": "…:…"
+        },
+        {
+            "event": "Doors",
+            "time": "20:00"
+        },
+        {
+            "event": "Millions Of Dead Leninz Showtime",
+            "time": "…:…"
+        },
+        {
+            "event": "King Krab Showtime",
+            "time": "…:…"
+        },
+        {
+            "event": "Lush Showtime",
+            "time": "…:…"
+        },
+        {
+            "event": "NIRVANA Showtime",
+            "time": "…:…"
+        }
+    ],
+    "soundcheck": [],
+    "soundcheck_incomplete": false,
+    "set": [],
+    "set_incomplete": false,
+    "transmission": {},
+    "rehearsel_circulating_sources": [],
+    "circulating_sources": [],
+    "uncirculated_sources": [],
+    "notes": [
+        "\"About fifty kids\" were at the show, according to Slim Moon of Lush.",
+        "Because the other bands had played too long, someone working there stopped the show after Nirvana had played only two songs, according to Mark Lanegan of the Screaming Trees. ",
+        "Contrary to this report, Gary Lee Conner and Mark Pickerel of the Screaming Trees, and at least one attendee, reports that the show was stopped because Krist got into a fight with an employee who was trying to escort out Krist's friend or girlfriend for slam dancing and stage diving during Nirvana's set. He throwed his bass down, jumped from the stage onto the guy and wrestled him to the ground.",
+        "Nirvana's tour manager got into a fistfight with the person who stopped the show as Kurt turned his amp up all the way and Krist started throwing his bass up in the air and catching it with one hand and brandished his bass like a battle axe. "
+    ],
+    "press": [],
+    "memorabilia": [
+        {
+            "url": "/concerts/images/1988/1988-06-17/1988-06-17_01.jpg",
+            "caption": "Handbill/Flyer, designed by Paul Yarnold and Nate Hill"
+        },
+        {
+            "url": "/concerts/images/1988/1988-06-17/1988-06-17_02.jpg",
+            "caption": "Handbill/Flyer, designed by Paul Yarnold and Nate Hill"
+        }
+    ],
+    "images": [],
+    "navigation": {
+        "previous": "88-06-02",
+        "next": "88-07-03"
+    },
+    "graph": {
+        "bleach": "1",
+        "nevermind": "1",
+        "inutero": "1",
+        "non": "1"
+    }
+}

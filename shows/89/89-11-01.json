@@ -1,0 +1,384 @@
+{
+    "year": "1989",
+    "month": "11",
+    "day": "01",
+    "venue": "November 1",
+    "city": "1989 - Nighttown",
+    "state": "Rotterdam",
+    "country": "NL",
+    "band": [
+        {
+            "NIRVANA": [
+                {
+                    "name": "Kurt Cobain ",
+                    "duty": "vocals, guitar"
+                },
+                {
+                    "name": "Krist Novoselic ",
+                    "duty": "bass"
+                },
+                {
+                    "name": "Chad Channing ",
+                    "duty": "drums"
+                }
+            ],
+            "type": "group"
+        }
+    ],
+    "crew": [
+        {
+            "name": "Edwin Heath",
+            "duty": "tour manager"
+        },
+        {
+            "name": "Craig Montgomery",
+            "duty": "sound engineer"
+        }
+    ],
+    "buyer": {
+        "names": [
+            "Pim Bottema",
+            "Koos Nuyens"
+        ]
+    },
+    "schedule": [
+        {
+            "event": "Load In",
+            "time": "15:30"
+        },
+        {
+            "event": "Soundcheck",
+            "time": "16:00"
+        },
+        {
+            "event": "Doors",
+            "time": "20:00"
+        },
+        {
+            "event": "NIRVANA Showtime",
+            "time": "21:00"
+        },
+        {
+            "event": "TAD Showtime",
+            "time": "…:…"
+        }
+    ],
+    "soundcheck": [],
+    "soundcheck_incomplete": false,
+    "set": [
+        {
+            "type": "banter",
+            "text": "Hi",
+            "person": "Cobain"
+        },
+        {
+            "type": "song",
+            "text": "School",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "Scoff",
+            "notes": []
+        },
+        {
+            "type": "banter",
+            "text": "Are you ready?",
+            "person": "Novoselic"
+        },
+        {
+            "type": "song",
+            "text": "Love Buzz",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "Floyd The Barber",
+            "notes": []
+        },
+        {
+            "type": "banter",
+            "text": "Thanks a lot",
+            "person": "Novoselic"
+        },
+        {
+            "type": "banter",
+            "text": "Let's skip Dive",
+            "person": "Novoselic"
+        },
+        {
+            "type": "banter",
+            "text": "What? OK. it sounds beautiful doesn't it?",
+            "person": "Cobain"
+        },
+        {
+            "type": "song",
+            "text": "Polly",
+            "notes": []
+        },
+        {
+            "type": "banter",
+            "text": "Thanks a lot",
+            "person": "Channing"
+        },
+        {
+            "type": "banter",
+            "text": "Ready?",
+            "person": "Cobain"
+        },
+        {
+            "type": "song",
+            "text": "Big Cheese",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "About A Girl",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "Token Eastern Song",
+            "notes": []
+        },
+        {
+            "type": "jam",
+            "text": "Breed guitar false start",
+            "notes": [
+                "guitar",
+                "false start"
+            ]
+        },
+        {
+            "type": "song",
+            "text": "Breed",
+            "notes": []
+        },
+        {
+            "type": "banter",
+            "text": "What?",
+            "person": "Cobain"
+        },
+        {
+            "type": "song",
+            "text": "Spank Thru",
+            "notes": []
+        },
+        {
+            "type": "jam",
+            "text": "jam bass jam",
+            "notes": [
+                "bass jam"
+            ]
+        },
+        {
+            "type": "song",
+            "text": "Negative Creep",
+            "notes": []
+        },
+        {
+            "type": "banter",
+            "text": "Aaaagh!",
+            "person": "Channing"
+        },
+        {
+            "type": "banter",
+            "text": "Thanks a lot",
+            "person": "Novoselic"
+        },
+        {
+            "type": "banter",
+            "text": "?? Hear the guitar's body",
+            "person": "Cobain"
+        },
+        {
+            "type": "banter",
+            "text": "Yeah",
+            "person": "Voice"
+        },
+        {
+            "type": "banter",
+            "text": "What's that? Mr Moustache? We had a drummer who had a moustache and er' he was really weird, yeah we had two drummers who had moustaches. Some guys spit in his truck and he was kicking him in the head, so he was like ... it was ... it was like really negative vibes man, I mean it was really bad and er ... it was scary. What? Er ok",
+            "person": "Novoselic"
+        },
+        {
+            "type": "banter",
+            "text": "What",
+            "person": "Cobain"
+        },
+        {
+            "type": "banter",
+            "text": "gee I, I had all kinds of facial hair, like I have, you see I've got this this weird beard now, like I kind of have like an Abraham Lincoln type beard at one time and then I like had a goatee and I've had really long sideburns, but I've never had a fucking moustache! 'cos I don't really like them, my dad had a moustache, he was a rough guy!",
+            "person": "Novoselic"
+        },
+        {
+            "type": "banter",
+            "text": "??",
+            "person": "Cobain"
+        },
+        {
+            "type": "banter",
+            "text": "Yeah",
+            "person": "Channing"
+        },
+        {
+            "type": "song",
+            "text": "Mr. Moustache",
+            "notes": []
+        },
+        {
+            "type": "banter",
+            "text": "Do you wanna do it?",
+            "person": "Cobain"
+        },
+        {
+            "type": "song",
+            "text": "Been A Son",
+            "notes": []
+        },
+        {
+            "type": "banter",
+            "text": "It that right?",
+            "person": "Voice"
+        },
+        {
+            "type": "banter",
+            "text": "That's not right",
+            "person": "Cobain"
+        },
+        {
+            "type": "jam",
+            "text": "jam bass jam",
+            "notes": [
+                "bass jam"
+            ]
+        },
+        {
+            "type": "song",
+            "text": "Stain",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "Blew",
+            "notes": []
+        }
+    ],
+    "set_incomplete": false,
+    "transmission": {},
+    "rehearsel_circulating_sources": [],
+    "circulating_sources": [
+        {
+            "name": "SBD #1",
+            "complete": false,
+            "equipment": "Soundboard > Unknown",
+            "generation": "ANA(2) > FLAC",
+            "video-generation": null,
+            "audio-generation": null,
+            "length-sound": "46 min / 9.0",
+            "notes": [
+                "Surfaced in April 2006.",
+                "Missing \"Blew.\"",
+                "\"School\" cuts in, and \"Stain\" cuts out after only a few seconds."
+            ]
+        },
+        {
+            "name": "AMT #1",
+            "complete": false,
+            "equipment": "Built In > Unknown",
+            "generation": "VHS(1) > MPEG > DVDR(1) > MP4",
+            "video-generation": null,
+            "audio-generation": null,
+            "length-sound": "07 min / 7.5",
+            "notes": [
+                "Posted in youtube in July 2018.",
+                "The video is incomplete due to battery problems.",
+                "The complete tape has 18 minutes but it's not circulating entirely, comparing with the complete tape, this source is missing \"Scoff\" cuts in, \"Floyd the Barber\" cuts in , Big Cheese and \"Mr. Moustache\" cuts out.",
+                "This source includes only \"School\" and \"Polly\".",
+                "A clip of \"School\" appears in a 2009 documentary about the venue and the footage is mixed with some clips presumably from other parts of the video to give a multiple-camera appearance."
+            ]
+        }
+    ],
+    "uncirculated_sources": [
+        {
+            "name": "AUD #1",
+            "note": "\nEquipment:\nAiwa CM-30 > Aiwa TP-S30\nLowest Generation:\nMASTER ??\nLength / Sound Quality:\n54 min / ??\nNotes:\nNo info\n"
+        }
+    ],
+    "notes": [],
+    "press": [],
+    "memorabilia": [
+        {
+            "url": "/concerts/images/1989/1989-11-01b/1989-11-01b_01.jpg",
+            "caption": "Ticket"
+        },
+        {
+            "url": "/concerts/images/1989/1989-11-01b/1989-11-01b_02.jpg",
+            "caption": "Ticket"
+        },
+        {
+            "url": "/concerts/images/1989/1989-11-01b/1989-11-01b_03.jpg",
+            "caption": "Nirvana's tour itinerary"
+        },
+        {
+            "url": "/concerts/images/1989/1989-11-01b/1989-11-01b_04.jpg",
+            "caption": "Nirvana's tour itinerary"
+        },
+        {
+            "url": "/concerts/images/1989/1989-11-01b/1989-11-01b_05.jpg",
+            "caption": "Advert"
+        },
+        {
+            "url": "/concerts/images/1989/1989-11-01b/1989-11-01b_06.jpg",
+            "caption": "Nirvana's tour itinerary"
+        },
+        {
+            "url": "/concerts/images/1989/1989-11-01b/1989-11-01b_07.JPG",
+            "caption": "Advert"
+        }
+    ],
+    "images": [
+        {
+            "url": "/concerts/images/1989/1989-11-01b/1989-11-01b_001.jpg",
+            "caption": "Screencap of AMT #1"
+        },
+        {
+            "url": "/concerts/images/1989/1989-11-01b/1989-11-01b_002.jpg",
+            "caption": "Screencap of AMT #1"
+        },
+        {
+            "url": "/concerts/images/1989/1989-11-01b/1989-11-01b_003.jpg",
+            "caption": "Screencap of AMT #1"
+        },
+        {
+            "url": "/concerts/images/1989/1989-11-01b/1989-11-01b_004.jpg",
+            "caption": "Screencap of AMT #1"
+        },
+        {
+            "url": "/concerts/images/1989/1989-11-01b/1989-11-01b_005.jpg",
+            "caption": "Screencap of AMT #1"
+        },
+        {
+            "url": "/concerts/images/1989/1989-11-01b/1989-11-01b_006.jpg",
+            "caption": "Screencap of AMT #1"
+        },
+        {
+            "url": "/concerts/images/1989/1989-11-01b/1989-11-01b_007.jpg",
+            "caption": "Screencap of AMT #1"
+        },
+        {
+            "url": "/concerts/images/1989/1989-11-01b/1989-11-01b_008.jpg",
+            "caption": "Screencap of AMT #1"
+        }
+    ],
+    "navigation": {
+        "previous": "89-10-30",
+        "next": "89-11-02"
+    },
+    "graph": {
+        "bleach": "9",
+        "nevermind": "2",
+        "inutero": "0",
+        "non": "4"
+    }
+}

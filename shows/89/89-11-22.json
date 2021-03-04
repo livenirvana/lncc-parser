@@ -1,0 +1,706 @@
+{
+    "year": "1989",
+    "month": "11",
+    "day": "22",
+    "venue": "November 22",
+    "city": "1989 - U4",
+    "state": "Vienna",
+    "country": "AT",
+    "band": [
+        {
+            "Band project name": [
+                {
+                    "name": "Kurt Cobain ",
+                    "duty": "vocals, guitar"
+                },
+                {
+                    "name": "Krist Novoselic ",
+                    "duty": "bass, vocals"
+                },
+                {
+                    "name": "Chad Channing ",
+                    "duty": "drums"
+                }
+            ],
+            "type": "group"
+        },
+        {
+            "name": "Tad Doyle ",
+            "duty": "guitar",
+            "type": "person"
+        }
+    ],
+    "crew": [
+        {
+            "name": "Edwin Heath",
+            "duty": "tour manager"
+        },
+        {
+            "name": "Craig Montgomery",
+            "duty": "sound engineer"
+        }
+    ],
+    "buyer": {
+        "names": [
+            "Karin Löffler"
+        ]
+    },
+    "schedule": [
+        {
+            "event": "Load In",
+            "time": "17:00"
+        },
+        {
+            "event": "Soundcheck",
+            "time": "18:00"
+        },
+        {
+            "event": "Doors",
+            "time": "22:00"
+        },
+        {
+            "event": "TAD Showtime",
+            "time": "…:…"
+        },
+        {
+            "event": "NIRVANA Showtime",
+            "time": "…:…"
+        }
+    ],
+    "soundcheck": [],
+    "soundcheck_incomplete": false,
+    "set": [
+        {
+            "type": "banter",
+            "text": "My name, my name is Elmo and here's Jake Blues",
+            "person": "Novoselic"
+        },
+        {
+            "type": "banter",
+            "text": "We're on a mission from God!",
+            "person": "Cobain"
+        },
+        {
+            "type": "banter",
+            "text": "??",
+            "person": "Channing"
+        },
+        {
+            "type": "banter",
+            "text": "We've got a cop car parked outside!",
+            "person": "Novoselic"
+        },
+        {
+            "type": "banter",
+            "text": "I would like to explain to everyone something, my guitar ... She's broken! She's Broken! Doesn't tune worth a shit, okay",
+            "person": "Cobain"
+        },
+        {
+            "type": "banter",
+            "text": "Hey",
+            "person": "Novoselic"
+        },
+        {
+            "type": "jam",
+            "text": "jam screaming intro",
+            "notes": [
+                "screaming intro"
+            ]
+        },
+        {
+            "type": "banter",
+            "text": "You wanna bet",
+            "person": "Novoselic"
+        },
+        {
+            "type": "banter",
+            "text": "Thank you",
+            "person": "Cobain"
+        },
+        {
+            "type": "banter",
+            "text": "... a schilling brother",
+            "person": "Novoselic"
+        },
+        {
+            "type": "song",
+            "text": "School",
+            "notes": []
+        },
+        {
+            "type": "banter",
+            "text": "'east coast",
+            "person": "Novoselic"
+        },
+        {
+            "type": "song",
+            "text": "Scoff",
+            "notes": []
+        },
+        {
+            "type": "banter",
+            "text": "About the girl!",
+            "person": "Voice"
+        },
+        {
+            "type": "song",
+            "text": "Love Buzz",
+            "notes": []
+        },
+        {
+            "type": "banter",
+            "text": "This show is being taped for Austrian radio, so you can just tell ... tell them all to fuck off or hello, I love you, go to hell!",
+            "person": "Novoselic"
+        },
+        {
+            "type": "banter",
+            "text": "Fuck off!",
+            "person": "Voice"
+        },
+        {
+            "type": "banter",
+            "text": "Suck off!",
+            "person": "Novoselic"
+        },
+        {
+            "type": "banter",
+            "text": "Fuck off!",
+            "person": "Voice"
+        },
+        {
+            "type": "banter",
+            "text": "Suck off!",
+            "person": "Novoselic"
+        },
+        {
+            "type": "banter",
+            "text": "Fuck off, there's a party in your mouth and you're all invited to come!",
+            "person": "Voice"
+        },
+        {
+            "type": "banter",
+            "text": "About A Girl!",
+            "person": "Voice"
+        },
+        {
+            "type": "banter",
+            "text": "Chris",
+            "person": "Cobain"
+        },
+        {
+            "type": "banter",
+            "text": "...my guitar",
+            "person": "Novoselic"
+        },
+        {
+            "type": "banter",
+            "text": "Yes. I don't know if we're supposed to'",
+            "person": "Cobain"
+        },
+        {
+            "type": "song",
+            "text": "Floyd The Barber",
+            "notes": []
+        },
+        {
+            "type": "banter",
+            "text": "Gee thanks",
+            "person": "Cobain"
+        },
+        {
+            "type": "banter",
+            "text": "About the girl! About the girl!",
+            "person": "Voice"
+        },
+        {
+            "type": "song",
+            "text": "Dive",
+            "notes": []
+        },
+        {
+            "type": "banter",
+            "text": "About A Girl!",
+            "person": "Voice"
+        },
+        {
+            "type": "banter",
+            "text": "I love girls",
+            "person": "Novoselic"
+        },
+        {
+            "type": "banter",
+            "text": "Why don't you fucking sing about the girl?",
+            "person": "Voice"
+        },
+        {
+            "type": "banter",
+            "text": "I think about girls every day",
+            "person": "Novoselic"
+        },
+        {
+            "type": "banter",
+            "text": "About the Girl",
+            "person": "Voice"
+        },
+        {
+            "type": "banter",
+            "text": "I think about girls all the time, what do you think, I'm some kind of queer or something man, sure I sing about girls man, I love girls, no kidding, women are great, I love 'em and I can't live without 'em. I love my mothers and my daughters, my mother is a girl, my mother is a girl. I know my girls! My mom is a girl, my aunt is a girl, my grandma's a girl, that's right, I love girls!",
+            "person": "Novoselic"
+        },
+        {
+            "type": "banter",
+            "text": "Sing about fucking girls, fucking ... Fuck 'em",
+            "person": "Voice"
+        },
+        {
+            "type": "banter",
+            "text": "I fuck girls, you gotta believe it, I fuck girls because I ain't gonna fuck no guy that's for damn sure!",
+            "person": "Novoselic"
+        },
+        {
+            "type": "banter",
+            "text": "Well why don't you then?",
+            "person": "Voice"
+        },
+        {
+            "type": "banter",
+            "text": "Why don't I fuck a girl? Are there any girls who wanna fuck right now?",
+            "person": "Novoselic"
+        },
+        {
+            "type": "banter",
+            "text": "No!",
+            "person": "Voice"
+        },
+        {
+            "type": "banter",
+            "text": "If you know a girl that'll fuck me right now, then she's a slut! I have no respect for her whatsoever! Course I sing about girls, I love girls, how can I prove it, how can I prove it? Oh, I read a porno magazine and I got sexually fucking aroused, uh, uh!",
+            "person": "Novoselic"
+        },
+        {
+            "type": "banter",
+            "text": "Sing about fucking girls! Sing about fucking girls! Sing about fucking girls!",
+            "person": "Voice"
+        },
+        {
+            "type": "banter",
+            "text": "Shut up you fucking asshole",
+            "person": "Voice"
+        },
+        {
+            "type": "banter",
+            "text": "Sing about fucking girls man, sing a song about fucking girls!",
+            "person": "Voice"
+        },
+        {
+            "type": "banter",
+            "text": "Not only girls have long hair, a lot of guys have long hair too, I mean this is 1989, what fucking hole have you crawled out of?",
+            "person": "Novoselic"
+        },
+        {
+            "type": "banter",
+            "text": "Sing a song about fucking girls man!",
+            "person": "Voice"
+        },
+        {
+            "type": "banter",
+            "text": "Tell this guy about the ayatollah and give him a machine gun and he'll fucking clear this place apart",
+            "person": "Novoselic"
+        },
+        {
+            "type": "banter",
+            "text": "come on fucking tune your guitar and sing about fucking girls man",
+            "person": "Voice"
+        },
+        {
+            "type": "banter",
+            "text": "I'd like to tell you about this next song, it's about homosexual love, 'cos we're all queers man! (crowd cheers and claps) we're all butt pirates here, we're butthole surfers",
+            "person": "Novoselic"
+        },
+        {
+            "type": "banter",
+            "text": "Fuck you!",
+            "person": "Voice"
+        },
+        {
+            "type": "banter",
+            "text": "By the way, Chris is a girl",
+            "person": "Cobain"
+        },
+        {
+            "type": "banter",
+            "text": "and I'll prove it to you right now! He's a queer",
+            "person": "Novoselic"
+        },
+        {
+            "type": "banter",
+            "text": "This song is about a queer",
+            "person": "Cobain"
+        },
+        {
+            "type": "song",
+            "text": "About A Girl",
+            "notes": []
+        },
+        {
+            "type": "banter",
+            "text": "Are you happy? Are you happy now? You didn't have to raise all that fuss I mean, you just shoulda asked you know? We'll do it",
+            "person": "Novoselic"
+        },
+        {
+            "type": "song",
+            "text": "Spank Thru",
+            "notes": []
+        },
+        {
+            "type": "banter",
+            "text": "next song? What do you wanna hear?",
+            "person": "Novoselic"
+        },
+        {
+            "type": "banter",
+            "text": "Fuck you man!",
+            "person": "Voice"
+        },
+        {
+            "type": "banter",
+            "text": "About A Girl?",
+            "person": "Voice"
+        },
+        {
+            "type": "song",
+            "text": "Big Cheese",
+            "notes": []
+        },
+        {
+            "type": "banter",
+            "text": "I'm a boy, I'm a boy, but my mom won't admit it! [burps] I'm a boy and if I say I am I will get it, that's for you",
+            "person": "Novoselic"
+        },
+        {
+            "type": "jam",
+            "text": "I'm A Boy jam novoselic acappella",
+            "notes": [
+                "jam",
+                "novoselic acappella"
+            ]
+        },
+        {
+            "type": "song",
+            "text": "Sappy",
+            "notes": []
+        },
+        {
+            "type": "banter",
+            "text": "Danke",
+            "person": "Novoselic"
+        },
+        {
+            "type": "song",
+            "text": "Breed",
+            "notes": []
+        },
+        {
+            "type": "banter",
+            "text": "Should we tune down to D ??",
+            "person": "Cobain"
+        },
+        {
+            "type": "banter",
+            "text": "Come on you motherfucker!",
+            "person": "Voice"
+        },
+        {
+            "type": "banter",
+            "text": "Watch your language man!",
+            "person": "Novoselic"
+        },
+        {
+            "type": "banter",
+            "text": "That's it motherfucker, talk about something else man",
+            "person": "Voice"
+        },
+        {
+            "type": "banter",
+            "text": "What do you want me to talk about? Girls? Some more, let's talk about girls, I am a girl, I'm a girl, I'll prove it to ya, I'll prove it to you right now! [drum roll] I'm a boy, I'm a boy!",
+            "person": "Novoselic"
+        },
+        {
+            "type": "jam",
+            "text": "I'm A Boy jam novoselic acappella",
+            "notes": [
+                "jam",
+                "novoselic acappella"
+            ]
+        },
+        {
+            "type": "song",
+            "text": "Been A Son",
+            "notes": []
+        },
+        {
+            "type": "banter",
+            "text": "Play you fucking guitar man, fucking play it!",
+            "person": "Voice"
+        },
+        {
+            "type": "song",
+            "text": "Negative Creep",
+            "notes": []
+        },
+        {
+            "type": "banter",
+            "text": "That's it, I'm hypnotised. Does that look like an accordion, what is that a cello? It's a fucking guitar man!",
+            "person": "Novoselic"
+        },
+        {
+            "type": "banter",
+            "text": "Then fucking play it for fucks sake!",
+            "person": "Voice"
+        },
+        {
+            "type": "song",
+            "text": "Blew",
+            "notes": []
+        },
+        {
+            "type": "banter",
+            "text": "Thank you! Good night and God bless!",
+            "person": "Cobain"
+        },
+        {
+            "type": "banter",
+            "text": "We've got some T-shirts on sale on stage here later on, thank you",
+            "person": "Voice"
+        },
+        {
+            "type": "banter",
+            "text": "Danke, danke, danke. This next song is About A Girl! We're all the fruit of women's wombs, ain't that heavy, ponder that, smoke some pot, ponder that",
+            "person": "Novoselic"
+        },
+        {
+            "type": "banter",
+            "text": "Hey man, one more treat for the audience man",
+            "person": "Voice"
+        },
+        {
+            "type": "banter",
+            "text": "yes",
+            "person": "Cobain"
+        },
+        {
+            "type": "banter",
+            "text": "thank you man!",
+            "person": "Voice"
+        },
+        {
+            "type": "banter",
+            "text": "How are we gonna do this?",
+            "person": "Novoselic"
+        },
+        {
+            "type": "banter",
+            "text": "Plug it in!",
+            "person": "Voice"
+        },
+        {
+            "type": "banter",
+            "text": "Break the sucker!",
+            "person": "Channing"
+        },
+        {
+            "type": "banter",
+            "text": "These are all our songs",
+            "person": "Novoselic"
+        },
+        {
+            "type": "banter",
+            "text": "my guitar's' Check, check, check, I want some ree-verb",
+            "person": "Cobain"
+        },
+        {
+            "type": "banter",
+            "text": "You gotta crank the mic on this song, okay?",
+            "person": "Novoselic"
+        },
+        {
+            "type": "banter",
+            "text": "And the bass really fucking loud Craig",
+            "person": "Cobain"
+        },
+        {
+            "type": "banter",
+            "text": "And one last beer for the audience",
+            "person": "Voice"
+        },
+        {
+            "type": "banter",
+            "text": "You can't get blood out of a Turnip brother",
+            "person": "Novoselic"
+        },
+        {
+            "type": "banter",
+            "text": "OK, play 50 minutes more OK?",
+            "person": "Voice"
+        },
+        {
+            "type": "banter",
+            "text": "Hey Tad, do you wanna play guitar? Yeah! You only have to learn 4 notes, 4 notes!",
+            "person": "Cobain"
+        },
+        {
+            "type": "banter",
+            "text": "I don't even know'",
+            "person": "Novoselic"
+        },
+        {
+            "type": "banter",
+            "text": "Give us some drinks man, we're a lousy audience without drinks in our hands, we're fuckers without drinks in our hands",
+            "person": "Voice"
+        },
+        {
+            "type": "song",
+            "text": "Vendetagainst",
+            "notes": [
+                "Doyle on guitar"
+            ]
+        },
+        {
+            "type": "banter",
+            "text": "I'd like to thank Tad, thanks a lot, donkey show. And I'm a little stranded!",
+            "person": "Channing"
+        }
+    ],
+    "set_incomplete": false,
+    "transmission": {},
+    "rehearsel_circulating_sources": [],
+    "circulating_sources": [
+        {
+            "name": "AUD #1",
+            "complete": true,
+            "equipment": "Unknown > Unknown",
+            "generation": "ANA(1) > FLAC",
+            "video-generation": null,
+            "audio-generation": null,
+            "length-sound": "61 min / 8.5",
+            "notes": [
+                "Circulated in March 2013.",
+                "It has a 5-second dropout in the right channel during 'Spank Thru' and 'Negative Creep' cuts in due to a tape flip."
+            ]
+        },
+        {
+            "name": "SBD #1a",
+            "complete": true,
+            "equipment": "Soundboard > Unknown",
+            "generation": "FM > CDR(1) > FLAC",
+            "video-generation": null,
+            "audio-generation": null,
+            "length-sound": "49 min / 9.5",
+            "notes": [
+                "Lower quality and Post-FM soundboard source that was broadcasted by the radio (aired 09/24/01) and recorded directly to WAV from the radio and then transferred to CDR.",
+                "This source includes Cobain's opening banter about his guitar and his screaming intro, which is missing from SBD #1b.",
+                "Whilst this source is technically complete, containing all the songs and the opening banter/screams, there has been considerable editing between the tracks, cutting out band banter/noises between virtually every song.",
+                "Also unfortunately this radio broadcast was in mono."
+            ]
+        },
+        {
+            "name": "SBD #1b",
+            "complete": false,
+            "equipment": "Soundboard > Unknown",
+            "generation": "Unofficial CD [Smells Like Nirvana] > FLAC",
+            "video-generation": null,
+            "audio-generation": null,
+            "length-sound": "57:40 min / 10",
+            "notes": [
+                "Higher quality and Pre-FM soundboard source.",
+                "Missing Cobain's opening dialogue about his guitar, the screaming intro, the very first song (\"School\") and some announcer banter after \"Blew\" about T-shirts being on sale.",
+                "All other songs and between-song banter are present.\n                                    \n"
+            ]
+        }
+    ],
+    "uncirculated_sources": [
+        {
+            "name": "AMT #1",
+            "note": "The venue usually video taped shows there, so Nirvana's set may have been taped."
+        }
+    ],
+    "notes": [
+        "Krist got involved with a bunch of drunks in the audience who were disrespecting women, prompting him to give a long speech about how he is a girl and a brief attempt at singing The Who's \"I'm A Boy.\"",
+        "Tad Doyle played guitar on \"Vendetagainst\", the song was normally played without guitar."
+    ],
+    "press": [],
+    "memorabilia": [
+        {
+            "url": "/concerts/images/1989/1989-11-22/1989-11-22_01.jpg",
+            "caption": "Handbill/Flyer, designed by unknown"
+        },
+        {
+            "url": "/concerts/images/1989/1989-11-22/1989-11-22_02.jpg",
+            "caption": "Handwritten setlist"
+        },
+        {
+            "url": "/concerts/images/1989/1989-11-22/1989-11-22_03.jpg",
+            "caption": "Advert"
+        },
+        {
+            "url": "/concerts/images/1989/1989-11-22/1989-11-22_04.jpg",
+            "caption": "Nirvana's tour itinerary"
+        },
+        {
+            "url": "/concerts/images/1989/1989-11-22/1989-11-22_05.jpg",
+            "caption": "Nirvana's tour itinerary"
+        },
+        {
+            "url": "/concerts/images/1989/1989-11-22/1989-11-22_06.jpg",
+            "caption": "Nirvana's tour itinerary"
+        },
+        {
+            "url": "/concerts/images/1989/1989-11-22/1989-11-22_07.jpg",
+            "caption": "Advert"
+        },
+        {
+            "url": "/concerts/images/1989/1989-11-22/1989-11-22_08.jpg",
+            "caption": "Advert"
+        },
+        {
+            "url": "/concerts/images/1989/1989-11-22/1989-11-22_09.jpg",
+            "caption": "Handbill/Flyer, designed by unknown"
+        }
+    ],
+    "images": [
+        {
+            "url": "/concerts/images/1989/1989-11-22/1989-11-22_001.jpg",
+            "caption": "Photo by Karin Löffler"
+        },
+        {
+            "url": "/concerts/images/1989/1989-11-22/1989-11-22_002.jpg",
+            "caption": "Photo by Karin Löffler"
+        },
+        {
+            "url": "/concerts/images/1989/1989-11-22/1989-11-22_003.jpg",
+            "caption": "Photo by Karin Löffler"
+        },
+        {
+            "url": "/concerts/images/1989/1989-11-22/1989-11-22_004.jpg",
+            "caption": "Photo by Václav Matěj"
+        },
+        {
+            "url": "/concerts/images/1989/1989-11-22/1989-11-22_005.jpg",
+            "caption": "Photo by Václav Matěj"
+        },
+        {
+            "url": "/concerts/images/1989/1989-11-22/1989-11-22_006.jpg",
+            "caption": "Photo by A. Kremer"
+        }
+    ],
+    "navigation": {
+        "previous": "89-11-21",
+        "next": "89-11-23"
+    },
+    "graph": {
+        "bleach": "8",
+        "nevermind": "1",
+        "inutero": "0",
+        "non": "5"
+    }
+}

@@ -1,0 +1,627 @@
+{
+    "year": "1994",
+    "month": "02",
+    "day": "06",
+    "venue": "February 6",
+    "city": "1994 - Pavilhão do Grupo Dramático e Sportivo de Cascais",
+    "state": "Cascais",
+    "country": "PT",
+    "band": [
+        {
+            "NIRVANA": [
+                {
+                    "name": "Kurt Cobain ",
+                    "duty": "vocals, guitar"
+                },
+                {
+                    "name": "Krist Novoselic ",
+                    "duty": "bass"
+                },
+                {
+                    "name": "Dave Grohl ",
+                    "duty": "drums, backing vocals"
+                },
+                {
+                    "name": "Pat Smear ",
+                    "duty": "guitar"
+                },
+                {
+                    "name": "Melora Creager ",
+                    "duty": "cello"
+                }
+            ],
+            "type": "group"
+        }
+    ],
+    "crew": [
+        {
+            "name": "Alex MacLeod",
+            "duty": "tour manager"
+        },
+        {
+            "name": "Jeff Mason",
+            "duty": "production manager"
+        },
+        {
+            "name": "Kelly Nase",
+            "duty": "tour accountant"
+        },
+        {
+            "name": "Susanne Sasic",
+            "duty": "lighting designer"
+        },
+        {
+            "name": "Craig Overbay",
+            "duty": "sound engineer"
+        },
+        {
+            "name": "Ian Beveridge",
+            "duty": "monitor engineer"
+        },
+        {
+            "name": "Jim Vincent",
+            "duty": "guitar technician"
+        },
+        {
+            "name": "John Duncan",
+            "duty": "guitar technician"
+        },
+        {
+            "name": "Garry Mackenzie",
+            "duty": "drum technician"
+        },
+        {
+            "name": "Ed Swink",
+            "duty": "stage manager"
+        },
+        {
+            "name": "Pete Currier",
+            "duty": "rigger"
+        },
+        {
+            "name": "Appy Thörig",
+            "duty": "mojo barrier"
+        },
+        {
+            "name": "Allan Bagley",
+            "duty": "Pro Show sound crew"
+        },
+        {
+            "name": "Niko Vonk",
+            "duty": "Pro Show sound crew"
+        },
+        {
+            "name": "John Evans",
+            "duty": "SSE sound crew"
+        },
+        {
+            "name": "Mike Lamb",
+            "duty": "LSD lighting crew"
+        },
+        {
+            "name": "Pat Connolly",
+            "duty": "LSD lighting crew"
+        },
+        {
+            "name": "Gary Vaspol",
+            "duty": "LSD lighting crew"
+        }
+    ],
+    "buyer": {
+        "names": [
+            "Ricardo Casimiro"
+        ],
+        "company": "Tournee"
+    },
+    "schedule": [
+        {
+            "event": "Load In",
+            "time": "Done Feb. 4"
+        },
+        {
+            "event": "Soundcheck",
+            "time": "13:00"
+        },
+        {
+            "event": "Doors",
+            "time": "19:30"
+        },
+        {
+            "event": "Buzzcocks Showtime",
+            "time": "21:00"
+        },
+        {
+            "event": "NIRVANA Showtime",
+            "time": "22:05"
+        }
+    ],
+    "soundcheck": [],
+    "soundcheck_incomplete": false,
+    "set": [
+        {
+            "type": "song",
+            "text": "Radio Friendly Unit Shifter",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "Drain You",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "Breed",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "Serve the Servants",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "Come As You Are",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "Smells Like Teen Spirit",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "Sliver",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "Dumb",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "In Bloom",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "About A Girl",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "Lithium",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "Pennyroyal Tea",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "School",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "Polly",
+            "notes": [
+                "acoustic"
+            ]
+        },
+        {
+            "type": "song",
+            "text": "Very Ape",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "Sappy",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "Rape Me",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "Territorial Pissings",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "Jesus Wants Me For A Sunbeam",
+            "notes": [
+                "acoustic"
+            ]
+        },
+        {
+            "type": "song",
+            "text": "The Man Who Sold The World",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "All Apologies",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "On A Plain",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "Scentless Apprentice",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "Heart-Shaped Box",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "Blew",
+            "notes": []
+        }
+    ],
+    "set_incomplete": false,
+    "transmission": {},
+    "rehearsel_circulating_sources": [],
+    "circulating_sources": [
+        {
+            "name": "AUD #1",
+            "complete": true,
+            "equipment": "Built In > Sony TCM-77V",
+            "generation": "ANA(M) > DAT(1) > FLAC",
+            "video-generation": null,
+            "audio-generation": null,
+            "length-sound": "98 min / 5.5",
+            "notes": [
+                "Has a cut in \"Territorial Pissings\".",
+                "The taper's external microphone became disconnected, leaving only the built-in microphone to record from inside his pocket."
+            ]
+        },
+        {
+            "name": "PRO #1a",
+            "complete": false,
+            "equipment": "Soundboard > Unknown",
+            "generation": "TV > VHS(1) > MiniDV(1) > DVDR",
+            "video-generation": null,
+            "audio-generation": null,
+            "length-sound": "03 min / 9.0",
+            "notes": [
+                "Single camera PRO-shot video with soundboard audio, broadcast on French TV (MCM).",
+                "Includes only \"Rape Me\".",
+                "A clip of \"Pennyroyal Tea\" and most of \"Rape Me\" were broadcast on the show Metal Express on the French TV channel M6."
+            ]
+        },
+        {
+            "name": "PRO #1b [soundboard audio from professional video]",
+            "complete": true,
+            "equipment": "Soundboard > Unknown",
+            "generation": "TV > VHS(x) > CDR(x) > FLAC",
+            "video-generation": null,
+            "audio-generation": null,
+            "length-sound": "03 min / 9.0",
+            "notes": [
+                "Single camera PRO-shot video with soundboard audio, broadcast on French TV (MCM).",
+                "Higher quality audio than PRO #1a, but includes only the audio from the video.",
+                "Includes only \"Rape Me\".",
+                "Circulating copies are sourced from a homemade, unofficial CDR titled Acoustic Show Minneapolis + Live Rarities.",
+                "A clip of \"Pennyroyal Tea\" and most of \"Rape Me\" were broadcast on the show Metal Express on the French TV channel M6."
+            ]
+        },
+        {
+            "name": "PRO #2a",
+            "complete": false,
+            "equipment": "Unknown > Unknown",
+            "generation": "TV > VHS(3) > MiniDV(1) > DVDR",
+            "video-generation": null,
+            "audio-generation": null,
+            "length-sound": "03 min / 8.0",
+            "notes": [
+                "Multi camera PRO-shot video with open mic audio, broadcast on Portuguese TV (SIC).",
+                "Lower quality and higher generation, but more complete than PRO #2b.",
+                "Includes only \"Rape Me\".",
+                "It is believed that SIC did not record the whole show due to equipment failure during the concert.",
+                "Clips of \"Breed\", \"Smells Like Teen Spirit\", and \"All Apologies\" have been broadcast on Portuguese TV."
+            ]
+        },
+        {
+            "name": "PRO #2b",
+            "complete": false,
+            "equipment": "Unknown > Unknown",
+            "generation": "TV > VHS(1) > DVDR/FLAC",
+            "video-generation": null,
+            "audio-generation": null,
+            "length-sound": "03 min / 8.5",
+            "notes": [
+                "Multi camera PRO-shot video with open mic audio, broadcast on Portuguese TV (SIC).",
+                "Higher quality and lower generation, but less complete than PRO #2a.",
+                "Includes only \"Rape Me\", which cuts in.",
+                "It is believed that SIC did not record the whole show due to equipment failure during the concert.",
+                "Clips of \"Breed\", \"Smells Like Teen Spirit\", and \"All Apologies\" have been broadcast on Portuguese TV."
+            ]
+        },
+        {
+            "name": "PRO CLIP #1a",
+            "complete": false,
+            "equipment": "Soundboard > Unknown",
+            "generation": "TV > VHS(x) > FLV",
+            "video-generation": null,
+            "audio-generation": null,
+            "length-sound": "01 min / 9.0",
+            "notes": [
+                "Single camera PRO-shot video with soundboard audio, broadcast on Portuguese TV on February 7, 1994.",
+                "Features a clip of \"Pennyroyal Tea\" only.",
+                "Circulating on YouTube."
+            ]
+        },
+        {
+            "name": "PRO CLIP #1b",
+            "complete": false,
+            "equipment": "Soundboard > Unknown",
+            "generation": "VHS(x) > MP4",
+            "video-generation": null,
+            "audio-generation": null,
+            "length-sound": "01 min / ??",
+            "notes": [
+                "PRO-shot video with soundboard audio audio, broadcast on Metal Express.",
+                "Includes a 1 minute clip of \"Pennyroyal Tea\" and clips of the left side of the stage without audio.."
+            ]
+        },
+        {
+            "name": "PRO CLIP #2a",
+            "complete": false,
+            "equipment": "Soundboard > Unknown",
+            "generation": "MASTER > DVDR",
+            "video-generation": null,
+            "audio-generation": null,
+            "length-sound": "20 sec / 9.5",
+            "notes": [
+                "Single camera PRO-shot video with soundboard audio, broadcast on Portuguese TV on February 7, 1994, broadcast on Portuguese TV (SIC).",
+                "Features a clip of \"Breed\" only.",
+                "Has a reporter talking over most of the audio."
+            ]
+        },
+        {
+            "name": "PRO CLIP #2b",
+            "complete": false,
+            "equipment": "Unknown > Unknown",
+            "generation": "TV > VHS(1) > DVDR",
+            "video-generation": null,
+            "audio-generation": null,
+            "length-sound": "01 min / 9.0",
+            "notes": [
+                "Single camera PRO-shot video with audience audio, broadcast on Portuguese TV (SIC).",
+                "Includes a clip of \"Smells Like Teen Spirit\"."
+            ]
+        },
+        {
+            "name": "PRO CLIP #3",
+            "complete": false,
+            "equipment": "Unknown > Unknown",
+            "generation": "TV > VHS(x) > FLV",
+            "video-generation": null,
+            "audio-generation": null,
+            "length-sound": "03 min / 8.5",
+            "notes": [
+                "PRO-shot video with audience audio, broadcast on Portuguese TV RTP TV2.",
+                "Includes a 3 minutes long clip of \"Smells Like Teen Spirit\".",
+                "Has interviews over most of it. Circulating on YouTube."
+            ]
+        }
+    ],
+    "uncirculated_sources": [
+        {
+            "name": "SBD #1",
+            "note": "\"Smells Like Teen Spirit\", \"Lithium\" and \"All Apologies\" were broadcast on the Portuguese FM radio station Radio Energia in April 1994."
+        },
+        {
+            "name": "AMT #1",
+            "note": "The day after the show, the band viewed a tape of the show to work out some kinks with the cello parts, according to Melora Creager."
+        }
+    ],
+    "notes": [
+        "This was the first show with Melora Creager on cello."
+    ],
+    "press": [],
+    "memorabilia": [
+        {
+            "url": "/concerts/images/1994/1994-02-06/1994-02-06_01.jpg",
+            "caption": "Ticket"
+        },
+        {
+            "url": "/concerts/images/1994/1994-02-06/1994-02-06_02.jpg",
+            "caption": "Handwritten setlist"
+        },
+        {
+            "url": "/concerts/images/1994/1994-02-06/1994-02-06_03.jpg",
+            "caption": "Handwritten setlist"
+        },
+        {
+            "url": "/concerts/images/1994/1994-02-06/1994-02-06_04.jpg",
+            "caption": "Backstage pas"
+        },
+        {
+            "url": "/concerts/images/1994/1994-02-06/1994-02-06_05.jpg",
+            "caption": "Advert"
+        },
+        {
+            "url": "/concerts/images/1994/1994-02-06/1994-02-06_06.jpg",
+            "caption": "Backstage pass"
+        },
+        {
+            "url": "/concerts/images/1994/1994-02-06/1994-02-06_07.jpg",
+            "caption": "Nirvana's tour itinerary"
+        },
+        {
+            "url": "/concerts/images/1994/1994-02-06/1994-02-06_08.jpg",
+            "caption": "Nirvana's tour itinerary"
+        }
+    ],
+    "images": [
+        {
+            "url": "/concerts/images/1994/1994-02-06/1994-02-06_001.jpg",
+            "caption": "Photo by Rita Carmo"
+        },
+        {
+            "url": "/concerts/images/1994/1994-02-06/1994-02-06_002.jpg",
+            "caption": "Photo by Rita Carmo"
+        },
+        {
+            "url": "/concerts/images/1994/1994-02-06/1994-02-06_003.jpg",
+            "caption": "Photo by Antonio Francisco Melão"
+        },
+        {
+            "url": "/concerts/images/1994/1994-02-06/1994-02-06_004.jpg",
+            "caption": "Unknown photographer"
+        },
+        {
+            "url": "/concerts/images/1994/1994-02-06/1994-02-06_005.jpg",
+            "caption": "Photo by Antonio Francisco Melão"
+        },
+        {
+            "url": "/concerts/images/1994/1994-02-06/1994-02-06_006.jpg",
+            "caption": "Photo by Antonio Francisco Melão"
+        },
+        {
+            "url": "/concerts/images/1994/1994-02-06/1994-02-06_007.jpg",
+            "caption": "Photo by Rita Carmo"
+        },
+        {
+            "url": "/concerts/images/1994/1994-02-06/1994-02-06_008.jpg",
+            "caption": "Photo by Rita Carmo"
+        },
+        {
+            "url": "/concerts/images/1994/1994-02-06/1994-02-06_009.jpg",
+            "caption": "Photo by Rita Carmo"
+        },
+        {
+            "url": "/concerts/images/1994/1994-02-06/1994-02-06_010.jpg",
+            "caption": "Photo by Rita Carmo"
+        },
+        {
+            "url": "/concerts/images/1994/1994-02-06/1994-02-06_011.jpg",
+            "caption": "Photo by Rita Carmo"
+        },
+        {
+            "url": "/concerts/images/1994/1994-02-06/1994-02-06_012.jpg",
+            "caption": "Photo by Antonio Francisco Melão"
+        },
+        {
+            "url": "/concerts/images/1994/1994-02-06/1994-02-06_013.jpg",
+            "caption": "Photo by Rita Carmo"
+        },
+        {
+            "url": "/concerts/images/1994/1994-02-06/1994-02-06_014.jpg",
+            "caption": "Unknown photographer"
+        },
+        {
+            "url": "/concerts/images/1994/1994-02-06/1994-02-06_015.jpg",
+            "caption": "Photo by Lili Wilde"
+        },
+        {
+            "url": "/concerts/images/1994/1994-02-06/1994-02-06_016.jpg",
+            "caption": "Photo by Lili Wilde"
+        },
+        {
+            "url": "/concerts/images/1994/1994-02-06/1994-02-06_017.jpg",
+            "caption": "Photo by Rita Carmo"
+        },
+        {
+            "url": "/concerts/images/1994/1994-02-06/1994-02-06_018.jpg",
+            "caption": "Photo by Rita Carmo"
+        },
+        {
+            "url": "/concerts/images/1994/1994-02-06/1994-02-06_019.jpg",
+            "caption": "Photo by Antonio Francisco Melão"
+        },
+        {
+            "url": "/concerts/images/1994/1994-02-06/1994-02-06_020.jpg",
+            "caption": "Photo by Antonio Francisco Melão"
+        },
+        {
+            "url": "/concerts/images/1994/1994-02-06/1994-02-06_021.jpg",
+            "caption": "Photo by Antonio Francisco Melão"
+        },
+        {
+            "url": "/concerts/images/1994/1994-02-06/1994-02-06_022.jpg",
+            "caption": "Photo by Carlos Didelete"
+        },
+        {
+            "url": "/concerts/images/1994/1994-02-06/1994-02-06_023.jpg",
+            "caption": "Photo by Carlos Didelete"
+        },
+        {
+            "url": "/concerts/images/1994/1994-02-06/1994-02-06_024.jpg",
+            "caption": "Unknown photographer"
+        },
+        {
+            "url": "/concerts/images/1994/1994-02-06/1994-02-06_025.jpg",
+            "caption": "Photo by Rita Carmo"
+        },
+        {
+            "url": "/concerts/images/1994/1994-02-06/1994-02-06_026.jpg",
+            "caption": "Photo by Rita Carmo"
+        },
+        {
+            "url": "/concerts/images/1994/1994-02-06/1994-02-06_027.jpg",
+            "caption": "Unknown photographer"
+        },
+        {
+            "url": "/concerts/images/1994/1994-02-06/1994-02-06_028.jpg",
+            "caption": "Photo by Rita Carmo"
+        },
+        {
+            "url": "/concerts/images/1994/1994-02-06/1994-02-06_029.jpg",
+            "caption": "Photo by Rita Carmo"
+        },
+        {
+            "url": "/concerts/images/1994/1994-02-06/1994-02-06_030.jpg",
+            "caption": "Photo by Rita Carmo"
+        },
+        {
+            "url": "/concerts/images/1994/1994-02-06/1994-02-06_031.jpg",
+            "caption": "Photo by Rita Carmo"
+        },
+        {
+            "url": "/concerts/images/1994/1994-02-06/1994-02-06_032.jpg",
+            "caption": "Unknown photographer"
+        },
+        {
+            "url": "/concerts/images/1994/1994-02-06/1994-02-06_033.jpg",
+            "caption": "Photo by Antonio Francisco Melão"
+        },
+        {
+            "url": "/concerts/images/1994/1994-02-06/1994-02-06_034.jpg",
+            "caption": "Photo by Antonio Francisco Melão"
+        },
+        {
+            "url": "/concerts/images/1994/1994-02-06/1994-02-06_035.jpg",
+            "caption": "Photo by Ricardo Bento"
+        },
+        {
+            "url": "/concerts/images/1994/1994-02-06/1994-02-06_036.jpg",
+            "caption": "Photo by Ricardo Bento"
+        },
+        {
+            "url": "/concerts/images/1994/1994-02-06/1994-02-06_037.jpg",
+            "caption": "Photo by Ricardo Bento"
+        }
+    ],
+    "navigation": {
+        "previous": "94-02-04",
+        "next": "94-02-08"
+    },
+    "graph": {
+        "bleach": "3",
+        "nevermind": "9",
+        "inutero": "9",
+        "non": "4"
+    }
+}

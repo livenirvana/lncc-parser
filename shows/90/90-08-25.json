@@ -1,0 +1,223 @@
+{
+    "year": "1990",
+    "month": "08",
+    "day": "25",
+    "band": [
+        {
+            "NIRVANA": [
+                {
+                    "name": "Kurt Cobain ",
+                    "duty": "vocals, guitar"
+                },
+                {
+                    "name": "Krist Novoselic ",
+                    "duty": "bass"
+                },
+                {
+                    "name": "Dale Crover ",
+                    "duty": "drums"
+                }
+            ],
+            "type": "group"
+        }
+    ],
+    "crew": [],
+    "buyer": {
+        "names": [
+            "Peter McCullough"
+        ],
+        "company": "Timbre Productions"
+    },
+    "schedule": [
+        {
+            "event": "Load In",
+            "time": "…:…"
+        },
+        {
+            "event": "Soundcheck",
+            "time": "…:…"
+        },
+        {
+            "event": "Doors",
+            "time": "19:00"
+        },
+        {
+            "event": "STP Showtime",
+            "time": "…:…"
+        },
+        {
+            "event": "NIRVANA Showtime",
+            "time": "…:…"
+        },
+        {
+            "event": "Sonic Youth Showtime",
+            "time": "…:…"
+        }
+    ],
+    "soundcheck": [],
+    "soundcheck_incomplete": false,
+    "set": [
+        {
+            "type": "song",
+            "text": "Floyd The Barber",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "Dive",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "In Bloom",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "Breed",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "Lithium",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "Stay Away",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "Blew",
+            "notes": []
+        }
+    ],
+    "set_incomplete": true,
+    "transmission": {},
+    "rehearsel_circulating_sources": [],
+    "circulating_sources": [],
+    "uncirculated_sources": [
+        {
+            "name": "AUD #1",
+            "note": "It is rumored that the show was recorded."
+        },
+        {
+            "name": "AUD #2",
+            "note": "During the Sonic Youth set, someone saw a older hippy who looked like he was straight out of a Grateful Dead concert holding up a boom mic in the back, so it's possible that Nirvana's set was recorded as well."
+        },
+        {
+            "name": "AMT #1",
+            "note": "Someone saw a person taping the concert from the balcony."
+        }
+    ],
+    "notes": [
+        "This was the last show with Dale Crover on drums.",
+        "They played for about 40 minutes.",
+        "Kurt Cobain started the show with major feedback walking back and forth to his amp holding up with guitar and during the end of the concert he jumped into the audience."
+    ],
+    "press": [
+        {
+            "text": "Review from a fanzine called \"The Gateway\", published in 09/20/1990.",
+            "url": "/concerts/images/1990/1990-08-25/1990-08-25_01_review.jpg"
+        }
+    ],
+    "memorabilia": [
+        {
+            "url": "/concerts/images/1990/1990-08-25/1990-08-25_01.jpg",
+            "caption": "Advert"
+        },
+        {
+            "url": "/concerts/images/1990/1990-08-25/1990-08-25_02.jpg",
+            "caption": "Handbill/Flyer, designed by Raymond Pettibon"
+        },
+        {
+            "url": "/concerts/images/1990/1990-08-25/1990-08-25_03.jpg",
+            "caption": "Ticket"
+        },
+        {
+            "url": "/concerts/images/1990/1990-08-25/1990-08-25_04.jpg",
+            "caption": "Backstage pass"
+        }
+    ],
+    "images": [
+        {
+            "url": "/concerts/images/1990/1990-08-25/1990-08-25_001.jpg",
+            "caption": "Unknown photographer"
+        },
+        {
+            "url": "/concerts/images/1990/1990-08-25/1990-08-25_002.jpg",
+            "caption": "Photo by Jamie Anderson"
+        },
+        {
+            "url": "/concerts/images/1990/1990-08-25/1990-08-25_003.jpg",
+            "caption": "Photo by Kim Kinakin"
+        },
+        {
+            "url": "/concerts/images/1990/1990-08-25/1990-08-25_004.jpg",
+            "caption": "Photo by Kim Kinakin"
+        },
+        {
+            "url": "/concerts/images/1990/1990-08-25/1990-08-25_005.jpg",
+            "caption": "Photo by Kim Kinakin"
+        },
+        {
+            "url": "/concerts/images/1990/1990-08-25/1990-08-25_006.jpg",
+            "caption": "Photo by Kim Kinakin"
+        },
+        {
+            "url": "/concerts/images/1990/1990-08-25/1990-08-25_007.jpg",
+            "caption": "Photo by Kim Kinakin"
+        },
+        {
+            "url": "/concerts/images/1990/1990-08-25/1990-08-25_008.jpg",
+            "caption": "Photo by Kim Kinakin"
+        },
+        {
+            "url": "/concerts/images/1990/1990-08-25/1990-08-25_009.jpg",
+            "caption": "Photo by Kim Kinakin"
+        },
+        {
+            "url": "/concerts/images/1990/1990-08-25/1990-08-25_010.jpg",
+            "caption": "Photo by Kim Kinakin"
+        },
+        {
+            "url": "/concerts/images/1990/1990-08-25/1990-08-25_011.jpg",
+            "caption": "Photo by Kim Kinakin"
+        },
+        {
+            "url": "/concerts/images/1990/1990-08-25/1990-08-25_012.jpg",
+            "caption": "Photo by Kim Kinakin"
+        },
+        {
+            "url": "/concerts/images/1990/1990-08-25/1990-08-25_013.jpg",
+            "caption": "Photo by Kim Kinakin"
+        },
+        {
+            "url": "/concerts/images/1990/1990-08-25/1990-08-25_014.jpg",
+            "caption": "Photo by Kim Kinakin"
+        },
+        {
+            "url": "/concerts/images/1990/1990-08-25/1990-08-25_015.jpg",
+            "caption": "Photo by Kim Kinakin"
+        },
+        {
+            "url": "/concerts/images/1990/1990-08-25/1990-08-25_016.jpg",
+            "caption": "Photo by Kim Kinakin"
+        },
+        {
+            "url": "/concerts/images/1990/1990-08-25/1990-08-25_017.jpg",
+            "caption": "Photo by Kim Kinakin"
+        }
+    ],
+    "navigation": {
+        "previous": "90-08-24",
+        "next": "90-09-22"
+    },
+    "graph": {
+        "bleach": "2",
+        "nevermind": "4",
+        "inutero": "0",
+        "non": "1"
+    }
+}

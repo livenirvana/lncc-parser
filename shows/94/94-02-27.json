@@ -1,0 +1,913 @@
+{
+    "year": "1994",
+    "month": "02",
+    "day": "27",
+    "venue": "February 27",
+    "city": "1994 - Hala Tivoli",
+    "state": "Ljubljana",
+    "country": "SI",
+    "band": [
+        {
+            "NIRVANA": [
+                {
+                    "name": "Kurt Cobain ",
+                    "duty": "vocals, guitar"
+                },
+                {
+                    "name": "Krist Novoselic ",
+                    "duty": "bass"
+                },
+                {
+                    "name": "Dave Grohl ",
+                    "duty": "drums, backing vocals"
+                },
+                {
+                    "name": "Pat Smear ",
+                    "duty": "guitar"
+                },
+                {
+                    "name": "Melora Creager ",
+                    "duty": "cello"
+                }
+            ],
+            "type": "group"
+        }
+    ],
+    "crew": [
+        {
+            "name": "Alex MacLeod",
+            "duty": "tour manager"
+        },
+        {
+            "name": "Jeff Mason",
+            "duty": "production manager"
+        },
+        {
+            "name": "Kelly Nase",
+            "duty": "tour accountant"
+        },
+        {
+            "name": "Susanne Sasic",
+            "duty": "lighting designer"
+        },
+        {
+            "name": "Craig Overbay",
+            "duty": "sound engineer"
+        },
+        {
+            "name": "Ian Beveridge",
+            "duty": "monitor engineer"
+        },
+        {
+            "name": "Jim Vincent",
+            "duty": "guitar technician"
+        },
+        {
+            "name": "John Duncan",
+            "duty": "guitar technician"
+        },
+        {
+            "name": "Garry Mackenzie",
+            "duty": "drum technician"
+        },
+        {
+            "name": "Ed Swink",
+            "duty": "stage manager"
+        },
+        {
+            "name": "Pete Currier",
+            "duty": "rigger"
+        },
+        {
+            "name": "Appy Thörig",
+            "duty": "mojo barrier"
+        },
+        {
+            "name": "Allan Bagley",
+            "duty": "Pro Show sound crew"
+        },
+        {
+            "name": "Niko Vonk",
+            "duty": "Pro Show sound crew"
+        },
+        {
+            "name": "John Evans",
+            "duty": "SSE sound crew"
+        },
+        {
+            "name": "Mike Lamb",
+            "duty": "LSD lighting crew"
+        },
+        {
+            "name": "Pat Connolly",
+            "duty": "LSD lighting crew"
+        },
+        {
+            "name": "Gary Vaspol",
+            "duty": "LSD lighting crew"
+        }
+    ],
+    "buyer": {
+        "names": [
+            "Igor Vidmar"
+        ],
+        "company": "Škuc Ropot Promotion"
+    },
+    "schedule": [
+        {
+            "event": "Load In",
+            "time": "09:00"
+        },
+        {
+            "event": "Soundcheck",
+            "time": "…:…"
+        },
+        {
+            "event": "Doors",
+            "time": "18:30"
+        },
+        {
+            "event": "Melvins Showtime",
+            "time": "20:00"
+        },
+        {
+            "event": "NIRVANA Showtime",
+            "time": "21:05"
+        }
+    ],
+    "soundcheck": [],
+    "soundcheck_incomplete": false,
+    "set": [
+        {
+            "type": "song",
+            "text": "Radio Friendly Unit Shifter",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "Drain You",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "Breed",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "Serve The Servants",
+            "notes": []
+        },
+        {
+            "type": "banter",
+            "text": "Good evening [spoken in Croatian]",
+            "person": "Novoselic"
+        },
+        {
+            "type": "song",
+            "text": "Come As You Are",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "Sliver",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "Dumb",
+            "notes": []
+        },
+        {
+            "type": "banter",
+            "text": "For those who don't know this is our third time in Slovenia, for those who don't know [spoken in Crotian]",
+            "person": "Novoselic"
+        },
+        {
+            "type": "song",
+            "text": "In Bloom",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "About A Girl",
+            "notes": []
+        },
+        {
+            "type": "banter",
+            "text": "Are you OK down there? I don't think so [spoken in Crotian]",
+            "person": "Novoselic"
+        },
+        {
+            "type": "song",
+            "text": "Stojim Na Kantunu",
+            "notes": [
+                "jam"
+            ]
+        },
+        {
+            "type": "song",
+            "text": "Lithium",
+            "notes": []
+        },
+        {
+            "type": "banter",
+            "text": "There's no peace [spoken in Croatian]",
+            "person": "Novoselic"
+        },
+        {
+            "type": "song",
+            "text": "Pennyroyal Tea",
+            "notes": []
+        },
+        {
+            "type": "banter",
+            "text": "?? ?? It's not easy on tour, I already lost 10 kg [spoken in Croatian]",
+            "person": "Novoselic"
+        },
+        {
+            "type": "song",
+            "text": "School",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "Polly",
+            "notes": [
+                "acoustic"
+            ]
+        },
+        {
+            "type": "song",
+            "text": "Very Ape",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "Lounge Act",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "Rape Me",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "Territorial Pissings",
+            "notes": []
+        },
+        {
+            "type": "banter",
+            "text": "Thank you",
+            "person": "Grohl"
+        },
+        {
+            "type": "banter",
+            "text": "?? ??",
+            "person": "Novoselic"
+        },
+        {
+            "type": "banter",
+            "text": "my real name is Boo Boo and Shrimp ?? ??",
+            "person": "Grohl"
+        },
+        {
+            "type": "song",
+            "text": "The Man Who Sold The World",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "All Apologies",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "On A Plain",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "Scentless Apprentice",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "Heart-Shaped Box",
+            "notes": []
+        }
+    ],
+    "set_incomplete": false,
+    "transmission": {},
+    "rehearsel_circulating_sources": [],
+    "circulating_sources": [
+        {
+            "name": "AUD #1",
+            "complete": false,
+            "equipment": "Unknown > Unknown",
+            "generation": "ANA(1) > DAT(1) > FLAC",
+            "video-generation": null,
+            "audio-generation": null,
+            "length-sound": "61 min / 7.0",
+            "notes": [
+                "In February 2003 this upgrade was circulated.",
+                "There's a cut after \"Polly\" and \"Territotial Pissings\".",
+                "It's missing \"Radio Friendly Unit Shifter\", \"Drain You\", \"Scentless Apprentice\" and \"Heart-Shaped Box\".",
+                "\"All Apologies\" cuts in."
+            ]
+        },
+        {
+            "name": "PRO #1",
+            "complete": false,
+            "equipment": "Soundboard > Unknown",
+            "generation": "TV > VHS(2) > DVDR/CDR",
+            "video-generation": null,
+            "audio-generation": null,
+            "length-sound": "11 min / 8.0",
+            "notes": [
+                "Two camera PRO-shot video with soundboard audio, broadcast on Croatian TV HTR show called \"Izvan Struje\".",
+                "Includes only \"Radio Friendly Unit Shifter\", \"Drain You\" and \"Breed\"."
+            ]
+        },
+        {
+            "name": "PRO #2",
+            "complete": false,
+            "equipment": "Unknown > Unknown",
+            "generation": "TV > VHS(1) > MiniDV(1) > DVDR",
+            "video-generation": null,
+            "audio-generation": null,
+            "length-sound": "05 min / 8.0",
+            "notes": [
+                "Single camera PRO-shot video with open mic audio, broadcast on Slovenian TV.",
+                "Includes only \"Dumb,\" a brief clip of \"In Bloom\" (from backstage with no footage of the band), and \"Come As You Are\".",
+                "\"Dumb\" and \"Come As You Are\" cut in."
+            ]
+        },
+        {
+            "name": "PRO CLIP #2a",
+            "complete": false,
+            "equipment": "Unknown > Unknown",
+            "generation": "TV > VHS(1) > MiniDV(1) > DVDR",
+            "video-generation": null,
+            "audio-generation": null,
+            "length-sound": "45 sec / 8.0",
+            "notes": [
+                "Single camera PRO-shot video with open mic audio.",
+                "Feature clips of \"In Bloom\" and \"Pennyroyal Tea\"."
+            ]
+        },
+        {
+            "name": "PRO CLIP #2b",
+            "complete": false,
+            "equipment": "Unknown > Unknown",
+            "generation": "TV > VHS(1) > DVDR",
+            "video-generation": null,
+            "audio-generation": null,
+            "length-sound": "15 sec / 8.5",
+            "notes": [
+                "Single camera PRO-shot video with open mic audio.",
+                "Feature a clip of \"In Bloom\" only."
+            ]
+        },
+        {
+            "name": "PRO CLIP #2c",
+            "complete": false,
+            "equipment": "Unknown > Unknown",
+            "generation": "TV > VHS(1) > D8(1) > DVDR",
+            "video-generation": null,
+            "audio-generation": null,
+            "length-sound": "30 sec / 9.0",
+            "notes": [
+                "Single camera PRO-shot video with open mic audio.",
+                "\"Territorial Pissings\" appear on Prime Time."
+            ]
+        },
+        {
+            "name": "PRO CLIP #2d",
+            "complete": false,
+            "equipment": "Soundboard > Unknown",
+            "generation": "TV > VHS(1) > D8(1) > DVDR",
+            "video-generation": null,
+            "audio-generation": null,
+            "length-sound": "45 sec / 9.5",
+            "notes": [
+                "Single camera PRO-shot video with soundboard audio.",
+                "\"Rape Me\" and \"All Apologies\" appear on Prime Time.",
+                "\"All Apologies\" has an interview over most of the audio."
+            ]
+        }
+    ],
+    "uncirculated_sources": [
+        {
+            "name": "SBD #1",
+            "note": "It is rumored that the entire show was taped by Radio Slovenia, but they claim to have not recorded any of it."
+        },
+        {
+            "name": "PRO #3",
+            "note": "Single-camera video shot from the back with open mic audio. Clips of \"In Bloom\", \"Lithium\", \"Pennyroyal Tea\", \"Rape Me\", \"Territorial Pissings\", and \"All Apologies\" have been broadcast on MTV and MTV Europe."
+        }
+    ],
+    "notes": [
+        "After \"About A Girl\", the band jammed and the crowd sang \"Stojim Na Kantunu\" (\"Standing On The Corner\") by the Croatian band Ðavoli (The Devils)."
+    ],
+    "press": [],
+    "memorabilia": [
+        {
+            "url": "/concerts/images/1994/1994-02-27/1994-02-27_01.jpg",
+            "caption": "Advert"
+        },
+        {
+            "url": "/concerts/images/1994/1994-02-27/1994-02-27_02.jpg",
+            "caption": "Ticket"
+        },
+        {
+            "url": "/concerts/images/1994/1994-02-27/1994-02-27_03.jpg",
+            "caption": "Backstage pass"
+        },
+        {
+            "url": "/concerts/images/1994/1994-02-27/1994-02-27_04.jpg",
+            "caption": "Handwritten setlist"
+        },
+        {
+            "url": "/concerts/images/1994/1994-02-27/1994-02-27_05.jpg",
+            "caption": "Nirvana's tour itinerary"
+        }
+    ],
+    "images": [
+        {
+            "url": "/concerts/images/1994/1994-02-27/1994-02-27_001.jpg",
+            "caption": "Photo by Janez Pelko"
+        },
+        {
+            "url": "/concerts/images/1994/1994-02-27/1994-02-27_002.jpg",
+            "caption": "Photo by Janez Pelko"
+        },
+        {
+            "url": "/concerts/images/1994/1994-02-27/1994-02-27_003.jpg",
+            "caption": "Photo by Janez Pelko"
+        },
+        {
+            "url": "/concerts/images/1994/1994-02-27/1994-02-27_004.jpg",
+            "caption": "Photo by Janez Pelko"
+        },
+        {
+            "url": "/concerts/images/1994/1994-02-27/1994-02-27_005.jpg",
+            "caption": "Photo by Janez Pelko"
+        },
+        {
+            "url": "/concerts/images/1994/1994-02-27/1994-02-27_006.jpg",
+            "caption": "Photo by Janez Pelko"
+        },
+        {
+            "url": "/concerts/images/1994/1994-02-27/1994-02-27_007.jpg",
+            "caption": "Photo by Janez Pelko"
+        },
+        {
+            "url": "/concerts/images/1994/1994-02-27/1994-02-27_008.jpg",
+            "caption": "Photo by Janez Pelko"
+        },
+        {
+            "url": "/concerts/images/1994/1994-02-27/1994-02-27_009.jpg",
+            "caption": "Photo by Janez Pelko"
+        },
+        {
+            "url": "/concerts/images/1994/1994-02-27/1994-02-27_010.jpg",
+            "caption": "Photo by Janez Pelko"
+        },
+        {
+            "url": "/concerts/images/1994/1994-02-27/1994-02-27_011.jpg",
+            "caption": "Photo by Janez Pelko"
+        },
+        {
+            "url": "/concerts/images/1994/1994-02-27/1994-02-27_012.jpg",
+            "caption": "Photo by Janez Pelko"
+        },
+        {
+            "url": "/concerts/images/1994/1994-02-27/1994-02-27_013.jpg",
+            "caption": "Photo by Janez Pelko"
+        },
+        {
+            "url": "/concerts/images/1994/1994-02-27/1994-02-27_014.jpg",
+            "caption": "Photo by Janez Pelko"
+        },
+        {
+            "url": "/concerts/images/1994/1994-02-27/1994-02-27_015.jpg",
+            "caption": "Photo by Janez Pelko"
+        },
+        {
+            "url": "/concerts/images/1994/1994-02-27/1994-02-27_016.jpg",
+            "caption": "Photo by Janez Pelko"
+        },
+        {
+            "url": "/concerts/images/1994/1994-02-27/1994-02-27_017.jpg",
+            "caption": "Photo by Janez Pelko"
+        },
+        {
+            "url": "/concerts/images/1994/1994-02-27/1994-02-27_018.jpg",
+            "caption": "Photo by Janez Pelko"
+        },
+        {
+            "url": "/concerts/images/1994/1994-02-27/1994-02-27_019.jpg",
+            "caption": "Photo by Janez Pelko"
+        },
+        {
+            "url": "/concerts/images/1994/1994-02-27/1994-02-27_020.jpg",
+            "caption": "Photo by Janez Pelko"
+        },
+        {
+            "url": "/concerts/images/1994/1994-02-27/1994-02-27_021.jpg",
+            "caption": "Photo by Janez Pelko"
+        },
+        {
+            "url": "/concerts/images/1994/1994-02-27/1994-02-27_022.jpg",
+            "caption": "Photo by Janez Pelko"
+        },
+        {
+            "url": "/concerts/images/1994/1994-02-27/1994-02-27_023.jpg",
+            "caption": "Photo by Janez Pelko"
+        },
+        {
+            "url": "/concerts/images/1994/1994-02-27/1994-02-27_024.jpg",
+            "caption": "Photo by Janez Pelko"
+        },
+        {
+            "url": "/concerts/images/1994/1994-02-27/1994-02-27_025.jpg",
+            "caption": "Photo by Janez Pelko"
+        },
+        {
+            "url": "/concerts/images/1994/1994-02-27/1994-02-27_026.jpg",
+            "caption": "Photo by Janez Pelko"
+        },
+        {
+            "url": "/concerts/images/1994/1994-02-27/1994-02-27_027.jpg",
+            "caption": "Photo by Janez Pelko"
+        },
+        {
+            "url": "/concerts/images/1994/1994-02-27/1994-02-27_028.jpg",
+            "caption": "Photo by Janez Pelko"
+        },
+        {
+            "url": "/concerts/images/1994/1994-02-27/1994-02-27_029.jpg",
+            "caption": "Photo by Janez Pelko"
+        },
+        {
+            "url": "/concerts/images/1994/1994-02-27/1994-02-27_030.jpg",
+            "caption": "Photo by Janez Pelko"
+        },
+        {
+            "url": "/concerts/images/1994/1994-02-27/1994-02-27_031.jpg",
+            "caption": "Photo by Janez Pelko"
+        },
+        {
+            "url": "/concerts/images/1994/1994-02-27/1994-02-27_032.jpg",
+            "caption": "Photo by Janez Pelko"
+        },
+        {
+            "url": "/concerts/images/1994/1994-02-27/1994-02-27_033.jpg",
+            "caption": "Photo by Janez Pelko"
+        },
+        {
+            "url": "/concerts/images/1994/1994-02-27/1994-02-27_034.jpg",
+            "caption": "Photo by Janez Pelko"
+        },
+        {
+            "url": "/concerts/images/1994/1994-02-27/1994-02-27_035.jpg",
+            "caption": "Photo by Janez Pelko"
+        },
+        {
+            "url": "/concerts/images/1994/1994-02-27/1994-02-27_036.jpg",
+            "caption": "Photo by Janez Pelko"
+        },
+        {
+            "url": "/concerts/images/1994/1994-02-27/1994-02-27_037.jpg",
+            "caption": "Photo by Janez Pelko"
+        },
+        {
+            "url": "/concerts/images/1994/1994-02-27/1994-02-27_038.jpg",
+            "caption": "Photo by Janez Pelko"
+        },
+        {
+            "url": "/concerts/images/1994/1994-02-27/1994-02-27_039.jpg",
+            "caption": "Photo by Janez Pelko"
+        },
+        {
+            "url": "/concerts/images/1994/1994-02-27/1994-02-27_040.jpg",
+            "caption": "Photo by Janez Pelko"
+        },
+        {
+            "url": "/concerts/images/1994/1994-02-27/1994-02-27_041.jpg",
+            "caption": "Photo by Janez Pelko"
+        },
+        {
+            "url": "/concerts/images/1994/1994-02-27/1994-02-27_042.jpg",
+            "caption": "Unknown photographer"
+        },
+        {
+            "url": "/concerts/images/1994/1994-02-27/1994-02-27_043.jpg",
+            "caption": "Unknown photographer"
+        },
+        {
+            "url": "/concerts/images/1994/1994-02-27/1994-02-27_044.jpg",
+            "caption": "Photo by Mario Grobenski"
+        },
+        {
+            "url": "/concerts/images/1994/1994-02-27/1994-02-27_045.jpg",
+            "caption": "Photo by Ondrej Pycha"
+        },
+        {
+            "url": "/concerts/images/1994/1994-02-27/1994-02-27_046.jpg",
+            "caption": "Photo by Bojan Velikonjap BoBo"
+        },
+        {
+            "url": "/concerts/images/1994/1994-02-27/1994-02-27_047.jpg",
+            "caption": "Tomislav Prusina"
+        },
+        {
+            "url": "/concerts/images/1994/1994-02-27/1994-02-27_048.jpg",
+            "caption": "Tomislav Prusina"
+        },
+        {
+            "url": "/concerts/images/1994/1994-02-27/1994-02-27_049.jpg",
+            "caption": "Tomislav Prusina"
+        },
+        {
+            "url": "/concerts/images/1994/1994-02-27/1994-02-27_050.jpg",
+            "caption": "Tomislav Prusina"
+        },
+        {
+            "url": "/concerts/images/1994/1994-02-27/1994-02-27_051.jpg",
+            "caption": "Tomislav Prusina"
+        },
+        {
+            "url": "/concerts/images/1994/1994-02-27/1994-02-27_052.jpg",
+            "caption": "Tomislav Prusina"
+        },
+        {
+            "url": "/concerts/images/1994/1994-02-27/1994-02-27_053.jpg",
+            "caption": "Tomislav Prusina"
+        },
+        {
+            "url": "/concerts/images/1994/1994-02-27/1994-02-27_054.jpg",
+            "caption": "Tomislav Prusina"
+        },
+        {
+            "url": "/concerts/images/1994/1994-02-27/1994-02-27_055.jpg",
+            "caption": "Tomislav Prusina"
+        },
+        {
+            "url": "/concerts/images/1994/1994-02-27/1994-02-27_056.jpg",
+            "caption": "Tomislav Prusina"
+        },
+        {
+            "url": "/concerts/images/1994/1994-02-27/1994-02-27_057.jpg",
+            "caption": "Tomislav Prusina"
+        },
+        {
+            "url": "/concerts/images/1994/1994-02-27/1994-02-27_058.jpg",
+            "caption": "Tomislav Prusina"
+        },
+        {
+            "url": "/concerts/images/1994/1994-02-27/1994-02-27_059.jpg",
+            "caption": "Tomislav Prusina"
+        },
+        {
+            "url": "/concerts/images/1994/1994-02-27/1994-02-27_060.jpg",
+            "caption": "Tomislav Prusina"
+        },
+        {
+            "url": "/concerts/images/1994/1994-02-27/1994-02-27_061.jpg",
+            "caption": "Tomislav Prusina"
+        },
+        {
+            "url": "/concerts/images/1994/1994-02-27/1994-02-27_062.jpg",
+            "caption": "Tomislav Prusina"
+        },
+        {
+            "url": "/concerts/images/1994/1994-02-27/1994-02-27_063.jpg",
+            "caption": "Tomislav Prusina"
+        },
+        {
+            "url": "/concerts/images/1994/1994-02-27/1994-02-27_064.jpg",
+            "caption": "Tomislav Prusina"
+        },
+        {
+            "url": "/concerts/images/1994/1994-02-27/1994-02-27_065.jpg",
+            "caption": "Tomislav Prusina"
+        },
+        {
+            "url": "/concerts/images/1994/1994-02-27/1994-02-27_066.jpg",
+            "caption": "Tomislav Prusina"
+        },
+        {
+            "url": "/concerts/images/1994/1994-02-27/1994-02-27_067.jpg",
+            "caption": "Tomislav Prusina"
+        },
+        {
+            "url": "/concerts/images/1994/1994-02-27/1994-02-27_068.jpg",
+            "caption": "Tomislav Prusina"
+        },
+        {
+            "url": "/concerts/images/1994/1994-02-27/1994-02-27_069.jpg",
+            "caption": "Tomislav Prusina"
+        },
+        {
+            "url": "/concerts/images/1994/1994-02-27/1994-02-27_070.jpg",
+            "caption": "Tomislav Prusina"
+        },
+        {
+            "url": "/concerts/images/1994/1994-02-27/1994-02-27_071.jpg",
+            "caption": "Tomislav Prusina"
+        },
+        {
+            "url": "/concerts/images/1994/1994-02-27/1994-02-27_072.jpg",
+            "caption": "Photo by Ondrej Pycha"
+        },
+        {
+            "url": "/concerts/images/1994/1994-02-27/1994-02-27_073.jpg",
+            "caption": "Photo by Ondrej Pycha"
+        },
+        {
+            "url": "/concerts/images/1994/1994-02-27/1994-02-27_074.jpg",
+            "caption": "Photo by Ondrej Pycha"
+        },
+        {
+            "url": "/concerts/images/1994/1994-02-27/1994-02-27_075.jpg",
+            "caption": "Photo by Ondrej Pycha"
+        },
+        {
+            "url": "/concerts/images/1994/1994-02-27/1994-02-27_076.jpg",
+            "caption": "Photo by Ondrej Pycha"
+        },
+        {
+            "url": "/concerts/images/1994/1994-02-27/1994-02-27_077.jpg",
+            "caption": "Photo by Ljubo Vukelič"
+        },
+        {
+            "url": "/concerts/images/1994/1994-02-27/1994-02-27_078.jpg",
+            "caption": "Photo by Jure Erzen"
+        },
+        {
+            "url": "/concerts/images/1994/1994-02-27/1994-02-27_079.jpg",
+            "caption": "Photo by Mario Grobenski"
+        },
+        {
+            "url": "/concerts/images/1994/1994-02-27/1994-02-27_080.jpg",
+            "caption": "Photo by Mario Grobenski"
+        },
+        {
+            "url": "/concerts/images/1994/1994-02-27/1994-02-27_081.jpg",
+            "caption": "Photo by Mario Grobenski"
+        },
+        {
+            "url": "/concerts/images/1994/1994-02-27/1994-02-27_082.jpg",
+            "caption": "Photo by Mario Grobenski"
+        },
+        {
+            "url": "/concerts/images/1994/1994-02-27/1994-02-27_083.jpg",
+            "caption": "Photo by Mario Grobenski"
+        },
+        {
+            "url": "/concerts/images/1994/1994-02-27/1994-02-27_084.jpg",
+            "caption": "Photo by Mario Grobenski"
+        },
+        {
+            "url": "/concerts/images/1994/1994-02-27/1994-02-27_085.jpg",
+            "caption": "Photo by Mario Grobenski"
+        },
+        {
+            "url": "/concerts/images/1994/1994-02-27/1994-02-27_086.jpg",
+            "caption": "Photo by Mario Grobenski"
+        },
+        {
+            "url": "/concerts/images/1994/1994-02-27/1994-02-27_087.jpg",
+            "caption": "Photo by Bojan Velikonjap BoBo"
+        },
+        {
+            "url": "/concerts/images/1994/1994-02-27/1994-02-27_088.jpg",
+            "caption": "Photo by Bojan Velikonjap BoBo"
+        },
+        {
+            "url": "/concerts/images/1994/1994-02-27/1994-02-27_089.jpg",
+            "caption": "Photo by Bojan Velikonjap BoBo"
+        },
+        {
+            "url": "/concerts/images/1994/1994-02-27/1994-02-27_090.jpg",
+            "caption": "Photo by Bojan Velikonjap BoBo"
+        },
+        {
+            "url": "/concerts/images/1994/1994-02-27/1994-02-27_091.jpg",
+            "caption": "Photo by Bojan Velikonjap BoBo"
+        },
+        {
+            "url": "/concerts/images/1994/1994-02-27/1994-02-27_092.jpg",
+            "caption": "Photo by Bojan Velikonjap BoBo"
+        },
+        {
+            "url": "/concerts/images/1994/1994-02-27/1994-02-27_093.jpg",
+            "caption": "Photo by Bojan Velikonjap BoBo"
+        },
+        {
+            "url": "/concerts/images/1994/1994-02-27/1994-02-27_094.jpg",
+            "caption": "Photo by Bojan Velikonjap BoBo"
+        },
+        {
+            "url": "/concerts/images/1994/1994-02-27/1994-02-27_095.jpg",
+            "caption": "Photo by Bojan Velikonjap BoBo"
+        },
+        {
+            "url": "/concerts/images/1994/1994-02-27/1994-02-27_096.jpg",
+            "caption": "Photo by Bojan Velikonjap BoBo"
+        },
+        {
+            "url": "/concerts/images/1994/1994-02-27/1994-02-27_097.jpg",
+            "caption": "Photo by Bojan Velikonjap BoBo"
+        },
+        {
+            "url": "/concerts/images/1994/1994-02-27/1994-02-27_098.jpg",
+            "caption": "Photo by Rafael Marn"
+        },
+        {
+            "url": "/concerts/images/1994/1994-02-27/1994-02-27_099.jpg",
+            "caption": "Photo by Rafael Marn"
+        },
+        {
+            "url": "/concerts/images/1994/1994-02-27/1994-02-27_100.jpg",
+            "caption": "Photo by Žiga Koritnik"
+        },
+        {
+            "url": "/concerts/images/1994/1994-02-27/1994-02-27_101.jpg",
+            "caption": "Photo by Žiga Koritnik"
+        },
+        {
+            "url": "/concerts/images/1994/1994-02-27/1994-02-27_102.jpg",
+            "caption": "Photo by Ondrej Pycha"
+        },
+        {
+            "url": "/concerts/images/1994/1994-02-27/1994-02-27_103.jpg",
+            "caption": "Unknown photographer"
+        },
+        {
+            "url": "/concerts/images/1994/1994-02-27/1994-02-27_104.jpg",
+            "caption": "Unknown photographer"
+        },
+        {
+            "url": "/concerts/images/1994/1994-02-27/1994-02-27_105.jpg",
+            "caption": "Photo by Zoran Jaćimović"
+        },
+        {
+            "url": "/concerts/images/1994/1994-02-27/1994-02-27_106.jpg",
+            "caption": "Photo by Zoran Jaćimović"
+        },
+        {
+            "url": "/concerts/images/1994/1994-02-27/1994-02-27_107.jpg",
+            "caption": "Photo by Zoran Jaćimović"
+        },
+        {
+            "url": "/concerts/images/1994/1994-02-27/1994-02-27_108.jpg",
+            "caption": "Photo by Zoran Jaćimović"
+        },
+        {
+            "url": "/concerts/images/1994/1994-02-27/1994-02-27_109.jpg",
+            "caption": "Unknown photographer"
+        },
+        {
+            "url": "/concerts/images/1994/1994-02-27/1994-02-27_110.jpg",
+            "caption": "Photo by Z. Kalle"
+        },
+        {
+            "url": "/concerts/images/1994/1994-02-27/1994-02-27_111.jpg",
+            "caption": "Photo by Zoran Jaćimović"
+        },
+        {
+            "url": "/concerts/images/1994/1994-02-27/1994-02-27_112.jpg",
+            "caption": "Photo by Zoran Jaćimović"
+        },
+        {
+            "url": "/concerts/images/1994/1994-02-27/1994-02-27_113.jpg",
+            "caption": "Photo by Mario Grobenski"
+        },
+        {
+            "url": "/concerts/images/1994/1994-02-27/1994-02-27_114.jpg",
+            "caption": "Photo by Mario Grobenski"
+        },
+        {
+            "url": "/concerts/images/1994/1994-02-27/1994-02-27_115.jpg",
+            "caption": "Photo by Mario Grobenski"
+        },
+        {
+            "url": "/concerts/images/1994/1994-02-27/1994-02-27_116.jpg",
+            "caption": "Unknown photographer"
+        }
+    ],
+    "navigation": {
+        "previous": "94-02-25",
+        "next": "94-03-01"
+    },
+    "graph": {
+        "bleach": "2",
+        "nevermind": "9",
+        "inutero": "9",
+        "non": "2"
+    }
+}

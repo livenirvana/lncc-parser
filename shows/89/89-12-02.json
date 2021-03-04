@@ -1,0 +1,334 @@
+{
+    "year": "1989",
+    "month": "12",
+    "day": "02",
+    "venue": "December 2",
+    "city": "1989 - Democrazy",
+    "state": "Ghent",
+    "country": "BE",
+    "band": [
+        {
+            "NIRVANA": [
+                {
+                    "name": "Kurt Cobain ",
+                    "duty": "vocals, guitar"
+                },
+                {
+                    "name": "Krist Novoselic ",
+                    "duty": "bass"
+                },
+                {
+                    "name": "Chad Channing ",
+                    "duty": "drums"
+                }
+            ],
+            "type": "group"
+        }
+    ],
+    "crew": [
+        {
+            "name": "Edwin Heath",
+            "duty": "tour manager"
+        },
+        {
+            "name": "Craig Montgomery",
+            "duty": "sound engineer"
+        }
+    ],
+    "buyer": {
+        "names": [
+            "Philip Verbeurgt "
+        ]
+    },
+    "schedule": [
+        {
+            "event": "Load In",
+            "time": "16:00"
+        },
+        {
+            "event": "Soundcheck",
+            "time": "…:…"
+        },
+        {
+            "event": "Doors",
+            "time": "20:00"
+        },
+        {
+            "event": "TAD Showtime",
+            "time": "21:00"
+        },
+        {
+            "event": "NIRVANA Showtime",
+            "time": "22:30"
+        }
+    ],
+    "soundcheck": [],
+    "soundcheck_incomplete": false,
+    "set": [
+        {
+            "type": "jam",
+            "text": "jam bass jam",
+            "notes": [
+                "bass jam"
+            ]
+        },
+        {
+            "type": "jam",
+            "text": "jam screaming intro",
+            "notes": [
+                "screaming intro"
+            ]
+        },
+        {
+            "type": "banter",
+            "text": "Hi",
+            "person": "Cobain"
+        },
+        {
+            "type": "song",
+            "text": "School",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "Scoff",
+            "notes": []
+        },
+        {
+            "type": "jam",
+            "text": "jam bass jam",
+            "notes": [
+                "bass jam"
+            ]
+        },
+        {
+            "type": "song",
+            "text": "I'm Gonna Booglarize You Baby",
+            "notes": [
+                "jam"
+            ]
+        },
+        {
+            "type": "song",
+            "text": "The Twilight Zone (TV Theme)",
+            "notes": [
+                "jam"
+            ]
+        },
+        {
+            "type": "banter",
+            "text": "Tonight is our last show on the continent of Europe and we're sick of rolls and jam for breakfast! You've been to one of our shows before haven't you?",
+            "person": "Novoselic"
+        },
+        {
+            "type": "song",
+            "text": "Love Buzz",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "Floyd The Barber",
+            "notes": []
+        },
+        {
+            "type": "banter",
+            "text": "Thank you",
+            "person": "Cobain"
+        },
+        {
+            "type": "banter",
+            "text": "Where do you wanna go?",
+            "person": "Novoselic"
+        },
+        {
+            "type": "banter",
+            "text": "This is new",
+            "person": "Cobain"
+        },
+        {
+            "type": "song",
+            "text": "Dive",
+            "notes": []
+        },
+        {
+            "type": "banter",
+            "text": "A song fooooor you",
+            "person": "Novoselic"
+        },
+        {
+            "type": "banter",
+            "text": "It's for you",
+            "person": "Channing"
+        },
+        {
+            "type": "banter",
+            "text": "Way high in the sky man! They were coming down like rain, it was trickily and wet and it was an amoeba fucking inner crust plus magma",
+            "person": "Novoselic"
+        },
+        {
+            "type": "song",
+            "text": "Sappy",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "Spank Thru",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "About A Girl",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "Breed",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "Big Cheese",
+            "notes": []
+        },
+        {
+            "type": "banter",
+            "text": "Let's bring back the most famous of all dance steps - the pogo! Pogo everybody pogo, yeah! This song was written by a band called the Vaselines, they're from Scotland. They're really good, this song has two notes, everybody pogo, two notes.",
+            "person": "Cobain"
+        },
+        {
+            "type": "song",
+            "text": "Molly's Lips",
+            "notes": []
+        },
+        {
+            "type": "banter",
+            "text": "We have a slave midget underneath the stage trying to grunt his way out!",
+            "person": "Novoselic"
+        },
+        {
+            "type": "song",
+            "text": "Been A Son",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "Negative Creep",
+            "notes": []
+        },
+        {
+            "type": "banter",
+            "text": "Well, thanks for coming tonight",
+            "person": "Cobain"
+        },
+        {
+            "type": "song",
+            "text": "Blew",
+            "notes": []
+        },
+        {
+            "type": "banter",
+            "text": "?? ?? ??",
+            "person": "Channing"
+        },
+        {
+            "type": "song",
+            "text": "Stain",
+            "notes": []
+        },
+        {
+            "type": "banter",
+            "text": "Good night and God bless",
+            "person": "Cobain"
+        }
+    ],
+    "set_incomplete": false,
+    "transmission": {},
+    "rehearsel_circulating_sources": [],
+    "circulating_sources": [
+        {
+            "name": "AUD #1",
+            "complete": true,
+            "equipment": "Aiwa > Aiwa HS-J07",
+            "generation": "ANA(1) > FLAC",
+            "video-generation": null,
+            "audio-generation": null,
+            "length-sound": "58 min / 7.5",
+            "notes": [
+                "In April 2005 an upgraded ANA(1) tape was transferred, avoid the older ANA(1) transfer.",
+                "There is a small drop-out during \"Spank Thru\", which may be from the master."
+            ]
+        },
+        {
+            "name": "AUD #2",
+            "complete": true,
+            "equipment": "Unknown > Unknown",
+            "generation": "ANA(M) > FLAC",
+            "video-generation": null,
+            "audio-generation": null,
+            "length-sound": "57:30 min / ??",
+            "notes": [
+                "The master tape was circulated in December 02, 2019.",
+                "\"Blew\" is cuts within.",
+                "Everything after the cut in \"Blew\" was recorded on a second tape which sounds slightly worse."
+            ]
+        }
+    ],
+    "uncirculated_sources": [],
+    "notes": [
+        "After \"Scoff,\" Kurt and Krist jammed on \"I'm Gonna Booglarize You Baby\" by Captain Beefheart.",
+        "After the \"I'm Gonna Booglarize You Baby\" jam, there is short jam of the theme from TV series \"The Twilight Zone\".",
+        "Versions of the jam were also played at the 11/08/89, 11/09/89, and 11/12/89 shows.",
+        "There were about 60-120 people at the show, according to an attendee."
+    ],
+    "press": [],
+    "memorabilia": [
+        {
+            "url": "/concerts/images/1989/1989-12-02/1989-12-02_01.jpg",
+            "caption": "Handbill/Flyer, designed by unknown"
+        },
+        {
+            "url": "/concerts/images/1989/1989-12-02/1989-12-02_02.jpg",
+            "caption": "Handbill/Flyer, designed by unknown"
+        },
+        {
+            "url": "/concerts/images/1989/1989-12-02/1989-12-02_03.jpg",
+            "caption": "Handwritten setlist"
+        },
+        {
+            "url": "/concerts/images/1989/1989-12-02/1989-12-02_04.jpg",
+            "caption": "Ticket"
+        },
+        {
+            "url": "/concerts/images/1989/1989-12-02/1989-12-02_05.jpg",
+            "caption": "Nirvana's tour itinerary"
+        },
+        {
+            "url": "/concerts/images/1989/1989-12-02/1989-12-02_06.jpg",
+            "caption": "Nirvana's tour itinerary"
+        },
+        {
+            "url": "/concerts/images/1989/1989-12-02/1989-12-02_07.jpg",
+            "caption": "Nirvana's tour itinerary"
+        }
+    ],
+    "images": [
+        {
+            "url": "/concerts/images/1989/1989-12-02/1989-12-02_001.jpg",
+            "caption": "Unknown photographer"
+        },
+        {
+            "url": "/concerts/images/1989/1989-12-02/1989-12-02_002.jpg",
+            "caption": "Unknown photographer"
+        }
+    ],
+    "navigation": {
+        "previous": "89-12-01",
+        "next": "89-12-03"
+    },
+    "graph": {
+        "bleach": "8",
+        "nevermind": "1",
+        "inutero": "0",
+        "non": "8"
+    }
+}

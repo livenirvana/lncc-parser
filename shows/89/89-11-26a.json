@@ -1,0 +1,291 @@
+{
+    "year": "1989",
+    "month": "11",
+    "day": "26",
+    "venue": "November 26",
+    "city": "1989 - Bloom",
+    "state": "Mezzago",
+    "country": "IT",
+    "band": [
+        {
+            "TAD": [
+                {
+                    "name": "Kurt Danielson ",
+                    "duty": "bass"
+                },
+                {
+                    "name": "Gary Thorstensen ",
+                    "duty": "guitar"
+                },
+                {
+                    "name": "Steve Wied ",
+                    "duty": "drums"
+                }
+            ],
+            "type": "group"
+        },
+        {
+            "name": "Kurt Cobain ",
+            "duty": "vocals",
+            "type": "person"
+        },
+        {
+            "name": "Craig Montgomery ",
+            "duty": "guitar",
+            "type": "person"
+        }
+    ],
+    "crew": [
+        {
+            "name": "Edwin Heath",
+            "duty": "tour manager & sound engineer"
+        }
+    ],
+    "buyer": {
+        "names": [
+            "Filippo Scotti (local promoter)",
+            "Daniela Giombini (road manager)"
+        ],
+        "company": "Subway Productions"
+    },
+    "schedule": [
+        {
+            "event": "Load In",
+            "time": "15:00"
+        },
+        {
+            "event": "Soundcheck",
+            "time": "17:00"
+        },
+        {
+            "event": "Doors",
+            "time": "21:00"
+        },
+        {
+            "event": "TAD Showtime",
+            "time": "21:45"
+        },
+        {
+            "event": "NIRVANA Showtime",
+            "time": "22:30"
+        }
+    ],
+    "soundcheck": [],
+    "soundcheck_incomplete": false,
+    "set": [
+        {
+            "type": "banter",
+            "text": "Tad is really sick tonight, he had to get it off, and, instead of Tad we'll have Kurt Cobain from Nirvana ?? ?? ??",
+            "person": "Kurt Danielson"
+        },
+        {
+            "type": "banter",
+            "text": "???? bottle of water to all my friends!",
+            "person": "Cobain"
+        },
+        {
+            "type": "banter",
+            "text": "???? brand new songs ????",
+            "person": "Kurt Danielson"
+        },
+        {
+            "type": "song",
+            "text": "High On The Hog",
+            "notes": [
+                "Kurt on vocals"
+            ]
+        },
+        {
+            "type": "song",
+            "text": "Sex God Missy",
+            "notes": [
+                "Kurt on vocals"
+            ]
+        },
+        {
+            "type": "banter",
+            "text": "Yeah, thank you. ?? ?? lands never been discoved or explored before. Tonight ???? on stage ???? the way ???? loves the way ???? shit lover ????",
+            "person": "Kurt Danielson"
+        },
+        {
+            "type": "song",
+            "text": "Wood Goblins",
+            "notes": [
+                "Kurt on vocals"
+            ]
+        },
+        {
+            "type": "banter",
+            "text": "Yeah, I love ????? who wants to know? ?? ?? ?? ??",
+            "person": "Kurt Danielson"
+        },
+        {
+            "type": "banter",
+            "text": "In America we shit in toilets ?? ?? ?? ??",
+            "person": "Cobain"
+        },
+        {
+            "type": "banter",
+            "text": "???? ????? ?????? ?????? ?????? ?????? ?????",
+            "person": "Kurt Danielson"
+        },
+        {
+            "type": "song",
+            "text": "Ritual Device",
+            "notes": [
+                "Kurt on vocals and Craig on extra guitar"
+            ]
+        },
+        {
+            "type": "banter",
+            "text": "Hey, thank you very much thank you Kurt Cobain on vocals ?? ?? ?? thank you all ?? ?? ?? thank you very much",
+            "person": "Kurt Danielson"
+        }
+    ],
+    "set_incomplete": false,
+    "transmission": {},
+    "rehearsel_circulating_sources": [],
+    "circulating_sources": [
+        {
+            "name": "AUD #2",
+            "complete": true,
+            "equipment": "Built In > Legby UCR 10620",
+            "generation": "ANA(M) > FLAC",
+            "video-generation": null,
+            "audio-generation": null,
+            "length-sound": "26 min / ??",
+            "notes": [
+                "Circulated in 11/26/2019.",
+                "This source is listed as AUD #2 (TAD) to match with the same taper source as AUD #2 (Nirvana). The TAD's AUD #1 remains lost/uncirculated.",
+                "The recorder model might have been a Grundig Beat Boy 380, but Legby UCR 1062 seems more likely."
+            ]
+        },
+        {
+            "name": "AMT #1",
+            "complete": false,
+            "equipment": "Built in > Sony CCD-F500",
+            "generation": "8MM(M) > VHS(1) > DVDR/FLAC",
+            "video-generation": null,
+            "audio-generation": null,
+            "length-sound": "7 min / 8.0",
+            "notes": [
+                "Amateur video, shot from back-left of the venue.",
+                "The circulating video includes all that was recorded of Tad's set with Kurt Cobain.",
+                "Includes only \"High On The Hog\" and \"Ritual Device\"."
+            ]
+        }
+    ],
+    "uncirculated_sources": [
+        {
+            "name": "AUD #1",
+            "note": "The taper of Nirvana's AUD #1 also taped TAD's set, but the master tape went missing many years ago."
+        }
+    ],
+    "notes": [
+        "TAD played \"Helot\" and \"Pork Chop\", after that, due to his bad health condition, Tad Doyle was unable to perform any longer, so Kurt Cobain replaced him on vocals.",
+        "During \"Ritual Device\", Kurt's vocals were almost inaudible. This may be in part because the bands' soundman, Craig Montgomery, was also onstage playing guitar for this song. It is possible he also played on \"Sex God Missy\" and \"Wood Goblins\"."
+    ],
+    "press": [],
+    "memorabilia": [
+        {
+            "url": "/concerts/images/1989/1989-11-26r/1989-11-26r_01.jpg",
+            "caption": "Handbill/Flyer, designed by unknown"
+        },
+        {
+            "url": "/concerts/images/1989/1989-11-26r/1989-11-26r_02.jpg",
+            "caption": "Advert"
+        },
+        {
+            "url": "/concerts/images/1989/1989-11-26r/1989-11-26r_03.jpg",
+            "caption": "Ticket"
+        },
+        {
+            "url": "/concerts/images/1989/1989-11-26r/1989-11-26r_04.jpg",
+            "caption": "Nirvana's tour itinerary"
+        },
+        {
+            "url": "/concerts/images/1989/1989-11-26r/1989-11-26r_05.jpg",
+            "caption": "Nirvana's tour itinerary"
+        },
+        {
+            "url": "/concerts/images/1989/1989-11-26r/1989-11-26r_06.jpg",
+            "caption": "Nirvana's tour itinerary"
+        },
+        {
+            "url": "/concerts/images/1989/1989-11-26r/1989-11-26r_07.jpg",
+            "caption": "Nirvana's tour itinerary"
+        },
+        {
+            "url": "/concerts/images/1989/1989-11-26r/1989-11-26r_08.jpg",
+            "caption": "Nirvana's tour itinerary"
+        },
+        {
+            "url": "/concerts/images/1989/1989-11-26r/1989-11-26r_09.jpg",
+            "caption": "Nirvana's tour itinerary"
+        },
+        {
+            "url": "/concerts/images/1989/1989-11-26r/1989-11-26r_10.jpg",
+            "caption": "Backstage pass"
+        },
+        {
+            "url": "/concerts/images/1989/1989-11-26r/1989-11-26r_11.jpg",
+            "caption": "Advert"
+        },
+        {
+            "url": "/concerts/images/1989/1989-11-26r/1989-11-26r_12.jpg",
+            "caption": "Advert"
+        },
+        {
+            "url": "/concerts/images/1989/1989-11-26r/1989-11-26r_13.jpg",
+            "caption": "Advert"
+        }
+    ],
+    "images": [
+        {
+            "url": "/concerts/images/1989/1989-11-26r/1989-11-26r_001.jpg",
+            "caption": "Unknown photographer"
+        },
+        {
+            "url": "/concerts/images/1989/1989-11-26r/1989-11-26r_002.jpg",
+            "caption": "Photo by Myriam Bardino"
+        },
+        {
+            "url": "/concerts/images/1989/1989-11-26r/1989-11-26r_003.jpg",
+            "caption": "Photo by Luca Sussani"
+        },
+        {
+            "url": "/concerts/images/1989/1989-11-26r/1989-11-26r_004.jpg",
+            "caption": "Photo by Myriam Bardino"
+        },
+        {
+            "url": "/concerts/images/1989/1989-11-26r/1989-11-26r_005.jpg",
+            "caption": "Photo by Myriam Bardino"
+        },
+        {
+            "url": "/concerts/images/1989/1989-11-26r/1989-11-26r_006.jpg",
+            "caption": "Photo by Alessandro Origgi"
+        },
+        {
+            "url": "/concerts/images/1989/1989-11-26r/1989-11-26r_007.jpg",
+            "caption": "Photo by Alessandro Origgi"
+        },
+        {
+            "url": "/concerts/images/1989/1989-11-26r/1989-11-26r_008.jpg",
+            "caption": "Photo by Myriam Bardino"
+        },
+        {
+            "url": "/concerts/images/1989/1989-11-26r/1989-11-26r_009.jpg",
+            "caption": "Photo by Luca Sussani"
+        }
+    ],
+    "navigation": {
+        "previous": "89-11-25",
+        "next": "89-11-26b"
+    },
+    "graph": {
+        "bleach": "0",
+        "nevermind": "0",
+        "inutero": "0",
+        "non": "4"
+    }
+}

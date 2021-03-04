@@ -1,0 +1,463 @@
+{
+    "year": "1993",
+    "month": "12",
+    "day": "14",
+    "band": [
+        {
+            "NIRVANA": [
+                {
+                    "name": "Kurt Cobain ",
+                    "duty": "vocals, guitar"
+                },
+                {
+                    "name": "Krist Novoselic ",
+                    "duty": "bass"
+                },
+                {
+                    "name": "Dave Grohl ",
+                    "duty": "drums, backing vocals"
+                },
+                {
+                    "name": "Pat Smear ",
+                    "duty": "guitar"
+                },
+                {
+                    "name": "Lori Goldston ",
+                    "duty": "cello"
+                }
+            ],
+            "type": "group"
+        }
+    ],
+    "crew": [
+        {
+            "name": "Alex MacLeod",
+            "duty": "tour manager"
+        },
+        {
+            "name": "Jeff Mason",
+            "duty": "production manager"
+        },
+        {
+            "name": "Kelly Nase",
+            "duty": "tour accountant"
+        },
+        {
+            "name": "Susanne Sasic",
+            "duty": "lighting designer"
+        },
+        {
+            "name": "Craig Overbay",
+            "duty": "sound engineer"
+        },
+        {
+            "name": "Ian Beveridge",
+            "duty": "monitor engineer"
+        },
+        {
+            "name": "Jim Vincent",
+            "duty": "guitar technician"
+        },
+        {
+            "name": "John Duncan",
+            "duty": "guitar technician"
+        },
+        {
+            "name": "Mike Dalke",
+            "duty": "drum technician"
+        },
+        {
+            "name": "Ed Swink",
+            "duty": "stage manager"
+        },
+        {
+            "name": "Allan Bagley",
+            "duty": "Pro Show sound crew"
+        },
+        {
+            "name": "Tom Pfaeffle",
+            "duty": "Pro Show sound crew"
+        },
+        {
+            "name": "Niko Vonk",
+            "duty": "Pro Show sound crew"
+        },
+        {
+            "name": "Mike Lamb",
+            "duty": "LSD lighting crew"
+        },
+        {
+            "name": "Pat Connolly",
+            "duty": "LSD lighting crew"
+        },
+        {
+            "name": "Gary Vaspol",
+            "duty": "LSD lighting crew"
+        }
+    ],
+    "buyer": {
+        "names": [
+            "Mike Quinn",
+            "Ken Deans"
+        ],
+        "company": "Monqui Presents"
+    },
+    "schedule": [
+        {
+            "event": "Load In",
+            "time": "09:00"
+        },
+        {
+            "event": "Soundcheck",
+            "time": "15:30"
+        },
+        {
+            "event": "Doors",
+            "time": "18:30"
+        },
+        {
+            "event": "Melvins Showtime",
+            "time": "19:30"
+        },
+        {
+            "event": "Breeders Showtime",
+            "time": "20:15"
+        },
+        {
+            "event": "NIRVANA Showtime",
+            "time": "21:15"
+        }
+    ],
+    "soundcheck": [],
+    "soundcheck_incomplete": false,
+    "set": [
+        {
+            "type": "song",
+            "text": "Radio Friendly Unit Shifter",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "Drain You",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "Breed",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "Heartbreaker",
+            "notes": [
+                "jam"
+            ]
+        },
+        {
+            "type": "song",
+            "text": "Serve The Servants",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "Come As You Are",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "Smells Like Teen Spirit",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "Sliver",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "Dumb",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "In Bloom",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "About A Girl",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "Lithium",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "Pennyroyal Tea",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "School",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "Polly",
+            "notes": [
+                "acoustic"
+            ]
+        },
+        {
+            "type": "song",
+            "text": "Frances Farmer Will Have Her Revenge On Seattle",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "Rape Me",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "Territorial Pissings",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "The Man Who Sold The World",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "All Apologies",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "On A Plain",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "Scentless Apprentice",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "Heart-Shaped Box",
+            "notes": []
+        }
+    ],
+    "set_incomplete": false,
+    "transmission": {},
+    "rehearsel_circulating_sources": [],
+    "circulating_sources": [
+        {
+            "name": "AUD #1",
+            "complete": true,
+            "equipment": "Sonic Studios DSM-6 > Denon DTR-80P",
+            "generation": "DAT(M) > FLAC",
+            "video-generation": null,
+            "audio-generation": null,
+            "length-sound": "84 min / 9.0",
+            "notes": [
+                "No Infos."
+            ]
+        }
+    ],
+    "uncirculated_sources": [
+        {
+            "name": "AUD #2",
+            "note": "It is rumored that the show was recorded."
+        },
+        {
+            "name": "AMT #1",
+            "note": "It is rumored that the show was recorded."
+        }
+    ],
+    "notes": [
+        "During the song \"Polly\", Kurt picked up his acoustic guitar like he was gonna smash it, looked to the side of the stage, and finished the song without smashing it. That's why Kurt misses some chords and sarcastically laughs."
+    ],
+    "press": [],
+    "memorabilia": [
+        {
+            "url": "/concerts/images/1993/1993-12-14/1993-12-14_01.jpg",
+            "caption": "Backstage pass"
+        },
+        {
+            "url": "/concerts/images/1993/1993-12-14/1993-12-14_02.jpg",
+            "caption": "Ticket"
+        },
+        {
+            "url": "/concerts/images/1993/1993-12-14/1993-12-14_03.jpg",
+            "caption": "Advert"
+        },
+        {
+            "url": "/concerts/images/1993/1993-12-14/1993-12-14_04.jpg",
+            "caption": "Advert"
+        },
+        {
+            "url": "/concerts/images/1993/1993-12-14/1993-12-14_05.jpg",
+            "caption": "Advert"
+        },
+        {
+            "url": "/concerts/images/1993/1993-12-14/1993-12-14_06.jpg",
+            "caption": "Nirvana's tour itinerary"
+        }
+    ],
+    "images": [
+        {
+            "url": "/concerts/images/1993/1993-12-14/1993-12-14_001.jpg",
+            "caption": "Photo by Bruce Thorson"
+        },
+        {
+            "url": "/concerts/images/1993/1993-12-14/1993-12-14_002.jpg",
+            "caption": "Photo by Bruce Thorson"
+        },
+        {
+            "url": "/concerts/images/1993/1993-12-14/1993-12-14_003.jpg",
+            "caption": "Unknown photographer"
+        },
+        {
+            "url": "/concerts/images/1993/1993-12-14/1993-12-14_004.jpg",
+            "caption": "Unknown photographer"
+        },
+        {
+            "url": "/concerts/images/1993/1993-12-14/1993-12-14_005.jpg",
+            "caption": "Photo by Kevin P. Casey"
+        },
+        {
+            "url": "/concerts/images/1993/1993-12-14/1993-12-14_006.jpg",
+            "caption": "Unknown photographer"
+        },
+        {
+            "url": "/concerts/images/1993/1993-12-14/1993-12-14_007.jpg",
+            "caption": "Unknown photographer"
+        },
+        {
+            "url": "/concerts/images/1993/1993-12-14/1993-12-14_008.jpg",
+            "caption": "Unknown photographer"
+        },
+        {
+            "url": "/concerts/images/1993/1993-12-14/1993-12-14_009.jpg",
+            "caption": "Unknown photographer"
+        },
+        {
+            "url": "/concerts/images/1993/1993-12-14/1993-12-14_010.jpg",
+            "caption": "Unknown photographer"
+        },
+        {
+            "url": "/concerts/images/1993/1993-12-14/1993-12-14_011.jpg",
+            "caption": "Photo by David Greenwald"
+        },
+        {
+            "url": "/concerts/images/1993/1993-12-14/1993-12-14_012.jpg",
+            "caption": "Photo by David Greenwald"
+        },
+        {
+            "url": "/concerts/images/1993/1993-12-14/1993-12-14_013.jpg",
+            "caption": "Photo by Yong Kim"
+        },
+        {
+            "url": "/concerts/images/1993/1993-12-14/1993-12-14_014.jpg",
+            "caption": "Photo by Yong Kim"
+        },
+        {
+            "url": "/concerts/images/1993/1993-12-14/1993-12-14_015.jpg",
+            "caption": "Photo by Yong Kim"
+        },
+        {
+            "url": "/concerts/images/1993/1993-12-14/1993-12-14_016.jpg",
+            "caption": "Photo by Yong Kim"
+        },
+        {
+            "url": "/concerts/images/1993/1993-12-14/1993-12-14_017.jpg",
+            "caption": "Photo by Yong Kim"
+        },
+        {
+            "url": "/concerts/images/1993/1993-12-14/1993-12-14_018.jpg",
+            "caption": "Photo by Yong Kim"
+        },
+        {
+            "url": "/concerts/images/1993/1993-12-14/1993-12-14_019.jpg",
+            "caption": "Photo by Yong Kim"
+        },
+        {
+            "url": "/concerts/images/1993/1993-12-14/1993-12-14_020.jpg",
+            "caption": "Photo by Yong Kim"
+        },
+        {
+            "url": "/concerts/images/1993/1993-12-14/1993-12-14_021.jpg",
+            "caption": "Photo by Yong Kim"
+        },
+        {
+            "url": "/concerts/images/1993/1993-12-14/1993-12-14_022.jpg",
+            "caption": "Photo by Yong Kim"
+        },
+        {
+            "url": "/concerts/images/1993/1993-12-14/1993-12-14_023.jpg",
+            "caption": "Photo by Yong Kim"
+        },
+        {
+            "url": "/concerts/images/1993/1993-12-14/1993-12-14_024.jpg",
+            "caption": "Photo by Yong Kim"
+        },
+        {
+            "url": "/concerts/images/1993/1993-12-14/1993-12-14_025.jpg",
+            "caption": "Photo by Yong Kim"
+        },
+        {
+            "url": "/concerts/images/1993/1993-12-14/1993-12-14_026.jpg",
+            "caption": "Photo by Yong Kim"
+        },
+        {
+            "url": "/concerts/images/1993/1993-12-14/1993-12-14_027.jpg",
+            "caption": "Photo by Yong Kim"
+        },
+        {
+            "url": "/concerts/images/1993/1993-12-14/1993-12-14_028.jpg",
+            "caption": "Photo by Yong Kim"
+        },
+        {
+            "url": "/concerts/images/1993/1993-12-14/1993-12-14_029.jpg",
+            "caption": "Photo by Yong Kim"
+        },
+        {
+            "url": "/concerts/images/1993/1993-12-14/1993-12-14_030.jpg",
+            "caption": "Photo by Yong Kim"
+        },
+        {
+            "url": "/concerts/images/1993/1993-12-14/1993-12-14_031.jpg",
+            "caption": "Photo by Yong Kim"
+        },
+        {
+            "url": "/concerts/images/1993/1993-12-14/1993-12-14_032.jpg",
+            "caption": "Photo by Yong Kim"
+        },
+        {
+            "url": "/concerts/images/1993/1993-12-14/1993-12-14_033.jpg",
+            "caption": "Photo by Yong Kim"
+        },
+        {
+            "url": "/concerts/images/1993/1993-12-14/1993-12-14_034.jpg",
+            "caption": "Photo by Yong Kim"
+        },
+        {
+            "url": "/concerts/images/1993/1993-12-14/1993-12-14_035.jpg",
+            "caption": "Photo by Yong Kim"
+        }
+    ],
+    "navigation": {
+        "previous": "93-12-13",
+        "next": "93-12-15"
+    },
+    "graph": {
+        "bleach": "2",
+        "nevermind": "9",
+        "inutero": "9",
+        "non": "2"
+    }
+}

@@ -1,0 +1,311 @@
+{
+    "year": "1989",
+    "month": "07",
+    "day": "13",
+    "band": [
+        {
+            "NIRVANA": [
+                {
+                    "name": "Kurt Cobain ",
+                    "duty": "vocals, guitar"
+                },
+                {
+                    "name": "Krist Novoselic ",
+                    "duty": "bass"
+                },
+                {
+                    "name": "Chad Channing ",
+                    "duty": "drums"
+                },
+                {
+                    "name": "Jason Everman ",
+                    "duty": "guitar"
+                }
+            ],
+            "type": "group"
+        }
+    ],
+    "crew": [],
+    "buyer": {
+        "names": [
+            "Todd Abramson"
+        ]
+    },
+    "schedule": [
+        {
+            "event": "Load In",
+            "time": "…:…"
+        },
+        {
+            "event": "Soundcheck",
+            "time": "…:…"
+        },
+        {
+            "event": "Doors",
+            "time": "…:…"
+        },
+        {
+            "event": "NIRVANA Showtime",
+            "time": "…:…"
+        },
+        {
+            "event": "TAD Showtime",
+            "time": "…:…"
+        }
+    ],
+    "soundcheck": [],
+    "soundcheck_incomplete": false,
+    "set": [
+        {
+            "type": "song",
+            "text": "School",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "Floyd The Barber",
+            "notes": []
+        },
+        {
+            "type": "banter",
+            "text": "Taper scum!",
+            "person": "Voice"
+        },
+        {
+            "type": "song",
+            "text": "Love Buzz",
+            "notes": []
+        },
+        {
+            "type": "banter",
+            "text": "Thanks for the underwear",
+            "person": "Novoselic"
+        },
+        {
+            "type": "song",
+            "text": "About A Girl",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "Scoff",
+            "notes": []
+        },
+        {
+            "type": "banter",
+            "text": "The girl who's shaking her shit, it bones up. More rolling rocks to the state",
+            "person": "Novoselic"
+        },
+        {
+            "type": "song",
+            "text": "Spank Thru",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "Big Cheese",
+            "notes": []
+        },
+        {
+            "type": "banter",
+            "text": "I have a monitor back here, but it's not working",
+            "person": "Channing"
+        },
+        {
+            "type": "song",
+            "text": "Polly",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "Paper Cuts",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "Negative Creep",
+            "notes": []
+        },
+        {
+            "type": "banter",
+            "text": "They're so cute, look at them",
+            "person": "Voice"
+        },
+        {
+            "type": "banter",
+            "text": "Thank you for coming and err ... thanks again, thank you!",
+            "person": "Novoselic"
+        },
+        {
+            "type": "song",
+            "text": "Blew",
+            "notes": []
+        }
+    ],
+    "set_incomplete": false,
+    "transmission": {},
+    "rehearsel_circulating_sources": [],
+    "circulating_sources": [
+        {
+            "name": "AUD #1",
+            "complete": true,
+            "equipment": "Sony PC-62 > Sony WM-D3",
+            "generation": "ANA(1) > FLAC",
+            "video-generation": null,
+            "audio-generation": null,
+            "length-sound": "39:57 min / 7.0",
+            "notes": [
+                "In March 2005 a 1st generation tape (upgrade) of this source was circulated."
+            ]
+        },
+        {
+            "name": "AMT #1",
+            "complete": false,
+            "equipment": "Unknown > Unknown",
+            "generation": "Video8(M) > MKV",
+            "video-generation": null,
+            "audio-generation": null,
+            "length-sound": "20:40 min / 9.0",
+            "notes": [
+                "Amateur video, shot from the front of the audience, centre right.",
+                "This video surfaced in October 2001 on a bootleg video entitled \"NIRVANA: Early Days\". A master transfer was circulated October 2020.",
+                "\"School\", \"Love Buzz\", \"Scoff\" and \"Blew\" all cut in and the video is missing \"Big Cheese\", \"Polly\", \"Paper Cuts\" and \"Negative Creep\"."
+            ]
+        }
+    ],
+    "uncirculated_sources": [],
+    "notes": [
+        "At the end of the concert Kurt Cobain smashed his natural Univox Hi-flier beyond repair."
+    ],
+    "press": [],
+    "memorabilia": [
+        {
+            "url": "/concerts/images/1989/1989-07-13/1989-07-13_01.jpg",
+            "caption": "Advert"
+        },
+        {
+            "url": "/concerts/images/1989/1989-07-13/1989-07-13_02.jpg",
+            "caption": "Advert"
+        },
+        {
+            "url": "/concerts/images/1989/1989-07-13/1989-07-13_03.jpg",
+            "caption": "Nirvana's tour itinerary"
+        },
+        {
+            "url": "/concerts/images/1989/1989-07-13/1989-07-13_04.jpg",
+            "caption": "Nirvana's tour itinerary"
+        }
+    ],
+    "images": [
+        {
+            "url": "/concerts/images/1989/1989-07-13/1989-07-13_001.jpg",
+            "caption": "Photo by Ian Tilton"
+        },
+        {
+            "url": "/concerts/images/1989/1989-07-13/1989-07-13_002.jpg",
+            "caption": "Photo by Ian Tilton"
+        },
+        {
+            "url": "/concerts/images/1989/1989-07-13/1989-07-13_003.jpg",
+            "caption": "Photo by Ian Tilton"
+        },
+        {
+            "url": "/concerts/images/1989/1989-07-13/1989-07-13_004.jpg",
+            "caption": "Photo by Ian Tilton"
+        },
+        {
+            "url": "/concerts/images/1989/1989-07-13/1989-07-13_005.jpg",
+            "caption": "Photo by Ian Tilton"
+        },
+        {
+            "url": "/concerts/images/1989/1989-07-13/1989-07-13_006.jpg",
+            "caption": "Photo by Ian Tilton"
+        },
+        {
+            "url": "/concerts/images/1989/1989-07-13/1989-07-13_007.jpg",
+            "caption": "Photo by Ian Tilton"
+        },
+        {
+            "url": "/concerts/images/1989/1989-07-13/1989-07-13_008.jpg",
+            "caption": "Photo by Ian Tilton"
+        },
+        {
+            "url": "/concerts/images/1989/1989-07-13/1989-07-13_009.jpg",
+            "caption": "Photo by Ian Tilton"
+        },
+        {
+            "url": "/concerts/images/1989/1989-07-13/1989-07-13_010.jpg",
+            "caption": "Photo by Ian Tilton"
+        },
+        {
+            "url": "/concerts/images/1989/1989-07-13/1989-07-13_011.jpg",
+            "caption": "Photo by Ian Tilton"
+        },
+        {
+            "url": "/concerts/images/1989/1989-07-13/1989-07-13_012.jpg",
+            "caption": "Photo by Ian Tilton"
+        },
+        {
+            "url": "/concerts/images/1989/1989-07-13/1989-07-13_013.jpg",
+            "caption": "Photo by Ian Tilton"
+        },
+        {
+            "url": "/concerts/images/1989/1989-07-13/1989-07-13_014.jpg",
+            "caption": "Photo by Ian Tilton"
+        },
+        {
+            "url": "/concerts/images/1989/1989-07-13/1989-07-13_015.jpg",
+            "caption": "Photo by Ian Tilton"
+        },
+        {
+            "url": "/concerts/images/1989/1989-07-13/1989-07-13_016.jpg",
+            "caption": "Photo by Ian Tilton"
+        },
+        {
+            "url": "/concerts/images/1989/1989-07-13/1989-07-13_017.jpg",
+            "caption": "Photo by Ian Tilton"
+        },
+        {
+            "url": "/concerts/images/1989/1989-07-13/1989-07-13_018.jpg",
+            "caption": "Photo by Ian Tilton"
+        },
+        {
+            "url": "/concerts/images/1989/1989-07-13/1989-07-13_019.jpg",
+            "caption": "Photo by Ian Tilton"
+        },
+        {
+            "url": "/concerts/images/1989/1989-07-13/1989-07-13_020.jpg",
+            "caption": "Photo by Ian Tilton"
+        },
+        {
+            "url": "/concerts/images/1989/1989-07-13/1989-07-13_021.jpg",
+            "caption": "Photo by Ian Tilton"
+        },
+        {
+            "url": "/concerts/images/1989/1989-07-13/1989-07-13_022.jpg",
+            "caption": "Photo by Ian Tilton"
+        },
+        {
+            "url": "/concerts/images/1989/1989-07-13/1989-07-13_023.jpg",
+            "caption": "Photo by Ian Tilton"
+        },
+        {
+            "url": "/concerts/images/1989/1989-07-13/1989-07-13_024.jpg",
+            "caption": "Photo by Ian Tilton"
+        },
+        {
+            "url": "/concerts/images/1989/1989-07-13/1989-07-13_025.jpg",
+            "caption": "Unknown photographer"
+        }
+    ],
+    "navigation": {
+        "previous": "89-07-12",
+        "next": "89-07-15"
+    },
+    "graph": {
+        "bleach": "9",
+        "nevermind": "1",
+        "inutero": "0",
+        "non": "1"
+    }
+}

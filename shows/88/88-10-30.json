@@ -1,0 +1,394 @@
+{
+    "year": "1988",
+    "month": "10",
+    "day": "30",
+    "band": [
+        {
+            "NIRVANA": [
+                {
+                    "name": "Kurt Cobain ",
+                    "duty": "vocals, guitar"
+                },
+                {
+                    "name": "Krist Novoselic ",
+                    "duty": "bass"
+                },
+                {
+                    "name": "Chad Channing ",
+                    "duty": "drums"
+                }
+            ],
+            "type": "group"
+        }
+    ],
+    "crew": [],
+    "buyer": {
+        "names": []
+    },
+    "schedule": [
+        {
+            "event": "Load In",
+            "time": "…:…"
+        },
+        {
+            "event": "Soundcheck",
+            "time": "…:…"
+        },
+        {
+            "event": "Doors",
+            "time": "…:…"
+        },
+        {
+            "event": "Lansdat Blister Showtime",
+            "time": "…:…"
+        },
+        {
+            "event": "Lush Showtime",
+            "time": "…:…"
+        },
+        {
+            "event": "NIRVANA Showtime",
+            "time": "…:…"
+        }
+    ],
+    "soundcheck": [],
+    "soundcheck_incomplete": false,
+    "set": [
+        {
+            "type": "banter",
+            "text": "Who's... who's running the board?",
+            "person": "Novoselic"
+        },
+        {
+            "type": "banter",
+            "text": "Check, check, check, check, check, hey, hey, hey",
+            "person": "Cobain"
+        },
+        {
+            "type": "song",
+            "text": "School",
+            "notes": []
+        },
+        {
+            "type": "banter",
+            "text": "What? Chris, you're gonna have to turn the bass down a little bit, OK? Up, straight up. I need more light too, turn ?? on the lights...",
+            "person": "Cobain"
+        },
+        {
+            "type": "banter",
+            "text": "Well kill it, kill it",
+            "person": "Novoselic"
+        },
+        {
+            "type": "song",
+            "text": "Love Buzz",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "Floyd The Barber",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "Spank Thru",
+            "notes": []
+        },
+        {
+            "type": "banter",
+            "text": "Kurt, is it OK if you turn up your guitar?",
+            "person": "Voice"
+        },
+        {
+            "type": "banter",
+            "text": "OK, I'm gonna try",
+            "person": "Cobain"
+        },
+        {
+            "type": "banter",
+            "text": "Play something good!",
+            "person": "Audience"
+        },
+        {
+            "type": "banter",
+            "text": "Play something in tune! OK, now we'll see if we're in tune!",
+            "person": "Cobain"
+        },
+        {
+            "type": "banter",
+            "text": "Turn down what?",
+            "person": "Novoselic"
+        },
+        {
+            "type": "banter",
+            "text": "OK, OK",
+            "person": "Cobain"
+        },
+        {
+            "type": "banter",
+            "text": "What's he saying?",
+            "person": "Novoselic"
+        },
+        {
+            "type": "banter",
+            "text": "Big Cheese and..... Ready?",
+            "person": "Cobain"
+        },
+        {
+            "type": "song",
+            "text": "Big Cheese",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "Hairspray Queen",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "Mr. Moustache",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "Sifting",
+            "notes": []
+        },
+        {
+            "type": "banter",
+            "text": "Solo, solo, guitar solo?",
+            "person": "Cobain"
+        },
+        {
+            "type": "banter",
+            "text": "Too much, Hey Kurt, that's too much, man I don't think these crack kids can sustain that kinda action. I'm afraid you might have gone too far, over the edge, you know what I mean?",
+            "person": "Voice"
+        },
+        {
+            "type": "banter",
+            "text": "We all ?? we have no buddies any more, none of our friends can...",
+            "person": "Cobain"
+        },
+        {
+            "type": "banter",
+            "text": "Who lost their shoe? Who lost their shoe? Who lost their shoe?",
+            "person": "Cobain"
+        },
+        {
+            "type": "banter",
+            "text": "Hey Dylan, I want some beer!",
+            "person": "Novoselic"
+        },
+        {
+            "type": "banter",
+            "text": "What's next?",
+            "person": "Channing"
+        },
+        {
+            "type": "banter",
+            "text": "Hey Dylan, turn the fucking lights up",
+            "person": "Novoselic"
+        },
+        {
+            "type": "banter",
+            "text": "How about the strobe light?",
+            "person": "Cobain"
+        },
+        {
+            "type": "song",
+            "text": "Mexican Seafood",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "Aero Zeppelin",
+            "notes": []
+        },
+        {
+            "type": "banter",
+            "text": "It isn't working",
+            "person": "Cobain"
+        },
+        {
+            "type": "banter",
+            "text": "Ready? What are we doing next my friend?",
+            "person": "Cobain"
+        },
+        {
+            "type": "banter",
+            "text": "Wait, I'm not ready",
+            "person": "Channing"
+        },
+        {
+            "type": "banter",
+            "text": "I guess we're just going to have to postpone playing the Vogue",
+            "person": "Cobain"
+        },
+        {
+            "type": "banter",
+            "text": "Hey Kurt",
+            "person": "Novoselic"
+        },
+        {
+            "type": "banter",
+            "text": "Two weeks to get a fucking drummer!",
+            "person": "Cobain"
+        },
+        {
+            "type": "song",
+            "text": "Run, Rabbit, Run!",
+            "notes": []
+        },
+        {
+            "type": "banter",
+            "text": "That was a cover song",
+            "person": "Cobain"
+        },
+        {
+            "type": "banter",
+            "text": "Uh?",
+            "person": "Voice"
+        },
+        {
+            "type": "banter",
+            "text": "Immigrant Song",
+            "person": "Cobain"
+        },
+        {
+            "type": "banter",
+            "text": "oh really?",
+            "person": "Voice"
+        },
+        {
+            "type": "banter",
+            "text": "OK, let's do it",
+            "person": "Cobain"
+        },
+        {
+            "type": "jam",
+            "text": "jam  guitar jam",
+            "notes": [
+                "guitar jam"
+            ]
+        },
+        {
+            "type": "song",
+            "text": "Immigrant Song",
+            "notes": []
+        },
+        {
+            "type": "banter",
+            "text": "Switch guitars",
+            "person": "Novoselic"
+        },
+        {
+            "type": "banter",
+            "text": "Oh no, let's just play Blew",
+            "person": "Cobain"
+        },
+        {
+            "type": "banter",
+            "text": "Blew?",
+            "person": "Novoselic"
+        },
+        {
+            "type": "banter",
+            "text": "Thanks for coming tonight, Happy Hallowe'en",
+            "person": "Cobain"
+        },
+        {
+            "type": "song",
+            "text": "Blew",
+            "notes": []
+        }
+    ],
+    "set_incomplete": false,
+    "transmission": {},
+    "rehearsel_circulating_sources": [],
+    "circulating_sources": [
+        {
+            "name": "AUD #1",
+            "complete": true,
+            "equipment": "Unknown > GE (cassette)",
+            "generation": "ANA(M) > FLAC",
+            "video-generation": null,
+            "audio-generation": null,
+            "length-sound": "58:58 min / 8.5",
+            "notes": [
+                "In November 2011 a fresh transfer straight from the master tape was circulated.",
+                "\"Love Buzz\" cuts in slightly, \"Mr Moustache\" cuts out and \"Sifting\" cuts in.",
+                "There's a dropout in \"Hairspray Queen\"."
+            ]
+        }
+    ],
+    "uncirculated_sources": [],
+    "notes": [
+        "This was the first show at which Kurt smashed his guitar beyond repair, the classic sunburst Univox Hi-Flier."
+    ],
+    "press": [],
+    "memorabilia": [],
+    "images": [
+        {
+            "url": "/concerts/images/1988/1988-10-30/1988-10-30_001.jpg",
+            "caption": "Photo by Tracy Marander"
+        },
+        {
+            "url": "/concerts/images/1988/1988-10-30/1988-10-30_002.jpg",
+            "caption": "Photo by Tracy Marander"
+        },
+        {
+            "url": "/concerts/images/1988/1988-10-30/1988-10-30_003.jpg",
+            "caption": "Photo by Tracy Marander"
+        },
+        {
+            "url": "/concerts/images/1988/1988-10-30/1988-10-30_004.jpg",
+            "caption": "Photo by Tracy Marander"
+        },
+        {
+            "url": "/concerts/images/1988/1988-10-30/1988-10-30_005.jpg",
+            "caption": "Photo by Tracy Marander"
+        },
+        {
+            "url": "/concerts/images/1988/1988-10-30/1988-10-30_006.jpg",
+            "caption": "Photo by Tracy Marander"
+        },
+        {
+            "url": "/concerts/images/1988/1988-10-30/1988-10-30_007.jpg",
+            "caption": "Photo by Tracy Marander"
+        },
+        {
+            "url": "/concerts/images/1988/1988-10-30/1988-10-30_008.jpg",
+            "caption": "Photo by Tracy Marander"
+        },
+        {
+            "url": "/concerts/images/1988/1988-10-30/1988-10-30_009.jpg",
+            "caption": "Photo by Tracy Marander"
+        },
+        {
+            "url": "/concerts/images/1988/1988-10-30/1988-10-30_010.jpg",
+            "caption": "Photo by Tracy Marander"
+        },
+        {
+            "url": "/concerts/images/1988/1988-10-30/1988-10-30_011.jpg",
+            "caption": "Photo by Tracy Marander"
+        },
+        {
+            "url": "/concerts/images/1988/1988-10-30/1988-10-30_012.jpg",
+            "caption": "Photo by Tracy Marander"
+        },
+        {
+            "url": "/concerts/images/1988/1988-10-30/1988-10-30_013.jpg",
+            "caption": "Photo by Tracy Marander"
+        }
+    ],
+    "navigation": {
+        "previous": "88-10-28",
+        "next": "88-11-23"
+    },
+    "graph": {
+        "bleach": "7",
+        "nevermind": "0",
+        "inutero": "0",
+        "non": "6"
+    }
+}

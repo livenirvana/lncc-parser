@@ -1,0 +1,783 @@
+{
+    "year": "1991",
+    "month": "12",
+    "day": "07",
+    "venue": "December 7",
+    "city": "1991 - Salle Omnisports (Trans Musicales)",
+    "state": "Rennes",
+    "country": "FR",
+    "band": [
+        {
+            "NIRVANA": [
+                {
+                    "name": "Kurt Cobain ",
+                    "duty": "vocals, guitar"
+                },
+                {
+                    "name": "Krist Novoselic ",
+                    "duty": "bass, vocals"
+                },
+                {
+                    "name": "Dave Grohl ",
+                    "duty": "drums, backing vocals, vocals"
+                }
+            ],
+            "type": "group"
+        }
+    ],
+    "crew": [
+        {
+            "name": "Alex MacLeod",
+            "duty": "tour manager"
+        },
+        {
+            "name": "Craig Montgomery",
+            "duty": "sound engineer"
+        },
+        {
+            "name": "Ian Beveridge",
+            "duty": "monitor engineer"
+        },
+        {
+            "name": "Nic Close",
+            "duty": "guitar technician"
+        }
+    ],
+    "buyer": {
+        "names": [
+            "Jean-Louis Brossard"
+        ]
+    },
+    "schedule": [
+        {
+            "event": "Load In",
+            "time": "…:…"
+        },
+        {
+            "event": "Soundcheck",
+            "time": "…:…"
+        },
+        {
+            "event": "Doors",
+            "time": "…:…"
+        },
+        {
+            "event": "The Little Rabbits Showtime",
+            "time": "…:…"
+        },
+        {
+            "event": "Curve Showtime",
+            "time": "…:…"
+        },
+        {
+            "event": "Momma Stud Showtime",
+            "time": "…:…"
+        },
+        {
+            "event": "NIRVANA Showtime",
+            "time": "…:…"
+        },
+        {
+            "event": "James Showtime",
+            "time": "…:…"
+        }
+    ],
+    "soundcheck": [],
+    "soundcheck_incomplete": false,
+    "set": [
+        {
+            "type": "song",
+            "text": "Baba O'Riley",
+            "notes": [
+                "Grohl and Novoselic on vocals"
+            ]
+        },
+        {
+            "type": "song",
+            "text": "Jesus Wants Me For A Sunbeam",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "Drain You",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "Aneurysm",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "School",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "Smells Like Teen Spirit",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "About A Girl",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "Polly",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "Sliver",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "Breed",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "Been A Son",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "Negative Creep",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "On A Plain",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "Blew",
+            "notes": []
+        }
+    ],
+    "set_incomplete": false,
+    "transmission": {},
+    "rehearsel_circulating_sources": [],
+    "circulating_sources": [
+        {
+            "name": "AUD #1",
+            "complete": true,
+            "equipment": "Sony PC-62 > Sony WM-D3",
+            "generation": "ANA(M) > MD(1) > CDR",
+            "video-generation": null,
+            "audio-generation": null,
+            "length-sound": "47 min / 8.0",
+            "notes": [
+                "The circulating CDR was remastered.",
+                "The end noise fades out."
+            ]
+        },
+        {
+            "name": "AUD #2",
+            "complete": true,
+            "equipment": "Unknown > Unknown",
+            "generation": "DAT > ANA(1) > CDR",
+            "video-generation": null,
+            "audio-generation": null,
+            "length-sound": "47 min / 7.5",
+            "notes": [
+                "Upgrade surfaced in October 2002.",
+                "The end noise fades out."
+            ]
+        },
+        {
+            "name": "AUD #3",
+            "complete": true,
+            "equipment": "Sony PC-62 > Sony WM-D3",
+            "generation": "ANA(2) > FLAC",
+            "video-generation": null,
+            "audio-generation": null,
+            "length-sound": "48 min / 7.5",
+            "notes": [
+                "In September 2008 a new fresh transfer of the 2nd generation tape was circulated. "
+            ]
+        },
+        {
+            "name": "AUD #4",
+            "complete": true,
+            "equipment": "Sony ECM-101 > Sony TCD-D3",
+            "generation": "DAT(1) > FLAC",
+            "video-generation": null,
+            "audio-generation": null,
+            "length-sound": "49 min / 9.0",
+            "notes": [
+                "In Augurst 2012 a upgrade version was circulated."
+            ]
+        },
+        {
+            "name": "AUD #5",
+            "complete": true,
+            "equipment": "Sony PC-62 -> Sony TCD-D3",
+            "generation": "DAT(M) > FLAC",
+            "video-generation": null,
+            "audio-generation": null,
+            "length-sound": "50 min / ??",
+            "notes": [
+                "Circulated in December 2019."
+            ]
+        },
+        {
+            "name": "AUD #6",
+            "complete": true,
+            "equipment": "Aiwa > Aiwa",
+            "generation": "ANA(M) > FLAC",
+            "video-generation": null,
+            "audio-generation": null,
+            "length-sound": "49 min / ?",
+            "notes": [
+                "Surfaced in December 2020."
+            ]
+        },
+        {
+            "name": "SBD #1",
+            "complete": false,
+            "equipment": "Soundboard > Unknown",
+            "generation": "FM > DAT(1) > FLAC",
+            "video-generation": null,
+            "audio-generation": null,
+            "length-sound": "33 min / 9.5",
+            "notes": [
+                "Missing \"Jesus Wants Me For A Sunbeam\", \"Aneurysm\", \"Sliver\", \"Been A Son\", \"Negative Creep\" and the end noise cuts out.",
+                "Broadcast on the French FM radio station France Inter."
+            ]
+        },
+        {
+            "name": "PRO #1",
+            "complete": false,
+            "equipment": "Soundboard > Unknown",
+            "generation": "TV > VHS(1) > DVDR/TV > VHS(1) > DVDR(1) > FLAC",
+            "video-generation": null,
+            "audio-generation": null,
+            "length-sound": "08 min / 9.0",
+            "notes": [
+                "Shot with a single camera with soundboard audio from the back of the venue by TV Rennes.",
+                "Has crackling noises throughout the tape.",
+                "Includes only \"Jesus Wants Me For A Sunbeam\" and \"Smells Like Teen Spirit\".",
+                "\"Smells Like Teen Spirit\" cuts in.",
+                "Shot by the French TV channel TV Rennes with a single camera from the back of the venue.",
+                "Broadcast on the French TV channel FR3 in 1992."
+            ]
+        },
+        {
+            "name": "PRO CLIP #1a",
+            "complete": false,
+            "equipment": "Soundboard > Unknown",
+            "generation": "TV > VHS(1) > VCD",
+            "video-generation": null,
+            "audio-generation": null,
+            "length-sound": "01:35 min / 9.0",
+            "notes": [
+                "Shot with a single camera with soundbaord audio from the back of the venue by French-German TV channel Arte.",
+                "More complete but of lower quality than PRO CLIP #1b.",
+                "Same source as PRO #1 but includes parts of the destruction.",
+                "It does also feature a clip of \"Smells Like Teen Spirit\" but it's not a source.",
+                "Broadcast on the French-German TV channel Arte."
+            ]
+        },
+        {
+            "name": "PRO CLIP #1b",
+            "complete": false,
+            "equipment": "Soundboard > Unknown",
+            "generation": "DVB-S > DVDR/DVB-S > TS > FLAC",
+            "video-generation": null,
+            "audio-generation": null,
+            "length-sound": "1:30 min / 9.5",
+            "notes": [
+                "Shot with a single camera with soundbaord audio from the back of the venue by French-German TV channel Arte.",
+                "Higher quality but less complete than PRO CLIP #1a.",
+                "Same source as PRO #1 but includes parts of the destruction.",
+                "It does also feature a clip of \"Smells Like Teen Spirit\" but it's not a source."
+            ]
+        },
+        {
+            "name": "PRO CLIP #2",
+            "complete": false,
+            "equipment": "Soundboard > Unknown",
+            "generation": "TV > VHS(2) > MiniDV(1)",
+            "video-generation": null,
+            "audio-generation": null,
+            "length-sound": "01:40 min / 9.5 ",
+            "notes": [
+                "Multi camera PRO-shot video with soundboard audio.",
+                "Feature clips of \"School\" and \"Smells Like Teen Spirit\" only. (Not circulating widely.)",
+                "Has an interview over most of the audio.",
+                "Broadcast on the French TV channel M6."
+            ]
+        }
+    ],
+    "uncirculated_sources": [],
+    "notes": [
+        "The band opened the show with The Who's \"Baba O'Riley,\" with Dave and Krist on vocals."
+    ],
+    "press": [],
+    "memorabilia": [
+        {
+            "url": "/concerts/images/1991/1991-12-07/1991-12-07_01.jpg",
+            "caption": "Advert"
+        },
+        {
+            "url": "/concerts/images/1991/1991-12-07/1991-12-07_02.jpg",
+            "caption": "Ticket"
+        },
+        {
+            "url": "/concerts/images/1991/1991-12-07/1991-12-07_03.jpg",
+            "caption": "Backstage pass"
+        },
+        {
+            "url": "/concerts/images/1991/1991-12-07/1991-12-07_04.jpg",
+            "caption": "Advert"
+        },
+        {
+            "url": "/concerts/images/1991/1991-12-07/1991-12-07_05.jpg",
+            "caption": "Ticket"
+        },
+        {
+            "url": "/concerts/images/1991/1991-12-07/1991-12-07_06.jpg",
+            "caption": "Nirvana's tour itinerary"
+        },
+        {
+            "url": "/concerts/images/1991/1991-12-07/1991-12-07_07.jpg",
+            "caption": "Nirvana's tour itinerary"
+        },
+        {
+            "url": "/concerts/images/1991/1991-12-07/1991-12-07_08.jpg",
+            "caption": "Advert"
+        },
+        {
+            "url": "/concerts/images/1991/1991-12-07/1991-12-07_09.jpg",
+            "caption": "Advert"
+        },
+        {
+            "url": "/concerts/images/1991/1991-12-07/1991-12-07_10.jpg",
+            "caption": "Advert"
+        }
+    ],
+    "images": [
+        {
+            "url": "/concerts/images/1991/1991-12-07/1991-12-07_001.jpg",
+            "caption": "Photo by Pierre Iglesias"
+        },
+        {
+            "url": "/concerts/images/1991/1991-12-07/1991-12-07_002.jpg",
+            "caption": "Photo by Pierre Iglesias"
+        },
+        {
+            "url": "/concerts/images/1991/1991-12-07/1991-12-07_003.jpg",
+            "caption": "Photo by Pierre Iglesias"
+        },
+        {
+            "url": "/concerts/images/1991/1991-12-07/1991-12-07_004.jpg",
+            "caption": "Photo by Pierre Iglesias"
+        },
+        {
+            "url": "/concerts/images/1991/1991-12-07/1991-12-07_005.jpg",
+            "caption": "Photo by Pierre Iglesias"
+        },
+        {
+            "url": "/concerts/images/1991/1991-12-07/1991-12-07_006.jpg",
+            "caption": "Photo by Pierre Iglesias"
+        },
+        {
+            "url": "/concerts/images/1991/1991-12-07/1991-12-07_007.jpg",
+            "caption": "Photo by Pierre Iglesias"
+        },
+        {
+            "url": "/concerts/images/1991/1991-12-07/1991-12-07_008.jpg",
+            "caption": "Photo by Pierre Iglesias"
+        },
+        {
+            "url": "/concerts/images/1991/1991-12-07/1991-12-07_009.jpg",
+            "caption": "Photo by Pierre Iglesias"
+        },
+        {
+            "url": "/concerts/images/1991/1991-12-07/1991-12-07_010.jpg",
+            "caption": "Photo by Pierre Iglesias"
+        },
+        {
+            "url": "/concerts/images/1991/1991-12-07/1991-12-07_011.jpg",
+            "caption": "Photo by Pierre Iglesias"
+        },
+        {
+            "url": "/concerts/images/1991/1991-12-07/1991-12-07_012.jpg",
+            "caption": "Photo by Pierre Iglesias"
+        },
+        {
+            "url": "/concerts/images/1991/1991-12-07/1991-12-07_013.jpg",
+            "caption": "Photo by Pierre Iglesias"
+        },
+        {
+            "url": "/concerts/images/1991/1991-12-07/1991-12-07_014.jpg",
+            "caption": "Photo by Pierre Iglesias"
+        },
+        {
+            "url": "/concerts/images/1991/1991-12-07/1991-12-07_015.jpg",
+            "caption": "Unknown photographer"
+        },
+        {
+            "url": "/concerts/images/1991/1991-12-07/1991-12-07_016.jpg",
+            "caption": "Photo by Jeff Davey"
+        },
+        {
+            "url": "/concerts/images/1991/1991-12-07/1991-12-07_017.jpg",
+            "caption": "Photo by Jeff Davey"
+        },
+        {
+            "url": "/concerts/images/1991/1991-12-07/1991-12-07_018.jpg",
+            "caption": "Unknown photographer"
+        },
+        {
+            "url": "/concerts/images/1991/1991-12-07/1991-12-07_019.jpg",
+            "caption": "Photo by Phil Journé"
+        },
+        {
+            "url": "/concerts/images/1991/1991-12-07/1991-12-07_020.jpg",
+            "caption": "Photo by Philippe Durand"
+        },
+        {
+            "url": "/concerts/images/1991/1991-12-07/1991-12-07_021.jpg",
+            "caption": "Unknown photographer"
+        },
+        {
+            "url": "/concerts/images/1991/1991-12-07/1991-12-07_022.jpg",
+            "caption": "Photo by Gilles Charlou"
+        },
+        {
+            "url": "/concerts/images/1991/1991-12-07/1991-12-07_023.jpg",
+            "caption": "Unknown photographer"
+        },
+        {
+            "url": "/concerts/images/1991/1991-12-07/1991-12-07_024.jpg",
+            "caption": "Photo by Pascal Julou"
+        },
+        {
+            "url": "/concerts/images/1991/1991-12-07/1991-12-07_025.jpg",
+            "caption": "Photo by Pascal Julou"
+        },
+        {
+            "url": "/concerts/images/1991/1991-12-07/1991-12-07_026.jpg",
+            "caption": "Photo by Pascal Julou"
+        },
+        {
+            "url": "/concerts/images/1991/1991-12-07/1991-12-07_027.jpg",
+            "caption": "Photo by Pascal Julou"
+        },
+        {
+            "url": "/concerts/images/1991/1991-12-07/1991-12-07_028.jpg",
+            "caption": "Photo by Pascal Julou"
+        },
+        {
+            "url": "/concerts/images/1991/1991-12-07/1991-12-07_029.jpg",
+            "caption": "Photo by Pascal Julou"
+        },
+        {
+            "url": "/concerts/images/1991/1991-12-07/1991-12-07_030.jpg",
+            "caption": "Photo by Pascal Julou"
+        },
+        {
+            "url": "/concerts/images/1991/1991-12-07/1991-12-07_031.jpg",
+            "caption": "Photo by Pascal Julou"
+        },
+        {
+            "url": "/concerts/images/1991/1991-12-07/1991-12-07_032.jpg",
+            "caption": "Photo by Jeff Davey"
+        },
+        {
+            "url": "/concerts/images/1991/1991-12-07/1991-12-07_033.jpg",
+            "caption": "Photo by Jeff Davey"
+        },
+        {
+            "url": "/concerts/images/1991/1991-12-07/1991-12-07_034.jpg",
+            "caption": "Photo by Jeff Davey"
+        },
+        {
+            "url": "/concerts/images/1991/1991-12-07/1991-12-07_035.jpg",
+            "caption": "Photo by Jeff Davey"
+        },
+        {
+            "url": "/concerts/images/1991/1991-12-07/1991-12-07_036.jpg",
+            "caption": "Photo by Jeff Davey"
+        },
+        {
+            "url": "/concerts/images/1991/1991-12-07/1991-12-07_037.jpg",
+            "caption": "Photo by Jeff Davey"
+        },
+        {
+            "url": "/concerts/images/1991/1991-12-07/1991-12-07_038.jpg",
+            "caption": "Photo by Jeff Davey"
+        },
+        {
+            "url": "/concerts/images/1991/1991-12-07/1991-12-07_039.jpg",
+            "caption": "Photo by Jeff Davey"
+        },
+        {
+            "url": "/concerts/images/1991/1991-12-07/1991-12-07_040.jpg",
+            "caption": "Photo by Jeff Davey"
+        },
+        {
+            "url": "/concerts/images/1991/1991-12-07/1991-12-07_041.jpg",
+            "caption": "Photo by Jeff Davey"
+        },
+        {
+            "url": "/concerts/images/1991/1991-12-07/1991-12-07_042.jpg",
+            "caption": "Photo by Jeff Davey"
+        },
+        {
+            "url": "/concerts/images/1991/1991-12-07/1991-12-07_043.jpg",
+            "caption": "Photo by Jeff Davey"
+        },
+        {
+            "url": "/concerts/images/1991/1991-12-07/1991-12-07_044.jpg",
+            "caption": "Photo by Jeff Davey"
+        },
+        {
+            "url": "/concerts/images/1991/1991-12-07/1991-12-07_045.jpg",
+            "caption": "Photo by Jeff Davey"
+        },
+        {
+            "url": "/concerts/images/1991/1991-12-07/1991-12-07_046.jpg",
+            "caption": "Photo by Jeff Davey"
+        },
+        {
+            "url": "/concerts/images/1991/1991-12-07/1991-12-07_047.jpg",
+            "caption": "Photo by Jeff Davey"
+        },
+        {
+            "url": "/concerts/images/1991/1991-12-07/1991-12-07_048.jpg",
+            "caption": "Photo by Jeff Davey"
+        },
+        {
+            "url": "/concerts/images/1991/1991-12-07/1991-12-07_049.jpg",
+            "caption": "Photo by Jeff Davey"
+        },
+        {
+            "url": "/concerts/images/1991/1991-12-07/1991-12-07_050.jpg",
+            "caption": "Photo by Guezennec"
+        },
+        {
+            "url": "/concerts/images/1991/1991-12-07/1991-12-07_051.jpg",
+            "caption": "Photo by Gilles Charlou"
+        },
+        {
+            "url": "/concerts/images/1991/1991-12-07/1991-12-07_052.jpg",
+            "caption": "Photo by Richard Bellia"
+        },
+        {
+            "url": "/concerts/images/1991/1991-12-07/1991-12-07_053.jpg",
+            "caption": "Photo by Gilles Charlou"
+        },
+        {
+            "url": "/concerts/images/1991/1991-12-07/1991-12-07_054.jpg",
+            "caption": "Photo by Gilles Charlou"
+        },
+        {
+            "url": "/concerts/images/1991/1991-12-07/1991-12-07_055.jpg",
+            "caption": "Photo by Gilles Charlou"
+        },
+        {
+            "url": "/concerts/images/1991/1991-12-07/1991-12-07_056.jpg",
+            "caption": "Photo by Hervé Boulé"
+        },
+        {
+            "url": "/concerts/images/1991/1991-12-07/1991-12-07_057.jpg",
+            "caption": "Photo by Pascal Julou"
+        },
+        {
+            "url": "/concerts/images/1991/1991-12-07/1991-12-07_058.jpg",
+            "caption": "Unknown photographer"
+        },
+        {
+            "url": "/concerts/images/1991/1991-12-07/1991-12-07_059.jpg",
+            "caption": "Unknown photographer"
+        },
+        {
+            "url": "/concerts/images/1991/1991-12-07/1991-12-07_060.jpg",
+            "caption": "Unknown photographer"
+        },
+        {
+            "url": "/concerts/images/1991/1991-12-07/1991-12-07_061.jpg",
+            "caption": "Unknown photographer"
+        },
+        {
+            "url": "/concerts/images/1991/1991-12-07/1991-12-07_062.jpg",
+            "caption": "Unknown photographer"
+        },
+        {
+            "url": "/concerts/images/1991/1991-12-07/1991-12-07_063.jpg",
+            "caption": "Unknown photographer"
+        },
+        {
+            "url": "/concerts/images/1991/1991-12-07/1991-12-07_064.jpg",
+            "caption": "Photo by Banjee"
+        },
+        {
+            "url": "/concerts/images/1991/1991-12-07/1991-12-07_065.jpg",
+            "caption": "Photo by Banjee"
+        },
+        {
+            "url": "/concerts/images/1991/1991-12-07/1991-12-07_066.jpg",
+            "caption": "Photo by Banjee"
+        },
+        {
+            "url": "/concerts/images/1991/1991-12-07/1991-12-07_067.jpg",
+            "caption": "Photo by Banjee"
+        },
+        {
+            "url": "/concerts/images/1991/1991-12-07/1991-12-07_068.jpg",
+            "caption": "Photo by Banjee"
+        },
+        {
+            "url": "/concerts/images/1991/1991-12-07/1991-12-07_069.jpg",
+            "caption": "Unknown photographer"
+        },
+        {
+            "url": "/concerts/images/1991/1991-12-07/1991-12-07_070.jpg",
+            "caption": "Unknown photographer"
+        },
+        {
+            "url": "/concerts/images/1991/1991-12-07/1991-12-07_071.jpg",
+            "caption": "Photo by Philippe Durand"
+        },
+        {
+            "url": "/concerts/images/1991/1991-12-07/1991-12-07_072.jpg",
+            "caption": "Unknown photographer"
+        },
+        {
+            "url": "/concerts/images/1991/1991-12-07/1991-12-07_073.jpg",
+            "caption": "Unknown photographer"
+        },
+        {
+            "url": "/concerts/images/1991/1991-12-07/1991-12-07_074.jpg",
+            "caption": "Unknown photographer"
+        },
+        {
+            "url": "/concerts/images/1991/1991-12-07/1991-12-07_075.jpg",
+            "caption": "Unknown photographer"
+        },
+        {
+            "url": "/concerts/images/1991/1991-12-07/1991-12-07_076.jpg",
+            "caption": "Photo by Philippe Durand"
+        },
+        {
+            "url": "/concerts/images/1991/1991-12-07/1991-12-07_077.jpg",
+            "caption": "Unknown photographer"
+        },
+        {
+            "url": "/concerts/images/1991/1991-12-07/1991-12-07_078.jpg",
+            "caption": "Photo by Hervé Boulé"
+        },
+        {
+            "url": "/concerts/images/1991/1991-12-07/1991-12-07_079.jpg",
+            "caption": "Photo by Gilles Charlou"
+        },
+        {
+            "url": "/concerts/images/1991/1991-12-07/1991-12-07_080.jpg",
+            "caption": "Photo by Gilles Charlou"
+        },
+        {
+            "url": "/concerts/images/1991/1991-12-07/1991-12-07_081.jpg",
+            "caption": "Photo by Gilles Charlou"
+        },
+        {
+            "url": "/concerts/images/1991/1991-12-07/1991-12-07_082.jpg",
+            "caption": "Photo by Gilles Charlou"
+        },
+        {
+            "url": "/concerts/images/1991/1991-12-07/1991-12-07_083.jpg",
+            "caption": "Photo by Gilles Charlou"
+        },
+        {
+            "url": "/concerts/images/1991/1991-12-07/1991-12-07_084.jpg",
+            "caption": "Photo by Gilles Charlou"
+        },
+        {
+            "url": "/concerts/images/1991/1991-12-07/1991-12-07_085.jpg",
+            "caption": "Photo by Gilles Charlou"
+        },
+        {
+            "url": "/concerts/images/1991/1991-12-07/1991-12-07_086.jpg",
+            "caption": "Photo by Philippe Durand"
+        },
+        {
+            "url": "/concerts/images/1991/1991-12-07/1991-12-07_087.jpg",
+            "caption": "Photo by Philippe Durand"
+        },
+        {
+            "url": "/concerts/images/1991/1991-12-07/1991-12-07_088.jpg",
+            "caption": "Photo by Gilles Charlou"
+        },
+        {
+            "url": "/concerts/images/1991/1991-12-07/1991-12-07_089.jpg",
+            "caption": "Photo by Richard Bellia"
+        },
+        {
+            "url": "/concerts/images/1991/1991-12-07/1991-12-07_090.jpg",
+            "caption": "Photo by Richard Bellia"
+        },
+        {
+            "url": "/concerts/images/1991/1991-12-07/1991-12-07_091.jpg",
+            "caption": "Photo by Philippe Levy"
+        },
+        {
+            "url": "/concerts/images/1991/1991-12-07/1991-12-07_092.jpg",
+            "caption": "Photo by François Gerber"
+        },
+        {
+            "url": "/concerts/images/1991/1991-12-07/1991-12-07_093.jpg",
+            "caption": "Photo by Richard Bellia"
+        },
+        {
+            "url": "/concerts/images/1991/1991-12-07/1991-12-07_094.jpg",
+            "caption": "Photo by Richard Bellia"
+        },
+        {
+            "url": "/concerts/images/1991/1991-12-07/1991-12-07_095.jpg",
+            "caption": "Photo by Richard Bellia"
+        },
+        {
+            "url": "/concerts/images/1991/1991-12-07/1991-12-07_096.jpg",
+            "caption": "Photo by Richard Bellia"
+        },
+        {
+            "url": "/concerts/images/1991/1991-12-07/1991-12-07_097.jpg",
+            "caption": "Photo by Richard Bellia"
+        },
+        {
+            "url": "/concerts/images/1991/1991-12-07/1991-12-07_098.jpg",
+            "caption": "Unknown photographer"
+        },
+        {
+            "url": "/concerts/images/1991/1991-12-07/1991-12-07_099.jpg",
+            "caption": "Unknown photographer"
+        },
+        {
+            "url": "/concerts/images/1991/1991-12-07/1991-12-07_100.jpg",
+            "caption": "Unknown photographer"
+        },
+        {
+            "url": "/concerts/images/1991/1991-12-07/1991-12-07_101.jpg",
+            "caption": "Unknown photographer"
+        },
+        {
+            "url": "/concerts/images/1991/1991-12-07/1991-12-07_102.jpg",
+            "caption": "Unknown photographer"
+        }
+    ],
+    "navigation": {
+        "previous": "91-12-06",
+        "next": "91-12-27"
+    },
+    "graph": {
+        "bleach": "4",
+        "nevermind": "5",
+        "inutero": "0",
+        "non": "5"
+    }
+}

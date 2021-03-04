@@ -1,0 +1,341 @@
+{
+    "year": "1989",
+    "month": "11",
+    "day": "09",
+    "venue": "November 9",
+    "city": "1989 - Musiktheater Bad",
+    "state": "Hannover",
+    "country": "DE",
+    "band": [
+        {
+            "NIRVANA": [
+                {
+                    "name": "Kurt Cobain ",
+                    "duty": "vocals, guitar"
+                },
+                {
+                    "name": "Krist Novoselic ",
+                    "duty": "bass"
+                },
+                {
+                    "name": "Chad Channing ",
+                    "duty": "drums"
+                }
+            ],
+            "type": "group"
+        }
+    ],
+    "crew": [
+        {
+            "name": "Edwin Heath",
+            "duty": "tour manager"
+        },
+        {
+            "name": "Craig Montgomery",
+            "duty": "sound engineer"
+        }
+    ],
+    "buyer": {
+        "names": [
+            "Christine Hoppe"
+        ]
+    },
+    "schedule": [
+        {
+            "event": "Load In",
+            "time": "16:00"
+        },
+        {
+            "event": "Soundcheck",
+            "time": "16:30"
+        },
+        {
+            "event": "Doors",
+            "time": "20:00"
+        },
+        {
+            "event": "NIRVANA Showtime",
+            "time": "…:…"
+        },
+        {
+            "event": "TAD Showtime",
+            "time": "…:…"
+        }
+    ],
+    "soundcheck": [],
+    "soundcheck_incomplete": false,
+    "set": [
+        {
+            "type": "jam",
+            "text": "jam screaming intro",
+            "notes": [
+                "screaming intro"
+            ]
+        },
+        {
+            "type": "song",
+            "text": "School",
+            "notes": []
+        },
+        {
+            "type": "banter",
+            "text": "Chad needs less vocals",
+            "person": "Novoselic"
+        },
+        {
+            "type": "song",
+            "text": "Scoff",
+            "notes": []
+        },
+        {
+            "type": "banter",
+            "text": "Thanks",
+            "person": "Cobain"
+        },
+        {
+            "type": "song",
+            "text": "Love Buzz",
+            "notes": []
+        },
+        {
+            "type": "banter",
+            "text": "Chad needs way more bass drum",
+            "person": "Novoselic"
+        },
+        {
+            "type": "song",
+            "text": "Floyd The Barber",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "Dive",
+            "notes": []
+        },
+        {
+            "type": "banter",
+            "text": "Danke",
+            "person": "Novoselic"
+        },
+        {
+            "type": "jam",
+            "text": "jam bass jam",
+            "notes": [
+                "bass jam"
+            ]
+        },
+        {
+            "type": "song",
+            "text": "Polly",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "Big Cheese",
+            "notes": []
+        },
+        {
+            "type": "banter",
+            "text": "Thank you. Hey Craig, can you turn up the drums and the vocals please, in the monitors",
+            "person": "Cobain"
+        },
+        {
+            "type": "jam",
+            "text": "jam bass jam",
+            "notes": [
+                "bass jam"
+            ]
+        },
+        {
+            "type": "song",
+            "text": "Spank Thru",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "About A Girl",
+            "notes": []
+        },
+        {
+            "type": "banter",
+            "text": "Danke",
+            "person": "Novoselic"
+        },
+        {
+            "type": "song",
+            "text": "Mr. Moustache",
+            "notes": [
+                "part of"
+            ]
+        },
+        {
+            "type": "song",
+            "text": "Breed",
+            "notes": []
+        },
+        {
+            "type": "banter",
+            "text": "What song do you want?",
+            "person": "Novoselic"
+        },
+        {
+            "type": "banter",
+            "text": "Tell a story",
+            "person": "Channing"
+        },
+        {
+            "type": "banter",
+            "text": "Has anyone heard our new EP? Our new EP entitled Blew, let's see a show of hand ... does anyone here like us?",
+            "person": "Cobain"
+        },
+        {
+            "type": "banter",
+            "text": "You have? You've won 50 dollars and a cigar, what's that? Como. Oh sorry, you guys want ...",
+            "person": "Novoselic"
+        },
+        {
+            "type": "song",
+            "text": "jam",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "The Twilight Zone (TV Theme)",
+            "notes": [
+                "jam"
+            ]
+        },
+        {
+            "type": "banter",
+            "text": "Right on man! Wish I could whistle like that! I'd be whistling too",
+            "person": "Novoselic"
+        },
+        {
+            "type": "song",
+            "text": "Been A Son",
+            "notes": []
+        },
+        {
+            "type": "banter",
+            "text": "What's that?",
+            "person": "Channing"
+        },
+        {
+            "type": "banter",
+            "text": "Sonic Youth",
+            "person": "Voice"
+        },
+        {
+            "type": "banter",
+            "text": "I'm not Kim Gordon! Hum a few bars and I'll fake it! Have Sonic Youth doing a Nirvana song and we'll do a Sonic Youth song",
+            "person": "Novoselic"
+        },
+        {
+            "type": "song",
+            "text": "Negative Creep",
+            "notes": []
+        },
+        {
+            "type": "banter",
+            "text": "Danke",
+            "person": "Novoselic"
+        },
+        {
+            "type": "banter",
+            "text": "Thank you, you've been a wonderful audience, good night and God bless!",
+            "person": "Cobain"
+        },
+        {
+            "type": "song",
+            "text": "Blew",
+            "notes": []
+        },
+        {
+            "type": "banter",
+            "text": "Thank you",
+            "person": "Cobain"
+        },
+        {
+            "type": "banter",
+            "text": "Danke and gut nacht, stay tuned for Tad, they're gonna rock your socks off, right on brother!",
+            "person": "Novoselic"
+        }
+    ],
+    "set_incomplete": false,
+    "transmission": {},
+    "rehearsel_circulating_sources": [],
+    "circulating_sources": [
+        {
+            "name": "AUD #1",
+            "complete": true,
+            "equipment": "Unknown > Unknwon",
+            "generation": "Unnofficial LP [Love Box] > FLAC",
+            "video-generation": null,
+            "audio-generation": null,
+            "length-sound": "48 min / 8.5",
+            "notes": [
+                "No notes."
+            ]
+        }
+    ],
+    "uncirculated_sources": [],
+    "notes": [
+        "The band attempted \"Mr. Moustache,\" but messed up and stopped.",
+        "Before \"Been A Son,\" Kurt played a bit of the guitar part of the theme from TV series \"The Twilight Zone\".",
+        "Versions of the jam were also played at the 11/08/89, 11/12/89, and 12/02/89 shows."
+    ],
+    "press": [],
+    "memorabilia": [
+        {
+            "url": "/concerts/images/1989/1989-11-09/1989-11-09_01.jpg",
+            "caption": "Handbill/Flyer, designed by unknown"
+        },
+        {
+            "url": "/concerts/images/1989/1989-11-09/1989-11-09_02.jpg",
+            "caption": "Nirvana's tour itinerary"
+        },
+        {
+            "url": "/concerts/images/1989/1989-11-09/1989-11-09_03.jpg",
+            "caption": "Handwritten setlist"
+        },
+        {
+            "url": "/concerts/images/1989/1989-11-09/1989-11-09_04.jpg",
+            "caption": "Nirvana's tour itinerary"
+        },
+        {
+            "url": "/concerts/images/1989/1989-11-09/1989-11-09_05.jpg",
+            "caption": "Nirvana's tour itinerary"
+        },
+        {
+            "url": "/concerts/images/1989/1989-11-09/1989-11-09_06.jpg",
+            "caption": "Advert"
+        },
+        {
+            "url": "/concerts/images/1989/1989-11-09/1989-11-09_07.jpg",
+            "caption": "Advert"
+        },
+        {
+            "url": "/concerts/images/1989/1989-11-09/1989-11-09_08.jpg",
+            "caption": "Advert"
+        },
+        {
+            "url": "/concerts/images/1989/1989-11-09/1989-11-09_09.jpg",
+            "caption": "Advert"
+        },
+        {
+            "url": "/concerts/images/1989/1989-11-09/1989-11-09_10.jpg",
+            "caption": "Advert"
+        }
+    ],
+    "images": [],
+    "navigation": {
+        "previous": "89-11-08",
+        "next": "89-11-10"
+    },
+    "graph": {
+        "bleach": "9",
+        "nevermind": "2",
+        "inutero": "0",
+        "non": "5"
+    }
+}

@@ -1,0 +1,473 @@
+{
+    "year": "1993",
+    "month": "10",
+    "day": "26",
+    "band": [
+        {
+            "NIRVANA": [
+                {
+                    "name": "Kurt Cobain ",
+                    "duty": "vocals, guitar"
+                },
+                {
+                    "name": "Krist Novoselic ",
+                    "duty": "bass"
+                },
+                {
+                    "name": "Dave Grohl ",
+                    "duty": "drums, backing vocals"
+                },
+                {
+                    "name": "Pat Smear ",
+                    "duty": "guitar"
+                },
+                {
+                    "name": "Lori Goldston ",
+                    "duty": "cello"
+                }
+            ],
+            "type": "group"
+        }
+    ],
+    "crew": [
+        {
+            "name": "Alex MacLeod",
+            "duty": "tour manager"
+        },
+        {
+            "name": "Jeff Mason",
+            "duty": "production manager"
+        },
+        {
+            "name": "Kelly Nase",
+            "duty": "tour accountant"
+        },
+        {
+            "name": "Susanne Sasic",
+            "duty": "lighting designer"
+        },
+        {
+            "name": "Craig Overbay",
+            "duty": "sound engineer"
+        },
+        {
+            "name": "Ian Beveridge",
+            "duty": "monitor engineer"
+        },
+        {
+            "name": "Jim Vincent",
+            "duty": "guitar technician"
+        },
+        {
+            "name": "John Duncan",
+            "duty": "guitar technician"
+        },
+        {
+            "name": "Mike Dalke",
+            "duty": "drum technician"
+        },
+        {
+            "name": "Ed Swink",
+            "duty": "stage manager"
+        },
+        {
+            "name": "Dave Stevens",
+            "duty": "Pro Show sound crew"
+        },
+        {
+            "name": "Allan Bagley",
+            "duty": "Pro Show sound crew"
+        },
+        {
+            "name": "Tom Pfaeffle",
+            "duty": "Pro Show sound crew"
+        },
+        {
+            "name": "Spike Brant",
+            "duty": "LSD lighting crew"
+        },
+        {
+            "name": "Mike Lamb",
+            "duty": "LSD lighting crew"
+        },
+        {
+            "name": "Pat Connolly",
+            "duty": "LSD lighting crew"
+        },
+        {
+            "name": "Gary Vaspol",
+            "duty": "LSD lighting crew"
+        }
+    ],
+    "buyer": {
+        "names": [
+            "Randy McElrath"
+        ],
+        "company": "Cellar Door North Central"
+    },
+    "schedule": [
+        {
+            "event": "Load In",
+            "time": "09:00"
+        },
+        {
+            "event": "Soundcheck",
+            "time": "15:30"
+        },
+        {
+            "event": "Doors",
+            "time": "19:00"
+        },
+        {
+            "event": "Jawbreaker Showtime",
+            "time": "20:00"
+        },
+        {
+            "event": "Mudhoney Showtime",
+            "time": "20:45"
+        },
+        {
+            "event": "NIRVANA Showtime",
+            "time": "21:45"
+        }
+    ],
+    "soundcheck": [],
+    "soundcheck_incomplete": false,
+    "set": [
+        {
+            "type": "song",
+            "text": "Radio Friendly Unit Shifter",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "Drain You",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "Breed",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "Serve The Servants",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "Heart-Shaped Box",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "Sliver",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "Dumb",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "In Bloom",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "Come As You Are",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "Lithium",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "Pennyroyal Tea",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "School",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "Polly",
+            "notes": [
+                "acoustic"
+            ]
+        },
+        {
+            "type": "song",
+            "text": "Milk It",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "Rape Me",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "Territorial Pissings",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "Smells Like Teen Spirit",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "All Apologies",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "Jesus Wants Me For A Sunbeam",
+            "notes": [
+                "acoustic"
+            ]
+        },
+        {
+            "type": "song",
+            "text": "Something In The Way",
+            "notes": [
+                "acoustic"
+            ]
+        },
+        {
+            "type": "song",
+            "text": "On A Plain",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "Scentless Apprentice",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "Blew",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "Endless, Nameless",
+            "notes": []
+        }
+    ],
+    "set_incomplete": false,
+    "transmission": {},
+    "rehearsel_circulating_sources": [],
+    "circulating_sources": [
+        {
+            "name": "AUD #1a",
+            "complete": false,
+            "equipment": "Sonic Studios DSM-3 > Sony TCD-D3",
+            "generation": "Unofficial CD [Beautiful Demise]",
+            "video-generation": null,
+            "audio-generation": null,
+            "length-sound": "100 min / 9.0",
+            "notes": [
+                "Less complete, but higher quality than AUD #1b and AUD #1c.",
+                "\"Endless, Nameless\" cuts out."
+            ]
+        },
+        {
+            "name": "AUD #1b",
+            "complete": false,
+            "equipment": "Sonic Studios DSM-3 > Sony TCD-D3",
+            "generation": "DAT(M) > ANA(1) > FLAC",
+            "video-generation": null,
+            "audio-generation": null,
+            "length-sound": "102 min / 8.5",
+            "notes": [
+                "More complete, but lower quality than AUD #1a.",
+                "Less complete, but higher quality than AUD #1c.",
+                "\"Endless, Nameless\" cuts out, but includes over two minutes more than AUD #1a before fading out."
+            ]
+        },
+        {
+            "name": "AUD #1c",
+            "complete": true,
+            "equipment": "Sonic Studios DSM-3 > Sony TCD-D3",
+            "generation": "DAT(x) > ANA(x) > FLAC",
+            "video-generation": null,
+            "audio-generation": null,
+            "length-sound": "103 min / 7.5",
+            "notes": [
+                "Circulated in August 2007.",
+                "More complete, but lower quality than AUD #1a and AUD #1b."
+            ]
+        }
+    ],
+    "uncirculated_sources": [
+        {
+            "name": "PRO #1",
+            "note": "It is believed that only 15 minutes of footage were shot. It is rumored that clips have been broadcast on TV in Milwaukee."
+        },
+        {
+            "name": "PRO #2",
+            "note": "It's rumored some students of \"UW Milwaukee and Stout\" got permission to tape part of the concert as a project class."
+        }
+    ],
+    "notes": [
+        "Kurt did start the concert tossing to the crowd what were rumored to be condoms."
+    ],
+    "press": [],
+    "memorabilia": [
+        {
+            "url": "/concerts/images/1993/1993-10-26/1993-10-26_01.jpg",
+            "caption": "Ticket"
+        },
+        {
+            "url": "/concerts/images/1993/1993-10-26/1993-10-26_02.jpg",
+            "caption": "Advert"
+        },
+        {
+            "url": "/concerts/images/1993/1993-10-26/1993-10-26_03.jpg",
+            "caption": "Nirvana's tour itinerary"
+        },
+        {
+            "url": "/concerts/images/1993/1993-10-26/1993-10-26_04.jpg",
+            "caption": "Advert"
+        }
+    ],
+    "images": [
+        {
+            "url": "/concerts/images/1993/1993-10-26/1993-10-26_001.jpg",
+            "caption": "Photo by Kevin Mazur"
+        },
+        {
+            "url": "/concerts/images/1993/1993-10-26/1993-10-26_002.jpg",
+            "caption": "Photo by Kevin Mazur"
+        },
+        {
+            "url": "/concerts/images/1993/1993-10-26/1993-10-26_003.jpg",
+            "caption": "Photo by Kevin Mazur"
+        },
+        {
+            "url": "/concerts/images/1993/1993-10-26/1993-10-26_004.jpg",
+            "caption": "Photo by Kevin Mazur"
+        },
+        {
+            "url": "/concerts/images/1993/1993-10-26/1993-10-26_005.jpg",
+            "caption": "Photo by Kevin Mazur"
+        },
+        {
+            "url": "/concerts/images/1993/1993-10-26/1993-10-26_006.jpg",
+            "caption": "Photo by Kevin Mazur"
+        },
+        {
+            "url": "/concerts/images/1993/1993-10-26/1993-10-26_007.jpg",
+            "caption": "Photo by Kevin Mazur"
+        },
+        {
+            "url": "/concerts/images/1993/1993-10-26/1993-10-26_008.jpg",
+            "caption": "Photo by Kevin Mazur"
+        },
+        {
+            "url": "/concerts/images/1993/1993-10-26/1993-10-26_009.jpg",
+            "caption": "Photo by Kevin Mazur"
+        },
+        {
+            "url": "/concerts/images/1993/1993-10-26/1993-10-26_010.jpg",
+            "caption": "Unknown photographer"
+        },
+        {
+            "url": "/concerts/images/1993/1993-10-26/1993-10-26_011.jpg",
+            "caption": "Photo by Kevin Mazur"
+        },
+        {
+            "url": "/concerts/images/1993/1993-10-26/1993-10-26_012.jpg",
+            "caption": "Photo by Kevin Mazur"
+        },
+        {
+            "url": "/concerts/images/1993/1993-10-26/1993-10-26_013.jpg",
+            "caption": "Photo by Kevin Mazur"
+        },
+        {
+            "url": "/concerts/images/1993/1993-10-26/1993-10-26_014.jpg",
+            "caption": "Photo by Kevin Mazur"
+        },
+        {
+            "url": "/concerts/images/1993/1993-10-26/1993-10-26_015.jpg",
+            "caption": "Photo by Kevin Mazur"
+        },
+        {
+            "url": "/concerts/images/1993/1993-10-26/1993-10-26_016.jpg",
+            "caption": "Photo by Kevin Mazur"
+        },
+        {
+            "url": "/concerts/images/1993/1993-10-26/1993-10-26_017.jpg",
+            "caption": "Photo by Kevin Mazur"
+        },
+        {
+            "url": "/concerts/images/1993/1993-10-26/1993-10-26_018.jpg",
+            "caption": "Unknown photographer"
+        },
+        {
+            "url": "/concerts/images/1993/1993-10-26/1993-10-26_019.jpg",
+            "caption": "Photo by Kevin Mazur"
+        },
+        {
+            "url": "/concerts/images/1993/1993-10-26/1993-10-26_020.jpg",
+            "caption": "Photo by Kevin Mazur"
+        },
+        {
+            "url": "/concerts/images/1993/1993-10-26/1993-10-26_021.jpg",
+            "caption": "Photo by Kevin Mazur"
+        },
+        {
+            "url": "/concerts/images/1993/1993-10-26/1993-10-26_022.jpg",
+            "caption": "Photo by Kevin Mazur"
+        },
+        {
+            "url": "/concerts/images/1993/1993-10-26/1993-10-26_023.jpg",
+            "caption": "Photo by Jeffrey Phelps"
+        },
+        {
+            "url": "/concerts/images/1993/1993-10-26/1993-10-26_024.jpg",
+            "caption": "Photo by Jeffrey Phelps"
+        },
+        {
+            "url": "/concerts/images/1993/1993-10-26/1993-10-26_025.jpg",
+            "caption": "Photo by Kevin Mazur"
+        },
+        {
+            "url": "/concerts/images/1993/1993-10-26/1993-10-26_026.jpg",
+            "caption": "Photo by Kevin Mazur"
+        },
+        {
+            "url": "/concerts/images/1993/1993-10-26/1993-10-26_027.jpg",
+            "caption": "Photo by Kevin Mazur"
+        },
+        {
+            "url": "/concerts/images/1993/1993-10-26/1993-10-26_028.jpg",
+            "caption": "Photo by Kevin Mazur"
+        },
+        {
+            "url": "/concerts/images/1993/1993-10-26/1993-10-26_029.jpg",
+            "caption": "Photo by Craig"
+        },
+        {
+            "url": "/concerts/images/1993/1993-10-26/1993-10-26_030.jpg",
+            "caption": "Photo by Kevin Mazur"
+        }
+    ],
+    "navigation": {
+        "previous": "93-10-25",
+        "next": "93-10-27"
+    },
+    "graph": {
+        "bleach": "2",
+        "nevermind": "11",
+        "inutero": "9",
+        "non": "2"
+    }
+}

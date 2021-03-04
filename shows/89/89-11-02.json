@@ -1,0 +1,311 @@
+{
+    "year": "1989",
+    "month": "11",
+    "day": "02",
+    "venue": "November 2",
+    "city": "1989 - Vera",
+    "state": "Groningen",
+    "country": "NL",
+    "band": [
+        {
+            "NIRVANA": [
+                {
+                    "name": "Kurt Cobain ",
+                    "duty": "vocals, guitar"
+                },
+                {
+                    "name": "Krist Novoselic ",
+                    "duty": "bass"
+                },
+                {
+                    "name": "Chad Channing ",
+                    "duty": "drums"
+                }
+            ],
+            "type": "group"
+        }
+    ],
+    "crew": [
+        {
+            "name": "Edwin Heath",
+            "duty": "tour manager and sound engineer"
+        }
+    ],
+    "buyer": {
+        "names": [
+            "Peter Weening"
+        ]
+    },
+    "schedule": [
+        {
+            "event": "Load In",
+            "time": "17:00"
+        },
+        {
+            "event": "Soundcheck",
+            "time": "…:…"
+        },
+        {
+            "event": "Doors",
+            "time": "22:30"
+        },
+        {
+            "event": "NIRVANA Showtime",
+            "time": "…:…"
+        },
+        {
+            "event": "TAD Showtime",
+            "time": "…:…"
+        }
+    ],
+    "soundcheck": [],
+    "soundcheck_incomplete": false,
+    "set": [
+        {
+            "type": "song",
+            "text": "School",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "Scoff",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "Love Buzz",
+            "notes": []
+        },
+        {
+            "type": "jam",
+            "text": "jam bass jam",
+            "notes": [
+                "bass jam"
+            ]
+        },
+        {
+            "type": "song",
+            "text": "Floyd The Barber",
+            "notes": []
+        },
+        {
+            "type": "banter",
+            "text": "Thanks",
+            "person": "Novoselic"
+        },
+        {
+            "type": "song",
+            "text": "Dive",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "Polly",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "Big Cheese",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "Spank Thru",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "About A Girl",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "Mr. Moustache",
+            "notes": []
+        },
+        {
+            "type": "banter",
+            "text": "Thanks a lot",
+            "person": "Novoselic"
+        },
+        {
+            "type": "song",
+            "text": "Breed",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "jam",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "Stain",
+            "notes": []
+        },
+        {
+            "type": "jam",
+            "text": "jam guitar jam",
+            "notes": [
+                "guitar jam"
+            ]
+        },
+        {
+            "type": "song",
+            "text": "Been A Son",
+            "notes": []
+        },
+        {
+            "type": "banter",
+            "text": "Thanks",
+            "person": "Cobain"
+        },
+        {
+            "type": "song",
+            "text": "Negative Creep",
+            "notes": []
+        },
+        {
+            "type": "banter",
+            "text": "Groningen is a very nice vegetable ??",
+            "person": "Novoselic"
+        },
+        {
+            "type": "song",
+            "text": "Blew",
+            "notes": []
+        },
+        {
+            "type": "banter",
+            "text": "Thanks a lot, what time do you guys ?? ??",
+            "person": "Novoselic"
+        },
+        {
+            "type": "song",
+            "text": "Token Eastern Song",
+            "notes": []
+        }
+    ],
+    "set_incomplete": false,
+    "transmission": {},
+    "rehearsel_circulating_sources": [],
+    "circulating_sources": [
+        {
+            "name": "AMT #1a",
+            "complete": false,
+            "equipment": "Unknown > Unknown",
+            "generation": "VHS(1) > AUD > MiniDV(1) > DVDR/FLAC",
+            "video-generation": null,
+            "audio-generation": null,
+            "length-sound": "56 min / 7.5",
+            "notes": [
+                "Surfaced in March 2007.",
+                "Circulating copies are sourced from a handheld video recording of a TV screen showing the video.",
+                "Has errors during \"About A Girl\" and is missing most of it, has a few drop outs and is missing about one minute of what was taped of \"Token Eastern Song\".",
+                "Lower quality than AMT #1b and AMT #1c, but more complete during \"About A Girl\"."
+            ]
+        },
+        {
+            "name": "AMT #1b",
+            "complete": false,
+            "equipment": "Unknown > Unknown",
+            "generation": "VHS(x) > MP4",
+            "video-generation": null,
+            "audio-generation": null,
+            "length-sound": "07 min / 8.5",
+            "notes": [
+                "Posted on Vera Groningens Facebook page in November 2012.",
+                "Includes only \"Polly\" and \"Breed\".",
+                "Higher quality than AMT #1a and AMT #1c, but less complete. "
+            ]
+        },
+        {
+            "name": "AMT #1c",
+            "complete": false,
+            "equipment": "Unknown > Unknown",
+            "generation": "VHS(x) > MP4",
+            "video-generation": null,
+            "audio-generation": null,
+            "length-sound": "57 min / 8.0",
+            "notes": [
+                "Posted on Vera Groningens Facebook page in April 2014.",
+                "Missing most of \"About A Girl\" and \"Token Eastern Song\" cuts out.",
+                "Higher quality than AMT #1a but is missing more of \"About A Girl\".",
+                "Lower quality than AMT #1b but it's more complete."
+            ]
+        }
+    ],
+    "uncirculated_sources": [],
+    "notes": [],
+    "press": [],
+    "memorabilia": [
+        {
+            "url": "/concerts/images/1989/1989-11-02/1989-11-02_01.jpg",
+            "caption": "Handbill/Flyer, designed by unknown"
+        },
+        {
+            "url": "/concerts/images/1989/1989-11-02/1989-11-02_02.jpg",
+            "caption": "Handbill/Flyer, designed by Jan Eleveld"
+        },
+        {
+            "url": "/concerts/images/1989/1989-11-02/1989-11-02_03.jpg",
+            "caption": "Handbill/Flyer, designed by unknown"
+        },
+        {
+            "url": "/concerts/images/1989/1989-11-02/1989-11-02_04.jpg",
+            "caption": "Nirvana's tour itinerary"
+        },
+        {
+            "url": "/concerts/images/1989/1989-11-02/1989-11-02_05.jpg",
+            "caption": "Nirvana's tour itinerary"
+        },
+        {
+            "url": "/concerts/images/1989/1989-11-02/1989-11-02_06.jpg",
+            "caption": "Advert"
+        },
+        {
+            "url": "/concerts/images/1989/1989-11-02/1989-11-02_07.jpg",
+            "caption": "Nirvana's tour itinerary"
+        },
+        {
+            "url": "/concerts/images/1989/1989-11-02/1989-11-02_08.JPG",
+            "caption": "Advert"
+        }
+    ],
+    "images": [
+        {
+            "url": "/concerts/images/1989/1989-11-02/1989-11-02_001.jpg",
+            "caption": "Photo by Willem Kolvoort"
+        },
+        {
+            "url": "/concerts/images/1989/1989-11-02/1989-11-02_002.jpg",
+            "caption": "Photo by Willem Kolvoort"
+        },
+        {
+            "url": "/concerts/images/1989/1989-11-02/1989-11-02_003.jpg",
+            "caption": "Photo by Willem Kolvoort"
+        },
+        {
+            "url": "/concerts/images/1989/1989-11-02/1989-11-02_004.jpg",
+            "caption": "Photo by Willem Kolvoort"
+        },
+        {
+            "url": "/concerts/images/1989/1989-11-02/1989-11-02_005.jpg",
+            "caption": "Photo by Willem Kolvoort"
+        },
+        {
+            "url": "/concerts/images/1989/1989-11-02/1989-11-02_006.jpg",
+            "caption": "Photo by Willem Kolvoort"
+        }
+    ],
+    "navigation": {
+        "previous": "89-11-01",
+        "next": "89-11-03"
+    },
+    "graph": {
+        "bleach": "9",
+        "nevermind": "2",
+        "inutero": "0",
+        "non": "6"
+    }
+}

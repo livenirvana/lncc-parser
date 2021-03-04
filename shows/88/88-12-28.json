@@ -1,0 +1,325 @@
+{
+    "year": "1988",
+    "month": "12",
+    "day": "28",
+    "band": [
+        {
+            "NIRVANA": [
+                {
+                    "name": "Kurt Cobain ",
+                    "duty": "vocals, guitar"
+                },
+                {
+                    "name": "Krist Novoselic ",
+                    "duty": "bass"
+                },
+                {
+                    "name": "Chad Channing ",
+                    "duty": "drums"
+                }
+            ],
+            "type": "group"
+        },
+        {
+            "name": "Jesse Bernstein ",
+            "duty": "master of ceremonies",
+            "type": "person"
+        }
+    ],
+    "crew": [],
+    "buyer": {
+        "names": []
+    },
+    "schedule": [
+        {
+            "event": "Load In",
+            "time": "…:…"
+        },
+        {
+            "event": "Soundcheck",
+            "time": "…:…"
+        },
+        {
+            "event": "Doors",
+            "time": "21:00"
+        },
+        {
+            "event": "NIRVANA Showtime",
+            "time": "…:…"
+        },
+        {
+            "event": "Swallow Showtime",
+            "time": "…:…"
+        },
+        {
+            "event": "Thrown Ups Showtime",
+            "time": "…:…"
+        },
+        {
+            "event": "TAD Showtime",
+            "time": "…:…"
+        },
+        {
+            "event": "Blood Circus Showtime",
+            "time": "…:…"
+        }
+    ],
+    "soundcheck": [],
+    "soundcheck_incomplete": false,
+    "set": [
+        {
+            "type": "banter",
+            "text": "My name is Jesse Bernstein, I'm the Ed Sullivan of this show, the master of ceremonies!",
+            "person": "Jesse Bernstein"
+        },
+        {
+            "type": "banter",
+            "text": "MC!",
+            "person": "Voice"
+        },
+        {
+            "type": "banter",
+            "text": "No, don't say MC, that's too hip, I'm the master of ceremonies, I'm not that hip, alright? Actually, I'm a federal agent and so I... to open this show, I'm gonna read a couple of paragraphs from my er... antiquated novel The Wraith er, yeah... Sooo... we leave the concert hall with his pompous draperies and enormous cushioned seats, we leave the carcasses of the audience, their souls and ears bleeding and hot, their mouths and eyes agog, come on! Their limbs twitching as in a death throw, we leave them all in the keeping of that sombre horn. The siren of moon madness. The lunatic stern voice and as we step across the carpet, down the aisle and across the threshold of the exit door, we hear the orchestra awaken from their swoon. Their strange nightmare, we hear the conductor tapping his baton against the podium, then they all take up their parts, weakly at first, but finally booming away noisily, their notes rain down on the audience, whose rotting spirits shut them up, bloating themselves on all that foolish tinkling and banging, Bravo! Bravo! Bravo! And now the mystery guest, er... with freeze dried music... Nir-vana!",
+            "person": "Jesse Bernstein"
+        },
+        {
+            "type": "banter",
+            "text": "Alright!",
+            "person": "Voice"
+        },
+        {
+            "type": "banter",
+            "text": "South style rock and roll!",
+            "person": "Voice"
+        },
+        {
+            "type": "banter",
+            "text": "AOR!",
+            "person": "Voice"
+        },
+        {
+            "type": "song",
+            "text": "School",
+            "notes": []
+        },
+        {
+            "type": "banter",
+            "text": "Slower!",
+            "person": "Voice"
+        },
+        {
+            "type": "banter",
+            "text": "Faster!",
+            "person": "Voice"
+        },
+        {
+            "type": "song",
+            "text": "Love Buzz",
+            "notes": []
+        },
+        {
+            "type": "banter",
+            "text": "I did",
+            "person": "Voice"
+        },
+        {
+            "type": "banter",
+            "text": "\"Aern't these crazy people?",
+            "person": "Voice"
+        },
+        {
+            "type": "banter",
+            "text": "Just a bunch of mixed-up teenagers!",
+            "person": "Voice"
+        },
+        {
+            "type": "song",
+            "text": "Floyd The Barber",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "Mr. Moustache",
+            "notes": []
+        },
+        {
+            "type": "banter",
+            "text": "No more dry eye!",
+            "person": "Voice"
+        },
+        {
+            "type": "banter",
+            "text": "Slower!",
+            "person": "Voice"
+        },
+        {
+            "type": "song",
+            "text": "Paper Cuts",
+            "notes": []
+        },
+        {
+            "type": "banter",
+            "text": "I think they need to ditch the effects",
+            "person": "Voice"
+        },
+        {
+            "type": "song",
+            "text": "Mexican Seafood",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "Spank Thru",
+            "notes": []
+        },
+        {
+            "type": "banter",
+            "text": "God, Chad must be bummin', he's playing on somebody else's kit, and it's like half as big ...",
+            "person": "Voice"
+        },
+        {
+            "type": "song",
+            "text": "Sifting",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "Hairspray Queen",
+            "notes": []
+        },
+        {
+            "type": "banter",
+            "text": "Just do Blew",
+            "person": "Voice"
+        },
+        {
+            "type": "banter",
+            "text": "Heidi! Heidi! Where's Heather uh ... Where's Heather Anderson?",
+            "person": "Voice"
+        },
+        {
+            "type": "banter",
+            "text": "What did you say?",
+            "person": "Heidi"
+        },
+        {
+            "type": "banter",
+            "text": "Where's Heather Anderson? Did she come out?",
+            "person": "Voice"
+        },
+        {
+            "type": "banter",
+            "text": "I don't know! I don't even know ...",
+            "person": "Heidi"
+        },
+        {
+            "type": "banter",
+            "text": "I saw her at the mall returning her ...",
+            "person": "Heidi"
+        },
+        {
+            "type": "banter",
+            "text": "At the what? Really?",
+            "person": "Voice"
+        },
+        {
+            "type": "banter",
+            "text": "I was there too",
+            "person": "Heidi"
+        },
+        {
+            "type": "banter",
+            "text": "I didn't even do anything. I stayed at my house for two days in a row and I wouldn't go out the door because the store across the street was closed and I didn't want to walk down two blocks to get beer so I just stayed home",
+            "person": "Voice"
+        },
+        {
+            "type": "banter",
+            "text": "?? ??",
+            "person": "Heidi"
+        },
+        {
+            "type": "banter",
+            "text": "But I don't have a car. I sold my car",
+            "person": "Voice"
+        },
+        {
+            "type": "banter",
+            "text": "Oh yes! Oh! Blew! Blew! Thank God!",
+            "person": "Voice"
+        },
+        {
+            "type": "song",
+            "text": "Blew",
+            "notes": []
+        }
+    ],
+    "set_incomplete": false,
+    "transmission": {},
+    "rehearsel_circulating_sources": [],
+    "circulating_sources": [
+        {
+            "name": "AUD #1",
+            "complete": true,
+            "equipment": "Sony ECM-939LT > Sony WM-D6C",
+            "generation": "ANA(M) > FLAC",
+            "video-generation": null,
+            "audio-generation": null,
+            "length-sound": "40:35 min / 8.5",
+            "notes": [
+                "In August 2012 the master tape was surfaced."
+            ]
+        },
+        {
+            "name": "AMT #1",
+            "complete": false,
+            "equipment": "Unknown > Unknown",
+            "generation": "VHS(x) > Youtube",
+            "video-generation": null,
+            "audio-generation": null,
+            "length-sound": "03:07 min / ??",
+            "notes": [
+                "Video surfaced online March 2020.",
+                "Combination of AMT #1, shot from the front-middle of the audience, and another angle AMT #2, shot from a elevated position of the right side of the stage.",
+                "Includes a few seconds of the intro by Jesse Bernstein and only \"School\".",
+                "The audio of the video is AUD #1."
+            ]
+        }
+    ],
+    "uncirculated_sources": [],
+    "notes": [],
+    "press": [],
+    "memorabilia": [
+        {
+            "url": "/concerts/images/1988/1988-12-28/1988-12-28_01.jpg",
+            "caption": "Advert"
+        }
+    ],
+    "images": [
+        {
+            "url": "/concerts/images/1988/1988-12-28/1988-12-28_001.jpg",
+            "caption": "Screencap of AMT #1"
+        },
+        {
+            "url": "/concerts/images/1988/1988-12-28/1988-12-28_002.jpg",
+            "caption": "Screencap of AMT #1"
+        },
+        {
+            "url": "/concerts/images/1988/1988-12-28/1988-12-28_003.jpg",
+            "caption": "Screencap of AMT #1"
+        },
+        {
+            "url": "/concerts/images/1988/1988-12-28/1988-12-28_004.jpg",
+            "caption": "Screencap of AMT #1"
+        }
+    ],
+    "navigation": {
+        "previous": "88-12-21b",
+        "next": "/concerts/89/89-01-06"
+    },
+    "graph": {
+        "bleach": "7",
+        "nevermind": "0",
+        "inutero": "0",
+        "non": "3"
+    }
+}

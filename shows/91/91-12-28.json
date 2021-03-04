@@ -1,0 +1,402 @@
+{
+    "year": "1991",
+    "month": "12",
+    "day": "28",
+    "band": [
+        {
+            "NIRVANA": [
+                {
+                    "name": "Kurt Cobain ",
+                    "duty": "vocals, guitar"
+                },
+                {
+                    "name": "Krist Novoselic ",
+                    "duty": "bass"
+                },
+                {
+                    "name": "Dave Grohl ",
+                    "duty": "drums, backing vocals"
+                }
+            ],
+            "type": "group"
+        }
+    ],
+    "crew": [
+        {
+            "name": "Alex MacLeod",
+            "duty": "tour manager"
+        },
+        {
+            "name": "Susanne Sasic",
+            "duty": "lighting designer"
+        },
+        {
+            "name": "Craig Montgomery",
+            "duty": "sound engineer"
+        },
+        {
+            "name": "Barrett Jones",
+            "duty": "monitor engineer & drum technician"
+        },
+        {
+            "name": "Nic Close",
+            "duty": "guitar technician"
+        }
+    ],
+    "buyer": {
+        "names": [
+            "Larry Richter"
+        ],
+        "company": "Bill Silva Presents"
+    },
+    "schedule": [
+        {
+            "event": "Load In",
+            "time": "…:…"
+        },
+        {
+            "event": "Soundcheck",
+            "time": "…:…"
+        },
+        {
+            "event": "Doors",
+            "time": "17:30"
+        },
+        {
+            "event": "Pearl Jam Showtime",
+            "time": "…:…"
+        },
+        {
+            "event": "NIRVANA Showtime",
+            "time": "…:…"
+        },
+        {
+            "event": "Red Hot Chili Peppers Showtime",
+            "time": "…:…"
+        }
+    ],
+    "soundcheck": [],
+    "soundcheck_incomplete": false,
+    "set": [
+        {
+            "type": "song",
+            "text": "Drain You",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "Aneurysm",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "School",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "Floyd The Barber",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "Smells Like Teen Spirit",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "About A Girl",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "Polly",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "Sliver",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "Breed",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "Come As You Are",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "Lithium",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "Territorial Pissings",
+            "notes": []
+        }
+    ],
+    "set_incomplete": false,
+    "transmission": {},
+    "rehearsel_circulating_sources": [],
+    "circulating_sources": [
+        {
+            "name": "SBD #1a",
+            "complete": true,
+            "equipment": "Soundboard > Unknown",
+            "generation": "ANA(1) > FLAC",
+            "video-generation": null,
+            "audio-generation": null,
+            "length-sound": "43 min / 9.0",
+            "notes": [
+                "In November 2007 another 1st generation tape surfaced.",
+                "More complete, but lower quality than SBD #1b, SBD #1c, SBD #1d, and SBD #1e.\n                                    Complete, uncut, soundboard recording, remixed by Andy Wallace.\n"
+            ]
+        },
+        {
+            "name": "SBD #1b",
+            "complete": true,
+            "equipment": "Soundboard > Unknown",
+            "generation": "Official CD [The Album Network - 04-26]",
+            "video-generation": null,
+            "audio-generation": null,
+            "length-sound": "39 min / 10",
+            "notes": [
+                "Less complete, but higher quality than SBD #1a.",
+                "More complete, but lower quality than SBD #1d.",
+                "Includes all songs, but missing some between-song banter and band noise that is included on SBD #1c and SBD #1e.",
+                "The audio drops at one point \"Smells Like Teen Spirit\".",
+                "During \"Aneurysm the word \"shit\" is disguised with partially reversed audio.",
+                "Has some fake crowd noise mixed in between songs.",
+                "Professionally mixed by Andy Wallace.",
+                "This is part of a series of CDs from Premiere Radio Networks, a service that provides collections of music to radio stations."
+            ]
+        },
+        {
+            "name": "SBD #1c",
+            "complete": false,
+            "equipment": "Soundboard > Unknown",
+            "generation": "Official CD [In Concert - Show #92-42]",
+            "video-generation": null,
+            "audio-generation": null,
+            "length-sound": "39 min / 9.9",
+            "notes": [
+                "Less complete, but higher quality than SBD #1a.",
+                "More complete, but lower quality than SBD #1d.",
+                "Missing a song, but includes some between-song band noise that is missing from SBD #1b and SBD #1e.",
+                "Missing \"Floyd The Barber\".",
+                "During \"Aneurysm\", the word \"shit\" is bleeped out.",
+                "Has some fake crowd noise mixed in between songs.",
+                "Professionally mixed by Andy Wallace.",
+                "This is part of a series of CDs from Westwood One, a service that provides collections of music to radio stations."
+            ]
+        },
+        {
+            "name": "SBD #1d",
+            "complete": false,
+            "equipment": "Soundboard > Unknown",
+            "generation": "Official CD [In Bloom]",
+            "video-generation": null,
+            "audio-generation": null,
+            "length-sound": "05 min / 10",
+            "notes": [
+                "Less complete, but higher quality than SBD #1a, SBD #1b, SBD #1c, and SBD #1e.",
+                "Includes only \"Polly\" and \"Sliver\".",
+                "Professionally mixed by Andy Wallace."
+            ]
+        },
+        {
+            "name": "SBD #1e",
+            "complete": false,
+            "equipment": "Soundboard > Unknown",
+            "generation": "Official CD [Superstars Concert Series - Show #93-26]",
+            "video-generation": null,
+            "audio-generation": null,
+            "length-sound": "34 min / 9.5",
+            "notes": [
+                "Less complete, but higher quality than SBD #1a.",
+                "More complete, but lower quality than SBD #1d.",
+                "Missing \"Aneurysm\" and \"Territorial Pissings but includes some opening and between-song band noise that is missing from SBD #1b and SBD #1c.",
+                "Has some fake crowd noise mixed in between songs, but much less than SBD #1b and SBD #1c.",
+                "Professionally mixed by Andy Wallace.",
+                "This is part of a series of CDs from Westwood One, a service that provides collections of music to radio stations."
+            ]
+        },
+        {
+            "name": "SBD #2",
+            "complete": false,
+            "equipment": "Soundboard > Unknown",
+            "generation": "ANA(1) > FLAC",
+            "video-generation": null,
+            "audio-generation": null,
+            "length-sound": "37 min / 9.5",
+            "notes": [
+                "In November 2007 a new fresh transfer was circulated.",
+                "\"Aneurysm\" cuts out after five seconds, and \"School\" cuts in.",
+                "This is a recording of the monitor mix, in which the guitar and bass are separated between the left and right channels.",
+                "Has open microphones mixed in at some points, most noticeably at the beginning of \"Smells Like Teen Spirit\"."
+            ]
+        },
+        {
+            "name": "SBD #3",
+            "complete": false,
+            "equipment": "Soundboard > Unknown",
+            "generation": "Official CD [From The Muddy Banks Of The Wishkah]",
+            "video-generation": null,
+            "audio-generation": null,
+            "length-sound": "15 min / 10",
+            "notes": [
+                "Includes only \"Drain You\", \"Aneurysm\", and \"Smells Like Teen Spirit\".",
+                "Professionally remixed by Andy Wallace specifically for this release."
+            ]
+        }
+    ],
+    "uncirculated_sources": [],
+    "notes": [],
+    "press": [],
+    "memorabilia": [
+        {
+            "url": "/concerts/images/1991/1991-12-28/1991-12-28_01.jpg",
+            "caption": "Ticket"
+        },
+        {
+            "url": "/concerts/images/1991/1991-12-28/1991-12-28_02.jpg",
+            "caption": "Handwritten setlist"
+        },
+        {
+            "url": "/concerts/images/1991/1991-12-28/1991-12-28_03.jpg",
+            "caption": "Advert"
+        },
+        {
+            "url": "/concerts/images/1991/1991-12-28/1991-12-28_04.jpg",
+            "caption": "Advert"
+        },
+        {
+            "url": "/concerts/images/1991/1991-12-28/1991-12-28_05.jpg",
+            "caption": "Advert"
+        }
+    ],
+    "images": [
+        {
+            "url": "/concerts/images/1991/1991-12-28/1991-12-28_001.jpg",
+            "caption": "Photo by John F. Gannon"
+        },
+        {
+            "url": "/concerts/images/1991/1991-12-28/1991-12-28_002.jpg",
+            "caption": "Unknown photographer"
+        },
+        {
+            "url": "/concerts/images/1991/1991-12-28/1991-12-28_003.jpg",
+            "caption": "Unknown photographer"
+        },
+        {
+            "url": "/concerts/images/1991/1991-12-28/1991-12-28_004.jpg",
+            "caption": "Photo by Mitchell Haddad"
+        },
+        {
+            "url": "/concerts/images/1991/1991-12-28/1991-12-28_005.jpg",
+            "caption": "Photo by Mitchell Haddad"
+        },
+        {
+            "url": "/concerts/images/1991/1991-12-28/1991-12-28_006.jpg",
+            "caption": "Unknown photographer"
+        },
+        {
+            "url": "/concerts/images/1991/1991-12-28/1991-12-28_007.jpg",
+            "caption": "Unknown photographer"
+        },
+        {
+            "url": "/concerts/images/1991/1991-12-28/1991-12-28_008.jpg",
+            "caption": "Unknown photographer"
+        },
+        {
+            "url": "/concerts/images/1991/1991-12-28/1991-12-28_009.jpg",
+            "caption": "Unknown photographer"
+        },
+        {
+            "url": "/concerts/images/1991/1991-12-28/1991-12-28_010.jpg",
+            "caption": "Unknown photographer"
+        },
+        {
+            "url": "/concerts/images/1991/1991-12-28/1991-12-28_011.jpg",
+            "caption": "Unknown photographer"
+        },
+        {
+            "url": "/concerts/images/1991/1991-12-28/1991-12-28_012.jpg",
+            "caption": "Unknown photographer"
+        },
+        {
+            "url": "/concerts/images/1991/1991-12-28/1991-12-28_013.jpg",
+            "caption": "Unknown photographer"
+        },
+        {
+            "url": "/concerts/images/1991/1991-12-28/1991-12-28_014.jpg",
+            "caption": "Unknown photographer"
+        },
+        {
+            "url": "/concerts/images/1991/1991-12-28/1991-12-28_015.jpg",
+            "caption": "Unknown photographer"
+        },
+        {
+            "url": "/concerts/images/1991/1991-12-28/1991-12-28_016.jpg",
+            "caption": "Unknown photographer"
+        },
+        {
+            "url": "/concerts/images/1991/1991-12-28/1991-12-28_017.jpg",
+            "caption": "Unknown photographer"
+        },
+        {
+            "url": "/concerts/images/1991/1991-12-28/1991-12-28_018.jpg",
+            "caption": "Unknown photographer"
+        },
+        {
+            "url": "/concerts/images/1991/1991-12-28/1991-12-28_019.jpg",
+            "caption": "Unknown photographer"
+        },
+        {
+            "url": "/concerts/images/1991/1991-12-28/1991-12-28_020.jpg",
+            "caption": "Unknown photographer"
+        },
+        {
+            "url": "/concerts/images/1991/1991-12-28/1991-12-28_021.jpg",
+            "caption": "Unknown photographer"
+        },
+        {
+            "url": "/concerts/images/1991/1991-12-28/1991-12-28_022.jpg",
+            "caption": "Unknown photographer"
+        },
+        {
+            "url": "/concerts/images/1991/1991-12-28/1991-12-28_023.jpg",
+            "caption": "Unknown photographer"
+        },
+        {
+            "url": "/concerts/images/1991/1991-12-28/1991-12-28_024.jpg",
+            "caption": "Unknown photographer"
+        },
+        {
+            "url": "/concerts/images/1991/1991-12-28/1991-12-28_025.jpg",
+            "caption": "Unknown photographer"
+        },
+        {
+            "url": "/concerts/images/1991/1991-12-28/1991-12-28_026.jpg",
+            "caption": "Photo by Mitchell Haddad"
+        },
+        {
+            "url": "/concerts/images/1991/1991-12-28/1991-12-28_027.jpg",
+            "caption": "Photo by Mitchell Haddad"
+        }
+    ],
+    "navigation": {
+        "previous": "91-12-27",
+        "next": "91-12-29"
+    },
+    "graph": {
+        "bleach": "3",
+        "nevermind": "7",
+        "inutero": "0",
+        "non": "2"
+    }
+}

@@ -1,0 +1,220 @@
+{
+    "year": "1989",
+    "month": "11",
+    "day": "07",
+    "venue": "November 7",
+    "city": "1989 - B-52",
+    "state": "Mönchengladbach",
+    "country": "DE",
+    "band": [
+        {
+            "NIRVANA": [
+                {
+                    "name": "Kurt Cobain ",
+                    "duty": "vocals, guitar"
+                },
+                {
+                    "name": "Krist Novoselic ",
+                    "duty": "bass"
+                },
+                {
+                    "name": "Chad Channing ",
+                    "duty": "drums"
+                }
+            ],
+            "type": "group"
+        }
+    ],
+    "crew": [
+        {
+            "name": "Edwin Heath",
+            "duty": "tour manager"
+        },
+        {
+            "name": "Craig Montgomery",
+            "duty": "sound engineer"
+        }
+    ],
+    "buyer": {
+        "names": [
+            "Claudia Milde"
+        ]
+    },
+    "schedule": [
+        {
+            "event": "Load In",
+            "time": "17:00"
+        },
+        {
+            "event": "Soundcheck",
+            "time": "17:30"
+        },
+        {
+            "event": "Doors",
+            "time": "20:00"
+        },
+        {
+            "event": "NIRVANA Showtime",
+            "time": "…:…"
+        },
+        {
+            "event": "TAD Showtime",
+            "time": "…:…"
+        }
+    ],
+    "soundcheck": [],
+    "soundcheck_incomplete": false,
+    "set": [
+        {
+            "type": "song",
+            "text": "Polly",
+            "notes": []
+        },
+        {
+            "type": "banter",
+            "text": "I feel just like John Travolto!",
+            "person": "Novoselic"
+        },
+        {
+            "type": "banter",
+            "text": "He's a gentle boy!",
+            "person": "Novoselic"
+        },
+        {
+            "type": "song",
+            "text": "Dive",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "Big Cheese",
+            "notes": []
+        },
+        {
+            "type": "banter",
+            "text": "Been hypno-tised",
+            "person": "Novoselic"
+        },
+        {
+            "type": "song",
+            "text": "Spank Thru",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "About A Girl",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "Mr. Moustache",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "Breed",
+            "notes": []
+        },
+        {
+            "type": "banter",
+            "text": "Ich bin too pissed!\" [or \"Ich bin, du bist\"]",
+            "person": "Novoselic"
+        },
+        {
+            "type": "song",
+            "text": "Been A Son",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "Negative Creep",
+            "notes": []
+        },
+        {
+            "type": "banter",
+            "text": "Thanks a lot",
+            "person": "Channing"
+        },
+        {
+            "type": "banter",
+            "text": "Thank you for coming",
+            "person": "Cobain"
+        },
+        {
+            "type": "banter",
+            "text": "How do you say thank you for coming in Deutsch?",
+            "person": "Novoselic"
+        },
+        {
+            "type": "banter",
+            "text": "Yeah, Danke fur ... furs kommen, Danke furs kommen, ermano, Buenos noches mañana",
+            "person": "Novoselic"
+        },
+        {
+            "type": "song",
+            "text": "Blew",
+            "notes": []
+        }
+    ],
+    "set_incomplete": true,
+    "transmission": {},
+    "rehearsel_circulating_sources": [],
+    "circulating_sources": [
+        {
+            "name": "AUD #1",
+            "complete": false,
+            "equipment": "Unknown > Unknown",
+            "generation": "ANA(1) > FLAC",
+            "video-generation": null,
+            "audio-generation": null,
+            "length-sound": "32 min / 8.5",
+            "notes": [
+                "In December 2004 an ANA(1) upgrade surfaced, replacing older ANA(2) copies.",
+                "Missing everything before \"Polly,\" which cuts in and \"Blew\" cuts out at very end.",
+                "The circulating tape includes all that was recorded. The taper had intended to record only Tad, but changed his mind after Nirvana started their set."
+            ]
+        }
+    ],
+    "uncirculated_sources": [],
+    "notes": [
+        "There were about 20 people at the show, according to an attendee."
+    ],
+    "press": [],
+    "memorabilia": [
+        {
+            "url": "/concerts/images/1989/1989-11-07/1989-11-07_01.jpg",
+            "caption": "Nirvana's tour itinerary"
+        },
+        {
+            "url": "/concerts/images/1989/1989-11-07/1989-11-07_02.jpg",
+            "caption": "Nirvana's tour itinerary"
+        },
+        {
+            "url": "/concerts/images/1989/1989-11-07/1989-11-07_03.jpg",
+            "caption": "Nirvana's tour itinerary"
+        },
+        {
+            "url": "/concerts/images/1989/1989-11-07/1989-11-07_04.jpg",
+            "caption": "Advert"
+        },
+        {
+            "url": "/concerts/images/1989/1989-11-07/1989-11-07_05.jpg",
+            "caption": "Advert"
+        },
+        {
+            "url": "/concerts/images/1989/1989-11-07/1989-11-07_06.jpg",
+            "caption": "Advert"
+        }
+    ],
+    "images": [],
+    "navigation": {
+        "previous": "89-11-05",
+        "next": "89-11-08"
+    },
+    "graph": {
+        "bleach": "5",
+        "nevermind": "2",
+        "inutero": "0",
+        "non": "3"
+    }
+}

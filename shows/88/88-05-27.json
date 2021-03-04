@@ -1,0 +1,88 @@
+{
+    "year": "1988",
+    "month": "05",
+    "day": "27",
+    "band": [
+        {
+            "NIRVANA": [
+                {
+                    "name": "Kurt Cobain ",
+                    "duty": "vocals, guitar"
+                },
+                {
+                    "name": "Krist Novoselic ",
+                    "duty": "bass"
+                },
+                {
+                    "name": "Dave Foster ?? ",
+                    "duty": "drums"
+                },
+                {
+                    "name": "Chad Channing ?? ",
+                    "duty": "drums"
+                }
+            ],
+            "type": "group"
+        }
+    ],
+    "crew": [],
+    "buyer": {
+        "names": []
+    },
+    "schedule": [
+        {
+            "event": "Load In",
+            "time": "…:…"
+        },
+        {
+            "event": "Soundcheck",
+            "time": "…:…"
+        },
+        {
+            "event": "Doors",
+            "time": "…:…"
+        },
+        {
+            "event": "Sister Skelter Showtime",
+            "time": "…:…"
+        },
+        {
+            "event": "S.G.M",
+            "time": "…:…"
+        },
+        {
+            "event": "NIRVANA Showtime",
+            "time": "…:…"
+        }
+    ],
+    "soundcheck": [],
+    "soundcheck_incomplete": false,
+    "set": [],
+    "set_incomplete": false,
+    "transmission": {},
+    "rehearsel_circulating_sources": [],
+    "circulating_sources": [],
+    "uncirculated_sources": [],
+    "notes": [
+        "It is assumed that Dave Foster played drums but one attendee said he was standing next to Dave while Nirvana was playing and he wasn't too happy because Chad was drumming that night.",
+        "This was a birthday party for Chris Quinn of Sister Skelter."
+    ],
+    "press": [],
+    "memorabilia": [
+        {
+            "url": "/concerts/images/1988/1988-05-27/1988-05-27_01.jpg",
+            "caption": "Handbill/Flyer, designed by unknown"
+        }
+    ],
+    "images": [],
+    "navigation": {
+        "previous": "88-05-21",
+        "next": "88-05-xx"
+    },
+    "graph": {
+        "bleach": "1",
+        "nevermind": "1",
+        "inutero": "1",
+        "non": "1"
+    }
+}

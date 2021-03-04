@@ -1,0 +1,382 @@
+{
+    "year": "1989",
+    "month": "11",
+    "day": "13",
+    "venue": "November 13",
+    "city": "1989 - Fabrik",
+    "state": "Hamburg",
+    "country": "DE",
+    "band": [
+        {
+            "NIRVANA": [
+                {
+                    "name": "Kurt Cobain ",
+                    "duty": "vocals, guitar"
+                },
+                {
+                    "name": "Krist Novoselic ",
+                    "duty": "bass"
+                },
+                {
+                    "name": "Chad Channing ",
+                    "duty": "drums"
+                }
+            ],
+            "type": "group"
+        }
+    ],
+    "crew": [
+        {
+            "name": "Edwin Heath",
+            "duty": "tour manager"
+        },
+        {
+            "name": "Craig Montgomery",
+            "duty": "sound engineer"
+        }
+    ],
+    "buyer": {
+        "names": [
+            "Andreas Schnoor"
+        ]
+    },
+    "schedule": [
+        {
+            "event": "Load In",
+            "time": "15:00"
+        },
+        {
+            "event": "Soundcheck",
+            "time": "16:30"
+        },
+        {
+            "event": "Doors",
+            "time": "19:30"
+        },
+        {
+            "event": "Bix Showtime",
+            "time": "…:…"
+        },
+        {
+            "event": "NIRVANA Showtime",
+            "time": "…:…"
+        },
+        {
+            "event": "TAD Showtime",
+            "time": "…:…"
+        }
+    ],
+    "soundcheck": [],
+    "soundcheck_incomplete": false,
+    "set": [
+        {
+            "type": "banter",
+            "text": "Shiiiiiii",
+            "person": "Cobain"
+        },
+        {
+            "type": "jam",
+            "text": "jam bass jam",
+            "notes": [
+                "bass jam"
+            ]
+        },
+        {
+            "type": "jam",
+            "text": "jam screaming intro",
+            "notes": [
+                "screaming intro"
+            ]
+        },
+        {
+            "type": "song",
+            "text": "School",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "Scoff",
+            "notes": []
+        },
+        {
+            "type": "banter",
+            "text": "Danke",
+            "person": "Novoselic"
+        },
+        {
+            "type": "jam",
+            "text": "jam guitar jam",
+            "notes": [
+                "guitar jam"
+            ]
+        },
+        {
+            "type": "banter",
+            "text": "Your instructor!",
+            "person": "Cobain"
+        },
+        {
+            "type": "song",
+            "text": "Love Buzz",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "Floyd The Barber",
+            "notes": []
+        },
+        {
+            "type": "jam",
+            "text": "jam bass jam",
+            "notes": [
+                "bass jam"
+            ]
+        },
+        {
+            "type": "song",
+            "text": "Dive",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "jam",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "Polly",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "Big Cheese",
+            "notes": []
+        },
+        {
+            "type": "banter",
+            "text": "Thank you",
+            "person": "Cobain"
+        },
+        {
+            "type": "banter",
+            "text": "Your instructor",
+            "person": "Channing"
+        },
+        {
+            "type": "song",
+            "text": "Spank Thru",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "About A Girl",
+            "notes": []
+        },
+        {
+            "type": "banter",
+            "text": "Danke",
+            "person": "Novoselic"
+        },
+        {
+            "type": "song",
+            "text": "Mr. Moustache",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "Sappy",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "Even In His Youth",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "Breed",
+            "notes": []
+        },
+        {
+            "type": "banter",
+            "text": "Danke",
+            "person": "Cobain"
+        },
+        {
+            "type": "banter",
+            "text": "?? ??",
+            "person": "Channing"
+        },
+        {
+            "type": "song",
+            "text": "Been A Son",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "Negative Creep",
+            "notes": []
+        },
+        {
+            "type": "banter",
+            "text": "Well, good night",
+            "person": "Cobain"
+        },
+        {
+            "type": "jam",
+            "text": "Blew false start",
+            "notes": [
+                "false start"
+            ]
+        },
+        {
+            "type": "song",
+            "text": "Blew",
+            "notes": []
+        },
+        {
+            "type": "banter",
+            "text": "Thanks a lot",
+            "person": "Novoselic"
+        },
+        {
+            "type": "banter",
+            "text": "Danke schon",
+            "person": "Channing"
+        },
+        {
+            "type": "banter",
+            "text": "Hidey ho, hidey hey",
+            "person": "Channing"
+        },
+        {
+            "type": "banter",
+            "text": "?? ??",
+            "person": "Voice"
+        },
+        {
+            "type": "banter",
+            "text": "Sexy slim waist",
+            "person": "Cobain"
+        },
+        {
+            "type": "banter",
+            "text": "Sexy slim waist",
+            "person": "Channing"
+        },
+        {
+            "type": "banter",
+            "text": "This song's off of our new EP, It's called Blew, The EP's called Blew, the song's called Stain!",
+            "person": "Cobain"
+        },
+        {
+            "type": "song",
+            "text": "Stain",
+            "notes": []
+        },
+        {
+            "type": "banter",
+            "text": "Thanks yout",
+            "person": "Cobain"
+        },
+        {
+            "type": "banter",
+            "text": "Danke schon",
+            "person": "Novoselic"
+        },
+        {
+            "type": "banter",
+            "text": "Thank you all for coming out tonigh",
+            "person": "Channing"
+        },
+        {
+            "type": "banter",
+            "text": "Tad's on next, so ...",
+            "person": "Novoselic"
+        },
+        {
+            "type": "banter",
+            "text": "They'll rock your balls",
+            "person": "Channing"
+        },
+        {
+            "type": "banter",
+            "text": "Drink a beer or wine or a whisky, any kind of altered consciousness stuff, drink up!",
+            "person": "Novoselic"
+        }
+    ],
+    "set_incomplete": false,
+    "transmission": {},
+    "rehearsel_circulating_sources": [],
+    "circulating_sources": [
+        {
+            "name": "AUD #1",
+            "complete": true,
+            "equipment": "Unknown mic > Sony WM-D3",
+            "generation": "ANA(1) > FLAC",
+            "video-generation": null,
+            "audio-generation": null,
+            "length-sound": "69 min / 7.5",
+            "notes": [
+                "Surfaced in May 2002."
+            ]
+        }
+    ],
+    "uncirculated_sources": [],
+    "notes": [],
+    "press": [],
+    "memorabilia": [
+        {
+            "url": "/concerts/images/1989/1989-11-13/1989-11-13_01.jpg",
+            "caption": "Advert"
+        },
+        {
+            "url": "/concerts/images/1989/1989-11-13/1989-11-13_02.jpg",
+            "caption": "Nirvana's tour itinerary"
+        },
+        {
+            "url": "/concerts/images/1989/1989-11-13/1989-11-13_03.jpg",
+            "caption": "Nirvana's tour itinerary"
+        },
+        {
+            "url": "/concerts/images/1989/1989-11-13/1989-11-13_04.jpg",
+            "caption": "Nirvana's tour itinerary"
+        },
+        {
+            "url": "/concerts/images/1989/1989-11-13/1989-11-13_05.jpg",
+            "caption": "Advert"
+        },
+        {
+            "url": "/concerts/images/1989/1989-11-13/1989-11-13_06.jpg",
+            "caption": "Advert"
+        },
+        {
+            "url": "/concerts/images/1989/1989-11-13/1989-11-13_07.jpg",
+            "caption": "Advert"
+        },
+        {
+            "url": "/concerts/images/1989/1989-11-13/1989-11-13_08.jpg",
+            "caption": "Advert"
+        },
+        {
+            "url": "/concerts/images/1989/1989-11-13/1989-11-13_09.jpg",
+            "caption": "Advert"
+        }
+    ],
+    "images": [
+        {
+            "url": "/concerts/images/1989/1989-11-13/1989-11-13_001.jpg",
+            "caption": "Photo by Christoph Lampert"
+        }
+    ],
+    "navigation": {
+        "previous": "89-11-12",
+        "next": "89-11-15"
+    },
+    "graph": {
+        "bleach": "9",
+        "nevermind": "2",
+        "inutero": "0",
+        "non": "7"
+    }
+}

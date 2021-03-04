@@ -1,0 +1,478 @@
+{
+    "year": "1989",
+    "month": "11",
+    "day": "08",
+    "venue": "November 8",
+    "city": "1989 - Rose Club",
+    "state": "Cologne",
+    "country": "DE",
+    "band": [
+        {
+            "NIRVANA": [
+                {
+                    "name": "Kurt Cobain ",
+                    "duty": "vocals, guitar"
+                },
+                {
+                    "name": "Krist Novoselic ",
+                    "duty": "bass"
+                },
+                {
+                    "name": "Chad Channing ",
+                    "duty": "drums"
+                }
+            ],
+            "type": "group"
+        }
+    ],
+    "crew": [
+        {
+            "name": "Edwin Heath",
+            "duty": "tour manager"
+        },
+        {
+            "name": "Craig Montgomery",
+            "duty": "sound engineer"
+        }
+    ],
+    "buyer": {
+        "names": [
+            "Christa Erschfeld"
+        ]
+    },
+    "schedule": [
+        {
+            "event": "Load In",
+            "time": "15:30"
+        },
+        {
+            "event": "Soundcheck",
+            "time": "16:00"
+        },
+        {
+            "event": "Doors",
+            "time": "19:00"
+        },
+        {
+            "event": "NIRVANA Showtime",
+            "time": "…:…"
+        },
+        {
+            "event": "TAD Showtime",
+            "time": "…:…"
+        }
+    ],
+    "soundcheck": [],
+    "soundcheck_incomplete": false,
+    "set": [
+        {
+            "type": "jam",
+            "text": "Where Did You Sleep Last Night? bass jam",
+            "notes": [
+                "bass jam"
+            ]
+        },
+        {
+            "type": "jam",
+            "text": "jam bass jam",
+            "notes": [
+                "bass jam"
+            ]
+        },
+        {
+            "type": "banter",
+            "text": "shiii shiiiii shiii shiii",
+            "person": "Cobain"
+        },
+        {
+            "type": "banter",
+            "text": "Hi, we're Nirvana",
+            "person": "Cobain"
+        },
+        {
+            "type": "song",
+            "text": "School",
+            "notes": []
+        },
+        {
+            "type": "banter",
+            "text": "I need the monitors up",
+            "person": "Cobain"
+        },
+        {
+            "type": "banter",
+            "text": "Thanks a lot",
+            "person": "Channing"
+        },
+        {
+            "type": "banter",
+            "text": "Hey Craig, Chad needs more vocals",
+            "person": "Novoselic"
+        },
+        {
+            "type": "song",
+            "text": "Scoff",
+            "notes": []
+        },
+        {
+            "type": "banter",
+            "text": "Craig, could you turn up my vocals in the monitor please?",
+            "person": "Cobain"
+        },
+        {
+            "type": "banter",
+            "text": "This song's for all you veriscavarious fans out there",
+            "person": "Novoselic"
+        },
+        {
+            "type": "jam",
+            "text": "jam bass jam",
+            "notes": [
+                "bass jam"
+            ]
+        },
+        {
+            "type": "banter",
+            "text": "She's a lesbian man, how can I make you understand that you're gonna be my woman, nothing wrong no ...",
+            "person": "Novoselic"
+        },
+        {
+            "type": "jam",
+            "text": "jam bass jam",
+            "notes": [
+                "bass jam"
+            ]
+        },
+        {
+            "type": "banter",
+            "text": "?? ??",
+            "person": "Novoselic"
+        },
+        {
+            "type": "song",
+            "text": "The Twilight Zone (TV Theme)",
+            "notes": [
+                "jam"
+            ]
+        },
+        {
+            "type": "banter",
+            "text": "Oh yeah",
+            "person": "Cobain"
+        },
+        {
+            "type": "song",
+            "text": "Love Buzz",
+            "notes": []
+        },
+        {
+            "type": "banter",
+            "text": "You guys smoke lots man!",
+            "person": "Novoselic"
+        },
+        {
+            "type": "jam",
+            "text": "jam bass jam",
+            "notes": [
+                "bass jam"
+            ]
+        },
+        {
+            "type": "song",
+            "text": "Floyd The Barber",
+            "notes": []
+        },
+        {
+            "type": "banter",
+            "text": "This is a new song",
+            "person": "Cobain"
+        },
+        {
+            "type": "song",
+            "text": "Dive",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "Polly",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "Big Cheese",
+            "notes": []
+        },
+        {
+            "type": "jam",
+            "text": "jam bass jam",
+            "notes": [
+                "bass jam"
+            ]
+        },
+        {
+            "type": "song",
+            "text": "About A Girl",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "Spank Thru",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "Mr. Moustache",
+            "notes": []
+        },
+        {
+            "type": "banter",
+            "text": "Thank you",
+            "person": "Cobain"
+        },
+        {
+            "type": "song",
+            "text": "Even In His Youth",
+            "notes": []
+        },
+        {
+            "type": "banter",
+            "text": "Thanks a lot",
+            "person": "Novoselic"
+        },
+        {
+            "type": "banter",
+            "text": "How much time do we have?",
+            "person": "Cobain"
+        },
+        {
+            "type": "banter",
+            "text": "How much time do we have?",
+            "person": "Novoselic"
+        },
+        {
+            "type": "banter",
+            "text": "Nice, they got millions!",
+            "person": "Channing"
+        },
+        {
+            "type": "banter",
+            "text": "Well we've got er... 6 days left in Germany",
+            "person": "Novoselic"
+        },
+        {
+            "type": "banter",
+            "text": "What's that mean? I got ??",
+            "person": "Channing"
+        },
+        {
+            "type": "banter",
+            "text": "Somebody ??",
+            "person": "Novoselic"
+        },
+        {
+            "type": "banter",
+            "text": "How about ??",
+            "person": "Cobain"
+        },
+        {
+            "type": "banter",
+            "text": "Ok",
+            "person": "Channing"
+        },
+        {
+            "type": "song",
+            "text": "Breed",
+            "notes": []
+        },
+        {
+            "type": "banter",
+            "text": "Last night they smoked a lot of hash. That was the first time I ever drank a lot of ... german beer and it was a spiritual experience, 'cos I saw God ... that's the truth!",
+            "person": "Novoselic"
+        },
+        {
+            "type": "song",
+            "text": "Negative Creep",
+            "notes": []
+        },
+        {
+            "type": "banter",
+            "text": "Thanks",
+            "person": "Cobain"
+        },
+        {
+            "type": "song",
+            "text": "Been A Son",
+            "notes": []
+        },
+        {
+            "type": "banter",
+            "text": "Thank you and good night",
+            "person": "Cobain"
+        },
+        {
+            "type": "banter",
+            "text": "You have AIDS",
+            "person": "Novoselic"
+        },
+        {
+            "type": "banter",
+            "text": "Well that was our rock and roll encore, we didn't have to leave the stage, it's OK",
+            "person": "Cobain"
+        },
+        {
+            "type": "song",
+            "text": "Blew",
+            "notes": []
+        },
+        {
+            "type": "banter",
+            "text": "shiii",
+            "person": "Cobain"
+        },
+        {
+            "type": "song",
+            "text": "Vendetagainst",
+            "notes": []
+        },
+        {
+            "type": "banter",
+            "text": "Stop!",
+            "person": "Cobain"
+        },
+        {
+            "type": "jam",
+            "text": "jam bass jam",
+            "notes": [
+                "bass jam"
+            ]
+        }
+    ],
+    "set_incomplete": false,
+    "transmission": {},
+    "rehearsel_circulating_sources": [],
+    "circulating_sources": [
+        {
+            "name": "AUD #1",
+            "complete": true,
+            "equipment": "Vivanco EM 160 > Sony WM-D6C",
+            "generation": "ANA(M) > FLAC",
+            "video-generation": null,
+            "audio-generation": null,
+            "length-sound": "64 min / 9.0",
+            "notes": [
+                "Surfaced in March 2002."
+            ]
+        },
+        {
+            "name": "AUD #2",
+            "complete": true,
+            "equipment": "Unknown > Unknown",
+            "generation": "ANA(x) > FLAC",
+            "video-generation": null,
+            "audio-generation": null,
+            "length-sound": "64 min / 9.0",
+            "notes": [
+                "Circulated in January 2010.",
+                "The taper of this source was standing close to the AUD #1 taper."
+            ]
+        }
+    ],
+    "uncirculated_sources": [
+        {
+            "name": "AMT #1",
+            "note": "An attendee saw someone video taping from the front of the audience near Kurt."
+        }
+    ],
+    "notes": [
+        "At the beginning of the show, Krist jammed on \"Where Did You Sleep Last Night.\"",
+        "Before \"Love Buzz,\" the band did a jam with the theme from TV series \"The Twilight Zone\".",
+        "Versions of the jam were also played at the 11/09/89, 11/12/89, and 12/02/89 shows."
+    ],
+    "press": [],
+    "memorabilia": [
+        {
+            "url": "/concerts/images/1989/1989-11-08/1989-11-08_01.jpg",
+            "caption": "Advert"
+        },
+        {
+            "url": "/concerts/images/1989/1989-11-08/1989-11-08_02.jpg",
+            "caption": "Venue events calendar"
+        },
+        {
+            "url": "/concerts/images/1989/1989-11-08/1989-11-08_03.jpg",
+            "caption": "Nirvana's tour itinerary"
+        },
+        {
+            "url": "/concerts/images/1989/1989-11-08/1989-11-08_04.jpg",
+            "caption": "Nirvana's tour itinerary"
+        },
+        {
+            "url": "/concerts/images/1989/1989-11-08/1989-11-08_05.jpg",
+            "caption": "Venue events calendar"
+        },
+        {
+            "url": "/concerts/images/1989/1989-11-08/1989-11-08_06.jpg",
+            "caption": "Venue events calendar"
+        },
+        {
+            "url": "/concerts/images/1989/1989-11-08/1989-11-08_07.jpg",
+            "caption": "Advert"
+        },
+        {
+            "url": "/concerts/images/1989/1989-11-08/1989-11-08_08.jpg",
+            "caption": "Advert"
+        },
+        {
+            "url": "/concerts/images/1989/1989-11-08/1989-11-08_09.jpg",
+            "caption": "Nirvana's tour itinerary"
+        },
+        {
+            "url": "/concerts/images/1989/1989-11-08/1989-11-08_10.jpg",
+            "caption": "Advert"
+        },
+        {
+            "url": "/concerts/images/1989/1989-11-08/1989-11-08_11.jpg",
+            "caption": "Advert"
+        },
+        {
+            "url": "/concerts/images/1989/1989-11-08/1989-11-08_12.jpg",
+            "caption": "Advert"
+        },
+        {
+            "url": "/concerts/images/1989/1989-11-08/1989-11-08_13.jpg",
+            "caption": "Advert"
+        },
+        {
+            "url": "/concerts/images/1989/1989-11-08/1989-11-08_14.jpg",
+            "caption": "Advert"
+        }
+    ],
+    "images": [
+        {
+            "url": "/concerts/images/1989/1989-11-08/1989-11-08_001.jpg",
+            "caption": "Photo by Dietz Güldner "
+        },
+        {
+            "url": "/concerts/images/1989/1989-11-08/1989-11-08_002.jpg",
+            "caption": "Photo by Dietz Güldner "
+        },
+        {
+            "url": "/concerts/images/1989/1989-11-08/1989-11-08_003.jpg",
+            "caption": "Photo by Dietz Güldner "
+        },
+        {
+            "url": "/concerts/images/1989/1989-11-08/1989-11-08_004.jpg",
+            "caption": "Photo by Dietz Güldner "
+        }
+    ],
+    "navigation": {
+        "previous": "89-11-07",
+        "next": "89-11-09"
+    },
+    "graph": {
+        "bleach": "9",
+        "nevermind": "2",
+        "inutero": "0",
+        "non": "6"
+    }
+}
