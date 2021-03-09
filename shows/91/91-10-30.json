@@ -2,6 +2,10 @@
     "year": "1991",
     "month": "10",
     "day": "30",
+    "venue": "Commodore Ballroom",
+    "city": "Vancouver",
+    "state": "BC",
+    "country": "CA",
     "band": [
         {
             "NIRVANA": [

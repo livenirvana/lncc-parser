@@ -2,6 +2,10 @@
     "year": "1993",
     "month": "12",
     "day": "16",
+    "venue": "Golden Spike Arena",
+    "city": "Ogden",
+    "state": "UT",
+    "country": "US",
     "band": [
         {
             "NIRVANA": [

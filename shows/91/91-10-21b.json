@@ -2,6 +2,10 @@
     "year": "1991",
     "month": "10",
     "day": "21",
+    "venue": "Liberty Lunch",
+    "city": "Austin",
+    "state": "TX",
+    "country": "US",
     "band": [
         {
             "NIRVANA": [

@@ -2,9 +2,9 @@
     "year": "1989",
     "month": "11",
     "day": "29",
-    "venue": "November 29",
-    "city": "1989 - l'Usine",
-    "state": "Geneva",
+    "venue": "l'Usine",
+    "city": "Geneva",
+    "state": null,
     "country": "CH",
     "band": [
         {

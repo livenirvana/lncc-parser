@@ -2,6 +2,10 @@
     "year": "1988",
     "month": "04",
     "day": "xx",
+    "venue": "The Central Tavern",
+    "city": "Seattle",
+    "state": "WA",
+    "country": "US",
     "band": [
         {
             "NIRVANA": [

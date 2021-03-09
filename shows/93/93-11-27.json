@@ -2,6 +2,10 @@
     "year": "1993",
     "month": "11",
     "day": "27",
+    "venue": "AT&T Amphitheater at Bayfront Park",
+    "city": "Miami",
+    "state": "FL",
+    "country": "US",
     "band": [
         {
             "NIRVANA": [

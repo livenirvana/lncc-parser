@@ -2,6 +2,10 @@
     "year": "1993",
     "month": "10",
     "day": "21",
+    "venue": "Memorial Hall",
+    "city": "Kansas City",
+    "state": "KS",
+    "country": "US",
     "band": [
         {
             "NIRVANA": [

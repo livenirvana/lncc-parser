@@ -2,6 +2,10 @@
     "year": "1991",
     "month": "10",
     "day": "27",
+    "venue": "The Palace",
+    "city": "Hollywood",
+    "state": "CA",
+    "country": "US",
     "band": [
         {
             "NIRVANA": [

@@ -2,6 +2,10 @@
     "year": "1989",
     "month": "06",
     "day": "25",
+    "venue": "Sun Club",
+    "city": "Tempe",
+    "state": "AZ",
+    "country": "US",
     "band": [
         {
             "NIRVANA": [

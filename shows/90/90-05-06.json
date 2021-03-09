@@ -2,6 +2,10 @@
     "year": "1990",
     "month": "05",
     "day": "06",
+    "venue": "The Masquerade",
+    "city": "Atlanta",
+    "state": "GA",
+    "country": "US",
     "band": [
         {
             "NIRVANA": [

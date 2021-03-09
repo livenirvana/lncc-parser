@@ -2,6 +2,10 @@
     "year": "1993",
     "month": "10",
     "day": "19",
+    "venue": "SE Exhibit Hall, Albuquerque Convention Center",
+    "city": "Albuquerque",
+    "state": "NM",
+    "country": "US",
     "band": [
         {
             "NIRVANA": [

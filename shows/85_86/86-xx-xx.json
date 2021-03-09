@@ -2,6 +2,10 @@
     "year": "1986",
     "month": "xx",
     "day": "xx",
+    "venue": "The Pourhouse",
+    "city": "Aberdeen",
+    "state": "WA",
+    "country": "US",
     "band": [
         {
             "Stiff Woodies": [

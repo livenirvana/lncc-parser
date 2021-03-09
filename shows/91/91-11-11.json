@@ -2,9 +2,9 @@
     "year": "1991",
     "month": "11",
     "day": "11",
-    "venue": "November 11",
-    "city": "1991 - Markthalle",
-    "state": "Hamburg",
+    "venue": "Markthalle",
+    "city": "Hamburg",
+    "state": null,
     "country": "DE",
     "band": [
         {

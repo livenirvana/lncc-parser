@@ -2,6 +2,10 @@
     "year": "1991",
     "month": "09",
     "day": "28",
+    "venue": "Marquee",
+    "city": "New York",
+    "state": "NY",
+    "country": "US",
     "band": [
         {
             "NIRVANA": [

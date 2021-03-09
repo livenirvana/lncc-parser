@@ -2,6 +2,10 @@
     "year": "1993",
     "month": "11",
     "day": "14",
+    "venue": "New York Coliseum",
+    "city": "New York",
+    "state": "NY",
+    "country": "US",
     "band": [
         {
             "NIRVANA": [

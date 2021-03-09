@@ -2,6 +2,10 @@
     "year": "1991",
     "month": "06",
     "day": "17",
+    "venue": "Crest Theatre",
+    "city": "Sacramento",
+    "state": "CA",
+    "country": "US",
     "band": [
         {
             "NIRVANA": [

@@ -2,6 +2,10 @@
     "year": "1991",
     "month": "04",
     "day": "17",
+    "venue": "O.K. Hotel",
+    "city": "Seattle",
+    "state": "WA",
+    "country": "US",
     "band": [
         {
             "NIRVANA": [

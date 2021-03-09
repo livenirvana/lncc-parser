@@ -2,6 +2,10 @@
     "year": "1989",
     "month": "07",
     "day": "13",
+    "venue": "Maxwell's",
+    "city": "Hoboken",
+    "state": "NJ",
+    "country": "US",
     "band": [
         {
             "NIRVANA": [

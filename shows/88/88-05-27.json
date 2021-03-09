@@ -2,6 +2,10 @@
     "year": "1988",
     "month": "05",
     "day": "27",
+    "venue": "The Big Pointy House",
+    "city": "Olympia",
+    "state": "WA",
+    "country": "US",
     "band": [
         {
             "NIRVANA": [

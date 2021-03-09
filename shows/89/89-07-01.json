@@ -2,6 +2,10 @@
     "year": "1989",
     "month": "07",
     "day": "01",
+    "venue": "The Axiom",
+    "city": "Houston",
+    "state": "TX",
+    "country": "US",
     "band": [
         {
             "NIRVANA": [

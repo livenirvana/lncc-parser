@@ -2,6 +2,10 @@
     "year": "1989",
     "month": "10",
     "day": "12",
+    "venue": "Penny Lane Coffeehouse",
+    "city": "Boulder",
+    "state": "CO",
+    "country": "US",
     "band": [
         {
             "NIRVANA": [

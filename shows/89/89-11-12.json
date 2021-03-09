@@ -2,9 +2,9 @@
     "year": "1989",
     "month": "11",
     "day": "12",
-    "venue": "November 12",
-    "city": "1989 - Kulturzentrum",
-    "state": "Oldenburg",
+    "venue": "Kulturzentrum",
+    "city": "Oldenburg",
+    "state": null,
     "country": "DE",
     "band": [
         {

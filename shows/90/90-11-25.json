@@ -2,6 +2,10 @@
     "year": "1990",
     "month": "11",
     "day": "25",
+    "venue": "The Off Ramp",
+    "city": "Seattle",
+    "state": "WA",
+    "country": "US",
     "band": [
         {
             "NIRVANA": [

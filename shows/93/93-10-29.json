@@ -2,6 +2,10 @@
     "year": "1993",
     "month": "10",
     "day": "29",
+    "venue": "Michigan State Fairgrounds Coliseum",
+    "city": "Detroit",
+    "state": "MI",
+    "country": "US",
     "band": [
         {
             "NIRVANA": [

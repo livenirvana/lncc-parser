@@ -2,6 +2,10 @@
     "year": "1993",
     "month": "12",
     "day": "15",
+    "venue": "The Pavilion, Boise State University",
+    "city": "Boise",
+    "state": "ID",
+    "country": "US",
     "band": [
         {
             "NIRVANA": [

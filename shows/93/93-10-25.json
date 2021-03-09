@@ -2,6 +2,10 @@
     "year": "1993",
     "month": "10",
     "day": "25",
+    "venue": "Aragon Ballroom",
+    "city": "Chicago",
+    "state": "IL",
+    "country": "US",
     "band": [
         {
             "NIRVANA": [

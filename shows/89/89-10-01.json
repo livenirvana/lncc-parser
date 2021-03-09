@@ -2,6 +2,10 @@
     "year": "1989",
     "month": "10",
     "day": "01",
+    "venue": "Trito's Uptown",
+    "city": "Champaign",
+    "state": "IL",
+    "country": "US",
     "band": [
         {
             "NIRVANA": [

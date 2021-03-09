@@ -2,6 +2,10 @@
     "year": "1989",
     "month": "06",
     "day": "27",
+    "venue": "Rockin' T.P.",
+    "city": "Santa Fe",
+    "state": "NM",
+    "country": "US",
     "band": [
         {
             "NIRVANA": [

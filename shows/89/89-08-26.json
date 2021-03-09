@@ -2,6 +2,10 @@
     "year": "1989",
     "month": "08",
     "day": "26",
+    "venue": "Center on Contemporary Art",
+    "city": "Seattle",
+    "state": "WA",
+    "country": "US",
     "band": [
         {
             "NIRVANA": [

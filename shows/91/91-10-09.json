@@ -2,6 +2,10 @@
     "year": "1991",
     "month": "10",
     "day": "09",
+    "venue": "Stache's",
+    "city": "Columbus",
+    "state": "OH",
+    "country": "US",
     "band": [
         {
             "NIRVANA": [

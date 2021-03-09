@@ -2,6 +2,10 @@
     "year": "1993",
     "month": "12",
     "day": "05",
+    "venue": "Fair Park Coliseum",
+    "city": "Dallas",
+    "state": "TX",
+    "country": "US",
     "band": [
         {
             "NIRVANA": [

@@ -2,9 +2,9 @@
     "year": "1991",
     "month": "11",
     "day": "19",
-    "venue": "November 19",
-    "city": "1991 - Teatro Castello",
-    "state": "Rome",
+    "venue": "Teatro Castello",
+    "city": "Rome",
+    "state": null,
     "country": "IT",
     "band": [
         {

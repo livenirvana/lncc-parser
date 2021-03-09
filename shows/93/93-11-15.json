@@ -2,6 +2,10 @@
     "year": "1993",
     "month": "11",
     "day": "15",
+    "venue": "Roseland Ballroom",
+    "city": "New York",
+    "state": "NY",
+    "country": "US",
     "band": [
         {
             "NIRVANA": [

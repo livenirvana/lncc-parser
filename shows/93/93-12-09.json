@@ -2,6 +2,10 @@
     "year": "1993",
     "month": "12",
     "day": "09",
+    "venue": "Ak-Sar-Ben Coliseum",
+    "city": "Omaha",
+    "state": "NE",
+    "country": "US",
     "band": [
         {
             "NIRVANA": [

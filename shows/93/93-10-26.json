@@ -2,6 +2,10 @@
     "year": "1993",
     "month": "10",
     "day": "26",
+    "venue": "Mecca Auditorium",
+    "city": "Milwaukee",
+    "state": "WI",
+    "country": "US",
     "band": [
         {
             "NIRVANA": [

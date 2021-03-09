@@ -2,9 +2,9 @@
     "year": "1991",
     "month": "12",
     "day": "05",
-    "venue": "December 5",
-    "city": "1991 - Kilburn National Ballroom",
-    "state": "London",
+    "venue": "Kilburn National Ballroom",
+    "city": "London",
+    "state": null,
     "country": "UK",
     "band": [
         {

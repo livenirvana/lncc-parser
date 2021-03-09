@@ -2,6 +2,10 @@
     "year": "1991",
     "month": "09",
     "day": "21",
+    "venue": "Foufounes Électriques",
+    "city": "Montréal",
+    "state": "QC",
+    "country": "CA",
     "band": [
         {
             "NIRVANA": [

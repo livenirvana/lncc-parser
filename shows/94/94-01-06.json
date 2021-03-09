@@ -2,6 +2,10 @@
     "year": "1994",
     "month": "01",
     "day": "06",
+    "venue": "Spokane Coliseum",
+    "city": "Spokane",
+    "state": "WA",
+    "country": "US",
     "band": [
         {
             "NIRVANA": [

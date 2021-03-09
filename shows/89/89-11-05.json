@@ -2,9 +2,9 @@
     "year": "1989",
     "month": "11",
     "day": "05",
-    "venue": "November 5",
-    "city": "1989 - Melkweg",
-    "state": "Amsterdam",
+    "venue": "Melkweg",
+    "city": "Amsterdam",
+    "state": null,
     "country": "NL",
     "band": [
         {

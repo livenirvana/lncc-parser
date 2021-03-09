@@ -2,6 +2,10 @@
     "year": "1989",
     "month": "10",
     "day": "30",
+    "venue": "The Wilde Club, Norwich Arts Centre",
+    "city": "Norwich",
+    "state": null,
+    "country": "UK",
     "band": [
         {
             "NIRVANA": [

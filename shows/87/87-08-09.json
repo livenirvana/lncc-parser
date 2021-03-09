@@ -2,6 +2,10 @@
     "year": "1987",
     "month": "08",
     "day": "09",
+    "venue": "Community World Theater",
+    "city": "Tacoma",
+    "state": "WA",
+    "country": "US",
     "band": [
         {
             "Bliss": [

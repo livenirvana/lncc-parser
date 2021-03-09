@@ -2,6 +2,10 @@
     "year": "1993",
     "month": "12",
     "day": "10",
+    "venue": "Roy Wilkins Auditorium",
+    "city": "Saint Paul",
+    "state": "MN",
+    "country": "US",
     "band": [
         {
             "NIRVANA": [

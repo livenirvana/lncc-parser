@@ -2,6 +2,10 @@
     "year": "1991",
     "month": "08",
     "day": "15",
+    "venue": "The Roxy Theatre",
+    "city": "West Hollywood",
+    "state": "CA",
+    "country": "US",
     "band": [
         {
             "NIRVANA": [

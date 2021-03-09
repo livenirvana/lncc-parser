@@ -2,6 +2,10 @@
     "year": "1993",
     "month": "11",
     "day": "02",
+    "venue": "Auditorium de Verdun",
+    "city": "Verdun",
+    "state": "QC",
+    "country": "CA",
     "band": [
         {
             "NIRVANA": [

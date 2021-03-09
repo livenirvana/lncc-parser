@@ -2,6 +2,10 @@
     "year": "1993",
     "month": "11",
     "day": "13",
+    "venue": "Bender Arena, American University",
+    "city": "Washington",
+    "state": "DC",
+    "country": "US",
     "band": [
         {
             "NIRVANA": [

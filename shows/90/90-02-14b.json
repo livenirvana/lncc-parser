@@ -2,6 +2,10 @@
     "year": "1990",
     "month": "02",
     "day": "14",
+    "venue": "Kennel Club",
+    "city": "San Francisco",
+    "state": "CA",
+    "country": "US",
     "band": [
         {
             "NIRVANA": [

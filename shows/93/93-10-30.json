@@ -2,6 +2,10 @@
     "year": "1993",
     "month": "10",
     "day": "30",
+    "venue": "Hara Arena",
+    "city": "Dayton",
+    "state": "OH",
+    "country": "US",
     "band": [
         {
             "NIRVANA": [

@@ -2,6 +2,10 @@
     "year": "1992",
     "month": "01",
     "day": "15",
+    "venue": "Crocodile Cafe",
+    "city": "Seattle",
+    "state": "WA",
+    "country": "US",
     "band": [
         {
             "The Melvanas": [

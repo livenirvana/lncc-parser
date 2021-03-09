@@ -2,6 +2,10 @@
     "year": "1994",
     "month": "03",
     "day": "01",
+    "venue": "Terminal 1, Flughafen München-Riem",
+    "city": "Munich",
+    "state": null,
+    "country": "DE",
     "band": [
         {
             "NIRVANA": [

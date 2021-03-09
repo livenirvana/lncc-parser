@@ -2,6 +2,10 @@
     "year": "1990",
     "month": "09",
     "day": "22",
+    "venue": "Motor Sports International Garage",
+    "city": "Seattle",
+    "state": "WA",
+    "country": "US",
     "band": [
         {
             "NIRVANA": [

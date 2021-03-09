@@ -2,6 +2,10 @@
     "year": "1991",
     "month": "12",
     "day": "31",
+    "venue": "Cow Palace",
+    "city": "Daly City",
+    "state": "CA",
+    "country": "US",
     "band": [
         {
             "NIRVANA": [

@@ -2,6 +2,10 @@
     "year": "1989",
     "month": "10",
     "day": "13",
+    "venue": "The Zoo",
+    "city": "Boise",
+    "state": "ID",
+    "country": "US",
     "band": [
         {
             "NIRVANA": [

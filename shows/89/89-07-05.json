@@ -2,6 +2,10 @@
     "year": "1989",
     "month": "07",
     "day": "05",
+    "venue": "Gabe's Oasis",
+    "city": "Iowa City",
+    "state": "IA",
+    "country": "US",
     "band": [
         {
             "NIRVANA": [

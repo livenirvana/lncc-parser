@@ -2,6 +2,10 @@
     "year": "1988",
     "month": "xx",
     "day": "xx",
+    "venue": "The Witch House",
+    "city": "Olympia",
+    "state": "WA",
+    "country": "US",
     "band": [
         {
             "NIRVANA": [

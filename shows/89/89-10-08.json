@@ -2,6 +2,10 @@
     "year": "1989",
     "month": "10",
     "day": "08",
+    "venue": "Lifticket Lounge",
+    "city": "Omaha",
+    "state": "NE",
+    "country": "US",
     "band": [
         {
             "NIRVANA": [

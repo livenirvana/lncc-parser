@@ -2,6 +2,10 @@
     "year": "1991",
     "month": "10",
     "day": "02",
+    "venue": "9:30 Club",
+    "city": "Washington",
+    "state": "DC",
+    "country": "US",
     "band": [
         {
             "NIRVANA": [

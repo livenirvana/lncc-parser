@@ -2,9 +2,9 @@
     "year": "1991",
     "month": "11",
     "day": "12",
-    "venue": "November 12",
-    "city": "1991 - Batschkapp",
-    "state": "Frankfurt",
+    "venue": "Batschkapp",
+    "city": "Frankfurt",
+    "state": null,
     "country": "DE",
     "band": [
         {

@@ -2,6 +2,10 @@
     "year": "1991",
     "month": "05",
     "day": "29",
+    "venue": "Jabberjaw",
+    "city": "Los Angeles",
+    "state": "CA",
+    "country": "US",
     "band": [
         {
             "NIRVANA": [

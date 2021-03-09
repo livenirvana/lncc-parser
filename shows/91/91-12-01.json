@@ -2,9 +2,9 @@
     "year": "1991",
     "month": "12",
     "day": "01",
-    "venue": "December 1",
-    "city": "1991 - The Southern Bar",
-    "state": "Edinburgh",
+    "venue": "The Southern Bar",
+    "city": "Edinburgh",
+    "state": null,
     "country": "UK",
     "band": [
         {

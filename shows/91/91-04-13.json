@@ -2,6 +2,10 @@
     "year": "1991",
     "month": "04",
     "day": "13",
+    "venue": "The Phoenix House",
+    "city": "Olympia",
+    "state": "WA",
+    "country": "US",
     "band": [
         {
             "Witchypoo": [

@@ -2,6 +2,10 @@
     "year": "1989",
     "month": "09",
     "day": "26",
+    "venue": "The Vogue",
+    "city": "Seattle",
+    "state": "WA",
+    "country": "US",
     "band": [
         {
             "NIRVANA": [

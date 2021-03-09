@@ -2,6 +2,10 @@
     "year": "1991",
     "month": "02",
     "day": "09",
+    "venue": "The Mushroom",
+    "city": "Olympia",
+    "state": "WA",
+    "country": "US",
     "band": [
         {
             "Witchypoo": [

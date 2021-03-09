@@ -2,6 +2,10 @@
     "year": "1989",
     "month": "07",
     "day": "07",
+    "venue": "O'Cayz Corral",
+    "city": "Madison",
+    "state": "WI",
+    "country": "US",
     "band": [
         {
             "NIRVANA": [

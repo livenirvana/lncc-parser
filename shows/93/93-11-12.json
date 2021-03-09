@@ -2,6 +2,10 @@
     "year": "1993",
     "month": "11",
     "day": "12",
+    "venue": "George Wallace Civic Center",
+    "city": "Fitchburg",
+    "state": "MA",
+    "country": "US",
     "band": [
         {
             "NIRVANA": [

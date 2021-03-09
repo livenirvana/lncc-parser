@@ -2,6 +2,10 @@
     "year": "1989",
     "month": "02",
     "day": "11",
+    "venue": "Marsugi's",
+    "city": "San Jose",
+    "state": "CA",
+    "country": "US",
     "band": [
         {
             "NIRVANA": [

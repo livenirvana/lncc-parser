@@ -2,6 +2,10 @@
     "year": "1991",
     "month": "03",
     "day": "07",
+    "venue": "The Forge",
+    "city": "Victoria",
+    "state": "BC",
+    "country": "CA",
     "band": [
         {
             "NIRVANA": [

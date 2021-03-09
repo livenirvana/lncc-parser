@@ -2,6 +2,10 @@
     "year": "1993",
     "month": "12",
     "day": "18",
+    "venue": "Denver Coliseum",
+    "city": "Denver",
+    "state": "CO",
+    "country": "US",
     "band": [
         {
             "NIRVANA": [

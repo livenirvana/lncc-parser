@@ -2,6 +2,10 @@
     "year": "1990",
     "month": "01",
     "day": "20",
+    "venue": "Legends",
+    "city": "Tacoma",
+    "state": "WA",
+    "country": "US",
     "band": [
         {
             "NIRVANA": [

@@ -2,6 +2,10 @@
     "year": "1993",
     "month": "12",
     "day": "01",
+    "venue": "Boutwell Municipal Auditorium",
+    "city": "Birmingham",
+    "state": "AL",
+    "country": "US",
     "band": [
         {
             "NIRVANA": [

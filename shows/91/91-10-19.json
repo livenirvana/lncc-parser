@@ -2,6 +2,10 @@
     "year": "1991",
     "month": "10",
     "day": "19",
+    "venue": "Trees",
+    "city": "Dallas",
+    "state": "TX",
+    "country": "US",
     "band": [
         {
             "NIRVANA": [

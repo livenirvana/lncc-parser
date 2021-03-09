@@ -2,6 +2,10 @@
     "year": "1990",
     "month": "08",
     "day": "20",
+    "venue": "Crest Theatre",
+    "city": "Sacramento",
+    "state": "CA",
+    "country": "US",
     "band": [
         {
             "NIRVANA": [

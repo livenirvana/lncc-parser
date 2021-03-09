@@ -2,6 +2,10 @@
     "year": "1990",
     "month": "02",
     "day": "15",
+    "venue": "Raji's",
+    "city": "Hollywood",
+    "state": "CA",
+    "country": "US",
     "band": [
         {
             "NIRVANA": [

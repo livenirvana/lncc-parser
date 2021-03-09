@@ -2,6 +2,10 @@
     "year": "1990",
     "month": "08",
     "day": "24",
+    "venue": "Moore Theatre",
+    "city": "Seattle",
+    "state": "WA",
+    "country": "US",
     "band": [
         {
             "NIRVANA": [

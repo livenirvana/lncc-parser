@@ -2,6 +2,10 @@
     "year": "1991",
     "month": "06",
     "day": "10",
+    "venue": "Gothic Theatre",
+    "city": "Englewood",
+    "state": "CO",
+    "country": "US",
     "band": [
         {
             "NIRVANA": [

@@ -2,9 +2,9 @@
     "year": "1989",
     "month": "11",
     "day": "13",
-    "venue": "November 13",
-    "city": "1989 - Fabrik",
-    "state": "Hamburg",
+    "venue": "Fabrik",
+    "city": "Hamburg",
+    "state": null,
     "country": "DE",
     "band": [
         {

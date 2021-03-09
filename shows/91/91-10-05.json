@@ -2,6 +2,10 @@
     "year": "1991",
     "month": "10",
     "day": "05",
+    "venue": "40 Watt Club",
+    "city": "Athens",
+    "state": "GA",
+    "country": "US",
     "band": [
         {
             "NIRVANA": [

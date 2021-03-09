@@ -2,6 +2,10 @@
     "year": "1993",
     "month": "11",
     "day": "29",
+    "venue": "Omni Coliseum",
+    "city": "Atlanta",
+    "state": "GA",
+    "country": "US",
     "band": [
         {
             "NIRVANA": [

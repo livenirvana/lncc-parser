@@ -2,6 +2,10 @@
     "year": "1993",
     "month": "11",
     "day": "10",
+    "venue": "Springfield Civic Center",
+    "city": "Springfield",
+    "state": "MA",
+    "country": "US",
     "band": [
         {
             "NIRVANA": [

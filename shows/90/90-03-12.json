@@ -2,6 +2,10 @@
     "year": "1990",
     "month": "03",
     "day": "12",
+    "venue": "The Town Pump",
+    "city": "Vancouver",
+    "state": "BC",
+    "country": "CA",
     "band": [
         {
             "NIRVANA": [

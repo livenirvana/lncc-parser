@@ -2,9 +2,9 @@
     "year": "1989",
     "month": "11",
     "day": "22",
-    "venue": "November 22",
-    "city": "1989 - U4",
-    "state": "Vienna",
+    "venue": "U4",
+    "city": "Vienna",
+    "state": null,
     "country": "AT",
     "band": [
         {

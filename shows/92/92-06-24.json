@@ -2,9 +2,9 @@
     "year": "1992",
     "month": "06",
     "day": "24",
-    "venue": "June 24",
-    "city": "1992 - Le Zénith",
-    "state": "Paris",
+    "venue": "Le Zénith",
+    "city": "Paris",
+    "state": null,
     "country": "FR",
     "band": [
         {

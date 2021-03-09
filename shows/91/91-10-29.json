@@ -2,6 +2,10 @@
     "year": "1991",
     "month": "10",
     "day": "29",
+    "venue": "Fox Theatre",
+    "city": "Portland",
+    "state": "OR",
+    "country": "US",
     "band": [
         {
             "NIRVANA": [

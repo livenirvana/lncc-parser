@@ -2,9 +2,9 @@
     "year": "1992",
     "month": "10",
     "day": "29",
-    "venue": "October 29",
-    "city": "1992 - La Cueva",
-    "state": "Buenos Aires",
+    "venue": "La Cueva",
+    "city": "Buenos Aires",
+    "state": null,
     "country": "AR",
     "band": [
         {

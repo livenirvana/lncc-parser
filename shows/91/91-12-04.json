@@ -2,9 +2,9 @@
     "year": "1991",
     "month": "12",
     "day": "04",
-    "venue": "December 4",
-    "city": "1991 - The Academy",
-    "state": "Manchester",
+    "venue": "The Academy",
+    "city": "Manchester",
+    "state": null,
     "country": "UK",
     "band": [
         {

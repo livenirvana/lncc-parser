@@ -2,9 +2,9 @@
     "year": "1992",
     "month": "06",
     "day": "22",
-    "venue": "June 22",
-    "city": "1992 - The King's Hall",
-    "state": "Belfast",
+    "venue": "The King's Hall",
+    "city": "Belfast",
+    "state": null,
     "country": "UK",
     "band": [
         {

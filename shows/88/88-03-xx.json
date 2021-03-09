@@ -2,6 +2,10 @@
     "year": "1988",
     "month": "03",
     "day": "xx",
+    "venue": "The Caddyshack",
+    "city": "Olympia",
+    "state": "WA",
+    "country": "US",
     "band": [
         {
             "Ted Ed Fred": [

@@ -2,6 +2,10 @@
     "year": "1990",
     "month": "05",
     "day": "05",
+    "venue": "Einstein a Go-Go",
+    "city": "Jacksonville Beach",
+    "state": "FL",
+    "country": "US",
     "band": [
         {
             "NIRVANA": [

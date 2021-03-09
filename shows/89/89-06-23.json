@@ -2,6 +2,10 @@
     "year": "1989",
     "month": "06",
     "day": "23",
+    "venue": "Rhino Records Westwood",
+    "city": "Los Angeles",
+    "state": "CA",
+    "country": "US",
     "band": [
         {
             "NIRVANA": [

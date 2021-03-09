@@ -2,6 +2,10 @@
     "year": "1989",
     "month": "06",
     "day": "10",
+    "venue": "The Blue Gallery",
+    "city": "Portland",
+    "state": "OR",
+    "country": "US",
     "band": [
         {
             "NIRVANA": [

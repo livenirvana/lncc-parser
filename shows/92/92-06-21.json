@@ -2,9 +2,9 @@
     "year": "1992",
     "month": "06",
     "day": "21",
-    "venue": "June 21",
-    "city": "1992 - The Point Theatre",
-    "state": "Dublin",
+    "venue": "The Point Theatre",
+    "city": "Dublin",
+    "state": null,
     "country": "IE",
     "band": [
         {

@@ -2,6 +2,10 @@
     "year": "1987",
     "month": "xx",
     "day": "xx",
+    "venue": "The Green House",
+    "city": "Raymond",
+    "state": "WA",
+    "country": "US",
     "band": [
         {
             "Pen Cap Chew/Bliss ??": [

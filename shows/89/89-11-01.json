@@ -2,9 +2,9 @@
     "year": "1989",
     "month": "11",
     "day": "01",
-    "venue": "November 1",
-    "city": "1989 - Nighttown",
-    "state": "Rotterdam",
+    "venue": "Nighttown",
+    "city": "Rotterdam",
+    "state": null,
     "country": "NL",
     "band": [
         {

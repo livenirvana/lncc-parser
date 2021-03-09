@@ -2,9 +2,9 @@
     "year": "1992",
     "month": "07",
     "day": "02",
-    "venue": "July 2",
-    "city": "1992 - Plaza de Toros de Valencia",
-    "state": "Valencia",
+    "venue": "Plaza de Toros de Valencia",
+    "city": "Valencia",
+    "state": null,
     "country": "ES",
     "band": [
         {

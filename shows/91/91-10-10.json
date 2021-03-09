@@ -2,6 +2,10 @@
     "year": "1991",
     "month": "10",
     "day": "10",
+    "venue": "Empire Concert Club",
+    "city": "Cleveland",
+    "state": "OH",
+    "country": "US",
     "band": [
         {
             "NIRVANA": [

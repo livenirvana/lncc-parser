@@ -2,6 +2,10 @@
     "year": "1991",
     "month": "09",
     "day": "27",
+    "venue": "Tower Records",
+    "city": "New York",
+    "state": "NY",
+    "country": "US",
     "band": [
         {
             "NIRVANA": [

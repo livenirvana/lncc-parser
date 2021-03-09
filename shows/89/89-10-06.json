@@ -2,6 +2,10 @@
     "year": "1989",
     "month": "10",
     "day": "06",
+    "venue": "Murphy's Pub",
+    "city": "Cincinnati",
+    "state": "OH",
+    "country": "US",
     "band": [
         {
             "NIRVANA": [

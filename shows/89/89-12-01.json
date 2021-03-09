@@ -2,6 +2,10 @@
     "year": "1989",
     "month": "12",
     "day": "01",
+    "venue": "Fahrenheit, MJC Espace Icare",
+    "city": "Issy-les-Moulineaux",
+    "state": null,
+    "country": "FR",
     "band": [
         {
             "NIRVANA": [

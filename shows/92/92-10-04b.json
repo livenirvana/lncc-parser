@@ -2,6 +2,10 @@
     "year": "1992",
     "month": "10",
     "day": "04",
+    "venue": "Crocodile Cafe",
+    "city": "Seattle",
+    "state": "WA",
+    "country": "US",
     "band": [
         {
             "Mudhoney": [

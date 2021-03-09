@@ -2,6 +2,10 @@
     "year": "1989",
     "month": "10",
     "day": "03",
+    "venue": "Blind Pig",
+    "city": "Ann Arbor",
+    "state": "MI",
+    "country": "US",
     "band": [
         {
             "NIRVANA": [

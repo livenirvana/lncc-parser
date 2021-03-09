@@ -2,9 +2,9 @@
     "year": "1989",
     "month": "11",
     "day": "08",
-    "venue": "November 8",
-    "city": "1989 - Rose Club",
-    "state": "Cologne",
+    "venue": "Rose Club",
+    "city": "Cologne",
+    "state": null,
     "country": "DE",
     "band": [
         {

@@ -2,6 +2,10 @@
     "year": "1989",
     "month": "06",
     "day": "30",
+    "venue": "Alfred's",
+    "city": "San Antonio",
+    "state": "TX",
+    "country": "US",
     "band": [
         {
             "NIRVANA": [

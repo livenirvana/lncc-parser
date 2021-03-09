@@ -2,6 +2,10 @@
     "year": "1989",
     "month": "07",
     "day": "08",
+    "venue": "Club Dreamerz",
+    "city": "Chicago",
+    "state": "IL",
+    "country": "US",
     "band": [
         {
             "NIRVANA": [

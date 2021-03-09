@@ -2,6 +2,10 @@
     "year": "1990",
     "month": "08",
     "day": "23",
+    "venue": "Melody Ballroom",
+    "city": "Portland",
+    "state": "OR",
+    "country": "US",
     "band": [
         {
             "NIRVANA": [

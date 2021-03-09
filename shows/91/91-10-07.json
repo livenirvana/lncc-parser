@@ -2,6 +2,10 @@
     "year": "1991",
     "month": "10",
     "day": "07",
+    "venue": "Omni-New Daisy Theatre",
+    "city": "Memphis",
+    "state": "TN",
+    "country": "US",
     "band": [
         {
             "NIRVANA": [

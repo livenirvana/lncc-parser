@@ -2,9 +2,9 @@
     "year": "1991",
     "month": "12",
     "day": "03",
-    "venue": "December 3",
-    "city": "1991 - Rock City",
-    "state": "Nottingham",
+    "venue": "Rock City",
+    "city": "Nottingham",
+    "state": null,
     "country": "UK",
     "band": [
         {

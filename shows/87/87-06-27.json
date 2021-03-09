@@ -2,6 +2,10 @@
     "year": "1987",
     "month": "06",
     "day": "27",
+    "venue": "Community World Theater",
+    "city": "Tacoma",
+    "state": "WA",
+    "country": "US",
     "band": [
         {
             "Pen Cap Chew": [

@@ -2,6 +2,10 @@
     "year": "1991",
     "month": "10",
     "day": "24",
+    "venue": "Off The Record",
+    "city": "San Diego",
+    "state": "CA",
+    "country": "US",
     "band": [
         {
             "NIRVANA": [

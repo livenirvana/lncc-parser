@@ -2,9 +2,9 @@
     "year": "1991",
     "month": "11",
     "day": "05",
-    "venue": "November 5",
-    "city": "1991 - Astoria Theatre",
-    "state": "London",
+    "venue": "Astoria Theatre",
+    "city": "London",
+    "state": null,
     "country": "UK",
     "band": [
         {

@@ -2,9 +2,9 @@
     "year": "1989",
     "month": "11",
     "day": "23",
-    "venue": "November 23",
-    "city": "1989 - Cafe Pi",
-    "state": "Graz",
+    "venue": "Cafe Pi",
+    "city": "Graz",
+    "state": null,
     "country": "AT",
     "band": [
         {

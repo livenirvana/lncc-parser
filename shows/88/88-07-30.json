@@ -2,6 +2,10 @@
     "year": "1988",
     "month": "07",
     "day": "30",
+    "venue": "Squid Row Tavern",
+    "city": "Seattle",
+    "state": "WA",
+    "country": "US",
     "band": [
         {
             "NIRVANA": [

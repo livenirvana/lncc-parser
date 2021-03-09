@@ -2,6 +2,10 @@
     "year": "1991",
     "month": "06",
     "day": "14",
+    "venue": "Hollywood Palladium",
+    "city": "Hollywood",
+    "state": "CA",
+    "country": "US",
     "band": [
         {
             "NIRVANA": [

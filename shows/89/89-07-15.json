@@ -2,6 +2,10 @@
     "year": "1989",
     "month": "07",
     "day": "15",
+    "venue": "Green Street Station",
+    "city": "Jamaica Plain",
+    "state": "MA",
+    "country": "US",
     "band": [
         {
             "NIRVANA": [

@@ -2,6 +2,10 @@
     "year": "1989",
     "month": "02",
     "day": "10",
+    "venue": "Covered Wagon Saloon",
+    "city": "San Francisco",
+    "state": "CA",
+    "country": "US",
     "band": [
         {
             "NIRVANA": [

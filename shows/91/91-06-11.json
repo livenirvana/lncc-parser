@@ -2,6 +2,10 @@
     "year": "1991",
     "month": "06",
     "day": "11",
+    "venue": "The Pompadour Rock & Roll Club",
+    "city": "Salt Lake City",
+    "state": "UT",
+    "country": "US",
     "band": [
         {
             "NIRVANA": [

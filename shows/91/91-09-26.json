@@ -2,6 +2,10 @@
     "year": "1991",
     "month": "09",
     "day": "26",
+    "venue": "The Moon",
+    "city": "New Haven",
+    "state": "CT",
+    "country": "US",
     "band": [
         {
             "NIRVANA": [

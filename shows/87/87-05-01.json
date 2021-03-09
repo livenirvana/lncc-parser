@@ -2,6 +2,10 @@
     "year": "1987",
     "month": "05",
     "day": "01",
+    "venue": "GESCCO",
+    "city": "Olympia",
+    "state": "WA",
+    "country": "US",
     "band": [
         {
             "Skid Row": [

@@ -2,6 +2,10 @@
     "year": "1991",
     "month": "03",
     "day": "05",
+    "venue": "The Bronx",
+    "city": "Edmonton",
+    "state": "AB",
+    "country": "CA",
     "band": [
         {
             "NIRVANA": [

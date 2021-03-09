@@ -2,6 +2,10 @@
     "year": "1990",
     "month": "01",
     "day": "06",
+    "venue": "East Ballroom, Husky Union Building, University of Washington",
+    "city": "Seattle",
+    "state": "WA",
+    "country": "US",
     "band": [
         {
             "NIRVANA": [

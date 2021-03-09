@@ -2,9 +2,9 @@
     "year": "1991",
     "month": "11",
     "day": "16",
-    "venue": "November 16",
-    "city": "1991 - Teatro Verdi",
-    "state": "Muggia",
+    "venue": "Teatro Verdi",
+    "city": "Muggia",
+    "state": null,
     "country": "IT",
     "band": [
         {

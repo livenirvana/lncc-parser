@@ -2,6 +2,10 @@
     "year": "1986",
     "month": "05",
     "day": "03",
+    "venue": "GESSCO",
+    "city": "Olympia",
+    "state": "WA",
+    "country": "US",
     "band": [
         {
             "Brown Towel/Brown Cow": [

@@ -2,9 +2,9 @@
     "year": "1989",
     "month": "11",
     "day": "30",
-    "venue": "November 30",
-    "city": "1989 - Rote Fabrik",
-    "state": "Zurich",
+    "venue": "Rote Fabrik",
+    "city": "Zurich",
+    "state": null,
     "country": "CH",
     "band": [
         {

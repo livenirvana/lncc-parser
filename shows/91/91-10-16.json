@@ -2,6 +2,10 @@
     "year": "1991",
     "month": "10",
     "day": "16",
+    "venue": "Mississippi Nights",
+    "city": "St. Louis",
+    "state": "MO",
+    "country": "US",
     "band": [
         {
             "NIRVANA": [

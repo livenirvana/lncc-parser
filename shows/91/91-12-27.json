@@ -2,6 +2,10 @@
     "year": "1991",
     "month": "12",
     "day": "27",
+    "venue": "Los Angeles Memorial Sports Arena",
+    "city": "Los Angeles",
+    "state": "CA",
+    "country": "US",
     "band": [
         {
             "NIRVANA": [

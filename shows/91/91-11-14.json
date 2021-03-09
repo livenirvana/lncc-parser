@@ -2,9 +2,9 @@
     "year": "1991",
     "month": "11",
     "day": "14",
-    "venue": "November 14",
-    "city": "1991 - Arena",
-    "state": "Vienna",
+    "venue": "Arena",
+    "city": "Vienna",
+    "state": null,
     "country": "AT",
     "band": [
         {

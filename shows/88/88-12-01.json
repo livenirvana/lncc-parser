@@ -2,6 +2,10 @@
     "year": "1988",
     "month": "12",
     "day": "01",
+    "venue": "The Underground",
+    "city": "Seattle",
+    "state": "WA",
+    "country": "US",
     "band": [
         {
             "NIRVANA": [

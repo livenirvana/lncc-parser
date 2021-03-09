@@ -2,6 +2,10 @@
     "year": "1989",
     "month": "10",
     "day": "07",
+    "venue": "The Outhouse",
+    "city": "Lawrence",
+    "state": "KS",
+    "country": "US",
     "band": [
         {
             "NIRVANA": [

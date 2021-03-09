@@ -2,6 +2,10 @@
     "year": "1991",
     "month": "06",
     "day": "13",
+    "venue": "Warfield Theatre",
+    "city": "San Francisco",
+    "state": "CA",
+    "country": "US",
     "band": [
         {
             "NIRVANA": [

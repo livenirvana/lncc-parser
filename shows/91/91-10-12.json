@@ -2,6 +2,10 @@
     "year": "1991",
     "month": "10",
     "day": "12",
+    "venue": "Cabaret Metro",
+    "city": "Chicago",
+    "state": "IL",
+    "country": "US",
     "band": [
         {
             "NIRVANA": [

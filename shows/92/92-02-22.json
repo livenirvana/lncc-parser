@@ -2,6 +2,10 @@
     "year": "1992",
     "month": "02",
     "day": "22",
+    "venue": "Pink's Garage",
+    "city": "Honolulu",
+    "state": "HI",
+    "country": "US",
     "band": [
         {
             "NIRVANA": [

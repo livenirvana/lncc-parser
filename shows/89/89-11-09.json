@@ -2,9 +2,9 @@
     "year": "1989",
     "month": "11",
     "day": "09",
-    "venue": "November 9",
-    "city": "1989 - Musiktheater Bad",
-    "state": "Hannover",
+    "venue": "Musiktheater Bad",
+    "city": "Hannover",
+    "state": null,
     "country": "DE",
     "band": [
         {

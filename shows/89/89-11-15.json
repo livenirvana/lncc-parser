@@ -2,9 +2,9 @@
     "year": "1989",
     "month": "11",
     "day": "15",
-    "venue": "November 15",
-    "city": "1989 - Schwimmbad Musik-Club",
-    "state": "Heidelberg",
+    "venue": "Schwimmbad Musik-Club",
+    "city": "Heidelberg",
+    "state": null,
     "country": "DE",
     "band": [
         {

@@ -2,6 +2,10 @@
     "year": "1989",
     "month": "07",
     "day": "12",
+    "venue": "J.C. Dobbs",
+    "city": "Philadelphia",
+    "state": "PA",
+    "country": "US",
     "band": [
         {
             "NIRVANA": [

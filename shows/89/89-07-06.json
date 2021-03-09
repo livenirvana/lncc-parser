@@ -2,6 +2,10 @@
     "year": "1989",
     "month": "07",
     "day": "06",
+    "venue": "Uptown Bar",
+    "city": "Minneapolis",
+    "state": "MN",
+    "country": "US",
     "band": [
         {
             "NIRVANA": [

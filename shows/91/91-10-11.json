@@ -2,6 +2,10 @@
     "year": "1991",
     "month": "10",
     "day": "11",
+    "venue": "Saint Andrew's Hall",
+    "city": "Detroit",
+    "state": "MI",
+    "country": "US",
     "band": [
         {
             "NIRVANA": [

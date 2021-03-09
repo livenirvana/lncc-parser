@@ -2,6 +2,10 @@
     "year": "1991",
     "month": "10",
     "day": "20",
+    "venue": "The Vatican",
+    "city": "Houston",
+    "state": "TX",
+    "country": "US",
     "band": [
         {
             "NIRVANA": [

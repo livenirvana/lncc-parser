@@ -2,6 +2,10 @@
     "year": "1988",
     "month": "01",
     "day": "23",
+    "venue": "Community World Theater",
+    "city": "Tacoma",
+    "state": "WA",
+    "country": "US",
     "band": [
         {
             "Ted Ed Fred": [

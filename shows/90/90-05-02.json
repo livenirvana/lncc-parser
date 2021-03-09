@@ -2,6 +2,10 @@
     "year": "1990",
     "month": "05",
     "day": "02",
+    "venue": "The Milestone",
+    "city": "Charlotte",
+    "state": "NC",
+    "country": "US",
     "band": [
         {
             "NIRVANA": [

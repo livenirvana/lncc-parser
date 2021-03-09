@@ -2,6 +2,10 @@
     "year": "1993",
     "month": "11",
     "day": "08",
+    "venue": "The Armory, Drexel University",
+    "city": "Philadelphia",
+    "state": "PA",
+    "country": "US",
     "band": [
         {
             "NIRVANA": [

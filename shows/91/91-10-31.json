@@ -2,6 +2,10 @@
     "year": "1991",
     "month": "10",
     "day": "31",
+    "venue": "Paramount Theatre",
+    "city": "Seattle",
+    "state": "WA",
+    "country": "US",
     "band": [
         {
             "NIRVANA": [

@@ -2,6 +2,10 @@
     "year": "1989",
     "month": "07",
     "day": "03",
+    "venue": "The Electric Jungle",
+    "city": "Dallas",
+    "state": "TX",
+    "country": "US",
     "band": [
         {
             "NIRVANA": [
