@@ -4,6 +4,16 @@ from bs4 import BeautifulSoup
 from bs4.element import Tag
 
 
+states = [
+    'AL', 'AK', 'AZ', 'AR', 'CA', 'CO', 'CT', 'DC', 'DE', 'FL',
+    'GA', 'HI', 'ID', 'IL', 'IN', 'IA', 'KS', 'KY', 'LA', 'ME',
+    'MD', 'MA', 'MI', 'MN', 'MS', 'MO', 'MT', 'NE', 'NV', 'NH',
+    'NJ', 'NM', 'NY', 'NC', 'ND', 'OH', 'OK', 'OR', 'PA', 'RI',
+    'SC', 'SD', 'TN', 'TX', 'UT', 'VT', 'VA', 'WA', 'WV', 'WI',
+    'WY'
+]
+
+
 def parse(filepath):
     f = open(filepath, 'r')
 
@@ -22,21 +32,29 @@ def parse(filepath):
     html = f.read()
     soup = BeautifulSoup(html, 'html.parser')
 
-    title = soup.h1.small.text.split(',')
+    title = soup.h1.small.text.split('-', 1)[1].split(',')
+    title = [t.strip() for t in title]
 
-    # Location
-    if len(title) == 3:
-        # International? City country only
-        payload['venue'] = title[0].strip()
-        payload['city'] = title[1].strip()
-        payload['country'] = title[2].strip()
+    if title[-1].lower() == 'us' and title[-2] in states:
+        # US location
+        payload['venue'] = ', '.join(title[:-3])
+        payload['city'] = title[-3]
+        payload['state'] = title[-2]
+        payload['country'] = title[-1]
+
+    elif title[-1].lower() == 'ca':
+        # Canada location
+        payload['venue'] = ', '.join(title[:-3])
+        payload['city'] = title[-3]
+        payload['state'] = title[-2]
+        payload['country'] = title[-1]
+
+    else:
+        # City/Country
+        payload['venue'] = ', '.join(title[:-2])
+        payload['city'] = title[-2]
         payload['state'] = None
-    elif len(title) == 4:
-        # Use state?
-        payload['venue'] = title[0].strip()
-        payload['city'] = title[1].strip()
-        payload['state'] = title[2].strip()
-        payload['country'] = title[3].strip()
+        payload['country'] = title[-1]
 
     def parse_duty(text):
         try:
