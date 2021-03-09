@@ -32,7 +32,13 @@ def parse(filepath):
     html = f.read()
     soup = BeautifulSoup(html, 'html.parser')
 
-    title = soup.h1.small.text.split('-', 1)[1].split(',')
+    title_text = soup.h1.small.text
+
+    if '-' in title_text:
+        title = title_text.split('-', 1)[1].split(',')
+    else:
+        title = title_text.split(',')
+
     title = [t.strip() for t in title]
 
     if title[-1].lower() == 'us' and title[-2] in states:
