@@ -8,7 +8,7 @@
     "country": "IE",
     "band": [
         {
-            "NIRVANA": [
+            "members": [
                 {
                     "name": "Kurt Cobain ",
                     "duty": "vocals, guitar"
@@ -22,7 +22,8 @@
                     "duty": "drums, backing vocals"
                 }
             ],
-            "type": "group"
+            "type": "group",
+            "name": "NIRVANA"
         }
     ],
     "crew": [
@@ -214,7 +215,7 @@
             "length-sound": "57 min / 5.5",
             "notes": [
                 "Amateur video, shot from the left of the balcony.",
-                "In November 2006 a transfer of the master tape was circulated. ",
+                "In November 2006 a transfer of the master tape was circulated.",
                 "Missing the end of \"Smells Like Teen Spirit\" and all of \"Territorial Pissings\".",
                 "The circulating video includes all the footage that was recorded.",
                 "Some higher generation copies of the video in circulation have the audio from an unknown generation tape of AUD #2 dubbed over the video's original audio."

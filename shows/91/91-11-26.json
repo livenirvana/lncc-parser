@@ -8,7 +8,7 @@
     "country": "UK",
     "band": [
         {
-            "NIRVANA": [
+            "members": [
                 {
                     "name": "Kurt Cobain ",
                     "duty": "vocals, guitar"
@@ -22,7 +22,8 @@
                     "duty": "drums, backing vocals"
                 }
             ],
-            "type": "group"
+            "type": "group",
+            "name": "NIRVANA"
         }
     ],
     "crew": [
@@ -207,7 +208,7 @@
             "audio-generation": null,
             "length-sound": "10 min / 8.0",
             "notes": [
-                "The master tape is belivied to be completed but only \"All Apologies\" and \"Something In The Way\" was released on the Lp \"Entertain Us\" "
+                "The master tape is belivied to be completed but only \"All Apologies\" and \"Something In The Way\" was released on the Lp \"Entertain Us\""
             ]
         },
         {

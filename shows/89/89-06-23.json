@@ -8,7 +8,7 @@
     "country": "US",
     "band": [
         {
-            "NIRVANA": [
+            "members": [
                 {
                     "name": "Kurt Cobain ",
                     "duty": "vocals, guitar"
@@ -26,7 +26,8 @@
                     "duty": "guitar"
                 }
             ],
-            "type": "group"
+            "type": "group",
+            "name": "NIRVANA"
         }
     ],
     "crew": [],
@@ -173,7 +174,7 @@
             "length-sound": "18 sec / 8.5",
             "notes": [
                 "Appear on MTV Tribute To Nirvana.",
-                "\"Sifting\" only. Same source but of higher quality than AMT #2. "
+                "\"Sifting\" only. Same source but of higher quality than AMT #2."
             ]
         }
     ],

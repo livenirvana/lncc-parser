@@ -8,7 +8,7 @@
     "country": "UK",
     "band": [
         {
-            "NIRVANA": [
+            "members": [
                 {
                     "name": "Kurt Cobain ",
                     "duty": "vocals, guitar"
@@ -22,7 +22,8 @@
                     "duty": "drums, backing vocals"
                 }
             ],
-            "type": "group"
+            "type": "group",
+            "name": "NIRVANA"
         },
         {
             "name": "Eugene Kelly ",
@@ -50,9 +51,7 @@
         }
     ],
     "buyer": {
-        "names": [
-            "No Info"
-        ],
+        "names": [],
         "company": "The Mean Fiddler"
     },
     "schedule": [
@@ -310,7 +309,7 @@
             "notes": [
                 "Amateur video, shot from the stage on Krist's side.",
                 "Includes \"The End\" jam and one second of \"Blew\" only.",
-                "Circulating copies are sourced from an FLV video file posted on YouTube.\n                                "
+                "Circulating copies are sourced from an FLV video file posted on YouTube."
             ]
         },
         {
@@ -322,7 +321,7 @@
             "audio-generation": null,
             "length-sound": "7 min / 8.0",
             "notes": [
-                "Amateur video, shot from the stage on Krist's side. \n                                    Includes \"Drain You\" (cuts in) and \"Smells Like Teen Spirit\" (cuts in), only.\nCirculating copies are sourced from an FLV video file posted on YouTube.\n                                "
+                "Amateur video, shot from the stage on Krist's side. \n                                    Includes \"Drain You\" (cuts in) and \"Smells Like Teen Spirit\" (cuts in), only.\nCirculating copies are sourced from an FLV video file posted on YouTube."
             ]
         },
         {

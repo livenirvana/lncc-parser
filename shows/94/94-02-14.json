@@ -8,7 +8,7 @@
     "country": "FR",
     "band": [
         {
-            "NIRVANA": [
+            "members": [
                 {
                     "name": "Kurt Cobain ",
                     "duty": "vocals, guitar"
@@ -30,7 +30,8 @@
                     "duty": "cello"
                 }
             ],
-            "type": "group"
+            "type": "group",
+            "name": "NIRVANA"
         }
     ],
     "crew": [
@@ -296,7 +297,7 @@
             "length-sound": "93 min / ??",
             "notes": [
                 "In July 23, 2017 the master tape was transferred and circulated, but was found to be of worse quality because of transfer issues.",
-                "More complete, but lower quality than AUD #2a.     \n                                "
+                "More complete, but lower quality than AUD #2a."
             ]
         },
         {
@@ -381,7 +382,7 @@
             "notes": [
                 "Different camera angle from PRO #1a and PRO #1b.",
                 "Single camera PRO-shot video. Left channel of the audio is open mic and the right channel is soundboard.",
-                "Includes only \"Radio Friendly Unit Shifter\", \"Drain You\" (cuts in and cut), \"Breed\" (cuts out), \"Smells Like Teen Spirit\" (cuts in), \"Sliver\" (cuts out), \"Lithium\", \"Rape Me\" and \"Territorial Pissings\" (cuts out). "
+                "Includes only \"Radio Friendly Unit Shifter\", \"Drain You\" (cuts in and cut), \"Breed\" (cuts out), \"Smells Like Teen Spirit\" (cuts in), \"Sliver\" (cuts out), \"Lithium\", \"Rape Me\" and \"Territorial Pissings\" (cuts out)."
             ]
         }
     ],

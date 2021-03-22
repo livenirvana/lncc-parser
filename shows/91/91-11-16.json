@@ -8,7 +8,7 @@
     "country": "IT",
     "band": [
         {
-            "NIRVANA": [
+            "members": [
                 {
                     "name": "Kurt Cobain ",
                     "duty": "vocals, guitar"
@@ -22,7 +22,8 @@
                     "duty": "drums, backing vocals"
                 }
             ],
-            "type": "group"
+            "type": "group",
+            "name": "NIRVANA"
         }
     ],
     "crew": [
@@ -188,7 +189,7 @@
                 "Surfaced in August 2005.",
                 "Lower quality and unknown generation, but more complete than AUD #1b.",
                 "\"Drain You\" is cut within.",
-                "\"Oh, The Guilt\", \"On A Plain\" and \"L'Amour Est Un Oiseau Rebelle\" is cut.\t"
+                "\"Oh, The Guilt\", \"On A Plain\" and \"L'Amour Est Un Oiseau Rebelle\" is cut."
             ]
         },
         {

@@ -8,7 +8,7 @@
     "country": "UK",
     "band": [
         {
-            "NIRVANA": [
+            "members": [
                 {
                     "name": "Kurt Cobain ",
                     "duty": "vocals, guitar"
@@ -22,7 +22,8 @@
                     "duty": "drums"
                 }
             ],
-            "type": "group"
+            "type": "group",
+            "name": "NIRVANA"
         }
     ],
     "crew": [
@@ -303,7 +304,7 @@
             "length-sound": "50 min / 9.0",
             "notes": [
                 "In November 2008 a 1st generation tape was circulated.",
-                "Missing \"Negative Creep\".\n                                "
+                "Missing \"Negative Creep\"."
             ]
         },
         {
@@ -316,7 +317,7 @@
             "length-sound": "49:32 min / ??",
             "notes": [
                 "Posted in youtube September 2020.",
-                "\"Blew\" cuts in.\n                                "
+                "\"Blew\" cuts in."
             ]
         },
         {

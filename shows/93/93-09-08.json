@@ -8,13 +8,14 @@
     "country": "US",
     "band": [
         {
-            "Courtney Love": [
+            "members": [
                 {
                     "name": "Courtney Love ",
                     "duty": "vocals, guitar"
                 }
             ],
-            "type": "group"
+            "type": "group",
+            "name": "Courtney Love"
         },
         {
             "name": "Kurt Cobain ",

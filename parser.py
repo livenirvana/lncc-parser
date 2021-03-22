@@ -80,7 +80,7 @@ def parse(filepath):
                 group_members.append(
                     {'name': nirvana_member.text.split('(')[0], 'duty': parse_duty(nirvana_member.text)}
                 )
-            group = {group_name: group_members, 'type': 'group'}
+            group = {'members': group_members, 'type': 'group', 'name': group_name}
             payload['band'].append(group)
         else:
             payload['band'].append(
@@ -105,6 +105,8 @@ def parse(filepath):
         payload['buyer']['company'] = buyer_li.contents[0].replace('\n', '').strip()
         # With company
         for item in buyer_li.ul.find_all('li'):
+            if item.text.lower().strip() == 'no info':
+                break
             payload['buyer']['names'].append(item.text)
     else:
         # No company
@@ -233,7 +235,7 @@ def parse(filepath):
                         if not note_loop:
                             break
                         if isinstance(note_loop, Tag) and note_loop.name == 'dd':
-                            notes.append(note_loop.text)
+                            notes.append(note_loop.text.strip())
                             note_loop = note_loop.find_next_sibling()
 
         return {
@@ -300,7 +302,7 @@ def parse(filepath):
         if 'no info' in child.text.lower():
             break
 
-        payload['notes'].append(child.text)
+        payload['notes'].append(child.text.strip())
 
     # Press
     payload['press'] = []

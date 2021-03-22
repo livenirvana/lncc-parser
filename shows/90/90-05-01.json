@@ -8,7 +8,7 @@
     "country": "US",
     "band": [
         {
-            "NIRVANA": [
+            "members": [
                 {
                     "name": "Kurt Cobain ",
                     "duty": "vocals, guitar"
@@ -22,7 +22,8 @@
                     "duty": "drums"
                 }
             ],
-            "type": "group"
+            "type": "group",
+            "name": "NIRVANA"
         }
     ],
     "crew": [
@@ -152,7 +153,7 @@
             "notes": [
                 "Circulated in August 2016.",
                 "Missing \"School', \"Floyd The Barber\", \"Dive\" and \"Spank Thru\".",
-                "\"Love Buzz\" cuts in and cuts out, \"Breed\" cuts in, \"About A Girl\" cuts in, \"Scoff\" is cut within and \"Polly\" cuts in. ",
+                "\"Love Buzz\" cuts in and cuts out, \"Breed\" cuts in, \"About A Girl\" cuts in, \"Scoff\" is cut within and \"Polly\" cuts in.",
                 "Almost all between song banter is cut out."
             ]
         },

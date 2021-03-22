@@ -8,7 +8,7 @@
     "country": "IE",
     "band": [
         {
-            "NIRVANA": [
+            "members": [
                 {
                     "name": "Kurt Cobain ",
                     "duty": "vocals, guitar"
@@ -22,7 +22,8 @@
                     "duty": "drums, backing vocals"
                 }
             ],
-            "type": "group"
+            "type": "group",
+            "name": "NIRVANA"
         }
     ],
     "crew": [
@@ -130,7 +131,7 @@
     "notes": [
         "The first three songs listed are the first three the band played of a 40-minute set, according to an attendee.",
         "Kurt screamed his way through \"Sliver,\" according to an attendee.",
-        "At some point, most probably during the soundcheck, Kurt played drums.\n                                "
+        "At some point, most probably during the soundcheck, Kurt played drums."
     ],
     "press": [],
     "memorabilia": [

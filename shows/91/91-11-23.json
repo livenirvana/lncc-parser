@@ -8,7 +8,7 @@
     "country": "BE",
     "band": [
         {
-            "NIRVANA": [
+            "members": [
                 {
                     "name": "Kurt Cobain ",
                     "duty": "vocals, guitar"
@@ -22,7 +22,8 @@
                     "duty": "drums, backing vocals, bass"
                 }
             ],
-            "type": "group"
+            "type": "group",
+            "name": "NIRVANA"
         }
     ],
     "crew": [
@@ -44,9 +45,7 @@
         }
     ],
     "buyer": {
-        "names": [
-            "No Info"
-        ],
+        "names": [],
         "company": "On The Rox Presents"
     },
     "schedule": [

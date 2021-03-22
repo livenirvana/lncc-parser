@@ -8,7 +8,7 @@
     "country": "IE",
     "band": [
         {
-            "NIRVANA": [
+            "members": [
                 {
                     "name": "Kurt Cobain ",
                     "duty": "vocals, guitar"
@@ -22,7 +22,8 @@
                     "duty": "drums, backing vocals"
                 }
             ],
-            "type": "group"
+            "type": "group",
+            "name": "NIRVANA"
         }
     ],
     "crew": [
@@ -150,7 +151,7 @@
             "audio-generation": null,
             "length-sound": "40:58 min / 9.5",
             "notes": [
-                "\"Drain You\" cuts in.\n                                    There's a little drop-out during \"Lounge Act\".\nUpgrade transfer circulated December 2020.\n"
+                "\"Drain You\" cuts in.\n                                    There's a little drop-out during \"Lounge Act\".\nUpgrade transfer circulated December 2020."
             ]
         }
     ],

@@ -8,7 +8,7 @@
     "country": "FR",
     "band": [
         {
-            "NIRVANA": [
+            "members": [
                 {
                     "name": "Kurt Cobain ",
                     "duty": "vocals, guitar"
@@ -22,7 +22,8 @@
                     "duty": "drums, backing vocals"
                 }
             ],
-            "type": "group"
+            "type": "group",
+            "name": "NIRVANA"
         }
     ],
     "crew": [
@@ -212,7 +213,7 @@
             "audio-generation": null,
             "length-sound": "80 min / ??",
             "notes": [
-                "More complete, but lower quality than AUD #1a.\t  \n                                    In June 2013 the master tape was transferred and circulated, but was found to be of worse quality because of transfer issues.\n"
+                "More complete, but lower quality than AUD #1a.\t  \n                                    In June 2013 the master tape was transferred and circulated, but was found to be of worse quality because of transfer issues."
             ]
         },
         {

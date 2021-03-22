@@ -8,7 +8,7 @@
     "country": "US",
     "band": [
         {
-            "Skid Row ??": [
+            "members": [
                 {
                     "name": "Kurt Cobain ",
                     "duty": "vocals, guitar"
@@ -22,7 +22,8 @@
                     "duty": "drums"
                 }
             ],
-            "type": "group"
+            "type": "group",
+            "name": "Skid Row ??"
         }
     ],
     "crew": [],
@@ -62,7 +63,7 @@
     "notes": [
         "The band played after a new Dale Crover side project band, according to Slim Moon.",
         "This show happened two weeks before the first concert at 04/18/1987 CWT, according to Slim Moon.",
-        "It's possible this was the band's first show, according to Slim Moon.\n                                "
+        "It's possible this was the band's first show, according to Slim Moon."
     ],
     "press": [],
     "memorabilia": [

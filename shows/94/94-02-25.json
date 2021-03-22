@@ -8,7 +8,7 @@
     "country": "IT",
     "band": [
         {
-            "NIRVANA": [
+            "members": [
                 {
                     "name": "Kurt Cobain ",
                     "duty": "vocals, guitar"
@@ -30,7 +30,8 @@
                     "duty": "cello"
                 }
             ],
-            "type": "group"
+            "type": "group",
+            "name": "NIRVANA"
         }
     ],
     "crew": [
@@ -300,7 +301,7 @@
             "audio-generation": null,
             "length-sound": "80 min / 8.0",
             "notes": [
-                "Amateur video, shot from directly to the left side of the stage. "
+                "Amateur video, shot from directly to the left side of the stage."
             ]
         },
         {

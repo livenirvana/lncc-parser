@@ -8,7 +8,7 @@
     "country": "DE",
     "band": [
         {
-            "NIRVANA": [
+            "members": [
                 {
                     "name": "Kurt Cobain ",
                     "duty": "vocals, guitar"
@@ -30,7 +30,8 @@
                     "duty": "cello"
                 }
             ],
-            "type": "group"
+            "type": "group",
+            "name": "NIRVANA"
         }
     ],
     "crew": [
@@ -317,7 +318,7 @@
                 "This source surfaced in January 2004.",
                 "Single camera PRO-shot video with open mic audio.",
                 "More complete, but lower quality than PRO #1a.",
-                "Includes only \"My Best Friend's Girl\", \"Radio Friendly Unit Shifter,\" and \"Drain You\".\n                                    The circulating video includes all that was recorded.\nEffects make it look like two cameras were used.\n"
+                "Includes only \"My Best Friend's Girl\", \"Radio Friendly Unit Shifter,\" and \"Drain You\".\n                                    The circulating video includes all that was recorded.\nEffects make it look like two cameras were used."
             ]
         }
     ],

@@ -8,7 +8,7 @@
     "country": "CH",
     "band": [
         {
-            "NIRVANA": [
+            "members": [
                 {
                     "name": "Krist Novoselic ",
                     "duty": "bass"
@@ -18,7 +18,8 @@
                     "duty": ""
                 }
             ],
-            "type": "group"
+            "type": "group",
+            "name": "NIRVANA"
         },
         {
             "name": "Tad Doyle ",

@@ -8,7 +8,7 @@
     "country": "AU",
     "band": [
         {
-            "NIRVANA": [
+            "members": [
                 {
                     "name": "Kurt Cobain ",
                     "duty": "vocals, guitar"
@@ -22,7 +22,8 @@
                     "duty": "drums, backing vocals"
                 }
             ],
-            "type": "group"
+            "type": "group",
+            "name": "NIRVANA"
         }
     ],
     "crew": [
@@ -259,7 +260,7 @@
             "length-sound": "03 min / 8.0",
             "notes": [
                 "Multi-camera PRO-shot video with soundboard audio broadcasted on Australian TV.",
-                "Feature clips of \"Smells Like Teen Spirit\", \"Floyd The Barbe\" and \"School\". \n                                    Has an interview over the audio.\n"
+                "Feature clips of \"Smells Like Teen Spirit\", \"Floyd The Barbe\" and \"School\". \n                                    Has an interview over the audio."
             ]
         },
         {

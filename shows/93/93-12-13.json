@@ -8,7 +8,7 @@
     "country": "US",
     "band": [
         {
-            "NIRVANA": [
+            "members": [
                 {
                     "name": "Kurt Cobain ",
                     "duty": "vocals, guitar"
@@ -30,7 +30,8 @@
                     "duty": "cello"
                 }
             ],
-            "type": "group"
+            "type": "group",
+            "name": "NIRVANA"
         }
     ],
     "crew": [
@@ -381,7 +382,7 @@
                 "Includes \"Very Ape\" and \"Radio Friendly Unit Shifter\" only.",
                 "\"Very Ape\" uses video footage and open mic audio sourced from PRO #1a/PRO #1b.",
                 "\"Radio Friendly Unit Shifter\" uses video footage sourced from PRO #1a/PRO #1b and PRO #2, with soundboard audio.",
-                "\"Very Ape\" cuts in.\n                                    Circulating copies are sourced from MP4 video files posted on MTV's webpage.\n                                "
+                "\"Very Ape\" cuts in.\n                                    Circulating copies are sourced from MP4 video files posted on MTV's webpage."
             ]
         },
         {
@@ -522,7 +523,7 @@
             "audio-generation": null,
             "length-sound": "71 min / 10",
             "notes": [
-                "Audio portion of the multi camera PRO-shot video, with soundboard audio. ",
+                "Audio portion of the multi camera PRO-shot video, with soundboard audio.",
                 "Higer quality, but less complete than PRO #3a.",
                 "Includes professionally remixed stereo audio and 5.1-channel audio.",
                 "The broadcast mix omits the echoed said's during \"Breed\" chorus."
@@ -682,7 +683,7 @@
             "audio-generation": null,
             "length-sound": "71 min / 10",
             "notes": [
-                "Audio portion of the multi camera PRO-shot video, with soundboard audio. ",
+                "Audio portion of the multi camera PRO-shot video, with soundboard audio.",
                 "Higer quality, but less complete than PRO #3a.",
                 "Includes professionally remixed stereo audio and 5.1-channel audio.",
                 "The broadcast mix omits the echoed said's during \"Breed\" chorus."

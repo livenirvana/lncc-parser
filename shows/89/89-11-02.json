@@ -8,7 +8,7 @@
     "country": "NL",
     "band": [
         {
-            "NIRVANA": [
+            "members": [
                 {
                     "name": "Kurt Cobain ",
                     "duty": "vocals, guitar"
@@ -22,7 +22,8 @@
                     "duty": "drums"
                 }
             ],
-            "type": "group"
+            "type": "group",
+            "name": "NIRVANA"
         }
     ],
     "crew": [
@@ -216,7 +217,7 @@
             "notes": [
                 "Posted on Vera Groningens Facebook page in November 2012.",
                 "Includes only \"Polly\" and \"Breed\".",
-                "Higher quality than AMT #1a and AMT #1c, but less complete. "
+                "Higher quality than AMT #1a and AMT #1c, but less complete."
             ]
         },
         {

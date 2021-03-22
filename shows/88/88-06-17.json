@@ -8,7 +8,7 @@
     "country": "US",
     "band": [
         {
-            "NIRVANA": [
+            "members": [
                 {
                     "name": "Kurt Cobain ",
                     "duty": "vocals, guitar"
@@ -22,7 +22,8 @@
                     "duty": "drums"
                 }
             ],
-            "type": "group"
+            "type": "group",
+            "name": "NIRVANA"
         }
     ],
     "crew": [],
@@ -72,9 +73,9 @@
     "uncirculated_sources": [],
     "notes": [
         "\"About fifty kids\" were at the show, according to Slim Moon of Lush.",
-        "Because the other bands had played too long, someone working there stopped the show after Nirvana had played only two songs, according to Mark Lanegan of the Screaming Trees. ",
+        "Because the other bands had played too long, someone working there stopped the show after Nirvana had played only two songs, according to Mark Lanegan of the Screaming Trees.",
         "Contrary to this report, Gary Lee Conner and Mark Pickerel of the Screaming Trees, and at least one attendee, reports that the show was stopped because Krist got into a fight with an employee who was trying to escort out Krist's friend or girlfriend for slam dancing and stage diving during Nirvana's set. He throwed his bass down, jumped from the stage onto the guy and wrestled him to the ground.",
-        "Nirvana's tour manager got into a fistfight with the person who stopped the show as Kurt turned his amp up all the way and Krist started throwing his bass up in the air and catching it with one hand and brandished his bass like a battle axe. "
+        "Nirvana's tour manager got into a fistfight with the person who stopped the show as Kurt turned his amp up all the way and Krist started throwing his bass up in the air and catching it with one hand and brandished his bass like a battle axe."
     ],
     "press": [],
     "memorabilia": [

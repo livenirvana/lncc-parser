@@ -8,7 +8,7 @@
     "country": "UK",
     "band": [
         {
-            "NIRVANA": [
+            "members": [
                 {
                     "name": "Kurt Cobain ",
                     "duty": "vocals, guitar"
@@ -22,7 +22,8 @@
                     "duty": "drums, backing vocals"
                 }
             ],
-            "type": "group"
+            "type": "group",
+            "name": "NIRVANA"
         }
     ],
     "crew": [
@@ -288,7 +289,7 @@
             "audio-generation": null,
             "length-sound": "02 min / 9.0",
             "notes": [
-                "Single camera PRO-shot video, featured on a MVT Europe News and includes clips of \"Lithium\" and short clip of \"Endless Nameless\".\n                                    Clips appear in the \"You Know You're Right\" music video and have been broadcast on MTV.\n"
+                "Single camera PRO-shot video, featured on a MVT Europe News and includes clips of \"Lithium\" and short clip of \"Endless Nameless\".\n                                    Clips appear in the \"You Know You're Right\" music video and have been broadcast on MTV."
             ]
         }
     ],

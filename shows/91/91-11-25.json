@@ -8,7 +8,7 @@
     "country": "NL",
     "band": [
         {
-            "NIRVANA": [
+            "members": [
                 {
                     "name": "Kurt Cobain ",
                     "duty": "vocals, guitar"
@@ -22,7 +22,8 @@
                     "duty": "drums, backing vocals"
                 }
             ],
-            "type": "group"
+            "type": "group",
+            "name": "NIRVANA"
         }
     ],
     "crew": [
@@ -212,7 +213,7 @@
             "length-sound": "13 min / 10",
             "notes": [
                 "Higher quality, but less complete than SBD #1a, SBD #1c, and SBD #1d.",
-                "Includes only \"School\", \"Been A Son\", \"Lithium\", and \"Blew\".\n                                    Technically this is a pre-FM source.\nDoes not include the soundcheck.\n"
+                "Includes only \"School\", \"Been A Son\", \"Lithium\", and \"Blew\".\n                                    Technically this is a pre-FM source.\nDoes not include the soundcheck."
             ]
         },
         {

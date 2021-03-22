@@ -8,7 +8,7 @@
     "country": "CA",
     "band": [
         {
-            "NIRVANA": [
+            "members": [
                 {
                     "name": "Kurt Cobain ",
                     "duty": "vocals, guitar, drums"
@@ -30,7 +30,8 @@
                     "duty": "cello"
                 }
             ],
-            "type": "group"
+            "type": "group",
+            "name": "NIRVANA"
         }
     ],
     "crew": [

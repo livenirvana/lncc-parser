@@ -8,7 +8,7 @@
     "country": "US",
     "band": [
         {
-            "NIRVANA": [
+            "members": [
                 {
                     "name": "Kurt Cobain ",
                     "duty": "vocals, guitar"
@@ -22,7 +22,8 @@
                     "duty": "drums"
                 }
             ],
-            "type": "group"
+            "type": "group",
+            "name": "NIRVANA"
         }
     ],
     "crew": [],
@@ -200,7 +201,7 @@
             "notes": [
                 "Video surfaced online March 2020.",
                 "Includes part of the band tuning and part of the Krist speech about the Gulf War.",
-                "\"Aneurysm\" (cuts in and out), \"Breed\" (cuts in), \"Stay Away\" (cuts in and out), \"School\" (cuts in and out), \"Territorial Pissings\" (cuts in) and \"Endless, Nameless\" (cut and cuts out). ",
+                "\"Aneurysm\" (cuts in and out), \"Breed\" (cuts in), \"Stay Away\" (cuts in and out), \"School\" (cuts in and out), \"Territorial Pissings\" (cuts in) and \"Endless, Nameless\" (cut and cuts out).",
                 "The complete video is 33 minutes long and was shot from the left side of the stage.",
                 "Clips of the destruction can be found on the official release \"Kurt Cobain: Montage of Heck\"."
             ]

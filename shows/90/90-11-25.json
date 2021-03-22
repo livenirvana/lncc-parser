@@ -8,7 +8,7 @@
     "country": "US",
     "band": [
         {
-            "NIRVANA": [
+            "members": [
                 {
                     "name": "Kurt Cobain ",
                     "duty": "vocals, guitar"
@@ -22,7 +22,8 @@
                     "duty": "drums, backing vocals"
                 }
             ],
-            "type": "group"
+            "type": "group",
+            "name": "NIRVANA"
         }
     ],
     "crew": [
@@ -261,7 +262,7 @@
                 "Missing everything before \"Dumb\" and everything after \"Sifting,\" which cuts out.",
                 "The taper also recorded the first set (everything before \"Dumb\"), but later obtained a copy of AUD #1 and discarded his recording due to its inferior quality and completeness (it had many cuts).",
                 "It is unlikely that any copies of his first set recording were made.",
-                "The source is currently only available in MP3 format (320kbps) as the taper destroyed the master tape after converting it to MP3. ",
+                "The source is currently only available in MP3 format (320kbps) as the taper destroyed the master tape after converting it to MP3.",
                 "The recording commences with some on-street banter recorded by the taper when the club had been cleared after the first set.",
                 "Does not include \"Radio Friendly Unit Shifter\", which is reported to be the last song (see AUD CLIP #1).",
                 "No more material was recorded by this taper as the tape ran out at this point."
@@ -321,7 +322,7 @@
     ],
     "notes": [
         "The band only played the beginning of \"Dive,\" then stopped so the venue could be cleared of alcohol before they continued to play.",
-        "It was rumored that Kurt played \"Dumb\", \"Polly\" and \"Something In The Way\" with a semi-acoustic guitar.\n                                "
+        "It was rumored that Kurt played \"Dumb\", \"Polly\" and \"Something In The Way\" with a semi-acoustic guitar."
     ],
     "press": [],
     "memorabilia": [

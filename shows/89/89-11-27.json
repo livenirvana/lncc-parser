@@ -8,7 +8,7 @@
     "country": "IT",
     "band": [
         {
-            "NIRVANA": [
+            "members": [
                 {
                     "name": "Kurt Cobain ",
                     "duty": "vocals, guitar"
@@ -22,7 +22,8 @@
                     "duty": "drums"
                 }
             ],
-            "type": "group"
+            "type": "group",
+            "name": "NIRVANA"
         }
     ],
     "crew": [
@@ -312,7 +313,7 @@
     "notes": [
         "After \"Big Cheese,\" Krist and Chad jammed while Kurt went backstage to replace a broken guitar string, according to an attendee.",
         "During \"Spank Thru,\" Kurt Cobain smashed his Hagström beyond repair, climbed up onto a tall speaker stack, and threatened to jump to his death.",
-        "\n"
+        ""
     ],
     "press": [],
     "memorabilia": [

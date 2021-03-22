@@ -8,7 +8,7 @@
     "country": "SE",
     "band": [
         {
-            "NIRVANA": [
+            "members": [
                 {
                     "name": "Kurt Cobain ",
                     "duty": "vocals, guitar"
@@ -22,7 +22,8 @@
                     "duty": "drums, backing vocals"
                 }
             ],
-            "type": "group"
+            "type": "group",
+            "name": "NIRVANA"
         },
         {
             "name": "Brendan O’Hare ",
@@ -311,7 +312,7 @@
         }
     ],
     "notes": [
-        "During soundcheck, a roadie stood in for Kurt.\n                                    Before \"Smells Like Teen Spirit,\" Kurt dragged about fifty fans waiting by the back gate onstage for the encore.\nAfter \"Territorial Pissings,\" Dave announced, \"Tonight, Brendan and I are going to leave you with a dance beat,\" then launched into a drum jam along with Teenage Fanclub's drummer Brendan O’Hare.\n",
+        "During soundcheck, a roadie stood in for Kurt.\n                                    Before \"Smells Like Teen Spirit,\" Kurt dragged about fifty fans waiting by the back gate onstage for the encore.\nAfter \"Territorial Pissings,\" Dave announced, \"Tonight, Brendan and I are going to leave you with a dance beat,\" then launched into a drum jam along with Teenage Fanclub's drummer Brendan O’Hare.",
         "Before \"Smells Like Teen Spirit,\" Kurt dragged about fifty fans waiting by the back gate onstage for the encore.",
         "After \"Territorial Pissings,\" Dave announced, \"Tonight, Brendan and I are going to leave you with a dance beat,\" then launched into a drum jam along with Teenage Fanclub's drummer Brendan O’Hare."
     ],

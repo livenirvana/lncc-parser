@@ -8,7 +8,7 @@
     "country": "FR",
     "band": [
         {
-            "NIRVANA": [
+            "members": [
                 {
                     "name": "Kurt Cobain ",
                     "duty": "vocals, guitar"
@@ -22,7 +22,8 @@
                     "duty": "drums, backing vocals, vocals"
                 }
             ],
-            "type": "group"
+            "type": "group",
+            "name": "NIRVANA"
         }
     ],
     "crew": [
@@ -197,7 +198,7 @@
             "audio-generation": null,
             "length-sound": "48 min / 7.5",
             "notes": [
-                "In September 2008 a new fresh transfer of the 2nd generation tape was circulated. "
+                "In September 2008 a new fresh transfer of the 2nd generation tape was circulated."
             ]
         },
         {

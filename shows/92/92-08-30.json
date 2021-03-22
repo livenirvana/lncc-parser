@@ -8,7 +8,7 @@
     "country": "UK",
     "band": [
         {
-            "NIRVANA": [
+            "members": [
                 {
                     "name": "Kurt Cobain ",
                     "duty": "vocals, guitar"
@@ -22,7 +22,8 @@
                     "duty": "drums, backing vocals"
                 }
             ],
-            "type": "group"
+            "type": "group",
+            "name": "NIRVANA"
         },
         {
             "name": "Everett True ",
@@ -62,9 +63,7 @@
         }
     ],
     "buyer": {
-        "names": [
-            "No Info"
-        ],
+        "names": [],
         "company": "The Mean Fiddler"
     },
     "schedule": [
@@ -301,7 +300,7 @@
             "length-sound": "05 min / 9.0",
             "notes": [
                 "Less complete, but higher quality than AUD #1a.",
-                "Includes only \"tourettes\" and \"The Money Will Roll Right\". \n                                    This source was taped next to the speaker stack, then speed copied with Dolby Noise reduction for sale on Camden Market, sadly the master has been destroyed.\n"
+                "Includes only \"tourettes\" and \"The Money Will Roll Right\". \n                                    This source was taped next to the speaker stack, then speed copied with Dolby Noise reduction for sale on Camden Market, sadly the master has been destroyed."
             ]
         },
         {

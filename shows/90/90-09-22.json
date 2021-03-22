@@ -8,7 +8,7 @@
     "country": "US",
     "band": [
         {
-            "NIRVANA": [
+            "members": [
                 {
                     "name": "Kurt Cobain ",
                     "duty": "vocals, guitar"
@@ -22,7 +22,8 @@
                     "duty": "drums"
                 }
             ],
-            "type": "group"
+            "type": "group",
+            "name": "NIRVANA"
         }
     ],
     "crew": [],
@@ -206,7 +207,7 @@
         "This was the only show with Dan Peters on drums.",
         "Dave Grohl was in the audience.",
         "At the end of the concert Kurt Cobain smashed his Aria Pro II beyond repair.",
-        "Some sources report more songs were played, but this seems unlikely. Cobain can be seen in AMT #1 smashing his kit at the end of the show.\n"
+        "Some sources report more songs were played, but this seems unlikely. Cobain can be seen in AMT #1 smashing his kit at the end of the show."
     ],
     "press": [],
     "memorabilia": [

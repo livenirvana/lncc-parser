@@ -8,7 +8,7 @@
     "country": "US",
     "band": [
         {
-            "NIRVANA": [
+            "members": [
                 {
                     "name": "Kurt Cobain ",
                     "duty": "vocals, guitar"
@@ -22,7 +22,8 @@
                     "duty": "drums"
                 }
             ],
-            "type": "group"
+            "type": "group",
+            "name": "NIRVANA"
         },
         {
             "name": "Zia Peroni ",
@@ -160,7 +161,7 @@
             "notes": [
                 "Amateur video, shot from the front left of the stage.",
                 "A DVDR(1) was ripped to MKV December 21st 2017, replacing inferior VHS(2) copies.",
-                "The DVD was claimed to be sourced from a VHS(1).\n                                "
+                "The DVD was claimed to be sourced from a VHS(1)."
             ]
         }
     ],

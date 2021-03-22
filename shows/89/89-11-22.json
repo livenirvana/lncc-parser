@@ -8,7 +8,7 @@
     "country": "AT",
     "band": [
         {
-            "Band project name": [
+            "members": [
                 {
                     "name": "Kurt Cobain ",
                     "duty": "vocals, guitar"
@@ -22,7 +22,8 @@
                     "duty": "drums"
                 }
             ],
-            "type": "group"
+            "type": "group",
+            "name": "Band project name"
         },
         {
             "name": "Tad Doyle ",
@@ -614,7 +615,7 @@
             "notes": [
                 "Higher quality and Pre-FM soundboard source.",
                 "Missing Cobain's opening dialogue about his guitar, the screaming intro, the very first song (\"School\") and some announcer banter after \"Blew\" about T-shirts being on sale.",
-                "All other songs and between-song banter are present.\n                                    \n"
+                "All other songs and between-song banter are present."
             ]
         }
     ],

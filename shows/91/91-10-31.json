@@ -8,7 +8,7 @@
     "country": "US",
     "band": [
         {
-            "NIRVANA": [
+            "members": [
                 {
                     "name": "Kurt Cobain ",
                     "duty": "vocals, guitar"
@@ -22,7 +22,8 @@
                     "duty": "drums, backing vocals"
                 }
             ],
-            "type": "group"
+            "type": "group",
+            "name": "NIRVANA"
         },
         {
             "name": "Nikki McClure ",
@@ -333,7 +334,7 @@
             "audio-generation": null,
             "length-sound": "15 min / 10",
             "notes": [
-                "Has different camera angles from PRO #2, PRO #4, PRO #5, and PRO #6.\n                                    Includes only \"About A Girl\", \"Polly\", \"Breed\", and parts of \"Endless, Nameless\".\nFive-camera PRO-shot video, featuring soundboard audio with audience mics mixed in.\nDoes not include the soundcheck.\n"
+                "Has different camera angles from PRO #2, PRO #4, PRO #5, and PRO #6.\n                                    Includes only \"About A Girl\", \"Polly\", \"Breed\", and parts of \"Endless, Nameless\".\nFive-camera PRO-shot video, featuring soundboard audio with audience mics mixed in.\nDoes not include the soundcheck."
             ]
         },
         {
@@ -380,7 +381,7 @@
             "length-sound": "05 min / 10",
             "notes": [
                 "Has different camera angles from PRO #5 and PRO #6.",
-                "Includes only \"Smells Like Teen Spirit\", which has some special effects. ",
+                "Includes only \"Smells Like Teen Spirit\", which has some special effects.",
                 "Six-camera video with soundboard audio.",
                 "Includes the five professional 16 mm angles along with black and white clips of the uncirculated Super 8 amateur video.",
                 "Edited by Louis Marciano in November 1991, possibly for potential release as a music video.",
@@ -417,7 +418,7 @@
                 "Has different camera angles from PRO #1, PRO #2, PRO #3, PRO #4, and PRO #5.",
                 "Five-camera video with soundboard audio.",
                 "Includes professionally remixed stereo audio and 5.1-channel audio by Nathaniel Kunkel, both done in 2011 for this release.",
-                "At least one instance of an out-of-tune instrument was fixed during the production of this audio mix. ",
+                "At least one instance of an out-of-tune instrument was fixed during the production of this audio mix.",
                 "This is evident with Krist's bass during \"About A Girl\", which sounds noticeably out of tune on other circulating recordings of the show."
             ]
         },

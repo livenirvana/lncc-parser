@@ -8,7 +8,7 @@
     "country": "NL",
     "band": [
         {
-            "NIRVANA": [
+            "members": [
                 {
                     "name": "Kurt Cobain ",
                     "duty": "vocals, guitar"
@@ -22,7 +22,8 @@
                     "duty": "drums"
                 }
             ],
-            "type": "group"
+            "type": "group",
+            "name": "NIRVANA"
         }
     ],
     "crew": [
@@ -600,7 +601,7 @@
     ],
     "uncirculated_sources": [],
     "notes": [
-        "During the first performance of \"Stain\" Kurt stopped playing because of sound problems with his guitar..\n                                    During the \"Stain\" jam, Krist sang a bit of \"Funkytown\" by Lipps, Inc.\n",
+        "During the first performance of \"Stain\" Kurt stopped playing because of sound problems with his guitar..\n                                    During the \"Stain\" jam, Krist sang a bit of \"Funkytown\" by Lipps, Inc.",
         "During the \"Stain\" jam, Krist sang a bit of \"Funkytown\" by Lipps, Inc."
     ],
     "press": [],

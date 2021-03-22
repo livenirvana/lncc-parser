@@ -8,7 +8,7 @@
     "country": "IT",
     "band": [
         {
-            "TAD": [
+            "members": [
                 {
                     "name": "Kurt Danielson ",
                     "duty": "bass"
@@ -22,7 +22,8 @@
                     "duty": "drums"
                 }
             ],
-            "type": "group"
+            "type": "group",
+            "name": "TAD"
         },
         {
             "name": "Kurt Cobain ",

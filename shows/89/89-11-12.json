@@ -8,7 +8,7 @@
     "country": "DE",
     "band": [
         {
-            "NIRVANA": [
+            "members": [
                 {
                     "name": "Kurt Cobain ",
                     "duty": "vocals, guitar"
@@ -22,7 +22,8 @@
                     "duty": "drums"
                 }
             ],
-            "type": "group"
+            "type": "group",
+            "name": "NIRVANA"
         }
     ],
     "crew": [
@@ -219,7 +220,7 @@
     "uncirculated_sources": [],
     "notes": [
         "The show was originally supposed to be at the Alhambra, but the venue didn't want Tad playing there because of their lyrics, so the show was moved.",
-        "You can hear the band tuning after \"Even In His Youth\", probably other songs were played during the encore.\n                                    Before \"Scoff,\" there was a short jam with the theme from TV series \"The Twilight Zone\".\nVersions of the jam were also played at the 11/08/89, 11/09/89, and 12/02/89 shows.\n",
+        "You can hear the band tuning after \"Even In His Youth\", probably other songs were played during the encore.\n                                    Before \"Scoff,\" there was a short jam with the theme from TV series \"The Twilight Zone\".\nVersions of the jam were also played at the 11/08/89, 11/09/89, and 12/02/89 shows.",
         "Before \"Scoff,\" there was a short jam with the theme from TV series \"The Twilight Zone\".",
         "Versions of the jam were also played at the 11/08/89, 11/09/89, and 12/02/89 shows."
     ],

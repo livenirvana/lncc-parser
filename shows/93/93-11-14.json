@@ -8,7 +8,7 @@
     "country": "US",
     "band": [
         {
-            "NIRVANA": [
+            "members": [
                 {
                     "name": "Kurt Cobain ",
                     "duty": "vocals, guitar"
@@ -30,7 +30,8 @@
                     "duty": "cello"
                 }
             ],
-            "type": "group"
+            "type": "group",
+            "name": "NIRVANA"
         },
         {
             "name": "Everett True ",
@@ -296,7 +297,7 @@
             "audio-generation": null,
             "length-sound": "85 min / 7.0",
             "notes": [
-                "There are speed problems during \"Jesus Doesn't Want Me For A Sunbeam\".\n                                    This is the same source as what is sometimes erroneously listed as \"Tascam DAT\" (traded as DAT(M)>ANA(1)>CDR) or \"ECM-737 > Sony WM-D6\" (traded as ANA(M)>DAT).\n"
+                "There are speed problems during \"Jesus Doesn't Want Me For A Sunbeam\".\n                                    This is the same source as what is sometimes erroneously listed as \"Tascam DAT\" (traded as DAT(M)>ANA(1)>CDR) or \"ECM-737 > Sony WM-D6\" (traded as ANA(M)>DAT)."
             ]
         },
         {

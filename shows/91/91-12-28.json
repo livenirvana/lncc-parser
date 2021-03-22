@@ -8,7 +8,7 @@
     "country": "US",
     "band": [
         {
-            "NIRVANA": [
+            "members": [
                 {
                     "name": "Kurt Cobain ",
                     "duty": "vocals, guitar"
@@ -22,7 +22,8 @@
                     "duty": "drums, backing vocals"
                 }
             ],
-            "type": "group"
+            "type": "group",
+            "name": "NIRVANA"
         }
     ],
     "crew": [
@@ -157,7 +158,7 @@
             "length-sound": "43 min / 9.0",
             "notes": [
                 "In November 2007 another 1st generation tape surfaced.",
-                "More complete, but lower quality than SBD #1b, SBD #1c, SBD #1d, and SBD #1e.\n                                    Complete, uncut, soundboard recording, remixed by Andy Wallace.\n"
+                "More complete, but lower quality than SBD #1b, SBD #1c, SBD #1d, and SBD #1e.\n                                    Complete, uncut, soundboard recording, remixed by Andy Wallace."
             ]
         },
         {

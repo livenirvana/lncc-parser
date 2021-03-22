@@ -8,7 +8,7 @@
     "country": "US",
     "band": [
         {
-            "NIRVANA": [
+            "members": [
                 {
                     "name": "Kurt Cobain ",
                     "duty": "vocals, guitar"
@@ -22,7 +22,8 @@
                     "duty": "drums"
                 }
             ],
-            "type": "group"
+            "type": "group",
+            "name": "NIRVANA"
         }
     ],
     "crew": [
@@ -173,7 +174,7 @@
             "audio-generation": null,
             "length-sound": "01 min / 10",
             "notes": [
-                "Multi camera PRO-shot video, with soundboard audio, broadcast during the intro of NIRVANA's induction into the Rock 'N Roll Hall Of Fame on April 10, 2014. \n                                    Have different camera angles than PRO #1 and PRO #2.\n"
+                "Multi camera PRO-shot video, with soundboard audio, broadcast during the intro of NIRVANA's induction into the Rock 'N Roll Hall Of Fame on April 10, 2014. \n                                    Have different camera angles than PRO #1 and PRO #2."
             ]
         }
     ],

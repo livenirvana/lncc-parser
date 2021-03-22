@@ -8,7 +8,7 @@
     "country": "UK",
     "band": [
         {
-            "NIRVANA": [
+            "members": [
                 {
                     "name": "Kurt Cobain ",
                     "duty": "vocals, guitar"
@@ -22,7 +22,8 @@
                     "duty": "drums"
                 }
             ],
-            "type": "group"
+            "type": "group",
+            "name": "NIRVANA"
         }
     ],
     "crew": [
@@ -218,7 +219,7 @@
             "audio-generation": null,
             "length-sound": "45 min / ??",
             "notes": [
-                "Surfaced in September 2019.\n                                    Broadcast on a live show called \"London Calling\" by Radio Onde Furlane on 7 March 2019.\nMissing \"Been A Son\", \"Negative Creep\", \"Paper Cuts\" and \"Even In His Youth\".\nDoes not include the soundcheck.\n"
+                "Surfaced in September 2019.\n                                    Broadcast on a live show called \"London Calling\" by Radio Onde Furlane on 7 March 2019.\nMissing \"Been A Son\", \"Negative Creep\", \"Paper Cuts\" and \"Even In His Youth\".\nDoes not include the soundcheck."
             ]
         }
     ],

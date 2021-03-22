@@ -8,7 +8,7 @@
     "country": "US",
     "band": [
         {
-            "NIRVANA": [
+            "members": [
                 {
                     "name": "Kurt Cobain ",
                     "duty": "vocals, guitar"
@@ -22,7 +22,8 @@
                     "duty": "drums"
                 }
             ],
-            "type": "group"
+            "type": "group",
+            "name": "NIRVANA"
         }
     ],
     "crew": [
@@ -165,7 +166,7 @@
             "notes": [
                 "The correct generation for this source is ANA(3) or ANA(4).",
                 "This audience source is missing everything before \"Spank Thru\".",
-                "The master is believed to be incomplete, just missing \"Here She Comes Now\".\n                                "
+                "The master is believed to be incomplete, just missing \"Here She Comes Now\"."
             ]
         },
         {

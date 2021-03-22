@@ -8,13 +8,14 @@
     "country": "AR",
     "band": [
         {
-            "Pirata Industrial": [
+            "members": [
                 {
                     "name": "Luis ",
                     "duty": "drums"
                 }
             ],
-            "type": "group"
+            "type": "group",
+            "name": "Pirata Industrial"
         },
         {
             "name": "Krist Novoselic ",

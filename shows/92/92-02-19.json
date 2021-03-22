@@ -8,7 +8,7 @@
     "country": "JP",
     "band": [
         {
-            "NIRVANA": [
+            "members": [
                 {
                     "name": "Kurt Cobain ",
                     "duty": "vocals, guitar"
@@ -22,7 +22,8 @@
                     "duty": "drums, backing vocals"
                 }
             ],
-            "type": "group"
+            "type": "group",
+            "name": "NIRVANA"
         }
     ],
     "crew": [
@@ -52,9 +53,7 @@
         }
     ],
     "buyer": {
-        "names": [
-            "No Info"
-        ],
+        "names": [],
         "company": "UDO Artists, Inc."
     },
     "schedule": [
@@ -287,7 +286,7 @@
             "audio-generation": null,
             "length-sound": "61 min / 10",
             "notes": [
-                "More complete in the beginning and after \"Love Buzz\" than AUD #2a. \n                                    Has dropouts and diginoise at the end of \"Aneurysm\" and on the intro to \"Love Buzz\".\n"
+                "More complete in the beginning and after \"Love Buzz\" than AUD #2a. \n                                    Has dropouts and diginoise at the end of \"Aneurysm\" and on the intro to \"Love Buzz\"."
             ]
         }
     ],

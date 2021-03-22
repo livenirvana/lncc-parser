@@ -8,7 +8,7 @@
     "country": "US",
     "band": [
         {
-            "NIRVANA": [
+            "members": [
                 {
                     "name": "Kurt Cobain ",
                     "duty": "vocals, guitar"
@@ -22,7 +22,8 @@
                     "duty": "drums"
                 }
             ],
-            "type": "group"
+            "type": "group",
+            "name": "NIRVANA"
         }
     ],
     "crew": [],
@@ -222,7 +223,7 @@
             "notes": [
                 "The circulating DVDR was remastered.",
                 "Same source and higher quality, but less complete than AMT #1a.",
-                "Circulated as VHS(1), this source should be at least a VHS(2) or higher. It was sold as an \"TED ED FRED\" bootleg.\n                                    Includes, in this order, only the following: \"School\", \"Floyd The Barber\", \"Paper Cuts\" (cuts in), \"Mexican Seafood', \"Spank Thru\", \"Love Buzz\" (cuts in) and \"Aero Zeppelin\" (the first attempt at which cuts in, and the second cuts out).\nThis source is obviously an edit of AMT #1a as \"Love Buzz\" on this version is out of order, appearing after \"Spank Thru\".\n"
+                "Circulated as VHS(1), this source should be at least a VHS(2) or higher. It was sold as an \"TED ED FRED\" bootleg.\n                                    Includes, in this order, only the following: \"School\", \"Floyd The Barber\", \"Paper Cuts\" (cuts in), \"Mexican Seafood', \"Spank Thru\", \"Love Buzz\" (cuts in) and \"Aero Zeppelin\" (the first attempt at which cuts in, and the second cuts out).\nThis source is obviously an edit of AMT #1a as \"Love Buzz\" on this version is out of order, appearing after \"Spank Thru\"."
             ]
         }
     ],

@@ -8,7 +8,7 @@
     "country": "US",
     "band": [
         {
-            "NIRVANA": [
+            "members": [
                 {
                     "name": "Kurt Cobain ",
                     "duty": "vocals, guitar"
@@ -22,7 +22,8 @@
                     "duty": "drums, backing vocals"
                 }
             ],
-            "type": "group"
+            "type": "group",
+            "name": "NIRVANA"
         }
     ],
     "crew": [
@@ -226,7 +227,7 @@
                 "Previously listed as ANA(M), which was found to be incorrect.",
                 "A more complete ANA(1) surfaced April 22nd 2017.",
                 "Almost all of \"Come Of You Are\" is cut and \"Stay Away\" cuts in, due to this being the point of the tape flip.",
-                "The end noise also fades out. "
+                "The end noise also fades out."
             ]
         },
         {

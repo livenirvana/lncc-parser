@@ -8,13 +8,14 @@
     "country": "US",
     "band": [
         {
-            "Witchypoo": [
+            "members": [
                 {
                     "name": "Slim Moon ",
                     "duty": "vocals, bass"
                 }
             ],
-            "type": "group"
+            "type": "group",
+            "name": "Witchypoo"
         },
         {
             "name": "Billy Karren ",
@@ -34,9 +35,7 @@
     ],
     "crew": [],
     "buyer": {
-        "names": [
-            "No Info"
-        ],
+        "names": [],
         "company": "Pulp Productions"
     },
     "schedule": [

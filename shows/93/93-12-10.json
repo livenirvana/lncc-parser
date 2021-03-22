@@ -8,7 +8,7 @@
     "country": "US",
     "band": [
         {
-            "NIRVANA": [
+            "members": [
                 {
                     "name": "Kurt Cobain ",
                     "duty": "vocals, guitar"
@@ -30,7 +30,8 @@
                     "duty": "cello"
                 }
             ],
-            "type": "group"
+            "type": "group",
+            "name": "NIRVANA"
         }
     ],
     "crew": [
@@ -363,7 +364,7 @@
             "notes": [
                 "PRO-shot video with open mic audio broadcast by TV Monte Carlo in Italy.",
                 "Includes a 10 seconds of \"Drain You\".",
-                "At least a clip of \"Drain You\" was also broadcast by KSTW-TV on april 8th 1994.\n                                "
+                "At least a clip of \"Drain You\" was also broadcast by KSTW-TV on april 8th 1994."
             ]
         }
     ],

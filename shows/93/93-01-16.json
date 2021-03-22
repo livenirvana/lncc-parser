@@ -8,7 +8,7 @@
     "country": "BR",
     "band": [
         {
-            "NIRVANA": [
+            "members": [
                 {
                     "name": "Kurt Cobain ",
                     "duty": "vocals, guitar, backing vocals, drums"
@@ -22,7 +22,8 @@
                     "duty": "drums, backing vocals, vocals, bass"
                 }
             ],
-            "type": "group"
+            "type": "group",
+            "name": "NIRVANA"
         },
         {
             "name": "Flea ",
@@ -616,7 +617,7 @@
             "audio-generation": null,
             "length-sound": "52:41 min / 10",
             "notes": [
-                "Surfaced in January 2014. \n                                    Missing everything before \"D-7\", which cuts in, and everything after \"Territorial Pissings\".\n\"Smells Like Teen Spirit\" cuts out and \"On A Plain\" cuts in.\nThe master is believed to be complete and also includes the soundcheck.\n"
+                "Surfaced in January 2014. \n                                    Missing everything before \"D-7\", which cuts in, and everything after \"Territorial Pissings\".\n\"Smells Like Teen Spirit\" cuts out and \"On A Plain\" cuts in.\nThe master is believed to be complete and also includes the soundcheck."
             ]
         },
         {
@@ -689,7 +690,7 @@
             "length-sound": "50 sec / 9.5",
             "notes": [
                 "Shot by Globo TV with two cameras and soundboard audio.",
-                "Same shot as PRO #1, but features higher quality clips of \"Breed\", \"Sliver\", the first destruction during \"Heartbreaker-jam\" and the second destruction during \"Scentless Apprentice\" have been broadcast on Globo TV show called \"Fantástico\", 2003. "
+                "Same shot as PRO #1, but features higher quality clips of \"Breed\", \"Sliver\", the first destruction during \"Heartbreaker-jam\" and the second destruction during \"Scentless Apprentice\" have been broadcast on Globo TV show called \"Fantástico\", 2003."
             ]
         },
         {
