@@ -1,373 +1,9 @@
 <?php
 
-# Notes here for Jon, JSON validator, etc
-
-$payload = <<<'JSON'
-
-{
-    "year": "1990",
-    "month": "11",
-    "day": "25",
-    "venue": "The Off Ramp",
-    "city": "Seattle",
-    "state": "WA",
-    "country": "US",
-    "band": [
-        {
-            "NIRVANA": [
-                {
-                    "name": "Kurt Cobain ",
-                    "duty": "vocals, guitar"
-                },
-                {
-                    "name": "Krist Novoselic ",
-                    "duty": "bass"
-                },
-                {
-                    "name": "Dave Grohl ",
-                    "duty": "drums, backing vocals"
-                }
-            ],
-            "type": "group"
-        }
-    ],
-    "crew": [
-        {
-            "name": "…",
-            "duty": ""
-        }
-    ],
-    "buyer": {
-        "names": [
-            "Jeff Holmes"
-        ]
-    },
-    "schedule": [
-        {
-            "event": "Load In",
-            "time": "…:…"
-        },
-        {
-            "event": "Soundcheck",
-            "time": "…:…"
-        },
-        {
-            "event": "Doors",
-            "time": "21:00"
-        },
-        {
-            "event": "Earth Showtime",
-            "time": "…:…"
-        },
-        {
-            "event": "Heavy Into Jeff Showtime",
-            "time": "…:…"
-        },
-        {
-            "event": "The Holy Rollers Showtime",
-            "time": "…:…"
-        },
-        {
-            "event": "NIRVANA Showtime",
-            "time": "…:…"
-        }
-    ],
-    "soundcheck": [],
-    "soundcheck_incomplete": false,
-    "set": [
-        {
-            "type": "song",
-            "text": "Aneurysm",
-            "notes": []
-        },
-        {
-            "type": "song",
-            "text": "Oh, The Guilt",
-            "notes": []
-        },
-        {
-            "type": "song",
-            "text": "Mr. Moustache",
-            "notes": []
-        },
-        {
-            "type": "song",
-            "text": "Stay Away",
-            "notes": []
-        },
-        {
-            "type": "song",
-            "text": "Breed",
-            "notes": []
-        },
-        {
-            "type": "song",
-            "text": "Floyd The Barber",
-            "notes": []
-        },
-        {
-            "type": "song",
-            "text": "About A Girl",
-            "notes": []
-        },
-        {
-            "type": "song",
-            "text": "Verse Chorus Verse",
-            "notes": []
-        },
-        {
-            "type": "song",
-            "text": "In Bloom",
-            "notes": []
-        },
-        {
-            "type": "song",
-            "text": "Swap Meet",
-            "notes": []
-        },
-        {
-            "type": "song",
-            "text": "Been A Son",
-            "notes": []
-        },
-        {
-            "type": "song",
-            "text": "Stain",
-            "notes": []
-        },
-        {
-            "type": "song",
-            "text": "Blew",
-            "notes": []
-        },
-        {
-            "type": "song",
-            "text": "Sappy",
-            "notes": []
-        },
-        {
-            "type": "song",
-            "text": "Lithium",
-            "notes": []
-        },
-        {
-            "type": "song",
-            "text": "School",
-            "notes": []
-        },
-        {
-            "type": "song",
-            "text": "D-7",
-            "notes": []
-        },
-        {
-            "type": "song",
-            "text": "Here She Comes Now",
-            "notes": []
-        },
-        {
-            "type": "song",
-            "text": "Sliver",
-            "notes": []
-        },
-        {
-            "type": "song",
-            "text": "Dive",
-            "notes": [
-                "part of"
-            ]
-        },
-        {
-            "type": "song",
-            "text": "Dumb",
-            "notes": []
-        },
-        {
-            "type": "song",
-            "text": "Polly",
-            "notes": []
-        },
-        {
-            "type": "song",
-            "text": "Something In The Way",
-            "notes": []
-        },
-        {
-            "type": "song",
-            "text": "Negative Creep",
-            "notes": []
-        },
-        {
-            "type": "song",
-            "text": "Love Buzz",
-            "notes": []
-        },
-        {
-            "type": "song",
-            "text": "Where Did You Sleep Last Night?",
-            "notes": [
-                "jam"
-            ]
-        },
-        {
-            "type": "song",
-            "text": "Spank Thru",
-            "notes": []
-        },
-        {
-            "type": "song",
-            "text": "Molly's Lips",
-            "notes": []
-        },
-        {
-            "type": "song",
-            "text": "Son Of A Gun",
-            "notes": []
-        },
-        {
-            "type": "song",
-            "text": "Sifting",
-            "notes": []
-        },
-        {
-            "type": "song",
-            "text": "Radio Friendly Unit Shifter",
-            "notes": []
-        }
-    ],
-    "set_incomplete": false,
-    "transmission": {},
-    "rehearsel_circulating_sources": [],
-    "circulating_sources": [
-        {
-            "name": "AUD #1",
-            "complete": false,
-            "equipment": "Unknown > Unknown",
-            "generation": "ANA(1) > FLAC",
-            "video-generation": null,
-            "audio-generation": null,
-            "length-sound": "72 min / 7.5",
-            "notes": [
-                "A first generation to FLAC transfer surfaced April 22nd 2017.",
-                "Missing everything after the beginning of \"Dive\".",
-                "All circulating copies of this source are missing the encore (see AUD #2 and AUD CLIP #1).",
-                "It is unclear if the taper only recorded the first set or whether the circulating recording has been deliberately cut to omit the encore from this source."
-            ]
-        },
-        {
-            "name": "AUD #2",
-            "complete": false,
-            "equipment": "Aiwa > Aiwa",
-            "generation": "ANA(M) > MP3 > FLAC",
-            "video-generation": null,
-            "audio-generation": null,
-            "length-sound": "31 min / 7.5",
-            "notes": [
-                "Surfaced in September 2004.",
-                "Missing everything before \"Dumb\" and everything after \"Sifting,\" which cuts out.",
-                "The taper also recorded the first set (everything before \"Dumb\"), but later obtained a copy of AUD #1 and discarded his recording due to its inferior quality and completeness (it had many cuts).",
-                "It is unlikely that any copies of his first set recording were made.",
-                "The source is currently only available in MP3 format (320kbps) as the taper destroyed the master tape after converting it to MP3. ",
-                "The recording commences with some on-street banter recorded by the taper when the club had been cleared after the first set.",
-                "Does not include \"Radio Friendly Unit Shifter\", which is reported to be the last song (see AUD CLIP #1).",
-                "No more material was recorded by this taper as the tape ran out at this point."
-            ]
-        },
-        {
-            "name": "AUD #3",
-            "complete": false,
-            "equipment": "unknown > unknown",
-            "generation": "ANA(1) > FLAC",
-            "video-generation": null,
-            "audio-generation": null,
-            "length-sound": "46:59 min / ?",
-            "notes": [
-                "Surfaced in December 2020.",
-                "Missing everything before \"Stay Away\" and everything after \"Sliver\", which cuts out.",
-                "Also missing \"Verse Chorus Verse\" and \"Sappy\"."
-            ]
-        },
-        {
-            "name": "SBD #1",
-            "complete": false,
-            "equipment": "Unknown > Unknown",
-            "generation": "ANA(1) > FLAC",
-            "video-generation": null,
-            "audio-generation": null,
-            "length-sound": "74 min / 8.5",
-            "notes": [
-                "Surfaced in May 2007.",
-                "Missing everything after the beginning of \"Dive\".",
-                "\"Sappy\" cuts in.",
-                "Soundboard on the left channel, audience on the right channel.",
-                "The audience level is to high during the first songs and during just about every song the soundboard level gets extremely loud for a few seconds."
-            ]
-        },
-        {
-            "name": "AUD CLIP #1",
-            "complete": false,
-            "equipment": "Unknown > Unknown",
-            "generation": "Unknown > MP3",
-            "video-generation": null,
-            "audio-generation": null,
-            "length-sound": "20 sec / 7.5",
-            "notes": [
-                "A very brief clip of \"Radio Friendly Unit Shifter\".",
-                "This clip mysteriously appeared on the internet in December 2002 in MP3 format and is believed to be from this show.",
-                "This source may really be from the same source as AUD #1.",
-                "This source is believed to be complete, but only a clip of \"Radio Friendly Unit Shifter\" is circulating."
-            ]
-        }
-    ],
-    "uncirculated_sources": [
-        {
-            "name": "AMT #1",
-            "note": "It is rumored that the club video taped the show from the back of the venue."
-        }
-    ],
-    "notes": [
-        "The band only played the beginning of \"Dive,\" then stopped so the venue could be cleared of alcohol before they continued to play.",
-        "It was rumored that Kurt played \"Dumb\", \"Polly\" and \"Something In The Way\" with a semi-acoustic guitar.\n                                "
-    ],
-    "press": [],
-    "memorabilia": [
-        {
-            "url": "/concerts/images/1990/1990-11-25/1990-11-25_01.jpg",
-            "caption": "Advert"
-        },
-        {
-            "url": "/concerts/images/1990/1990-11-25/1990-11-25_02.jpg",
-            "caption": "Advert"
-        },
-        {
-            "url": "/concerts/images/1990/1990-11-25/1990-11-25_03.jpg",
-            "caption": "Handbill/Flyer, designed by unknown"
-        }
-    ],
-    "images": [
-        {
-            "url": "/concerts/images/1990/1990-11-25/1990-11-25_001.jpg",
-            "caption": "Unknown photographer"
-        }
-    ],
-    "navigation": {
-        "previous": "90-10-29",
-        "next": "90-12-31"
-    },
-    "graph": {
-        "bleach": "1",
-        "nevermind": "1",
-        "inutero": "1",
-        "non": "1"
-    }
-}
-
-JSON;
-
 $data = json_decode($payload, true);
 
-$date = $data['month'] . ' ' . $data['day'] . ' ' . $data['year'];
-$date = DateTime::createFromFormat('!m !d !Y', $date);
+$date_string = $data['month'] . ' ' . $data['day'] . ' ' . $data['year'];
+$date = DateTime::createFromFormat('m d Y', $date_string);
 $year = $data['year'];
 
 $title = $date->format('F d, Y') . ' - ' . $data['venue'] . ', ' . $data['city'] . ', ' . $data['state'] . ', ' . $data['country'];
@@ -423,8 +59,8 @@ $title = $date->format('F d, Y') . ' - ' . $data['venue'] . ', ' . $data['city']
                                     <li>
                                         <?php echo $bandmember['name']; ?>
                                         <ul>
-                                            <?php foreach ($bandmember['member'] as $nested_member): ?>
-                                            <li><?php echo $nested_member['name']; ?> <i><?php echo $nested_member['duty']; ?></i></li>
+                                            <?php foreach ($bandmember['members'] as $nested_member): ?>
+                                            <li><?php echo $nested_member['name']; ?> <i>(<?php echo $nested_member['duty']; ?>)</i></li>
                                         <?php endforeach; ?>
                                         </ul>
                                     </li>
@@ -565,31 +201,37 @@ $title = $date->format('F d, Y') . ' - ' . $data['venue'] . ', ' . $data['city']
                                 <?php if (!empty($data['rehearsel_circulating_sources'])): ?>
                                 <h2 class="page-header">Soundcheck/Dress Rehearsal Circulating Recordings</h2>
                                 <?php foreach ($data['rehearsel_circulating_sources'] as $source): ?>
-                                <h5 class="source-title"><span class="green"><?php echo $source['name']; ?><?php if (!$source['complete']): ?> <small>incomplete</small><?php endif; ?></span></h5>
-                                <dl class="dl-horizontal">
-                                    <dt>Equipment:</dt>
-                                    <dd><?php echo $source['equipment']; ?></dd>
-                                    <?php if (!is_null($source['generation'])): ?>
-                                    <dt>Lowest Generation:</dt>
-                                    <dd><?php echo $source['generation']; ?></dd>
-                                    <?php endif ?>
-                                    <?php if (!is_null($source['audio-generation'])): ?>
-                                    <dt>Lowest Audio Generation:</dt>
-                                    <dd><?php echo $source['audio-generation']; ?></dd>
-                                    <?php endif ?>
-                                    <?php if (!is_null($source['video-generation'])): ?>
-                                    <dt>Lowest Video Generation:</dt>
-                                    <dd><?php echo $source['video-generation']; ?></dd>
-                                    <?php endif ?>
-                                    <dt>Length / Sound Quality:</dt>
-                                    <dd><?php echo $source['length-sound']; ?></dd>
-                                    <?php if (!empty($source['notes'])): ?>
-                                    <dt>Notes:</dt>
-                                    <?php foreach ($source['notes'] as $note): ?>
-                                    <dd><?php echo $note; ?></dd>
-                                    <?php endforeach; ?>
-                                    <?php endif;?>
-                                </dl>
+                                <div class="panel panel-default">
+                                    <div class="panel-heading" style="padding:2px 15px;">
+                                        <h5 class="source-title"><span class="green"><?php echo $source['name']; ?><?php if (!$source['complete']): ?> <small>incomplete</small><?php endif; ?></span></h5>
+                                    </div>
+                                    <div class="panel-body">
+                                        <dl class="dl-horizontal">
+                                            <dt>Equipment:</dt>
+                                            <dd><?php echo $source['equipment']; ?></dd>
+                                            <?php if (!is_null($source['generation'])): ?>
+                                            <dt>Lowest Generation:</dt>
+                                            <dd><?php echo $source['generation']; ?></dd>
+                                            <?php endif ?>
+                                            <?php if (!is_null($source['audio-generation'])): ?>
+                                            <dt>Lowest Audio Generation:</dt>
+                                            <dd><?php echo $source['audio-generation']; ?></dd>
+                                            <?php endif ?>
+                                            <?php if (!is_null($source['video-generation'])): ?>
+                                            <dt>Lowest Video Generation:</dt>
+                                            <dd><?php echo $source['video-generation']; ?></dd>
+                                            <?php endif ?>
+                                            <dt>Length / Sound Quality:</dt>
+                                            <dd><?php echo $source['length-sound']; ?></dd>
+                                            <?php if (!empty($source['notes'])): ?>
+                                            <dt>Notes:</dt>
+                                            <?php foreach ($source['notes'] as $note): ?>
+                                            <dd><?php echo $note; ?></dd>
+                                            <?php endforeach; ?>
+                                            <?php endif;?>
+                                        </dl>
+                                    </div>
+                                </div>
                                 <?php endforeach; ?>
                                 <?php endif; ?>
 
@@ -600,31 +242,37 @@ $title = $date->format('F d, Y') . ' - ' . $data['venue'] . ', ' . $data['city']
                                 <?php endif; ?>
                                 <?php if (!empty($data['circulating_sources'])): ?>
                                 <?php foreach ($data['circulating_sources'] as $source): ?>
-                                <h5 class="source-title"><span class="green"><?php echo $source['name']; ?><?php if (!$source['complete']): ?> <small>incomplete</small><?php endif; ?></span></h5>
-                                <dl class="dl-horizontal">
-                                    <dt>Equipment:</dt>
-                                    <dd><?php echo $source['equipment']; ?></dd>
-                                    <?php if (!is_null($source['generation'])): ?>
-                                    <dt>Lowest Generation:</dt>
-                                    <dd><?php echo $source['generation']; ?></dd>
-                                    <?php endif ?>
-                                    <?php if (!is_null($source['audio-generation'])): ?>
-                                    <dt>Lowest Audio Generation:</dt>
-                                    <dd><?php echo $source['audio-generation']; ?></dd>
-                                    <?php endif ?>
-                                    <?php if (!is_null($source['video-generation'])): ?>
-                                    <dt>Lowest Video Generation:</dt>
-                                    <dd><?php echo $source['video-generation']; ?></dd>
-                                    <?php endif ?>
-                                    <dt>Length / Sound Quality:</dt>
-                                    <dd><?php echo $source['length-sound']; ?></dd>
-                                    <?php if (!empty($source['notes'])): ?>
-                                    <dt>Notes:</dt>
-                                    <?php foreach ($source['notes'] as $note): ?>
-                                    <dd><?php echo $note; ?></dd>
-                                    <?php endforeach; ?>
-                                    <?php endif;?>
-                                </dl>
+                                <div class="panel panel-default">
+                                    <div class="panel-heading" style="padding:2px 15px;">
+                                        <h5 class="source-title"><span class="green"><?php echo $source['name']; ?><?php if (!$source['complete']): ?> <small>incomplete</small><?php endif; ?></span></h5>
+                                    </div>
+                                    <div class="panel-body">
+                                        <dl class="dl-horizontal">
+                                            <dt>Equipment:</dt>
+                                            <dd><?php echo $source['equipment']; ?></dd>
+                                            <?php if (!is_null($source['generation'])): ?>
+                                            <dt>Lowest Generation:</dt>
+                                            <dd><?php echo $source['generation']; ?></dd>
+                                            <?php endif ?>
+                                            <?php if (!is_null($source['audio-generation'])): ?>
+                                            <dt>Lowest Audio Generation:</dt>
+                                            <dd><?php echo $source['audio-generation']; ?></dd>
+                                            <?php endif ?>
+                                            <?php if (!is_null($source['video-generation'])): ?>
+                                            <dt>Lowest Video Generation:</dt>
+                                            <dd><?php echo $source['video-generation']; ?></dd>
+                                            <?php endif ?>
+                                            <dt>Length / Sound Quality:</dt>
+                                            <dd><?php echo $source['length-sound']; ?></dd>
+                                            <?php if (!empty($source['notes'])): ?>
+                                            <dt>Notes:</dt>
+                                            <?php foreach ($source['notes'] as $note): ?>
+                                            <dd><?php echo $note; ?></dd>
+                                            <?php endforeach; ?>
+                                            <?php endif;?>
+                                        </dl>
+                                    </div>
+                                </div>
                                 <?php endforeach; ?>
                                 <?php else: ?>
                                 <p>No Info</p>
@@ -642,7 +290,7 @@ $title = $date->format('F d, Y') . ' - ' . $data['venue'] . ', ' . $data['city']
 
                                 <h2 class="page-header">Notes</h2>
                                 <?php if (!empty($data['notes'])): ?>
-                                <ul class="list-unstyled">
+                                <ul class="list">
                                     <?php foreach ($data['notes'] as $note): ?>
                                     <li><?php echo $note; ?></li>
                                 <?php endforeach; ?>
