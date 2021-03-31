@@ -1,5 +1,7 @@
 import argparse, json, os, re, sys
 
+from pathlib import Path
+
 from bs4 import BeautifulSoup
 from bs4.element import Tag
 
@@ -12,6 +14,26 @@ states = [
     'SC', 'SD', 'TN', 'TX', 'UT', 'VT', 'VA', 'WA', 'WV', 'WI',
     'WY'
 ]
+
+PHP_TEMPLATE_PRE = '''<?php
+
+# Check that JSON format is valid here:
+# https://codebeautify.org/jsonvalidator
+#
+# Most common issue is missing commas, or having commas at the end of lists (trailing commas).
+# Trailing commas are not allowed.
+# Ping Nick with any validation questions. If JSON isn't valid the page won't work.
+
+$payload = <<<'JSON'
+
+'''
+
+PHP_TEMPLATE_POST = '''
+
+JSON;
+
+require_once('../includes/template.php');
+?>'''
 
 
 def parse(filepath):
@@ -360,35 +382,54 @@ def parse(filepath):
 
 def main():
     parser = argparse.ArgumentParser()
-    parser.add_argument('--directory', type=str,)
+    parser.add_argument('--input-directory', type=str,)
+    parser.add_argument('--output-directory', type=str, nargs='?', default=None)
     parser.add_argument('--filename', type=str)
-    parser.add_argument('--write', action='store_true', help='Write json files')
-    
+    parser.add_argument('--write-json', action='store_true', help='Write json files')
+    parser.add_argument('--write-php', action='store_true', help='Write php files')
+
     args = parser.parse_args()
 
-    arg_directory = args.directory
-    arg_filename = args.filename
+    if not args.input_directory and not args.filename:
+        raise Exception('Input directory or filename required')
 
-    if not arg_directory and not arg_filename:
-        raise Exception('Directory or filename required')
+    if (args.write_json or args.write_php) and not args.output_directory:
+        raise Exception('Output directory required for writing.')
 
-    if arg_filename:
-        parse(arg_filename)
+    if args.filename:
+        parse(args.filename)
         sys.stdout.write('.\n')
     else:
-        for filename in os.listdir(arg_directory):
+        for filename in os.listdir(args.input_directory):
             if filename.lower().endswith('.php'):
                 try:
-                    filepath = os.path.join(arg_directory, filename)
+                    filepath = os.path.join(args.input_directory, filename)
                     parsed_data = parse(filepath)
                 except:
                     print('error', filename)
                 else:
 
-                    if args.write:
-                        new_filepath = filepath.replace('php', 'json')
-                        writer = open(new_filepath, 'w')
+                    if args.write_json or args.write_php:
+
+                        Path(args.output_directory).mkdir(parents=True, exist_ok=True)
+
+                        if args.write_json:
+                            write_filename = filename.replace('php', 'json')
+                        elif args.write_php:
+                            write_filename = filename
+
+                        write_filepath = os.path.join(args.output_directory, write_filename)
+
+                        writer = open(write_filepath, 'w')
+
+                        if args.write_php:
+                            writer.write(PHP_TEMPLATE_PRE)
+
                         json.dump(parsed_data, writer, indent=4, ensure_ascii=False)
+
+                        if args.write_php:
+                            writer.write(PHP_TEMPLATE_POST)
+
                         writer.close()
 
                     sys.stdout.write('.')
