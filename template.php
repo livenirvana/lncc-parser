@@ -2,11 +2,16 @@
 
 $data = json_decode($payload, true);
 
-$date_string = $data['month'] . ' ' . $data['day'] . ' ' . $data['year'];
-$date = DateTime::createFromFormat('m d Y', $date_string);
 $year = $data['year'];
+$month = $data['month'];
+$day = $data['day'];
 
-$title = $date->format('F d, Y') . ' - ' . $data['venue'] . ', ' . $data['city'] . ', ' . $data['state'] . ', ' . $data['country'];
+$month_obj = DateTime::createFromFormat('!m', $month);
+$month_display = $month_obj->format('F') ? $month_obj->format('F') : $month;
+
+$year_display = '19' . $year;
+
+$title = $month_display . ' ' . $day . ', ' . $year_display . ' - ' . $data['venue'] . ', ' . $data['city'] . ', ' . $data['state'] . ', ' . $data['country'];
 
 ?>
 <!DOCTYPE html>

@@ -48,7 +48,15 @@ def parse(filepath):
 
     # Date
     payload['year'] = year
-    payload['month'] = month
+
+    try:
+        if int(month) >= 1 and int(month) <= 12:
+            payload['month'] = month
+        else:
+            payload['month'] = 'xx'
+    except ValueError:
+        payload['month'] = 'xx'
+
     payload['day'] = day
 
     html = f.read()
