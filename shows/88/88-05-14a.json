@@ -10,23 +10,23 @@
         {
             "members": [
                 {
-                    "name": "Heidi Hellbender ",
+                    "name": "Heidi Hellbender",
                     "duty": "vocals"
                 },
                 {
-                    "name": "Heather Conrad ",
+                    "name": "Heather Conrad",
                     "duty": "vocals"
                 },
                 {
-                    "name": "Gilly Ann Hanner ",
+                    "name": "Gilly Ann Hanner",
                     "duty": "guitar"
                 },
                 {
-                    "name": "Chris Quinn ",
+                    "name": "Chris Quinn",
                     "duty": "bass"
                 },
                 {
-                    "name": "Tam Ohrmund ",
+                    "name": "Tam Ohrmund",
                     "duty": "drums"
                 }
             ],
@@ -34,7 +34,7 @@
             "name": "Sister Skelter"
         },
         {
-            "name": "Kurt Cobain ",
+            "name": "Kurt Cobain",
             "duty": "vocals",
             "type": "person"
         }
@@ -46,11 +46,11 @@
     "schedule": [
         {
             "event": "Load In",
-            "time": "…:…"
+            "time": null
         },
         {
             "event": "Soundcheck",
-            "time": "…:…"
+            "time": null
         },
         {
             "event": "Doors",
@@ -58,15 +58,15 @@
         },
         {
             "event": "Sister Skelter Showtime",
-            "time": "…:…"
+            "time": null
         },
         {
             "event": "Lansdat Blister Showtime",
-            "time": "…:…"
+            "time": null
         },
         {
             "event": "NIRVANA Showtime",
-            "time": "…:…"
+            "time": null
         }
     ],
     "soundcheck": [],

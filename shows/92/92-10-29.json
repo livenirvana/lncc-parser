@@ -10,7 +10,7 @@
         {
             "members": [
                 {
-                    "name": "Luis ",
+                    "name": "Luis",
                     "duty": "drums"
                 }
             ],
@@ -18,12 +18,12 @@
             "name": "Pirata Industrial"
         },
         {
-            "name": "Krist Novoselic ",
+            "name": "Krist Novoselic",
             "duty": "vocals, bass",
             "type": "person"
         },
         {
-            "name": "Courtney Love ",
+            "name": "Courtney Love",
             "duty": "guitar, backing vocals",
             "type": "person"
         }
@@ -35,19 +35,19 @@
     "schedule": [
         {
             "event": "Load In",
-            "time": "…:…"
+            "time": null
         },
         {
             "event": "Soundcheck",
-            "time": "…:…"
+            "time": null
         },
         {
             "event": "Doors",
-            "time": "…:…"
+            "time": null
         },
         {
             "event": "Pirata Industrial Showtime",
-            "time": "…:…"
+            "time": null
         }
     ],
     "soundcheck": [],

@@ -10,15 +10,15 @@
         {
             "members": [
                 {
-                    "name": "Kurt Cobain ",
+                    "name": "Kurt Cobain",
                     "duty": "vocals, guitar"
                 },
                 {
-                    "name": "Krist Novoselic ",
+                    "name": "Krist Novoselic",
                     "duty": "bass"
                 },
                 {
-                    "name": "Dave Grohl ",
+                    "name": "Dave Grohl",
                     "duty": "drums, backing vocals"
                 }
             ],
@@ -26,12 +26,12 @@
             "name": "NIRVANA"
         },
         {
-            "name": "Everett True ",
+            "name": "Everett True",
             "duty": "wheelchair assistant",
             "type": "person"
         },
         {
-            "name": "Antony Hodgkinson ",
+            "name": "Antony Hodgkinson",
             "duty": "dancer",
             "type": "person"
         }
@@ -69,15 +69,15 @@
     "schedule": [
         {
             "event": "Load In",
-            "time": "…:…"
+            "time": null
         },
         {
             "event": "Soundcheck",
-            "time": "…:…"
+            "time": null
         },
         {
             "event": "Doors",
-            "time": "…:…"
+            "time": null
         },
         {
             "event": "Melvins Showtime",

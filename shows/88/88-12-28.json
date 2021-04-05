@@ -10,15 +10,15 @@
         {
             "members": [
                 {
-                    "name": "Kurt Cobain ",
+                    "name": "Kurt Cobain",
                     "duty": "vocals, guitar"
                 },
                 {
-                    "name": "Krist Novoselic ",
+                    "name": "Krist Novoselic",
                     "duty": "bass"
                 },
                 {
-                    "name": "Chad Channing ",
+                    "name": "Chad Channing",
                     "duty": "drums"
                 }
             ],
@@ -26,7 +26,7 @@
             "name": "NIRVANA"
         },
         {
-            "name": "Jesse Bernstein ",
+            "name": "Jesse Bernstein",
             "duty": "master of ceremonies",
             "type": "person"
         }
@@ -38,11 +38,11 @@
     "schedule": [
         {
             "event": "Load In",
-            "time": "…:…"
+            "time": null
         },
         {
             "event": "Soundcheck",
-            "time": "…:…"
+            "time": null
         },
         {
             "event": "Doors",
@@ -50,23 +50,23 @@
         },
         {
             "event": "NIRVANA Showtime",
-            "time": "…:…"
+            "time": null
         },
         {
             "event": "Swallow Showtime",
-            "time": "…:…"
+            "time": null
         },
         {
             "event": "Thrown Ups Showtime",
-            "time": "…:…"
+            "time": null
         },
         {
             "event": "TAD Showtime",
-            "time": "…:…"
+            "time": null
         },
         {
             "event": "Blood Circus Showtime",
-            "time": "…:…"
+            "time": null
         }
     ],
     "soundcheck": [],

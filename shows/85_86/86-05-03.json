@@ -10,15 +10,15 @@
         {
             "members": [
                 {
-                    "name": "Kurt Cobain ",
+                    "name": "Kurt Cobain",
                     "duty": "vocals"
                 },
                 {
-                    "name": "Buzz Osborne ",
+                    "name": "Buzz Osborne",
                     "duty": "guitar"
                 },
                 {
-                    "name": "Dale Crover ",
+                    "name": "Dale Crover",
                     "duty": "drums"
                 }
             ],
@@ -33,31 +33,31 @@
     "schedule": [
         {
             "event": "Load In",
-            "time": "…:…"
+            "time": null
         },
         {
             "event": "Soundcheck",
-            "time": "…:…"
+            "time": null
         },
         {
             "event": "Doors",
-            "time": "…:…"
+            "time": null
         },
         {
             "event": "Brown Towel/Brown Cow Showtime",
-            "time": "…:…"
+            "time": null
         },
         {
             "event": "Grinder Showtime",
-            "time": "…:…"
+            "time": null
         },
         {
             "event": "Danger Mouse Showtime",
-            "time": "…:…"
+            "time": null
         },
         {
             "event": "Melvins Showtime",
-            "time": "…:…"
+            "time": null
         }
     ],
     "soundcheck": [],

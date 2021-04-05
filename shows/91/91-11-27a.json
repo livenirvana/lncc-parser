@@ -10,15 +10,15 @@
         {
             "members": [
                 {
-                    "name": "Kurt Cobain ",
+                    "name": "Kurt Cobain",
                     "duty": "vocals, mimed guitar"
                 },
                 {
-                    "name": "Krist Novoselic ",
+                    "name": "Krist Novoselic",
                     "duty": "mimed bass"
                 },
                 {
-                    "name": "Dave Grohl ",
+                    "name": "Dave Grohl",
                     "duty": "mimed drums"
                 }
             ],
@@ -58,31 +58,31 @@
     "schedule": [
         {
             "event": "Load In",
-            "time": "…:…"
+            "time": null
         },
         {
             "event": "Soundcheck",
-            "time": "…:…"
+            "time": null
         },
         {
             "event": "Doors",
-            "time": "…:…"
+            "time": null
         },
         {
             "event": "East Side Beat Showtime",
-            "time": "…:…"
+            "time": null
         },
         {
             "event": "NIRVANA Showtime",
-            "time": "…:…"
+            "time": null
         },
         {
             "event": "James Showtime",
-            "time": "…:…"
+            "time": null
         },
         {
             "event": "Altern-8 Showtime",
-            "time": "…:…"
+            "time": null
         }
     ],
     "soundcheck": [

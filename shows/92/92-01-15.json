@@ -10,15 +10,15 @@
         {
             "members": [
                 {
-                    "name": "Buzz Osborne ",
+                    "name": "Buzz Osborne",
                     "duty": "vocals, guitar"
                 },
                 {
-                    "name": "Krist Novoselic ",
+                    "name": "Krist Novoselic",
                     "duty": "bass"
                 },
                 {
-                    "name": "Dave Grohl ",
+                    "name": "Dave Grohl",
                     "duty": "drums"
                 }
             ],
@@ -38,27 +38,27 @@
     "schedule": [
         {
             "event": "Load In",
-            "time": "…:…"
+            "time": null
         },
         {
             "event": "Soundcheck",
-            "time": "…:…"
+            "time": null
         },
         {
             "event": "Doors",
-            "time": "…:…"
+            "time": null
         },
         {
             "event": "THE MELVANAS Showtime",
-            "time": "…:…"
+            "time": null
         },
         {
             "event": "Churn Showtime",
-            "time": "…:…"
+            "time": null
         },
         {
             "event": "Bliss Showtime",
-            "time": "…:…"
+            "time": null
         }
     ],
     "soundcheck": [],

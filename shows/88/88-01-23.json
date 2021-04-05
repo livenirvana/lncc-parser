@@ -10,15 +10,15 @@
         {
             "members": [
                 {
-                    "name": "Kurt Cobain ",
+                    "name": "Kurt Cobain",
                     "duty": "vocals, guitar"
                 },
                 {
-                    "name": "Krist Novoselic ",
+                    "name": "Krist Novoselic",
                     "duty": "bass"
                 },
                 {
-                    "name": "Dale Crover ",
+                    "name": "Dale Crover",
                     "duty": "drums"
                 }
             ],
@@ -40,11 +40,11 @@
     "schedule": [
         {
             "event": "Load In",
-            "time": "…:…"
+            "time": null
         },
         {
             "event": "Soundcheck",
-            "time": "…:…"
+            "time": null
         },
         {
             "event": "Doors",
@@ -52,19 +52,19 @@
         },
         {
             "event": "Happy Dead Juans Showtime",
-            "time": "…:…"
+            "time": null
         },
         {
             "event": "Soon Showtime",
-            "time": "…:…"
+            "time": null
         },
         {
             "event": "Ted Ed Fred Showtime",
-            "time": "…:…"
+            "time": null
         },
         {
             "event": "Moral Crux Showtime",
-            "time": "…:…"
+            "time": null
         }
     ],
     "soundcheck": [],

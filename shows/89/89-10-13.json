@@ -10,15 +10,15 @@
         {
             "members": [
                 {
-                    "name": "Kurt Cobain ",
+                    "name": "Kurt Cobain",
                     "duty": "vocals, guitar"
                 },
                 {
-                    "name": "Krist Novoselic ",
+                    "name": "Krist Novoselic",
                     "duty": "bass"
                 },
                 {
-                    "name": "Chad Channing ",
+                    "name": "Chad Channing",
                     "duty": "drums"
                 }
             ],
@@ -52,7 +52,7 @@
         },
         {
             "event": "Methods Of Dance Showtime",
-            "time": "…:…"
+            "time": null
         },
         {
             "event": "NIRVANA Showtime",
@@ -60,7 +60,7 @@
         },
         {
             "event": "24-7 Spyz Showtime",
-            "time": "…:…"
+            "time": null
         }
     ],
     "soundcheck": [],

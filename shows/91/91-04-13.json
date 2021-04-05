@@ -10,11 +10,11 @@
         {
             "members": [
                 {
-                    "name": "Slim Moon ",
+                    "name": "Slim Moon",
                     "duty": "vocals"
                 },
                 {
-                    "name": "Joe Preston ",
+                    "name": "Joe Preston",
                     "duty": "bass"
                 }
             ],
@@ -22,12 +22,12 @@
             "name": "Witchypoo"
         },
         {
-            "name": "Kurt Cobain ",
+            "name": "Kurt Cobain",
             "duty": "guitar",
             "type": "person"
         },
         {
-            "name": "Dave Grohl ",
+            "name": "Dave Grohl",
             "duty": "drums",
             "type": "person"
         }
@@ -41,31 +41,31 @@
     "schedule": [
         {
             "event": "Load In",
-            "time": "…:…"
+            "time": null
         },
         {
             "event": "Soundcheck",
-            "time": "…:…"
+            "time": null
         },
         {
             "event": "Doors",
-            "time": "…:…"
+            "time": null
         },
         {
             "event": "Witchypoo Showtime",
-            "time": "…:…"
+            "time": null
         },
         {
             "event": "Bikini Kill Showtime",
-            "time": "…:…"
+            "time": null
         },
         {
             "event": "Bratmobile Showtime",
-            "time": "…:…"
+            "time": null
         },
         {
             "event": "Giant Henry Showtime",
-            "time": "…:…"
+            "time": null
         }
     ],
     "soundcheck": [],

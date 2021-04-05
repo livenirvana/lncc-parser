@@ -10,15 +10,15 @@
         {
             "members": [
                 {
-                    "name": "Kurt Cobain ",
+                    "name": "Kurt Cobain",
                     "duty": "vocals, guitar"
                 },
                 {
-                    "name": "Krist Novoselic ",
+                    "name": "Krist Novoselic",
                     "duty": "bass"
                 },
                 {
-                    "name": "Chad Channing ",
+                    "name": "Chad Channing",
                     "duty": "drums"
                 }
             ],
@@ -38,47 +38,47 @@
     "schedule": [
         {
             "event": "Load In",
-            "time": "…:…"
+            "time": null
         },
         {
             "event": "Soundcheck",
-            "time": "…:…"
+            "time": null
         },
         {
             "event": "Doors",
-            "time": "…:…"
+            "time": null
         },
         {
             "event": "3 Merry Widows Showtime",
-            "time": "…:…"
+            "time": null
         },
         {
             "event": "BGOCK! Showtime",
-            "time": "…:…"
+            "time": null
         },
         {
             "event": "Cordelia's Dad Showtime",
-            "time": "…:…"
+            "time": null
         },
         {
             "event": "Gobblehoof Showtime",
-            "time": "…:…"
+            "time": null
         },
         {
             "event": "Mr. Softee Showtime",
-            "time": "…:…"
+            "time": null
         },
         {
             "event": "New Radiant Storm King Showtime",
-            "time": "…:…"
+            "time": null
         },
         {
             "event": "Sweet Lickin' Honey Babes Showtime",
-            "time": "…:…"
+            "time": null
         },
         {
             "event": "NIRVANA Showtime",
-            "time": "…:…"
+            "time": null
         }
     ],
     "soundcheck": [],

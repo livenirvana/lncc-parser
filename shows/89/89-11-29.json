@@ -10,15 +10,15 @@
         {
             "members": [
                 {
-                    "name": "Kurt Cobain ",
+                    "name": "Kurt Cobain",
                     "duty": "vocals, guitar"
                 },
                 {
-                    "name": "Krist Novoselic ",
+                    "name": "Krist Novoselic",
                     "duty": "bass"
                 },
                 {
-                    "name": "Chad Channing ",
+                    "name": "Chad Channing",
                     "duty": "drums"
                 }
             ],
@@ -57,11 +57,11 @@
         },
         {
             "event": "Act 1 Showtime",
-            "time": "…:…"
+            "time": null
         },
         {
             "event": "Act 2 Showtime",
-            "time": "…:…"
+            "time": null
         }
     ],
     "soundcheck": [],

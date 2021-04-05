@@ -10,15 +10,15 @@
         {
             "members": [
                 {
-                    "name": "Kurt Cobain ",
+                    "name": "Kurt Cobain",
                     "duty": "vocals, guitar"
                 },
                 {
-                    "name": "Krist Novoselic ",
+                    "name": "Krist Novoselic",
                     "duty": "bass"
                 },
                 {
-                    "name": "Dave Grohl ",
+                    "name": "Dave Grohl",
                     "duty": "drums, backing vocals"
                 }
             ],
@@ -26,7 +26,7 @@
             "name": "NIRVANA"
         },
         {
-            "name": "Flea ",
+            "name": "Flea",
             "duty": "trumpet",
             "type": "person"
         }

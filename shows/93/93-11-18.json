@@ -10,23 +10,23 @@
         {
             "members": [
                 {
-                    "name": "Kurt Cobain ",
+                    "name": "Kurt Cobain",
                     "duty": "vocals, acoustic guitar"
                 },
                 {
-                    "name": "Krist Novoselic ",
+                    "name": "Krist Novoselic",
                     "duty": "bass, accordian, acoustic guitar"
                 },
                 {
-                    "name": "Dave Grohl ",
+                    "name": "Dave Grohl",
                     "duty": "drums, backing vocals, acoustic bass, acoustic guitar"
                 },
                 {
-                    "name": "Pat Smear ",
+                    "name": "Pat Smear",
                     "duty": "acoustic guitar"
                 },
                 {
-                    "name": "Lori Goldston ",
+                    "name": "Lori Goldston",
                     "duty": "cello"
                 }
             ],
@@ -34,12 +34,12 @@
             "name": "NIRVANA"
         },
         {
-            "name": "Cris Kirkwood ",
+            "name": "Cris Kirkwood",
             "duty": "acoustic bass, backing vocals",
             "type": "person"
         },
         {
-            "name": "Curt Kirkwood ",
+            "name": "Curt Kirkwood",
             "duty": "acousticguitar",
             "type": "person"
         }

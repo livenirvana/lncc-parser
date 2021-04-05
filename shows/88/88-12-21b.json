@@ -8,12 +8,12 @@
     "country": "US",
     "band": [
         {
-            "name": "Kurt Cobain ",
+            "name": "Kurt Cobain",
             "duty": "vocals, guitar",
             "type": "person"
         },
         {
-            "name": "Krist Novoselic ",
+            "name": "Krist Novoselic",
             "duty": "bass",
             "type": "person"
         }

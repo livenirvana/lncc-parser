@@ -10,7 +10,7 @@
         {
             "members": [
                 {
-                    "name": "Courtney Love ",
+                    "name": "Courtney Love",
                     "duty": "vocals, guitar"
                 }
             ],
@@ -18,7 +18,7 @@
             "name": "Courtney Love"
         },
         {
-            "name": "Kurt Cobain ",
+            "name": "Kurt Cobain",
             "duty": "vocals, guitar",
             "type": "person"
         }
@@ -30,11 +30,11 @@
     "schedule": [
         {
             "event": "Load In",
-            "time": "…:…"
+            "time": null
         },
         {
             "event": "Soundcheck",
-            "time": "…:…"
+            "time": null
         },
         {
             "event": "Doors",
@@ -42,23 +42,23 @@
         },
         {
             "event": "Kurt and Courtney Showtime",
-            "time": "…:…"
+            "time": null
         },
         {
             "event": "7 Year Bitch Showtime",
-            "time": "…:…"
+            "time": null
         },
         {
             "event": "Exene Cervenka Showtime",
-            "time": "…:…"
+            "time": null
         },
         {
             "event": "Johnette Napolitano Showtime",
-            "time": "…:…"
+            "time": null
         },
         {
             "event": "Pinching Judy Showtime",
-            "time": "…:…"
+            "time": null
         }
     ],
     "soundcheck": [],

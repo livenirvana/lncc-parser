@@ -10,15 +10,15 @@
         {
             "members": [
                 {
-                    "name": "Kurt Cobain ",
+                    "name": "Kurt Cobain",
                     "duty": "vocals, guitar"
                 },
                 {
-                    "name": "Krist Novoselic ",
+                    "name": "Krist Novoselic",
                     "duty": "bass"
                 },
                 {
-                    "name": "Chad Channing ",
+                    "name": "Chad Channing",
                     "duty": "drums"
                 }
             ],
@@ -56,11 +56,11 @@
         },
         {
             "event": "NIRVANA Showtime",
-            "time": "…:…"
+            "time": null
         },
         {
             "event": "TAD Showtime",
-            "time": "…:…"
+            "time": null
         }
     ],
     "soundcheck": [

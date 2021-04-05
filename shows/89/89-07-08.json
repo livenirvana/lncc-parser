@@ -10,19 +10,19 @@
         {
             "members": [
                 {
-                    "name": "Kurt Cobain ",
+                    "name": "Kurt Cobain",
                     "duty": "vocals, guitar"
                 },
                 {
-                    "name": "Krist Novoselic ",
+                    "name": "Krist Novoselic",
                     "duty": "bass"
                 },
                 {
-                    "name": "Chad Channing ",
+                    "name": "Chad Channing",
                     "duty": "drums"
                 },
                 {
-                    "name": "Jason Everman ",
+                    "name": "Jason Everman",
                     "duty": "guitar"
                 }
             ],
@@ -39,23 +39,23 @@
     "schedule": [
         {
             "event": "Load In",
-            "time": "…:…"
+            "time": null
         },
         {
             "event": "Soundcheck",
-            "time": "…:…"
+            "time": null
         },
         {
             "event": "Doors",
-            "time": "…:…"
+            "time": null
         },
         {
             "event": "NIRVANA Showtime",
-            "time": "…:…"
+            "time": null
         },
         {
             "event": "Precious Wax Drippings Showtime",
-            "time": "…:…"
+            "time": null
         }
     ],
     "soundcheck": [],

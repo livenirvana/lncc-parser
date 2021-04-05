@@ -10,15 +10,15 @@
         {
             "members": [
                 {
-                    "name": "Kurt Cobain ",
+                    "name": "Kurt Cobain",
                     "duty": "vocals, guitar"
                 },
                 {
-                    "name": "Krist Novoselic ",
+                    "name": "Krist Novoselic",
                     "duty": "bass"
                 },
                 {
-                    "name": "Dave Foster ",
+                    "name": "Dave Foster",
                     "duty": "drums"
                 }
             ],
@@ -40,27 +40,27 @@
     "schedule": [
         {
             "event": "Load In",
-            "time": "…:…"
+            "time": null
         },
         {
             "event": "Soundcheck",
-            "time": "…:…"
+            "time": null
         },
         {
             "event": "Doors",
-            "time": "…:…"
+            "time": null
         },
         {
             "event": "NIRVANA Showtime",
-            "time": "…:…"
+            "time": null
         },
         {
             "event": "Act 2 Showtime",
-            "time": "…:…"
+            "time": null
         },
         {
             "event": "Act 3 Showtime",
-            "time": "…:…"
+            "time": null
         }
     ],
     "soundcheck": [],

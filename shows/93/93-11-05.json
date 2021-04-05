@@ -10,23 +10,23 @@
         {
             "members": [
                 {
-                    "name": "Kurt Cobain ",
+                    "name": "Kurt Cobain",
                     "duty": "vocals, guitar"
                 },
                 {
-                    "name": "Krist Novoselic ",
+                    "name": "Krist Novoselic",
                     "duty": "bass"
                 },
                 {
-                    "name": "Dave Grohl ",
+                    "name": "Dave Grohl",
                     "duty": "drums, backing vocals"
                 },
                 {
-                    "name": "Pat Smear ",
+                    "name": "Pat Smear",
                     "duty": "guitar"
                 },
                 {
-                    "name": "Lori Goldston ",
+                    "name": "Lori Goldston",
                     "duty": "cello"
                 }
             ],
@@ -34,22 +34,22 @@
             "name": "NIRVANA"
         },
         {
-            "name": "John Duncan ",
+            "name": "John Duncan",
             "duty": "guitar",
             "type": "person"
         },
         {
-            "name": "Seiichi Yamamoto ",
+            "name": "Seiichi Yamamoto",
             "duty": "guitar",
             "type": "person"
         },
         {
-            "name": "Yamatsuka Eye ",
+            "name": "Yamatsuka Eye",
             "duty": "guitar",
             "type": "person"
         },
         {
-            "name": "Yoshimi P-WE ",
+            "name": "Yoshimi P-WE",
             "duty": "trumpet",
             "type": "person"
         }

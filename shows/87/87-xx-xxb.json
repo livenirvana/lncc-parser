@@ -10,15 +10,15 @@
         {
             "members": [
                 {
-                    "name": "Kurt Cobain ",
+                    "name": "Kurt Cobain",
                     "duty": "vocals, guitar"
                 },
                 {
-                    "name": "Krist Novoselic ",
+                    "name": "Krist Novoselic",
                     "duty": "bass"
                 },
                 {
-                    "name": "Aaron Burckhard ",
+                    "name": "Aaron Burckhard",
                     "duty": "drums"
                 }
             ],
@@ -26,12 +26,12 @@
             "name": "Pen Cap Chew/Bliss ??"
         },
         {
-            "name": "Tony Poukkula ",
+            "name": "Tony Poukkula",
             "duty": "guitar",
             "type": "person"
         },
         {
-            "name": "Ryan Aigner ",
+            "name": "Ryan Aigner",
             "duty": "guitar",
             "type": "person"
         }

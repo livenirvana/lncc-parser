@@ -10,11 +10,11 @@
         {
             "members": [
                 {
-                    "name": "Kurt Cobain ",
+                    "name": "Kurt Cobain",
                     "duty": "vocals, guitar"
                 },
                 {
-                    "name": "Dave Grohl ",
+                    "name": "Dave Grohl",
                     "duty": "bass"
                 }
             ],
@@ -46,11 +46,11 @@
         },
         {
             "event": "NIRVANA Showtime",
-            "time": "…:…"
+            "time": null
         },
         {
             "event": "The Joyriders Showtime",
-            "time": "…:…"
+            "time": null
         }
     ],
     "soundcheck": [],

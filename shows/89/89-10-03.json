@@ -10,15 +10,15 @@
         {
             "members": [
                 {
-                    "name": "Kurt Cobain ",
+                    "name": "Kurt Cobain",
                     "duty": "vocals, guitar"
                 },
                 {
-                    "name": "Krist Novoselic ",
+                    "name": "Krist Novoselic",
                     "duty": "bass"
                 },
                 {
-                    "name": "Chad Channing ",
+                    "name": "Chad Channing",
                     "duty": "drums"
                 }
             ],
@@ -59,11 +59,11 @@
         },
         {
             "event": "Steel Pole Bath Tub Showtime",
-            "time": "…:…"
+            "time": null
         },
         {
             "event": "The Flaming Lips Showtime",
-            "time": "…:…"
+            "time": null
         }
     ],
     "soundcheck": [],

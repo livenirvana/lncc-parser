@@ -108,13 +108,13 @@ def parse(filepath):
 
             for nirvana_member in item.ul.find_all('li'):
                 group_members.append(
-                    {'name': nirvana_member.text.split('(')[0], 'duty': parse_duty(nirvana_member.text)}
+                    {'name': nirvana_member.text.split('(')[0].strip(), 'duty': parse_duty(nirvana_member.text)}
                 )
             group = {'members': group_members, 'type': 'group', 'name': group_name}
             payload['band'].append(group)
         else:
             payload['band'].append(
-                {'name': item.text.split('(')[0], 'duty': parse_duty(item.text), 'type': 'person'}
+                {'name': item.text.split('(')[0].strip(), 'duty': parse_duty(item.text), 'type': 'person'}
             )
 
     # Crew members
@@ -154,9 +154,15 @@ def parse(filepath):
             if isinstance(child, Tag) and child.name == 'dt':
                 event = child.text
                 time = child.find_next_sibling()
+
+                if time.text == '…:…':
+                    time_text = None
+                else:
+                    time_text = time.text
+
                 if isinstance(time, Tag) and time.name == 'dd':
                     payload['schedule'].append(
-                        {'event': event, 'time': time.text}
+                        {'event': event, 'time': time_text}
                     )
     except AttributeError:
         # No schedule info

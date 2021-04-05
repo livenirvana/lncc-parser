@@ -10,15 +10,15 @@
         {
             "members": [
                 {
-                    "name": "Kurt Cobain ",
+                    "name": "Kurt Cobain",
                     "duty": ""
                 },
                 {
-                    "name": "Krist Novoselic ",
+                    "name": "Krist Novoselic",
                     "duty": ""
                 },
                 {
-                    "name": "Others ",
+                    "name": "Others",
                     "duty": ""
                 }
             ],
@@ -33,19 +33,19 @@
     "schedule": [
         {
             "event": "Load In",
-            "time": "…:…"
+            "time": null
         },
         {
             "event": "Soundcheck",
-            "time": "…:…"
+            "time": null
         },
         {
             "event": "Doors",
-            "time": "…:…"
+            "time": null
         },
         {
             "event": "Stiff Woodies Showtime",
-            "time": "…:…"
+            "time": null
         }
     ],
     "soundcheck": [],

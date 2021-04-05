@@ -10,15 +10,15 @@
         {
             "members": [
                 {
-                    "name": "Kurt Cobain ",
+                    "name": "Kurt Cobain",
                     "duty": "vocals, guitar"
                 },
                 {
-                    "name": "Krist Novoselic ",
+                    "name": "Krist Novoselic",
                     "duty": "bass"
                 },
                 {
-                    "name": "Aaron Burckhard ",
+                    "name": "Aaron Burckhard",
                     "duty": "drums"
                 }
             ],
@@ -33,11 +33,11 @@
     "schedule": [
         {
             "event": "Load In",
-            "time": "…:…"
+            "time": null
         },
         {
             "event": "Soundcheck",
-            "time": "…:…"
+            "time": null
         },
         {
             "event": "Doors",
@@ -45,19 +45,19 @@
         },
         {
             "event": "Silent Treatment Showtime",
-            "time": "…:…"
+            "time": null
         },
         {
             "event": "Soylent Green Showtime",
-            "time": "…:…"
+            "time": null
         },
         {
             "event": "Pen Cap Chew Showtime",
-            "time": "…:…"
+            "time": null
         },
         {
             "event": "Hell's Kitchen Showtime",
-            "time": "…:…"
+            "time": null
         }
     ],
     "soundcheck": [],

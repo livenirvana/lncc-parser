@@ -10,15 +10,15 @@
         {
             "members": [
                 {
-                    "name": "Kurt Danielson ",
+                    "name": "Kurt Danielson",
                     "duty": "bass"
                 },
                 {
-                    "name": "Gary Thorstensen ",
+                    "name": "Gary Thorstensen",
                     "duty": "guitar"
                 },
                 {
-                    "name": "Steve Wied ",
+                    "name": "Steve Wied",
                     "duty": "drums"
                 }
             ],
@@ -26,12 +26,12 @@
             "name": "TAD"
         },
         {
-            "name": "Kurt Cobain ",
+            "name": "Kurt Cobain",
             "duty": "vocals",
             "type": "person"
         },
         {
-            "name": "Craig Montgomery ",
+            "name": "Craig Montgomery",
             "duty": "guitar",
             "type": "person"
         }

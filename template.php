@@ -7,21 +7,23 @@ $month = $data['month'];
 $day = $data['day'];
 
 $month_obj = DateTime::createFromFormat('!m', $month);
-$month_display = $month_obj->format('F') ? $month_obj->format('F') : $month;
+$month_display = $month_obj ? $month_obj->format('F') : $month;
 
-$year_display = '19' . $year;
-
-$title = $month_display . ' ' . $day . ', ' . $year_display . ' - ' . $data['venue'] . ', ' . $data['city'] . ', ' . $data['state'] . ', ' . $data['country'];
+$title = $month_display . ' ' . $day . ', ' . $year . ' - ' . $data['venue'] . ', ' . $data['city'] . ', ' . $data['state'] . ', ' . $data['country'];
 
 ?>
 <!DOCTYPE html>
 <html lang="en">
     <head>
         <title>Live Nirvana | Concert Chronology | <?php echo $data['year']; ?> | <?php echo $title; ?></title>
+
         <?php require_once('../includes/head_scripts.php'); ?>
+
     </head>
     <body>
+
         <?php require_once('../includes/nav.php'); ?>
+
         <main>
             <div class="container">
                 <div class="row">
@@ -29,7 +31,7 @@ $title = $month_display . ' ' . $day . ', ' . $year_display . ' - ' . $data['ven
                         <ol class="breadcrumb">
                             <li><a href="/">LiveNIRVANA.com</a></li>
                             <li><a href="/concerts/">Concert Chronology</a></li>
-                            <li><a href="/concerts/90.php"><?php echo $data['year']; ?></a></li>
+                            <li><a href="/concerts/<?php echo substr($year, -2); ?>.php"><?php echo $data['year']; ?></a></li>
                             <li class="active"><?php echo($title); ?></li>
                         </ol>
                         <h1 class="page-header">LIVE NIRVANA Concert Chronology <small><?php echo $title; ?></small></h1>
@@ -59,133 +61,110 @@ $title = $month_display . ' ' . $day . ', ' . $year_display . ' - ' . $data['ven
                             <div class="col-md-6">
                                 <h2 class="page-header">Artist</h2>
                                 <ul class="list-unstyled">
-                                    <?php foreach ($data['band'] as $bandmember): ?>
-                                    <?php if ($bandmember['type'] == 'group'): ?>
+<?php foreach ($data['band'] as $bandmember): ?>
+<?php if ($bandmember['type'] == 'group'): ?>
                                     <li>
                                         <?php echo $bandmember['name']; ?>
                                         <ul>
-                                            <?php foreach ($bandmember['members'] as $nested_member): ?>
+<?php foreach ($bandmember['members'] as $nested_member): ?>
                                             <li><?php echo $nested_member['name']; ?> <i>(<?php echo $nested_member['duty']; ?>)</i></li>
-                                        <?php endforeach; ?>
+<?php endforeach; ?>
                                         </ul>
                                     </li>
-                                    <?php else: ?>
+<?php else: ?>
                                     <li><?php echo $bandmember['name']; ?> <i><?php echo $bandmember['duty']; ?></i></li>
-                                    <?php endif; ?>
-                                    <?php endforeach; ?>
+<?php endif; ?>
+<?php endforeach; ?>
                                 </ul>
                             </div>
                             <div class="col-md-6">
                                 <h2 class="page-header">Crew</h2>
-                                <?php if (!empty($data['crew'])): ?>
+<?php if (!empty($data['crew'])): ?>
                                 <ul class="list-unstyled">
-                                    <?php foreach ($data['crew'] as $crewmember): ?>
+<?php foreach ($data['crew'] as $crewmember): ?>
                                     <li><?php echo $crewmember['name']; ?> <i>(<?php echo $crewmember['duty']; ?>)</i></li>
-                                <?php endforeach; ?>
+<?php endforeach; ?>
                                 </ul>
-                                <?php else: ?>
+<?php else: ?>
                                     <p>No Info</p>
-                                <?php endif; ?>
+<?php endif; ?>
                             </div>
                         </div>
                         <div class="row">
                             <div class="col-md-6">
                                 <h2 class="page-header">Buyer</h2>
-                                <?php if (isset($data['buyer']['company'])): ?>
+<?php if (isset($data['buyer']['company'])): ?>
                                 <ul class="list-unstyled">
                                     <li>
                                         <?php echo $data['buyer']['company']; ?>
-                                        <?php if (!empty($data['buyer']['names'])): ?>
+<?php if (!empty($data['buyer']['names'])): ?>
                                         <ul>
-                                            <?php foreach ($data['buyer']['names'] as $buyername): ?>
+<?php foreach ($data['buyer']['names'] as $buyername): ?>
                                             <li><?php echo $buyername; ?></li>
-                                            <?php endforeach; ?>
+<?php endforeach; ?>
                                         </ul>
-                                        <?php endif;?>
+<?php endif;?>
                                     </li>
                                 </ul>
-                                <?php else: ?>
-                                <?php if (!empty($data['buyer']['names'])): ?>
+<?php else: ?>
+<?php if (!empty($data['buyer']['names'])): ?>
                                 <ul class="list-unstyled">
-                                    <?php foreach ($data['buyer']['names'] as $buyername): ?>
+<?php foreach ($data['buyer']['names'] as $buyername): ?>
                                     <li><?php echo $buyername; ?></li>
-                                    <?php endforeach; ?>
+<?php endforeach; ?>
                                 </ul>
-                                <?php else: ?>
+<?php else: ?>
                                 <p>No Info</p>
-                                <?php endif; ?>
-                                <?php endif; ?>
+<?php endif; ?>
+<?php endif; ?>
                             </div>
                             <div class="col-md-6">
                                 <h2 class="page-header">Schedule</h2>
-                                <?php if (!empty($data['schedule'])): ?>
+<?php if (!empty($data['schedule'])): ?>
                                 <dl class="dl-horizontal">
-                                    <?php foreach ($data['schedule'] as $scheduleitem): ?>
-                                    <dt><?php echo $scheduleitem['event']; ?></dt>
-                                    <dd><?php echo $scheduleitem['time']; ?></dd>
-                                    <?php endforeach; ?>
+<?php foreach ($data['schedule'] as $scheduleitem): ?>
+                                    <dt><?php echo $scheduleitem['event']; ?></dt><dd><?php echo !is_null($scheduleitem['time']) ? $scheduleitem['time'] : '&#8230;:&#8230;'; ?></dd>
+<?php endforeach; ?>
                                 </dl>
-                                <?php else: ?>
+<?php else: ?>
                                 <p>No Info</p>
-                                <?php endif; ?>
+<?php endif; ?>
                             </div>
                         </div>
                         <div class="row">
                             <div class="col-sm-6">
-
                                 <h2 class="page-header">Soundcheck<?php if ($data['soundcheck_incomplete']): ?> <small>incomplete</small><?php endif; ?></h2>
-                                <?php if (!empty($data['soundcheck'])): ?>
+<?php if (!empty($data['soundcheck'])): ?>
                                 <ol class="list-unstyled">
-                                    <?php foreach ($data['soundcheck'] as $songitem): ?>
-                                    <?php if ($songitem['type'] ==  'song'): ?>
-                                    <li>
-                                        <span class="green"><?php echo $songitem['text']; ?></span>
-                                    </li>
-                                    <?php elseif ($songitem['type'] ==  'banter'): ?>
-                                    <li>
-                                        <aside class="collapse banter">
-                                            <?php echo $songitem['person']; ?> - <q><?php echo $songitem['text']; ?></q>
-                                        </aside>
-                                    </li>
-                                    <?php elseif ($songitem['type'] ==  'jam'): ?>
-                                    <li>
-                                        <aside class="collapse jam">
-                                            <b><i><?php echo $songitem['text']; ?></i></b><?php foreach ($songitem['notes'] as $songnotes): ?> <span class="label label-default"><?php echo $songnotes; ?></span><?php endforeach; ?>
-                                        </aside>
-                                    </li>
-                                    <?php endif; ?>
-                                    <?php endforeach; ?>
+<?php foreach ($data['soundcheck'] as $songitem): ?>
+<?php if ($songitem['type'] ==  'song'): ?>
+                                    <li><span class="green"><?php echo $songitem['text']; ?></span></li>
+<?php elseif ($songitem['type'] ==  'banter'): ?>
+                                    <li><aside class="collapse banter"><?php echo $songitem['person']; ?> - <q><?php echo $songitem['text']; ?></q></aside></li>
+<?php elseif ($songitem['type'] ==  'jam'): ?>
+                                    <li><aside class="collapse jam"><b><i><?php echo $songitem['text']; ?></i></b><?php foreach ($songitem['notes'] as $songnotes): ?> <span class="label label-default"><?php echo $songnotes; ?></span><?php endforeach; ?></aside></li>
+<?php endif; ?>
+<?php endforeach; ?>
                                 </ol>
-                                <?php else: ?>
+<?php else: ?>
                                 <p>No Info</p>
-                                <?php endif; ?>
-
+<?php endif; ?>
                                 <h2 class="page-header">Set<?php if ($data['set_incomplete']): ?> <small>incomplete</small><?php endif; ?></h2>
-                                <?php if (!empty($data['set'])): ?>
+<?php if (!empty($data['set'])): ?>
                                 <ol class="list-unstyled">
-                                    <?php foreach ($data['set'] as $songitem): ?>
-                                    <?php if ($songitem['type'] ==  'song'): ?>
-                                    <li>
-                                        <span class="green"><?php echo $songitem['text']; ?></span>
-                                    </li>
-                                    <?php elseif ($songitem['type'] ==  'banter'): ?>
-                                    <li>
-                                        <aside class="collapse banter">
-                                            <?php echo $songitem['person']; ?> - <q><?php echo $songitem['text']; ?></q>
-                                        </aside>
-                                    </li>
-                                    <?php elseif ($songitem['type'] ==  'jam'): ?>
-                                    <li>
-                                        <aside class="collapse jam">
-                                            <b><i><?php echo $songitem['text']; ?></i></b><?php foreach ($songitem['notes'] as $songnotes): ?> <span class="label label-default"><?php echo $songnotes; ?></span><?php endforeach; ?>
-                                        </aside>
-                                    </li>
-                                    <?php endif; ?>
-                                    <?php endforeach; ?>
+<?php foreach ($data['set'] as $songitem): ?>
+<?php if ($songitem['type'] ==  'song'): ?>
+                                    <li><span class="green"><?php echo $songitem['text']; ?></span></li>
+<?php elseif ($songitem['type'] ==  'banter'): ?>
+                                    <li><aside class="collapse banter"><?php echo $songitem['person']; ?> - <q><?php echo $songitem['text']; ?></q></aside></li>
+<?php elseif ($songitem['type'] ==  'jam'): ?>
+                                    <li><aside class="collapse jam"><b><i><?php echo $songitem['text']; ?></i></b><?php foreach ($songitem['notes'] as $songnotes): ?> <span class="label label-default"><?php echo $songnotes; ?></span><?php endforeach; ?></aside></li>
+<?php endif; ?>
+<?php endforeach; ?>
                                 </ol>
-                                <?php else: ?>
+<?php else: ?>
                                 <p>No Info</p>
-                                <?php endif; ?>
+<?php endif; ?>
                                 <button type="button" class="btn btn-default btn-bantz btn-sm" data-toggle="collapse" data-target=".banter"><i class="fas fa-eye"></i> Stage Banter</button>
                                 <button type="button" class="btn btn-default btn-jams btn-sm" data-toggle="collapse" data-target=".jam"><i class="fa fa-eye"></i> Short Jams</button>
                             </div>
@@ -196,156 +175,136 @@ $title = $month_display . ' ' . $day . ', ' . $year_display . ' - ' . $data['ven
                         </div>
                         <div class="row">
                             <div class="col-sm-12">
-                                <?php if (!empty($data['transmission'])): ?>
+<?php if (!empty($data['transmission'])): ?>
                                 <h2 class="page-header">Transmission</h2>
                                 <ul class="list-unstyled">
                                     <li><?php echo $data['transmission']['info']; ?>, <cite><?php echo $data['transmission']['show']; ?></cite></li>
                                 </ul>
-                                <?php endif; ?>
-
-                                <?php if (!empty($data['rehearsel_circulating_sources'])): ?>
+<?php endif; ?>
+<?php if (!empty($data['rehearsel_circulating_sources'])): ?>
                                 <h2 class="page-header">Soundcheck/Dress Rehearsal Circulating Recordings</h2>
-                                <?php foreach ($data['rehearsel_circulating_sources'] as $source): ?>
-                                <div class="panel panel-default">
-                                    <div class="panel-heading" style="padding:2px 15px;">
-                                        <h5 class="source-title"><span class="green"><?php echo $source['name']; ?><?php if (!$source['complete']): ?> <small>incomplete</small><?php endif; ?></span></h5>
-                                    </div>
-                                    <div class="panel-body">
-                                        <dl class="dl-horizontal">
-                                            <dt>Equipment:</dt>
-                                            <dd><?php echo $source['equipment']; ?></dd>
-                                            <?php if (!is_null($source['generation'])): ?>
-                                            <dt>Lowest Generation:</dt>
-                                            <dd><?php echo $source['generation']; ?></dd>
-                                            <?php endif ?>
-                                            <?php if (!is_null($source['audio-generation'])): ?>
-                                            <dt>Lowest Audio Generation:</dt>
-                                            <dd><?php echo $source['audio-generation']; ?></dd>
-                                            <?php endif ?>
-                                            <?php if (!is_null($source['video-generation'])): ?>
-                                            <dt>Lowest Video Generation:</dt>
-                                            <dd><?php echo $source['video-generation']; ?></dd>
-                                            <?php endif ?>
-                                            <dt>Length / Sound Quality:</dt>
-                                            <dd><?php echo $source['length-sound']; ?></dd>
-                                            <?php if (!empty($source['notes'])): ?>
-                                            <dt>Notes:</dt>
-                                            <?php foreach ($source['notes'] as $note): ?>
-                                            <dd><?php echo $note; ?></dd>
-                                            <?php endforeach; ?>
-                                            <?php endif;?>
-                                        </dl>
-                                    </div>
-                                </div>
-                                <?php endforeach; ?>
-                                <?php endif; ?>
-
-                                <?php if (empty($data['rehearsel_circulating_sources'])): ?>
+<?php foreach ($data['rehearsel_circulating_sources'] as $source): ?>
+                                <h5 class="source-title"><span class="green"><?php echo $source['name']; ?><?php if (!$source['complete']): ?> <small>incomplete</small><?php endif; ?></span></h5>
+                                <dl class="dl-horizontal">
+                                    <dt>Equipment:</dt>
+                                    <dd><?php echo $source['equipment']; ?></dd>
+<?php if (!is_null($source['generation'])): ?>
+                                    <dt>Lowest Generation:</dt>
+                                    <dd><?php echo $source['generation']; ?></dd>
+<?php endif ?>
+<?php if (!is_null($source['audio-generation'])): ?>
+                                    <dt>Lowest Audio Generation:</dt>
+                                    <dd><?php echo $source['audio-generation']; ?></dd>
+<?php endif ?>
+<?php if (!is_null($source['video-generation'])): ?>
+                                    <dt>Lowest Video Generation:</dt>
+                                    <dd><?php echo $source['video-generation']; ?></dd>
+<?php endif ?>
+                                    <dt>Length / Sound Quality:</dt>
+                                    <dd><?php echo $source['length-sound']; ?></dd>
+<?php if (!empty($source['notes'])): ?>
+                                    <dt>Notes:</dt>
+<?php foreach ($source['notes'] as $note): ?>
+                                    <dd><?php echo $note; ?></dd>
+<?php endforeach; ?>
+<?php endif;?>
+                                </dl>
+<?php endforeach; ?>
+<?php endif; ?>
+<?php if (empty($data['rehearsel_circulating_sources'])): ?>
                                 <h2 class="page-header">Circulating Recordings</h2>
-                                <?php else: ?>
+<?php else: ?>
                                 <h2 class="page-header">Night Show Circulating Recordings</h2>
-                                <?php endif; ?>
-                                <?php if (!empty($data['circulating_sources'])): ?>
-                                <?php foreach ($data['circulating_sources'] as $source): ?>
-                                <div class="panel panel-default">
-                                    <div class="panel-heading" style="padding:2px 15px;">
-                                        <h5 class="source-title"><span class="green"><?php echo $source['name']; ?><?php if (!$source['complete']): ?> <small>incomplete</small><?php endif; ?></span></h5>
-                                    </div>
-                                    <div class="panel-body">
-                                        <dl class="dl-horizontal">
-                                            <dt>Equipment:</dt>
-                                            <dd><?php echo $source['equipment']; ?></dd>
-                                            <?php if (!is_null($source['generation'])): ?>
-                                            <dt>Lowest Generation:</dt>
-                                            <dd><?php echo $source['generation']; ?></dd>
-                                            <?php endif ?>
-                                            <?php if (!is_null($source['audio-generation'])): ?>
-                                            <dt>Lowest Audio Generation:</dt>
-                                            <dd><?php echo $source['audio-generation']; ?></dd>
-                                            <?php endif ?>
-                                            <?php if (!is_null($source['video-generation'])): ?>
-                                            <dt>Lowest Video Generation:</dt>
-                                            <dd><?php echo $source['video-generation']; ?></dd>
-                                            <?php endif ?>
-                                            <dt>Length / Sound Quality:</dt>
-                                            <dd><?php echo $source['length-sound']; ?></dd>
-                                            <?php if (!empty($source['notes'])): ?>
-                                            <dt>Notes:</dt>
-                                            <?php foreach ($source['notes'] as $note): ?>
-                                            <dd><?php echo $note; ?></dd>
-                                            <?php endforeach; ?>
-                                            <?php endif;?>
-                                        </dl>
-                                    </div>
-                                </div>
-                                <?php endforeach; ?>
-                                <?php else: ?>
+<?php endif; ?>
+<?php if (!empty($data['circulating_sources'])): ?>
+<?php foreach ($data['circulating_sources'] as $source): ?>
+                                <h5 class="source-title"><span class="green"><?php echo $source['name']; ?><?php if (!$source['complete']): ?> <small>incomplete</small><?php endif; ?></span></h5>
+                                <dl class="dl-horizontal">
+                                    <dt>Equipment:</dt>
+                                    <dd><?php echo $source['equipment']; ?></dd>
+<?php if (!is_null($source['generation'])): ?>
+                                    <dt>Lowest Generation:</dt>
+                                    <dd><?php echo $source['generation']; ?></dd>
+<?php endif ?>
+<?php if (!is_null($source['audio-generation'])): ?>
+                                    <dt>Lowest Audio Generation:</dt>
+                                    <dd><?php echo $source['audio-generation']; ?></dd>
+<?php endif ?>
+<?php if (!is_null($source['video-generation'])): ?>
+                                    <dt>Lowest Video Generation:</dt>
+                                    <dd><?php echo $source['video-generation']; ?></dd>
+<?php endif ?>
+                                    <dt>Length / Sound Quality:</dt>
+                                    <dd><?php echo $source['length-sound']; ?></dd>
+<?php if (!empty($source['notes'])): ?>
+                                    <dt>Notes:</dt>
+<?php foreach ($source['notes'] as $note): ?>
+                                    <dd><?php echo $note; ?></dd>
+<?php endforeach; ?>
+<?php endif;?>
+                                </dl>
+<?php endforeach; ?>
+<?php else: ?>
                                 <p>No Info</p>
-                                <?php endif; ?>
-
+<?php endif; ?>
                                 <h2 class="page-header">Uncirculated Recordings</h2>
-                                <?php if (!empty($data['uncirculated_sources'])): ?>
-                                <?php foreach ($data['uncirculated_sources'] as $uncirculated): ?>
+<?php if (!empty($data['uncirculated_sources'])): ?>
+<?php foreach ($data['uncirculated_sources'] as $uncirculated): ?>
                                 <h5 class="source-title"><span class="red"><?php echo $uncirculated['name']; ?></span></h5>
                                 <p><?php echo $uncirculated['note']; ?></p>
-                                <?php endforeach; ?>
-                                <?php else:?>
+<?php endforeach; ?>
+<?php else:?>
                                 <p>No Info</p>
-                                <?php endif; ?>
-
+<?php endif; ?>
                                 <h2 class="page-header">Notes</h2>
-                                <?php if (!empty($data['notes'])): ?>
+<?php if (!empty($data['notes'])): ?>
                                 <ul class="list">
-                                    <?php foreach ($data['notes'] as $note): ?>
+<?php foreach ($data['notes'] as $note): ?>
                                     <li><?php echo $note; ?></li>
-                                <?php endforeach; ?>
+<?php endforeach; ?>
                                 </ul>
-                                <?php else: ?>
+<?php else: ?>
                                 <p>No Info</p>
-                                <?php endif; ?>
-
+<?php endif; ?>
                                 <h2 class="page-header">Press Reviews</h2>
-                                <?php if (!empty($data['press'])): ?>
+<?php if (!empty($data['press'])): ?>
                                 <ul class="list-unstyled">
-                                    <?php foreach ($data['press'] as $press): ?>
+<?php foreach ($data['press'] as $press): ?>
                                     <li><a href="<?php echo $press['url']; ?>"><?php echo $press['text']; ?></a></li>
-                                    <?php endforeach; ?>
+<?php endforeach; ?>
                                 </ul>
-                                <?php else: ?>
+<?php else: ?>
                                 <p>No Info</p>
-                                <?php endif; ?>
-
+<?php endif; ?>
                                 <h2 class="page-header">Memorabilia</h2>
-                                <?php if (!empty($data['memorabilia'])): ?>
+<?php if (!empty($data['memorabilia'])): ?>
                                 <div class="fotorama" data-nav="thumbs" data-allowfullscreen="true" data-width="700" data-ratio="700/467" data-max-width="100%">
-                                    <?php foreach ($data['memorabilia'] as $memorabilia): ?>
+<?php foreach ($data['memorabilia'] as $memorabilia): ?>
                                     <img src="<?php echo $memorabilia['url']; ?>" data-caption="<?php echo $memorabilia['caption']; ?>" alt="<?php echo $memorabilia['caption']; ?>">
-                                    <?php endforeach; ?>
+<?php endforeach; ?>
                                 </div>
-                                <?php else: ?>
+<?php else: ?>
                                 <p>No Info</p>
-                                <?php endif; ?>
-
+<?php endif; ?>
                                 <h2 class="page-header">Images</h2>
-                                <?php if (!empty($data['images'])): ?>
+<?php if (!empty($data['images'])): ?>
                                 <div class="fotorama" data-nav="thumbs" data-allowfullscreen="true" data-width="700" data-ratio="700/467" data-max-width="100%">
-                                    <?php foreach ($data['images'] as $image): ?>
+<?php foreach ($data['images'] as $image): ?>
                                     <img src="<?php echo $image['url']; ?>" data-caption="<?php echo $image['caption']; ?>" alt="<?php echo $image['caption']; ?>">
-                                    <?php endforeach; ?>
+<?php endforeach; ?>
                                 </div>
-                                <?php else: ?>
+<?php else: ?>
                                 <p>No Info</p>
-                                <?php endif; ?>
-
+<?php endif; ?>
                                 <hr>
                                 <nav aria-label="...">
                                     <ul class="pager">
-                                        <?php if (isset($data['navigation']['previous'])): ?>
+<?php if (isset($data['navigation']['previous'])): ?>
                                         <li><a href="<?php echo $data['navigation']['previous']; ?>.php"><i class="fas fa-arrow-left"></i> Prev. Show</a></li>
-                                        <?php endif; ?>
-                                        <?php if (isset($data['navigation']['next'])): ?>
+<?php endif; ?>
+<?php if (isset($data['navigation']['next'])): ?>
                                         <li><a href="<?php echo $data['navigation']['next']; ?>.php">Next Show <i class="fas fa-arrow-right"></i></a></li>
-                                        <?php endif; ?>
+<?php endif; ?>
                                     </ul>
                                 </nav>
                                 <a id="back-to-top" href="#top" class="btn btn-default btn-lg btn-round back-to-top" role="button" title="Click to return on the top page" data-toggle="tooltip" data-placement="left"><i class="fas fa-arrow-up"></i></a>
@@ -355,8 +314,10 @@ $title = $month_display . ' ' . $day . ', ' . $year_display . ' - ' . $data['ven
                 </div>
             </div>
         </main>
+
         <?php require_once('../includes/footer.php'); ?>
         <?php require_once('../includes/footer_scripts.php'); ?>
+
         <script>
             google.charts.load("current", {packages:["corechart"]});
             google.charts.setOnLoadCallback(drawChart);
@@ -390,5 +351,3 @@ $title = $month_display . ' ' . $day . ', ' . $year_display . ' - ' . $data['ven
         </script>
     </body>
 </html>
-
-

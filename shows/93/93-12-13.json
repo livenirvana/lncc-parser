@@ -10,23 +10,23 @@
         {
             "members": [
                 {
-                    "name": "Kurt Cobain ",
+                    "name": "Kurt Cobain",
                     "duty": "vocals, guitar"
                 },
                 {
-                    "name": "Krist Novoselic ",
+                    "name": "Krist Novoselic",
                     "duty": "bass"
                 },
                 {
-                    "name": "Dave Grohl ",
+                    "name": "Dave Grohl",
                     "duty": "drums, backing vocals"
                 },
                 {
-                    "name": "Pat Smear ",
+                    "name": "Pat Smear",
                     "duty": "guitar"
                 },
                 {
-                    "name": "Lori Goldston ",
+                    "name": "Lori Goldston",
                     "duty": "cello"
                 }
             ],
@@ -110,7 +110,7 @@
     "schedule": [
         {
             "event": "Load In",
-            "time": "…:…"
+            "time": null
         },
         {
             "event": "Soundcheck",
@@ -122,15 +122,15 @@
         },
         {
             "event": "Cypress Hill Showtime",
-            "time": "…:…"
+            "time": null
         },
         {
             "event": "The Breeders Showtime",
-            "time": "…:…"
+            "time": null
         },
         {
             "event": "NIRVANA Showtime",
-            "time": "…:…"
+            "time": null
         }
     ],
     "soundcheck": [

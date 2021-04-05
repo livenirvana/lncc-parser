@@ -10,15 +10,15 @@
         {
             "members": [
                 {
-                    "name": "Kurt Cobain ",
+                    "name": "Kurt Cobain",
                     "duty": "vocals, guitar"
                 },
                 {
-                    "name": "Krist Novoselic ",
+                    "name": "Krist Novoselic",
                     "duty": "bass"
                 },
                 {
-                    "name": "Dave Grohl ",
+                    "name": "Dave Grohl",
                     "duty": "drums, backing vocals"
                 }
             ],
@@ -48,11 +48,11 @@
     "schedule": [
         {
             "event": "Load In",
-            "time": "…:…"
+            "time": null
         },
         {
             "event": "Soundcheck",
-            "time": "…:…"
+            "time": null
         },
         {
             "event": "Doors",
@@ -60,39 +60,39 @@
         },
         {
             "event": "NIRVANA Showtime",
-            "time": "…:…"
+            "time": null
         },
         {
             "event": "Well Well Well Showtime",
-            "time": "…:…"
+            "time": null
         },
         {
             "event": "Strangemen Showtime",
-            "time": "…:…"
+            "time": null
         },
         {
             "event": "Babylon Fighters Showtime",
-            "time": "…:…"
+            "time": null
         },
         {
             "event": "Danielle Dax Showtime",
-            "time": "…:…"
+            "time": null
         },
         {
             "event": "Rausch Showtime",
-            "time": "…:…"
+            "time": null
         },
         {
             "event": "Bob Mould Showtime",
-            "time": "…:…"
+            "time": null
         },
         {
             "event": "Dinosaur Jr. Showtime",
-            "time": "…:…"
+            "time": null
         },
         {
             "event": "Sonic Youth Showtime",
-            "time": "…:…"
+            "time": null
         }
     ],
     "soundcheck": [],

@@ -10,23 +10,23 @@
         {
             "members": [
                 {
-                    "name": "Kurt Cobain ",
+                    "name": "Kurt Cobain",
                     "duty": "vocals, guitar, drums"
                 },
                 {
-                    "name": "Krist Novoselic ",
+                    "name": "Krist Novoselic",
                     "duty": "bass, drums"
                 },
                 {
-                    "name": "Dave Grohl ",
+                    "name": "Dave Grohl",
                     "duty": "drums, backing vocals, bass"
                 },
                 {
-                    "name": "Pat Smear ",
+                    "name": "Pat Smear",
                     "duty": "guitar"
                 },
                 {
-                    "name": "Lori Goldston ",
+                    "name": "Lori Goldston",
                     "duty": "cello"
                 }
             ],
@@ -34,22 +34,22 @@
             "name": "NIRVANA"
         },
         {
-            "name": "Everett True ",
+            "name": "Everett True",
             "duty": "vocals",
             "type": "person"
         },
         {
-            "name": "Jad Fair ",
+            "name": "Jad Fair",
             "duty": "vocals",
             "type": "person"
         },
         {
-            "name": "Mark Jickling ",
+            "name": "Mark Jickling",
             "duty": "guitar",
             "type": "person"
         },
         {
-            "name": "Gilles-Vincent Rieder ",
+            "name": "Gilles-Vincent Rieder",
             "duty": "drums",
             "type": "person"
         }

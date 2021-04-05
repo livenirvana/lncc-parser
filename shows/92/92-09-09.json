@@ -10,15 +10,15 @@
         {
             "members": [
                 {
-                    "name": "Kurt Cobain ",
+                    "name": "Kurt Cobain",
                     "duty": "vocals, guitar"
                 },
                 {
-                    "name": "Krist Novoselic ",
+                    "name": "Krist Novoselic",
                     "duty": "bass"
                 },
                 {
-                    "name": "Dave Grohl ",
+                    "name": "Dave Grohl",
                     "duty": "drums"
                 }
             ],
@@ -58,11 +58,11 @@
     "schedule": [
         {
             "event": "Load In",
-            "time": "…:…"
+            "time": null
         },
         {
             "event": "Soundcheck",
-            "time": "…:…"
+            "time": null
         },
         {
             "event": "Doors",
@@ -70,47 +70,47 @@
         },
         {
             "event": "Black Crows Showtime",
-            "time": "…:…"
+            "time": null
         },
         {
             "event": "Bobby Brown Showtime",
-            "time": "…:…"
+            "time": null
         },
         {
             "event": "Def Leppard Showtime",
-            "time": "…:…"
+            "time": null
         },
         {
             "event": "NIRVANA Showtime",
-            "time": "…:…"
+            "time": null
         },
         {
             "event": "Elton John Showtime",
-            "time": "…:…"
+            "time": null
         },
         {
             "event": "Pearl Jam Showtime",
-            "time": "…:…"
+            "time": null
         },
         {
             "event": "Red Hot Chili Peppers Showtime",
-            "time": "…:…"
+            "time": null
         },
         {
             "event": "Bryan Adams Showtime",
-            "time": "…:…"
+            "time": null
         },
         {
             "event": "En Vogue Showtime",
-            "time": "…:…"
+            "time": null
         },
         {
             "event": "Eric Clapton Showtime",
-            "time": "…:…"
+            "time": null
         },
         {
             "event": "Guns N' Roses and Elton John Showtime",
-            "time": "…:…"
+            "time": null
         }
     ],
     "soundcheck": [

@@ -8,7 +8,7 @@
     "country": "US",
     "band": [
         {
-            "name": "Kurt Cobain ",
+            "name": "Kurt Cobain",
             "duty": "vocals, guitar",
             "type": "person"
         }
@@ -21,11 +21,11 @@
     "schedule": [
         {
             "event": "Load In",
-            "time": "…:…"
+            "time": null
         },
         {
             "event": "Soundcheck",
-            "time": "…:…"
+            "time": null
         },
         {
             "event": "Doors",
@@ -33,15 +33,15 @@
         },
         {
             "event": "Pavement Showtime",
-            "time": "…:…"
+            "time": null
         },
         {
             "event": "Mudhoney Showtime",
-            "time": "…:…"
+            "time": null
         },
         {
             "event": "Sonic Youth Showtime",
-            "time": "…:…"
+            "time": null
         }
     ],
     "soundcheck": [],

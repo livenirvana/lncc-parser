@@ -35,23 +35,23 @@
     "schedule": [
         {
             "event": "Load In",
-            "time": "…:…"
+            "time": null
         },
         {
             "event": "Soundcheck",
-            "time": "…:…"
+            "time": null
         },
         {
             "event": "Doors",
-            "time": "…:…"
+            "time": null
         },
         {
             "event": "Industrial Nirvana Showtime",
-            "time": "…:…"
+            "time": null
         },
         {
             "event": "Lush Showtime",
-            "time": "…:…"
+            "time": null
         }
     ],
     "soundcheck": [],

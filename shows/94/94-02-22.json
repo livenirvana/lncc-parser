@@ -10,23 +10,23 @@
         {
             "members": [
                 {
-                    "name": "Kurt Cobain ",
+                    "name": "Kurt Cobain",
                     "duty": "vocals, guitar"
                 },
                 {
-                    "name": "Krist Novoselic ",
+                    "name": "Krist Novoselic",
                     "duty": "bass"
                 },
                 {
-                    "name": "Dave Grohl ",
+                    "name": "Dave Grohl",
                     "duty": "drums, backing vocals"
                 },
                 {
-                    "name": "Pat Smear ",
+                    "name": "Pat Smear",
                     "duty": "guitar"
                 },
                 {
-                    "name": "Melora Creager ",
+                    "name": "Melora Creager",
                     "duty": "cello"
                 }
             ],
@@ -121,7 +121,7 @@
         },
         {
             "event": "Soundcheck",
-            "time": "…:…"
+            "time": null
         },
         {
             "event": "Doors",
@@ -129,15 +129,15 @@
         },
         {
             "event": "Flor De Mal Showtime",
-            "time": "…:…"
+            "time": null
         },
         {
             "event": "Melvins Showtime",
-            "time": "…:…"
+            "time": null
         },
         {
             "event": "NIRVANA Showtime",
-            "time": "…:…"
+            "time": null
         }
     ],
     "soundcheck": [],

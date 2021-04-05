@@ -10,15 +10,15 @@
         {
             "members": [
                 {
-                    "name": "Kurt Cobain ",
+                    "name": "Kurt Cobain",
                     "duty": "vocals, guitar"
                 },
                 {
-                    "name": "Krist Novoselic ",
+                    "name": "Krist Novoselic",
                     "duty": "bass"
                 },
                 {
-                    "name": "Dave Grohl ",
+                    "name": "Dave Grohl",
                     "duty": "drums"
                 }
             ],
@@ -26,7 +26,7 @@
             "name": "NIRVANA"
         },
         {
-            "name": "Antony Hodgkinson ",
+            "name": "Antony Hodgkinson",
             "duty": "dancer",
             "type": "person"
         }
@@ -54,11 +54,11 @@
     "schedule": [
         {
             "event": "Load In",
-            "time": "…:…"
+            "time": null
         },
         {
             "event": "Soundcheck",
-            "time": "…:…"
+            "time": null
         },
         {
             "event": "Doors",
@@ -66,19 +66,19 @@
         },
         {
             "event": "Arm Showtime",
-            "time": "…:…"
+            "time": null
         },
         {
             "event": "L7 Showtime",
-            "time": "…:…"
+            "time": null
         },
         {
             "event": "Victims Family Showtime",
-            "time": "…:…"
+            "time": null
         },
         {
             "event": "NIRVANA Showtime",
-            "time": "…:…"
+            "time": null
         }
     ],
     "soundcheck": [],
