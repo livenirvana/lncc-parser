@@ -66,8 +66,29 @@
     ],
     "soundcheck": [],
     "soundcheck_incomplete": false,
-    "set": [],
-    "set_incomplete": false,
+    "set": [
+        {
+            "type": "song",
+            "text": "School",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "Love Buzz",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "About A Girl",
+            "notes": []
+        },
+        {
+            "type": "song",
+            "text": "Negative Creep",
+            "notes": []
+        }
+    ],
+    "set_incomplete": true,
     "transmission": {},
     "rehearsel_circulating_sources": [],
     "circulating_sources": [],
@@ -101,9 +122,9 @@
         "next": "89-10-08"
     },
     "graph": {
-        "bleach": "1",
-        "nevermind": "1",
-        "inutero": "1",
-        "non": "1"
+        "bleach": "4",
+        "nevermind": "0",
+        "inutero": "0",
+        "non": "0"
     }
 }

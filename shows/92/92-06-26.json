@@ -249,6 +249,18 @@
             ]
         },
         {
+            "name": "AUD #4",
+            "complete": false,
+            "equipment": "Sony T62 > Sony WM-D3",
+            "generation": "ANA(M) > FLAC",
+            "video-generation": null,
+            "audio-generation": null,
+            "length-sound": "28 min / 9",
+            "notes": [
+                "Circulated April 2021."
+            ]
+        },
+        {
             "name": "SBD #1",
             "complete": false,
             "equipment": "Soundboard > Unknown",
