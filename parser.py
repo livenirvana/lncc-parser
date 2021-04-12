@@ -338,7 +338,7 @@ def parse(filepath):
         if 'no info' in child.text.lower():
             break
 
-        payload['notes'].append(child.text.strip())
+        payload['notes'].append(''.join([str(item) for item in child.contents]).strip())
 
     # Press
     payload['press'] = []

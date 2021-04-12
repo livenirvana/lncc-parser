@@ -86,7 +86,9 @@ $title = $month_display . ' ' . $day . ', ' . $year . ' - ' . $data['venue'] . '
 <?php endforeach; ?>
                                 </ul>
 <?php else: ?>
-                                    <p>No Info</p>
+                                <ul class="list-unstyled">
+                                    <li>No Info</li>
+                                </ul>
 <?php endif; ?>
                             </div>
                         </div>
@@ -114,7 +116,9 @@ $title = $month_display . ' ' . $day . ', ' . $year . ' - ' . $data['venue'] . '
 <?php endforeach; ?>
                                 </ul>
 <?php else: ?>
-                                <p>No Info</p>
+                                <ul class="list-unstyled">
+                                    <li>No Info</li>
+                                </ul>
 <?php endif; ?>
 <?php endif; ?>
                             </div>
@@ -147,7 +151,9 @@ $title = $month_display . ' ' . $day . ', ' . $year . ' - ' . $data['venue'] . '
 <?php endforeach; ?>
                                 </ol>
 <?php else: ?>
-                                <p>No Info</p>
+                                <ol class="list-unstyled">
+                                    <li>No Info</li>
+                                </ol>
 <?php endif; ?>
                                 <h2 class="page-header">Set<?php if ($data['set_incomplete']): ?> <small>incomplete</small><?php endif; ?></h2>
 <?php if (!empty($data['set'])): ?>
@@ -258,7 +264,7 @@ $title = $month_display . ' ' . $day . ', ' . $year . ' - ' . $data['venue'] . '
 <?php endif; ?>
                                 <h2 class="page-header">Notes</h2>
 <?php if (!empty($data['notes'])): ?>
-                                <ul class="list">
+                                <ul class="list-unstyled">
 <?php foreach ($data['notes'] as $note): ?>
                                     <li><?php echo $note; ?></li>
 <?php endforeach; ?>
@@ -274,7 +280,9 @@ $title = $month_display . ' ' . $day . ', ' . $year . ' - ' . $data['venue'] . '
 <?php endforeach; ?>
                                 </ul>
 <?php else: ?>
-                                <p>No Info</p>
+                                <ul class="list-unstyled">
+                                    <li>No Info</li>
+                                </ul>
 <?php endif; ?>
                                 <h2 class="page-header">Memorabilia</h2>
 <?php if (!empty($data['memorabilia'])): ?>
