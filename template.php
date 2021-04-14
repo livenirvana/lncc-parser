@@ -34,11 +34,11 @@ if (!is_null($data['state'])) {
                         <ol class="breadcrumb">
                             <li><a href="/">LiveNIRVANA.com</a></li>
                             <li><a href="/concerts/">Concert Chronology</a></li>
-                            <?php if ($year == '1985' || $year == '1986'): ?>
+<?php if ($year == '1985' || $year == '1986'): ?>
                             <li><a href="/concerts/85_86.php">1985 &gt; 1986</a></li>
-                            <?php else: ?>
+<?php else: ?>
                             <li><a href="/concerts/<?php echo substr($year, -2); ?>.php"><?php echo $data['year']; ?></a></li>
-                            <?php endif; ?>
+<?php endif; ?>
                             <li class="active"><?php echo($title); ?></li>
                         </ol>
                         <h1 class="page-header">LIVE NIRVANA Concert Chronology <small><?php echo $title; ?></small></h1>
