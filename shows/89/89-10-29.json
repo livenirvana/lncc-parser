@@ -72,7 +72,7 @@
     "set": [
         {
             "type": "jam",
-            "text": "Stone Cold Crazy bass jam",
+            "text": "Stone Cold Crazy",
             "notes": [
                 "bass jam"
             ]
@@ -114,7 +114,7 @@
         },
         {
             "type": "jam",
-            "text": "jam bass jam",
+            "text": "jam",
             "notes": [
                 "bass jam"
             ]
@@ -151,7 +151,7 @@
         },
         {
             "type": "jam",
-            "text": "Hand of Doom bass jam",
+            "text": "Hand of Doom",
             "notes": [
                 "bass jam"
             ]
@@ -178,7 +178,7 @@
         },
         {
             "type": "jam",
-            "text": "jam bass jam",
+            "text": "jam",
             "notes": [
                 "bass jam"
             ]
@@ -200,7 +200,7 @@
         },
         {
             "type": "jam",
-            "text": "Hand of Doom bass jam",
+            "text": "Hand of Doom",
             "notes": [
                 "bass jam"
             ]
@@ -276,7 +276,7 @@
         },
         {
             "type": "jam",
-            "text": "Blew bass false start",
+            "text": "Blew",
             "notes": [
                 "bass",
                 "false start"

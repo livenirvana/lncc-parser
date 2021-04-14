@@ -181,7 +181,7 @@ def parse(filepath):
             return {'type': 'song', 'text': child.span.text, 'notes': notes}
         elif child.find('aside', {'class': 'jam'}):
             # Jam
-            return {'type': 'jam', 'text': child.text, 'notes': notes}
+            return {'type': 'jam', 'text': child.b.i.text, 'notes': notes}
         elif child.find('aside', {'class': 'banter'}):
             # Banter
 

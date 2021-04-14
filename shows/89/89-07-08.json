@@ -63,7 +63,7 @@
     "set": [
         {
             "type": "jam",
-            "text": "jam guitar jam",
+            "text": "jam",
             "notes": [
                 "guitar jam"
             ]
@@ -155,7 +155,7 @@
         },
         {
             "type": "jam",
-            "text": "About A Girl guitar false start",
+            "text": "About A Girl",
             "notes": [
                 "guitar",
                 "false start"

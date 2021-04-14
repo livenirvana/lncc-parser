@@ -9,8 +9,11 @@ $day = $data['day'];
 $month_obj = DateTime::createFromFormat('!m', $month);
 $month_display = $month_obj ? $month_obj->format('F') : $month;
 
-$title = $month_display . ' ' . $day . ', ' . $year . ' - ' . $data['venue'] . ', ' . $data['city'] . ', ' . $data['state'] . ', ' . $data['country'];
-
+if (!is_null($data['state'])) {
+    $title = $month_display . ' ' . $day . ', ' . $year . ' - ' . $data['venue'] . ', ' . $data['city'] . ', ' . $data['state'] . ', ' . $data['country'];
+} else {
+    $title = $month_display . ' ' . $day . ', ' . $year . ' - ' . $data['venue'] . ', ' . $data['city'] . ', ' . $data['country'];
+}
 ?>
 <!DOCTYPE html>
 <html lang="en">
@@ -31,7 +34,11 @@ $title = $month_display . ' ' . $day . ', ' . $year . ' - ' . $data['venue'] . '
                         <ol class="breadcrumb">
                             <li><a href="/">LiveNIRVANA.com</a></li>
                             <li><a href="/concerts/">Concert Chronology</a></li>
+                            <?php if ($year == '1985' || $year == '1986'): ?>
+                            <li><a href="/concerts/85_86.php">1985 &gt; 1986</a></li>
+                            <?php else: ?>
                             <li><a href="/concerts/<?php echo substr($year, -2); ?>.php"><?php echo $data['year']; ?></a></li>
+                            <?php endif; ?>
                             <li class="active"><?php echo($title); ?></li>
                         </ol>
                         <h1 class="page-header">LIVE NIRVANA Concert Chronology <small><?php echo $title; ?></small></h1>
@@ -63,8 +70,7 @@ $title = $month_display . ' ' . $day . ', ' . $year . ' - ' . $data['venue'] . '
                                 <ul class="list-unstyled">
 <?php foreach ($data['band'] as $bandmember): ?>
 <?php if ($bandmember['type'] == 'group'): ?>
-                                    <li>
-                                        <?php echo $bandmember['name']; ?>
+                                    <li><?php echo $bandmember['name']; ?>
                                         <ul>
 <?php foreach ($bandmember['members'] as $nested_member): ?>
                                             <li><?php echo $nested_member['name']; ?> <i>(<?php echo $nested_member['duty']; ?>)</i></li>
@@ -97,8 +103,7 @@ $title = $month_display . ' ' . $day . ', ' . $year . ' - ' . $data['venue'] . '
                                 <h2 class="page-header">Buyer</h2>
 <?php if (isset($data['buyer']['company'])): ?>
                                 <ul class="list-unstyled">
-                                    <li>
-                                        <?php echo $data['buyer']['company']; ?>
+                                    <li><?php echo $data['buyer']['company']; ?>
 <?php if (!empty($data['buyer']['names'])): ?>
                                         <ul>
 <?php foreach ($data['buyer']['names'] as $buyername): ?>

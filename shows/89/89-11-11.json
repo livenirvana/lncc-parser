@@ -72,7 +72,7 @@
     "set": [
         {
             "type": "jam",
-            "text": "jam screaming intro",
+            "text": "jam",
             "notes": [
                 "screaming intro"
             ]
@@ -129,7 +129,7 @@
         },
         {
             "type": "jam",
-            "text": "jam bass jam",
+            "text": "jam",
             "notes": [
                 "bass jam"
             ]
