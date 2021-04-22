@@ -146,6 +146,13 @@
             ]
         },
         {
+            "type": "notes",
+            "text": null,
+            "notes": [
+                "BREAK"
+            ]
+        },
+        {
             "type": "banter",
             "text": "It's Pussy Galore time",
             "person": "Cobain"

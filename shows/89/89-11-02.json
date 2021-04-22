@@ -182,6 +182,13 @@
             "person": "Novoselic"
         },
         {
+            "type": "notes",
+            "text": null,
+            "notes": [
+                "ENCORE"
+            ]
+        },
+        {
             "type": "song",
             "text": "Token Eastern Song",
             "notes": []

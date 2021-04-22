@@ -123,6 +123,13 @@
             ]
         },
         {
+            "type": "notes",
+            "text": null,
+            "notes": [
+                "ENCORE"
+            ]
+        },
+        {
             "type": "song",
             "text": "Molly's Lips",
             "notes": []

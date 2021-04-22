@@ -258,6 +258,13 @@
             "person": "Cobain"
         },
         {
+            "type": "notes",
+            "text": null,
+            "notes": [
+                "ENCORE"
+            ]
+        },
+        {
             "type": "banter",
             "text": "Can you give me a D when you get chance?",
             "person": "Novoselic"

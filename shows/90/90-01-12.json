@@ -186,6 +186,13 @@
             "notes": []
         },
         {
+            "type": "notes",
+            "text": null,
+            "notes": [
+                "BREAK"
+            ]
+        },
+        {
             "type": "banter",
             "text": "??? ????? ???? ",
             "person": "Cobain"

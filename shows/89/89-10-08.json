@@ -239,6 +239,13 @@
             "person": "Channing"
         },
         {
+            "type": "notes",
+            "text": null,
+            "notes": [
+                "ENCORE"
+            ]
+        },
+        {
             "type": "jam",
             "text": "Where Did You Sleep Last Night?",
             "notes": [

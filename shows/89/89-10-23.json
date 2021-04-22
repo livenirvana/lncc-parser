@@ -111,6 +111,13 @@
             "notes": []
         },
         {
+            "type": "notes",
+            "text": null,
+            "notes": [
+                "BREAK"
+            ]
+        },
+        {
             "type": "banter",
             "text": "?? ?? get over here ?? ?? ?? ?? ??",
             "person": "Novoselic"

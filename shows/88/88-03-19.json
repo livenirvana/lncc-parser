@@ -257,6 +257,13 @@
             "person": "Voice"
         },
         {
+            "type": "notes",
+            "text": null,
+            "notes": [
+                "ENCORE"
+            ]
+        },
+        {
             "type": "song",
             "text": "Bad Moon Rising",
             "notes": []

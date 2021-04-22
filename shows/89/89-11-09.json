@@ -175,6 +175,13 @@
             "notes": []
         },
         {
+            "type": "notes",
+            "text": null,
+            "notes": [
+                "BREAK"
+            ]
+        },
+        {
             "type": "banter",
             "text": "What song do you want?",
             "person": "Novoselic"

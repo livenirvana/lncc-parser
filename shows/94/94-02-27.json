@@ -269,6 +269,13 @@
             "person": "Novoselic"
         },
         {
+            "type": "notes",
+            "text": null,
+            "notes": [
+                "ENCORE"
+            ]
+        },
+        {
             "type": "banter",
             "text": "my real name is Boo Boo and Shrimp ?? ??",
             "person": "Grohl"

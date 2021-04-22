@@ -108,6 +108,13 @@
             "notes": []
         },
         {
+            "type": "notes",
+            "text": null,
+            "notes": [
+                "BREAK"
+            ]
+        },
+        {
             "type": "banter",
             "text": "Hey Craig, can you turn up my guitars in the monitor? It be sounded real bad!",
             "person": "Cobain"
@@ -218,6 +225,13 @@
             ]
         },
         {
+            "type": "notes",
+            "text": null,
+            "notes": [
+                "BREAK"
+            ]
+        },
+        {
             "type": "banter",
             "text": "You're too kind",
             "person": "Novoselic"
@@ -232,6 +246,13 @@
             "text": "Stain",
             "notes": [
                 "part of"
+            ]
+        },
+        {
+            "type": "notes",
+            "text": null,
+            "notes": [
+                "BREAK"
             ]
         },
         {

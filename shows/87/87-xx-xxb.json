@@ -329,6 +329,13 @@
             "person": "Cobain"
         },
         {
+            "type": "notes",
+            "text": null,
+            "notes": [
+                "BREAK"
+            ]
+        },
+        {
             "type": "banter",
             "text": "Do your set. Let them do their set",
             "person": "Aigner"

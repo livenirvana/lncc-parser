@@ -323,6 +323,13 @@
             "person": "Cobain"
         },
         {
+            "type": "notes",
+            "text": null,
+            "notes": [
+                "ENCORE"
+            ]
+        },
+        {
             "type": "banter",
             "text": "I'm Sorry but this song is slow, but the next one after that will be fast, this is a love song",
             "person": "Cobain"

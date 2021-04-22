@@ -145,6 +145,13 @@
             "person": "Channing"
         },
         {
+            "type": "notes",
+            "text": null,
+            "notes": [
+                "BREAK"
+            ]
+        },
+        {
             "type": "song",
             "text": "jam",
             "notes": []

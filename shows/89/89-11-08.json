@@ -116,6 +116,13 @@
             "notes": []
         },
         {
+            "type": "notes",
+            "text": null,
+            "notes": [
+                "BREAK"
+            ]
+        },
+        {
             "type": "banter",
             "text": "Craig, could you turn up my vocals in the monitor please?",
             "person": "Cobain"
@@ -324,6 +331,13 @@
             "type": "song",
             "text": "Blew",
             "notes": []
+        },
+        {
+            "type": "notes",
+            "text": null,
+            "notes": [
+                "ENCORE"
+            ]
         },
         {
             "type": "banter",

@@ -193,6 +193,10 @@ def parse(filepath):
                 person = child.aside.contents[0].replace('-', '').strip()
 
             return {'type': 'banter', 'text': text, 'person': person}
+        elif 'encore' in child.text.lower():
+            return {'type': 'notes', 'text': None, 'notes': ['ENCORE']}
+        elif 'break' in child.text.lower():
+            return {'type': 'notes', 'text': None, 'notes': ['BREAK']}
 
     # Soundcheck
     soundcheck_header = soup.find_all(lambda tag: tag.name == 'h2' and 'soundcheck' in tag.get_text().lower())[0]

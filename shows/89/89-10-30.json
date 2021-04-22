@@ -138,6 +138,13 @@
             "notes": []
         },
         {
+            "type": "notes",
+            "text": null,
+            "notes": [
+                "BREAK"
+            ]
+        },
+        {
             "type": "banter",
             "text": "Go on Grapper, kick yer arse down there!",
             "person": "Male voice"
@@ -275,6 +282,13 @@
             "type": "banter",
             "text": "??",
             "person": "Novoselic"
+        },
+        {
+            "type": "notes",
+            "text": null,
+            "notes": [
+                "ENCORE"
+            ]
         },
         {
             "type": "banter",

@@ -183,6 +183,13 @@
             "person": "Cobain"
         },
         {
+            "type": "notes",
+            "text": null,
+            "notes": [
+                "ENCORE"
+            ]
+        },
+        {
             "type": "banter",
             "text": "What's the matter?",
             "person": "Cobain"

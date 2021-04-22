@@ -246,6 +246,13 @@
             "person": "Channing"
         },
         {
+            "type": "notes",
+            "text": null,
+            "notes": [
+                "ENCORE"
+            ]
+        },
+        {
             "type": "banter",
             "text": "Hidey ho, hidey hey",
             "person": "Channing"

@@ -160,6 +160,13 @@
             "notes": []
         },
         {
+            "type": "notes",
+            "text": null,
+            "notes": [
+                "BREAK"
+            ]
+        },
+        {
             "type": "banter",
             "text": "Solo, solo, guitar solo?",
             "person": "Cobain"

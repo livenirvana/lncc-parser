@@ -78,7 +78,7 @@ if (!is_null($data['state'])) {
                                         </ul>
                                     </li>
 <?php else: ?>
-                                    <li><?php echo $bandmember['name']; ?> <i><?php echo $bandmember['duty']; ?></i></li>
+                                    <li><?php echo $bandmember['name']; ?><?php if (!empty($bandmember['duty'])): ?> <i>(<?php echo $bandmember['duty']; ?>)</i><?php endif; ?></li>
 <?php endif; ?>
 <?php endforeach; ?>
                                 </ul>
@@ -88,7 +88,7 @@ if (!is_null($data['state'])) {
 <?php if (!empty($data['crew'])): ?>
                                 <ul class="list-unstyled">
 <?php foreach ($data['crew'] as $crewmember): ?>
-                                    <li><?php echo $crewmember['name']; ?> <i>(<?php echo $crewmember['duty']; ?>)</i></li>
+                                    <li><?php echo $crewmember['name']; ?><?php if (!empty($crewmember['duty'])): ?> <i>(<?php echo $crewmember['duty']; ?>)</i><?php endif; ?></li>
 <?php endforeach; ?>
                                 </ul>
 <?php else: ?>
@@ -147,11 +147,13 @@ if (!is_null($data['state'])) {
                                 <ol class="list-unstyled">
 <?php foreach ($data['soundcheck'] as $songitem): ?>
 <?php if ($songitem['type'] ==  'song'): ?>
-                                    <li><span class="green"><?php echo $songitem['text']; ?></span></li>
+                                    <li><span class="green"><?php echo $songitem['text']; ?></span><?php foreach ($songitem['notes'] as $songnotes): ?> <span class="label label-default"><?php echo $songnotes; ?></span><?php endforeach; ?></li>
 <?php elseif ($songitem['type'] ==  'banter'): ?>
                                     <li><aside class="collapse banter"><?php echo $songitem['person']; ?> - <q><?php echo $songitem['text']; ?></q></aside></li>
 <?php elseif ($songitem['type'] ==  'jam'): ?>
                                     <li><aside class="collapse jam"><b><i><?php echo $songitem['text']; ?></i></b><?php foreach ($songitem['notes'] as $songnotes): ?> <span class="label label-default"><?php echo $songnotes; ?></span><?php endforeach; ?></aside></li>
+<?php elseif ($songitem['type'] ==  'notes'): ?>
+                                    <li><?php foreach ($songitem['notes'] as $songnotes): ?> <span class="label label-default"><?php echo $songnotes; ?></span><?php endforeach; ?></li>
 <?php endif; ?>
 <?php endforeach; ?>
                                 </ol>
@@ -165,11 +167,13 @@ if (!is_null($data['state'])) {
                                 <ol class="list-unstyled">
 <?php foreach ($data['set'] as $songitem): ?>
 <?php if ($songitem['type'] ==  'song'): ?>
-                                    <li><span class="green"><?php echo $songitem['text']; ?></span></li>
+                                    <li><span class="green"><?php echo $songitem['text']; ?></span><?php foreach ($songitem['notes'] as $songnotes): ?> <span class="label label-default"><?php echo $songnotes; ?></span><?php endforeach; ?></li>
 <?php elseif ($songitem['type'] ==  'banter'): ?>
                                     <li><aside class="collapse banter"><?php echo $songitem['person']; ?> - <q><?php echo $songitem['text']; ?></q></aside></li>
 <?php elseif ($songitem['type'] ==  'jam'): ?>
                                     <li><aside class="collapse jam"><b><i><?php echo $songitem['text']; ?></i></b><?php foreach ($songitem['notes'] as $songnotes): ?> <span class="label label-default"><?php echo $songnotes; ?></span><?php endforeach; ?></aside></li>
+<?php elseif ($songitem['type'] ==  'notes'): ?>
+                                    <li><?php foreach ($songitem['notes'] as $songnotes): ?> <span class="label label-default"><?php echo $songnotes; ?></span><?php endforeach; ?></li>
 <?php endif; ?>
 <?php endforeach; ?>
                                 </ol>
@@ -289,25 +293,21 @@ if (!is_null($data['state'])) {
                                     <li>No Info</li>
                                 </ul>
 <?php endif; ?>
-                                <h2 class="page-header">Memorabilia</h2>
 <?php if (!empty($data['memorabilia'])): ?>
+                                <h2 class="page-header">Memorabilia</h2>
                                 <div class="fotorama" data-nav="thumbs" data-allowfullscreen="true" data-width="700" data-ratio="700/467" data-max-width="100%">
 <?php foreach ($data['memorabilia'] as $memorabilia): ?>
                                     <img src="<?php echo $memorabilia['url']; ?>" data-caption="<?php echo $memorabilia['caption']; ?>" alt="<?php echo $memorabilia['caption']; ?>">
 <?php endforeach; ?>
                                 </div>
-<?php else: ?>
-                                <p>No Info</p>
 <?php endif; ?>
-                                <h2 class="page-header">Images</h2>
 <?php if (!empty($data['images'])): ?>
+                                <h2 class="page-header">Images</h2>
                                 <div class="fotorama" data-nav="thumbs" data-allowfullscreen="true" data-width="700" data-ratio="700/467" data-max-width="100%">
 <?php foreach ($data['images'] as $image): ?>
                                     <img src="<?php echo $image['url']; ?>" data-caption="<?php echo $image['caption']; ?>" alt="<?php echo $image['caption']; ?>">
 <?php endforeach; ?>
                                 </div>
-<?php else: ?>
-                                <p>No Info</p>
 <?php endif; ?>
                                 <hr>
                                 <nav aria-label="...">

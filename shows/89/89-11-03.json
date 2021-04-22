@@ -107,6 +107,13 @@
             ]
         },
         {
+            "type": "notes",
+            "text": null,
+            "notes": [
+                "BREAK"
+            ]
+        },
+        {
             "type": "banter",
             "text": "Hey Craig ?? ??",
             "person": "Novoselic"
