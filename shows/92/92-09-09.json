@@ -174,7 +174,8 @@
             "audio-generation": null,
             "length-sound": "01 min / 10",
             "notes": [
-                "Multi camera PRO-shot video, with soundboard audio, broadcast during the intro of NIRVANA's induction into the Rock 'N Roll Hall Of Fame on April 10, 2014. \n                                    Have different camera angles than PRO #1 and PRO #2."
+                "Multi camera PRO-shot video, with soundboard audio, broadcast during the intro of NIRVANA's induction into the Rock 'N Roll Hall Of Fame on April 10, 2014.",
+                "Have different camera angles than PRO #1 and PRO #2."
             ]
         }
     ],
@@ -190,8 +191,7 @@
         "The performance ended with the band destroying the stage and Dave yelling into the microphone, \"Where's Axl? Hi Axl! Hi Axl!\" Dave was referring to Axl Rose of Guns N' Roses, with whom the band had had a confrontation earlier in the day."
     ],
     "press": [],
-    "memorabilia": [],
-    "images": [
+    "memorabilia": [
         {
             "url": "/concerts/images/1992/1992-09-09b/1992-09-09b_01.jpg",
             "caption": "Backstage pass"
@@ -223,6 +223,184 @@
         {
             "url": "/concerts/images/1992/1992-09-09b/1992-09-09b_08.jpg",
             "caption": "Advert"
+        }
+    ],
+    "images": [
+        {
+            "url": "/concerts/images/1992/1992-09-09b/1992-09-09b_001.jpg",
+            "caption": "Unknown photographer"
+        },
+        {
+            "url": "/concerts/images/1992/1992-09-09b/1992-09-09b_002.jpg",
+            "caption": "Photo by Frank Micelotta"
+        },
+        {
+            "url": "/concerts/images/1992/1992-09-09b/1992-09-09b_003.jpg",
+            "caption": "Photo by Lee Celano"
+        },
+        {
+            "url": "/concerts/images/1992/1992-09-09b/1992-09-09b_004.jpg",
+            "caption": "Photo by Jeff Kravitz"
+        },
+        {
+            "url": "/concerts/images/1992/1992-09-09b/1992-09-09b_005.jpg",
+            "caption": "Unknown photographer"
+        },
+        {
+            "url": "/concerts/images/1992/1992-09-09b/1992-09-09b_006.jpg",
+            "caption": "Photo by Frank Micelotta"
+        },
+        {
+            "url": "/concerts/images/1992/1992-09-09b/1992-09-09b_007.jpg",
+            "caption": "Photo by Frank Micelotta"
+        },
+        {
+            "url": "/concerts/images/1992/1992-09-09b/1992-09-09b_008.jpg",
+            "caption": "Photo by Jeff Kravitz"
+        },
+        {
+            "url": "/concerts/images/1992/1992-09-09b/1992-09-09b_009.jpg",
+            "caption": "Photo by Frank Micelotta"
+        },
+        {
+            "url": "/concerts/images/1992/1992-09-09b/1992-09-09b_010.jpg",
+            "caption": "Photo by Frank Micelotta"
+        },
+        {
+            "url": "/concerts/images/1992/1992-09-09b/1992-09-09b_011.jpg",
+            "caption": "Photo by Frank Micelotta"
+        },
+        {
+            "url": "/concerts/images/1992/1992-09-09b/1992-09-09b_012.jpg",
+            "caption": "Unknown photographer"
+        },
+        {
+            "url": "/concerts/images/1992/1992-09-09b/1992-09-09b_013.jpg",
+            "caption": "Unknown photographer"
+        },
+        {
+            "url": "/concerts/images/1992/1992-09-09b/1992-09-09b_014.jpg",
+            "caption": "Unknown photographer"
+        },
+        {
+            "url": "/concerts/images/1992/1992-09-09b/1992-09-09b_015.jpg",
+            "caption": "Unknown photographer"
+        },
+        {
+            "url": "/concerts/images/1992/1992-09-09b/1992-09-09b_016.jpg",
+            "caption": "Unknown photographer"
+        },
+        {
+            "url": "/concerts/images/1992/1992-09-09b/1992-09-09b_017.jpg",
+            "caption": "Photo by Frank Micelotta"
+        },
+        {
+            "url": "/concerts/images/1992/1992-09-09b/1992-09-09b_018.jpg",
+            "caption": "Photo by Frank Micelotta"
+        },
+        {
+            "url": "/concerts/images/1992/1992-09-09b/1992-09-09b_019.jpg",
+            "caption": "Photo by Frank Micelotta"
+        },
+        {
+            "url": "/concerts/images/1992/1992-09-09b/1992-09-09b_020.jpg",
+            "caption": "Photo by Frank Micelotta"
+        },
+        {
+            "url": "/concerts/images/1992/1992-09-09b/1992-09-09b_021.jpg",
+            "caption": "Photo by Frank Micelotta"
+        },
+        {
+            "url": "/concerts/images/1992/1992-09-09b/1992-09-09b_022.jpg",
+            "caption": "Photo by Frank Micelotta"
+        },
+        {
+            "url": "/concerts/images/1992/1992-09-09b/1992-09-09b_023.jpg",
+            "caption": "Photo by Frank Micelotta"
+        },
+        {
+            "url": "/concerts/images/1992/1992-09-09b/1992-09-09b_024.jpg",
+            "caption": "Photo by Frank Micelotta"
+        },
+        {
+            "url": "/concerts/images/1992/1992-09-09b/1992-09-09b_025.jpg",
+            "caption": "Photo by Frank Micelotta"
+        },
+        {
+            "url": "/concerts/images/1992/1992-09-09b/1992-09-09b_026.jpg",
+            "caption": "Photo by Jeff Kravitz"
+        },
+        {
+            "url": "/concerts/images/1992/1992-09-09b/1992-09-09b_027.jpg",
+            "caption": "Photo by Jeff Kravitz"
+        },
+        {
+            "url": "/concerts/images/1992/1992-09-09b/1992-09-09b_028.jpg",
+            "caption": "Photo by Jeff Kravitz"
+        },
+        {
+            "url": "/concerts/images/1992/1992-09-09b/1992-09-09b_029.jpg",
+            "caption": "Photo by Jeff Kravitz"
+        },
+        {
+            "url": "/concerts/images/1992/1992-09-09b/1992-09-09b_030.jpg",
+            "caption": "Photo by Jeff Kravitz"
+        },
+        {
+            "url": "/concerts/images/1992/1992-09-09b/1992-09-09b_031.jpg",
+            "caption": "Photo by Jeff Kravitz"
+        },
+        {
+            "url": "/concerts/images/1992/1992-09-09b/1992-09-09b_032.jpg",
+            "caption": "Photo by Jeff Kravitz"
+        },
+        {
+            "url": "/concerts/images/1992/1992-09-09b/1992-09-09b_033.jpg",
+            "caption": "Photo by Jeff Kravitz"
+        },
+        {
+            "url": "/concerts/images/1992/1992-09-09b/1992-09-09b_034.jpg",
+            "caption": "Photo by Jeff Kravitz"
+        },
+        {
+            "url": "/concerts/images/1992/1992-09-09b/1992-09-09b_035.jpg",
+            "caption": "Photo by Jeff Kravitz"
+        },
+        {
+            "url": "/concerts/images/1992/1992-09-09b/1992-09-09b_036.jpg",
+            "caption": "Photo by Jeff Kravitz"
+        },
+        {
+            "url": "/concerts/images/1992/1992-09-09b/1992-09-09b_037.jpg",
+            "caption": "Photo by Jeff Kravitz"
+        },
+        {
+            "url": "/concerts/images/1992/1992-09-09b/1992-09-09b_038.jpg",
+            "caption": "Photo by Jeff Kravitz"
+        },
+        {
+            "url": "/concerts/images/1992/1992-09-09b/1992-09-09b_039.jpg",
+            "caption": "Photo by Jeff Kravitz"
+        },
+        {
+            "url": "/concerts/images/1992/1992-09-09b/1992-09-09b_040.jpg",
+            "caption": "Photo by Jeff Kravitz"
+        },
+        {
+            "url": "/concerts/images/1992/1992-09-09b/1992-09-09b_041.jpg",
+            "caption": "Photo by Jeff Kravitz"
+        },
+        {
+            "url": "/concerts/images/1992/1992-09-09b/1992-09-09b_042.jpg",
+            "caption": "Unknown photographer"
+        },
+        {
+            "url": "/concerts/images/1992/1992-09-09b/1992-09-09b_043.jpg",
+            "caption": "Unknown photographer"
+        },
+        {
+            "url": "/concerts/images/1992/1992-09-09b/1992-09-09b_044.jpg",
+            "caption": "Photo by Frank Micelotta"
         }
     ],
     "navigation": {

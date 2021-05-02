@@ -91,8 +91,7 @@
     ],
     "notes": [],
     "press": [],
-    "memorabilia": [],
-    "images": [
+    "memorabilia": [
         {
             "url": "/concerts/images/1992/1992-09-26r/1992-09-26r_01.jpg",
             "caption": "Handbill/Flyer, designed by unknown"
@@ -124,6 +123,32 @@
         {
             "url": "/concerts/images/1992/1992-09-26r/1992-09-26r_08.jpg",
             "caption": "Advert"
+        }
+    ],
+    "images": [
+        {
+            "url": "/concerts/images/1992/1992-09-26r/1992-09-26r_002.jpg",
+            "caption": "Photo by Stacey"
+        },
+        {
+            "url": "/concerts/images/1992/1992-09-26r/1992-09-26r_004.jpg",
+            "caption": "Photo by Mike Hashimoto"
+        },
+        {
+            "url": "/concerts/images/1992/1992-09-26r/1992-09-26r_006.jpg",
+            "caption": "Photo by Eric Nakamura"
+        },
+        {
+            "url": "/concerts/images/1992/1992-09-26r/1992-09-26r_016.jpg",
+            "caption": "Photo by Lindsay Brice"
+        },
+        {
+            "url": "/concerts/images/1992/1992-09-26r/1992-09-26r_017.jpg",
+            "caption": "Photo by Lindsay Brice"
+        },
+        {
+            "url": "/concerts/images/1992/1992-09-26r/1992-09-26r_018.jpg",
+            "caption": "Photo by Lindsay Brice"
         }
     ],
     "navigation": {

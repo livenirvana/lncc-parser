@@ -128,8 +128,12 @@
             "generation": "VHS(M) > Unknown > MP4",
             "video-generation": null,
             "audio-generation": null,
-            "length-sound": "30 sec / 8.5\n                                    Notes:\nAmateur video, shot from the back.\nDeleted scene from \"I'M NOW: The Story of Mudhoney\", sourced from an MP4 video file posted on YouTube in March 2013. Features \"Negative Creep\" only\nThe same source as AMT #2 but in better quality due to Professional quality encoding\n",
-            "notes": []
+            "length-sound": "30 sec / 8.5",
+            "notes": [
+                "Amateur video, shot from the back.",
+                "Deleted scene from \"I'M NOW: The Story of Mudhoney\", sourced from an MP4 video file posted on YouTube in March 2013. Features \"Negative Creep\" only",
+                "The same source as AMT #2 but in better quality due to Professional quality encoding"
+            ]
         }
     ],
     "uncirculated_sources": [
