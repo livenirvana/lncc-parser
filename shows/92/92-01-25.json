@@ -331,6 +331,10 @@
         {
             "url": "/concerts/images/1992/1992-01-25/1992-01-25_11.jpg",
             "caption": "Advert"
+        },
+        {
+            "url": "/concerts/images/1992/1992-01-25/1992-01-25_12.jpg",
+            "caption": "Advert"
         }
     ],
     "images": [
@@ -895,12 +899,16 @@
             "caption": "Unknown photographer"
         },
         {
-            "url": "/concerts/images/1992/1992-01-25/1992-01-25_145.jpg",
+            "url": "/concerts/images/1992/1992-01-25/1992-01-25_141.jpg",
             "caption": "Photo by Youri Lenquette"
         },
         {
-            "url": "/concerts/images/1992/1992-01-25/1992-01-25_146.jpg",
+            "url": "/concerts/images/1992/1992-01-25/1992-01-25_142.jpg",
             "caption": "Photo by Tony Mott"
+        },
+        {
+            "url": "/concerts/images/1992/1992-01-25/1992-01-25_143.jpg",
+            "caption": "Photo by Nicholas Deloitte"
         }
     ],
     "navigation": {

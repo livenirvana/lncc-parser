@@ -33,7 +33,8 @@
     "crew": [],
     "buyer": {
         "names": [
-            "Mark Choi"
+            "Mark Choi",
+            "Manny Theiner"
         ]
     },
     "schedule": [
@@ -148,7 +149,7 @@
     "memorabilia": [
         {
             "url": "/concerts/images/1989/1989-07-09/1989-07-09_01.jpg",
-            "caption": "Handbill/Flyer, designed by unknown"
+            "caption": "Handbill/Flyer, designed by mother of Jennifer Baron"
         },
         {
             "url": "/concerts/images/1989/1989-07-09/1989-07-09_02.jpg",
@@ -178,19 +179,19 @@
     "images": [
         {
             "url": "/concerts/images/1989/1989-07-09/1989-07-09_001.jpg",
-            "caption": "Unknown photographer"
+            "caption": "Photo by Alison Hollihan"
         },
         {
             "url": "/concerts/images/1989/1989-07-09/1989-07-09_002.jpg",
-            "caption": "Unknown photographer"
+            "caption": "Photo by Alison Hollihan"
         },
         {
             "url": "/concerts/images/1989/1989-07-09/1989-07-09_003.jpg",
-            "caption": "Unknown photographer"
+            "caption": "Photo by Alison Hollihan"
         },
         {
             "url": "/concerts/images/1989/1989-07-09/1989-07-09_004.jpg",
-            "caption": "Unknown photographer"
+            "caption": "Photo by Alison Hollihan"
         }
     ],
     "navigation": {

@@ -28,7 +28,10 @@
     ],
     "crew": [],
     "buyer": {
-        "names": []
+        "names": [
+            "Jake Carlo",
+            "Ho Yang"
+        ]
     },
     "schedule": [
         {
@@ -316,8 +319,8 @@
     "press": [],
     "memorabilia": [
         {
-            "url": "/concerts/images/noimage.jpg",
-            "caption": "No images found for this performance."
+            "url": "/concerts/images/1990/1990-04-20/1990-04-20_01.jpg",
+            "caption": "Advert"
         }
     ],
     "images": [],

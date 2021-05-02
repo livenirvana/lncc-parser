@@ -255,9 +255,10 @@
             "generation": "ANA(M) > FLAC",
             "video-generation": null,
             "audio-generation": null,
-            "length-sound": "28 min / 9",
+            "length-sound": "28:21 min / 9.0",
             "notes": [
-                "Circulated April 2021."
+                "Circulated April 2021.",
+                "Missing everything before \"On A Plain\", which cuts in."
             ]
         },
         {
@@ -429,6 +430,10 @@
         {
             "url": "/concerts/images/1992/1992-06-26/1992-06-26_04.jpg",
             "caption": "Event chronogram"
+        },
+        {
+            "url": "/concerts/images/1992/1992-06-26/1992-06-26_05.jpg",
+            "caption": "Event chronogram"
         }
     ],
     "images": [
@@ -598,7 +603,7 @@
         },
         {
             "url": "/concerts/images/1992/1992-06-26/1992-06-26_042.jpg",
-            "caption": "Unknown photographer"
+            "caption": "Photo by Tine Harden"
         },
         {
             "url": "/concerts/images/1992/1992-06-26/1992-06-26_043.jpg",
@@ -759,6 +764,10 @@
         {
             "url": "/concerts/images/1992/1992-06-26/1992-06-26_082.jpg",
             "caption": "Photo by Lars Lindh"
+        },
+        {
+            "url": "/concerts/images/1992/1992-06-26/1992-06-26_083.jpg",
+            "caption": "Photo by Jan Grarup"
         }
     ],
     "navigation": {

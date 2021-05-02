@@ -28,7 +28,9 @@
     ],
     "crew": [],
     "buyer": {
-        "names": []
+        "names": [
+            "Wipeout Yer'Ed Productions"
+        ]
     },
     "schedule": [
         {
@@ -88,11 +90,11 @@
     "memorabilia": [
         {
             "url": "/concerts/images/1986/1986-05-03/1986-05-03_01.jpg",
-            "caption": "Poster, designed by unknown"
+            "caption": "Poster, designed by Stan Dunster"
         },
         {
             "url": "/concerts/images/1986/1986-05-03/1986-05-03_02.jpg",
-            "caption": "Poster, designed by unknown"
+            "caption": "Poster, designed by Stan Dunster"
         }
     ],
     "images": [],

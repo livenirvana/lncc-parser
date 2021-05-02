@@ -108,6 +108,11 @@
         },
         {
             "type": "song",
+            "text": "Rape Me",
+            "notes": []
+        },
+        {
+            "type": "song",
             "text": "Drain You",
             "notes": []
         },
@@ -168,15 +173,15 @@
     "memorabilia": [
         {
             "url": "/concerts/images/1992/1992-10-03/1992-10-03_01.jpg",
-            "caption": "Ticket"
+            "caption": "Handbill/Flyer, designed by unknown"
         },
         {
             "url": "/concerts/images/1992/1992-10-03/1992-10-03_02.jpg",
-            "caption": "Advert"
+            "caption": "Ticket"
         },
         {
             "url": "/concerts/images/1992/1992-10-03/1992-10-03_03.jpg",
-            "caption": "Handbill/Flyer, designed by unknown"
+            "caption": "Advert"
         }
     ],
     "images": [
@@ -230,11 +235,11 @@
         },
         {
             "url": "/concerts/images/1992/1992-10-03/1992-10-03_013.jpg",
-            "caption": "Photo by Godot Gutierre"
+            "caption": "Unknown photographer"
         },
         {
             "url": "/concerts/images/1992/1992-10-03/1992-10-03_014.jpg",
-            "caption": "Unknown photographer"
+            "caption": "Photo by Charles Peterson"
         },
         {
             "url": "/concerts/images/1992/1992-10-03/1992-10-03_015.jpg",
@@ -270,15 +275,15 @@
         },
         {
             "url": "/concerts/images/1992/1992-10-03/1992-10-03_023.jpg",
-            "caption": "Unknown photographer"
+            "caption": "Photo by Godot Gutierre"
         },
         {
             "url": "/concerts/images/1992/1992-10-03/1992-10-03_024.jpg",
-            "caption": "Photo by John Grinter"
+            "caption": "Photo by Godot Gutierre"
         },
         {
             "url": "/concerts/images/1992/1992-10-03/1992-10-03_025.jpg",
-            "caption": "Photo by John Grinter"
+            "caption": "Photo by Godot Gutierre"
         },
         {
             "url": "/concerts/images/1992/1992-10-03/1992-10-03_026.jpg",
@@ -298,11 +303,11 @@
         },
         {
             "url": "/concerts/images/1992/1992-10-03/1992-10-03_030.jpg",
-            "caption": "Photo by Godot Gutierre"
+            "caption": "Photo by John Grinter"
         },
         {
             "url": "/concerts/images/1992/1992-10-03/1992-10-03_031.jpg",
-            "caption": "Photo by Godot Gutierre"
+            "caption": "Photo by John Grinter"
         },
         {
             "url": "/concerts/images/1992/1992-10-03/1992-10-03_032.jpg",
@@ -320,7 +325,7 @@
     "graph": {
         "bleach": "1",
         "nevermind": "4",
-        "inutero": "1",
+        "inutero": "2",
         "non": "5"
     }
 }

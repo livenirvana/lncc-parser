@@ -272,6 +272,18 @@
             ]
         },
         {
+            "name": "AUD #7",
+            "complete": true,
+            "equipment": "Unknown > Unknown",
+            "generation": "ANA(x) > youtube",
+            "video-generation": null,
+            "audio-generation": null,
+            "length-sound": "37:43 min / ??",
+            "notes": [
+                "Posted in youtube April 2021."
+            ]
+        },
+        {
             "name": "AMT #1",
             "complete": true,
             "equipment": "Built In > unknown",
@@ -581,7 +593,7 @@
         },
         {
             "url": "/concerts/images/1991/1991-08-23/1991-08-23_033.jpg",
-            "caption": "Unknown photographer"
+            "caption": "Photo by Charlie Hallinan"
         },
         {
             "url": "/concerts/images/1991/1991-08-23/1991-08-23_034.jpg",
